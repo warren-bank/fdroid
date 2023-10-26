@@ -1,0 +1,20 @@
+# --------------------------------------------------------------------
+# https://htaccess.madewithlove.com/
+# --------------------------------------------------------------------
+
+RewriteEngine On
+
+Redirect 301 "/index.html"  "/repo/index.html"
+Redirect 301 "/favicon.ico" "/repo/icons/warren-bank.png"
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.exoplayer_airplay_receiver
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-noDecoderExtensions-release.apk"               "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-noDecoderExtensions-release.apk"
+Redirect 301 "/repo/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-arm64-v8a-release.apk"   "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-arm64-v8a-release.apk"
+Redirect 301 "/repo/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-armeabi-v7a-release.apk" "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-armeabi-v7a-release.apk"
+Redirect 301 "/repo/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"         "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"
+Redirect 301 "/repo/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"      "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.exoplayer_airplay_receiver/.+/icon.*\.png$" "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/raw/v3.4.5/android-studio-project/ExoPlayer-AirPlay-Receiver/src/main/res/drawable/launcher.png" [L,R=301]
