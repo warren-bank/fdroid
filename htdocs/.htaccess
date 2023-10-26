@@ -47,3 +47,11 @@ Redirect 301 "/repo/WebMonkey-003.00.01-08API-withAllLanguageTranslations-noAdBl
 Redirect 301 "/repo/WebMonkey-003.00.01-08API-withAllLanguageTranslations-withAdBlock-release.apk"                                                    "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-withAllLanguageTranslations-withAdBlock-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.webmonkey/.+/icon.*\.png$"                                                                             "https://github.com/warren-bank/Android-WebMonkey/raw/v03.00.01/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.webcast
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"                                                      "https://github.com/warren-bank/Android-WebCast/releases/download/v05.01.00/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.webcast/.+/icon.*\.png$"                                                                               "https://github.com/warren-bank/Android-WebCast/raw/v05.01.00/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png" [L,R=301]
