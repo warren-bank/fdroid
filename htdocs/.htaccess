@@ -55,3 +55,14 @@ RewriteRule "^/?repo/com\.github\.warren_bank\.webmonkey/.+/icon.*\.png$"       
 Redirect 301 "/repo/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"                                                      "https://github.com/warren-bank/Android-WebCast/releases/download/v05.01.00/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.webcast/.+/icon.*\.png$"                                                                               "https://github.com/warren-bank/Android-WebCast/raw/v05.01.00/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.nodejs_frontend
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-arm64-v8a-release.apk"                                                "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-arm64-v8a-release.apk"
+Redirect 301 "/repo/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-armeabi-v7a-release.apk"                                              "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-armeabi-v7a-release.apk"
+Redirect 301 "/repo/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86-release.apk"                                                      "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86-release.apk"
+Redirect 301 "/repo/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86_64-release.apk"                                                   "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86_64-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.nodejs_frontend/.+/icon.*\.png$"                                                                       "https://github.com/warren-bank/Android-NodeJS-Frontend/raw/v1.0.2/android-studio-project/NodeJS-Frontend/src/main/res/mipmap-xxxhdpi/launcher.png" [L,R=301]
