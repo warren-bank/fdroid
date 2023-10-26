@@ -22,6 +22,7 @@ call :do_download "com.github.warren_bank.mock_location.service.microg_nlp_backe
 call :do_download "com.github.warren_bank.webmonkey"                                "https://github.com/warren-bank/Android-WebMonkey/raw/v03/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.webcast"                                  "https://github.com/warren-bank/Android-WebCast/raw/05-webcast-filename-media3/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png"
 call :do_download "com.github.warren_bank.nodejs_frontend"                          "https://github.com/warren-bank/Android-NodeJS-Frontend/raw/master/android-studio-project/NodeJS-Frontend/src/main/res/mipmap-xxxhdpi/launcher.png"
+call :do_download "com.github.warren_bank.tiny_television_time_tracker"             "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/raw/fork/tmdb/android-studio-project/TV-Tracker/src/main/res/drawable-v21/icon.png"
 
 goto :done
 

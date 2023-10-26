@@ -46,6 +46,10 @@ call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releas
 call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86-release.apk"
 call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86_64-release.apk"
 
+rem :: https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases
+call :do_download "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.24-09API/TV-Tracker-008.00.24-09API-english-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.24-09API/TV-Tracker-008.00.24-09API-withAllLanguageTranslations-release.apk"
+
 goto :done
 
 :do_download

@@ -1,0 +1,25 @@
+# https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/blob/tmdb/008.00.24-09API/android-studio-project/constants.gradle
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Multimedia
+- Time
+License: GPL-3.0
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker.git
+SourceCode: https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/tree/fork/tmdb
+IssueTracker: https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/issues
+
+AutoName: Tiny Television Time Tracker (TV Tracker)
+Name: Tiny Television Time Tracker (TV Tracker)
+WebSite: None
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 008.00.24-09API
+CurrentVersionCode: 8002409
+UpdateCheckMode: None
+AutoUpdateMode: None
