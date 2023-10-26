@@ -66,3 +66,12 @@ Redirect 301 "/repo/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-
 Redirect 301 "/repo/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86_64-release.apk"                                                   "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86_64-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.nodejs_frontend/.+/icon.*\.png$"                                                                       "https://github.com/warren-bank/Android-NodeJS-Frontend/raw/v1.0.2/android-studio-project/NodeJS-Frontend/src/main/res/mipmap-xxxhdpi/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.tiny_television_time_tracker
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/TV-Tracker-008.00.24-09API-english-release.apk"                                                                                   "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.24-09API/TV-Tracker-008.00.24-09API-english-release.apk"
+Redirect 301 "/repo/TV-Tracker-008.00.24-09API-withAllLanguageTranslations-release.apk"                                                               "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.24-09API/TV-Tracker-008.00.24-09API-withAllLanguageTranslations-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.tiny_television_time_tracker/.+/icon.*\.png$"                                                          "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/raw/tmdb/008.00.24-09API/android-studio-project/TV-Tracker/src/main/res/drawable-v21/icon.png" [L,R=301]
