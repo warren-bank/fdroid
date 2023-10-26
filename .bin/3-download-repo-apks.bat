@@ -40,6 +40,12 @@ call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/dow
 rem :: https://github.com/warren-bank/Android-WebCast/releases
 call :do_download "https://github.com/warren-bank/Android-WebCast/releases/download/v05.01.00/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
 
+rem :: https://github.com/warren-bank/Android-NodeJS-Frontend/releases
+call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86_64-release.apk"
+
 goto :done
 
 :do_download
