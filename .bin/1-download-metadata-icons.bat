@@ -20,6 +20,7 @@ call :do_download "com.github.warren_bank.exoplayer_airplay_receiver"           
 call :do_download "com.github.warren_bank.mock_location"                            "https://github.com/warren-bank/Android-Mock-Location/raw/service/android-studio-project/Mock-my-GPS/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.mock_location.service.microg_nlp_backend" "https://github.com/warren-bank/Android-Mock-Location/raw/service/android-studio-project/Mock-my-GPS-UnifiedNlp-Backend/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.webmonkey"                                "https://github.com/warren-bank/Android-WebMonkey/raw/v03/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png"
+call :do_download "com.github.warren_bank.webcast"                                  "https://github.com/warren-bank/Android-WebCast/raw/05-webcast-filename-media3/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png"
 
 goto :done
 

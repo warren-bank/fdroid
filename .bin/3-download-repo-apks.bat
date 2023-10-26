@@ -37,6 +37,9 @@ call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/dow
 call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-withAllLanguageTranslations-noAdBlock-release.apk"
 call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-withAllLanguageTranslations-withAdBlock-release.apk"
 
+rem :: https://github.com/warren-bank/Android-WebCast/releases
+call :do_download "https://github.com/warren-bank/Android-WebCast/releases/download/v05.01.00/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
+
 goto :done
 
 :do_download
