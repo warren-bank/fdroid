@@ -31,6 +31,12 @@ call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases
 call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"
 call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk"
 
+rem :: https://github.com/warren-bank/Android-WebMonkey/releases
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-english-noAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-english-withAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-withAllLanguageTranslations-noAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-withAllLanguageTranslations-withAdBlock-release.apk"
+
 goto :done
 
 :do_download

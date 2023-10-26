@@ -19,6 +19,7 @@ if exist "%log_filepath%" del "%log_filepath%"
 call :do_download "com.github.warren_bank.exoplayer_airplay_receiver"               "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/raw/v03/android-studio-project/ExoPlayer-AirPlay-Receiver/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.mock_location"                            "https://github.com/warren-bank/Android-Mock-Location/raw/service/android-studio-project/Mock-my-GPS/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.mock_location.service.microg_nlp_backend" "https://github.com/warren-bank/Android-Mock-Location/raw/service/android-studio-project/Mock-my-GPS-UnifiedNlp-Backend/src/main/res/drawable/launcher.png"
+call :do_download "com.github.warren_bank.webmonkey"                                "https://github.com/warren-bank/Android-WebMonkey/raw/v03/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png"
 
 goto :done
 
