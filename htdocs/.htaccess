@@ -133,3 +133,11 @@ RewriteRule "^/?repo/com\.github\.warren_bank\.locale_changer/.+/icon.*\.png$"  
 Redirect 301 "/repo/SMS-my-GPS-release.apk"                                                                                                           "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/releases/download/v2.1.7/SMS-my-GPS-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.sms_automatic_reply_gps/.+/icon.*\.png$"                                                               "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/raw/v2.1.7/android-studio-project/SMS-my-GPS/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.sms_automatic_forwarding
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/SMS-Forwarding-release.apk"                                                                                                       "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/releases/download/v1.0.3/SMS-Forwarding-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.sms_automatic_forwarding/.+/icon.*\.png$"                                                              "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/raw/v1.0.3/android-studio-project/SMS-Forwarding/src/main/res/drawable/launcher.png" [L,R=301]
