@@ -108,3 +108,12 @@ RewriteRule "^/?repo/com\.cb\.oneclipboard\.android\.server/.+/icon.*\.png$"    
 Redirect 301 "/repo/OneClipboardAndroidClient-3.01.03-release.apk"                                                                                    "https://github.com/warren-bank/fork-Java-OneClipboard/releases/download/improvements/v3.1.3/OneClipboardAndroidClient-3.01.03-release.apk"
 
 RewriteRule "^/?repo/com\.cb\.oneclipboard\.android\.client/.+/icon.*\.png$"                                                                          "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/v3.1.3/android-studio-project/OneClipboardAndroidClient/src/main/res/drawable/logo.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.airplay_client
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/AirPlay-Client-000.05.05-14API-english-release.apk"                                                                               "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.5/AirPlay-Client-000.05.05-14API-english-release.apk"
+Redirect 301 "/repo/AirPlay-Client-000.05.05-14API-withAllLanguageTranslations-release.apk"                                                           "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.5/AirPlay-Client-000.05.05-14API-withAllLanguageTranslations-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.airplay_client/.+/icon.*\.png$"                                                                        "https://github.com/warren-bank/Android-AirPlay-Client/raw/v0.5.5/android-studio-project/AirPlay-Client/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
