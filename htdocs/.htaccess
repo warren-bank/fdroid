@@ -75,3 +75,12 @@ Redirect 301 "/repo/TV-Tracker-008.00.24-09API-english-release.apk"             
 Redirect 301 "/repo/TV-Tracker-008.00.24-09API-withAllLanguageTranslations-release.apk"                                                               "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.24-09API/TV-Tracker-008.00.24-09API-withAllLanguageTranslations-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.tiny_television_time_tracker/.+/icon.*\.png$"                                                          "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/raw/tmdb/008.00.24-09API/android-studio-project/TV-Tracker/src/main/res/drawable-v21/icon.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.bookmarks
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/Bookmarks-002.00.01-09API-withUserRuntimePermissions-english-release.apk"                                                         "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.01-09API/Bookmarks-002.00.01-09API-withUserRuntimePermissions-english-release.apk"
+Redirect 301 "/repo/Bookmarks-002.00.01-09API-withUserRuntimePermissions-withAllLanguageTranslations-release.apk"                                     "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.01-09API/Bookmarks-002.00.01-09API-withUserRuntimePermissions-withAllLanguageTranslations-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.bookmarks/.+/icon.*\.png$"                                                                             "https://github.com/warren-bank/Android-Bookmarks/raw/002.00.01-09API/android-studio-project/Bookmarks/src/main/res/drawable/icon_app.png" [L,R=301]
