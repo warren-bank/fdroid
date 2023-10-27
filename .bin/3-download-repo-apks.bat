@@ -54,6 +54,9 @@ rem :: https://github.com/warren-bank/Android-Bookmarks/releases
 call :do_download "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.01-09API/Bookmarks-002.00.01-09API-withUserRuntimePermissions-english-release.apk"
 call :do_download "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.01-09API/Bookmarks-002.00.01-09API-withUserRuntimePermissions-withAllLanguageTranslations-release.apk"
 
+rem :: https://github.com/warren-bank/Android-MyPlaces/releases
+call :do_download "https://github.com/warren-bank/Android-MyPlaces/releases/download/v05.00.05/MyPlaces-release.apk"
+
 goto :done
 
 :do_download

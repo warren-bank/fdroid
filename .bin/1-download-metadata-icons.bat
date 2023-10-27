@@ -24,6 +24,7 @@ call :do_download "com.github.warren_bank.webcast"                              
 call :do_download "com.github.warren_bank.nodejs_frontend"                          "https://github.com/warren-bank/Android-NodeJS-Frontend/raw/master/android-studio-project/NodeJS-Frontend/src/main/res/mipmap-xxxhdpi/launcher.png"
 call :do_download "com.github.warren_bank.tiny_television_time_tracker"             "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/raw/fork/tmdb/android-studio-project/TV-Tracker/src/main/res/drawable-v21/icon.png"
 call :do_download "com.github.warren_bank.bookmarks"                                "https://github.com/warren-bank/Android-Bookmarks/raw/v02/android-studio-project/Bookmarks/src/main/res/drawable/icon_app.png"
+call :do_download "com.github.warren_bank.myplaces"                                 "https://github.com/warren-bank/Android-MyPlaces/raw/master/android-studio-project/MyPlaces/src/main/res/drawable/ic_launcher.png"
 
 goto :done
 

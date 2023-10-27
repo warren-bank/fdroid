@@ -1,0 +1,24 @@
+# https://github.com/warren-bank/Android-MyPlaces/blob/v05.00.05/android-studio-project/constants.gradle
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Navigation
+License: GPL-2.0
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/Android-MyPlaces.git
+SourceCode: https://github.com/warren-bank/Android-MyPlaces
+IssueTracker: https://github.com/warren-bank/Android-MyPlaces/issues
+
+AutoName: MyPlaces
+Name: MyPlaces
+WebSite: None
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 005.00.05-14API
+CurrentVersionCode: 5000514
+UpdateCheckMode: None
+AutoUpdateMode: None
