@@ -86,6 +86,10 @@ call :do_download "https://github.com/warren-bank/Android-Root-Script-Runner/rel
 rem :: https://github.com/warren-bank/Android-CLI-Feedback/releases
 call :do_download "https://github.com/warren-bank/Android-CLI-Feedback/releases/download/v02.00.00/CLI-Feedback-release.apk"
 
+rem :: https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/releases
+call :do_download "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/releases/download/v1.1.3/PTT-Bluetooth-Speaker-Receiver-001.01.03-10API-withAllLanguageTranslations-release.apk"
+call :do_download "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/releases/download/v1.1.3/PTT-Bluetooth-Speaker-Sender-001.01.03-10API-withAllLanguageTranslations-release.apk"
+
 goto :done
 
 :do_download

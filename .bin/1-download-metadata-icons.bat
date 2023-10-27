@@ -35,6 +35,8 @@ call :do_download "com.github.warren_bank.slideshow_screensaver"                
 call :do_download "com.github.warren_bank.adb_over_wifi"                            "https://github.com/warren-bank/Android-ADB-over-WiFi/raw/master/android-studio-project/ADB-over-WiFi/src/main/res/drawable/ic_launcher.png"
 call :do_download "com.github.warren_bank.root_script_runner"                       "https://github.com/warren-bank/Android-Root-Script-Runner/raw/master/android-studio-project/Root-Script-Runner/src/main/res/drawable/ic_launcher.png"
 call :do_download "com.github.warren_bank.cli_feedback"                             "https://github.com/google/material-design-icons/raw/4.0.0/png/social/notifications_active/materialiconstwotone/48dp/2x/twotone_notifications_active_black_48dp.png"
+call :do_download "com.github.warren_bank.ptt_bluetooth_speaker.receiver"           "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/raw/master/android-studio-project/PTT-Bluetooth-Speaker-Receiver/src/main/res/drawable/phone_bluetooth_speaker.png"
+call :do_download "com.github.warren_bank.ptt_bluetooth_speaker.sender"             "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/raw/master/android-studio-project/PTT-Bluetooth-Speaker-Sender/src/main/res/drawable/phone_in_talk.png"
 
 goto :done
 
