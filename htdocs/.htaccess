@@ -149,3 +149,11 @@ RewriteRule "^/?repo/com\.github\.warren_bank\.sms_automatic_forwarding/.+/icon.
 Redirect 301 "/repo/Slideshow-Screensaver-002.01.04-17API-withAllLanguageTranslations-release.apk"                                                    "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/releases/download/v2.1.4/Slideshow-Screensaver-002.01.04-17API-withAllLanguageTranslations-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.slideshow_screensaver/.+/icon.*\.png$"                                                                 "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/raw/v2.1.4/android-studio-project/Slideshow-Screensaver/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.adb_over_wifi
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/ADB-over-WiFi-release.apk"                                                                                                        "https://github.com/warren-bank/Android-ADB-over-WiFi/releases/download/v01.00.01/ADB-over-WiFi-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.adb_over_wifi/.+/icon.*\.png$"                                                                         "https://github.com/warren-bank/Android-ADB-over-WiFi/raw/v01.00.01/android-studio-project/ADB-over-WiFi/src/main/res/drawable/ic_launcher.png" [L,R=301]
