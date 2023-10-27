@@ -61,6 +61,10 @@ rem :: https://github.com/warren-bank/fork-Java-OneClipboard/releases
 call :do_download "https://github.com/warren-bank/fork-Java-OneClipboard/releases/download/improvements/v3.1.3/OneClipboardAndroidServer-3.01.03-release.apk"
 call :do_download "https://github.com/warren-bank/fork-Java-OneClipboard/releases/download/improvements/v3.1.3/OneClipboardAndroidClient-3.01.03-release.apk"
 
+rem :: https://github.com/warren-bank/Android-AirPlay-Client/releases
+call :do_download "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.5/AirPlay-Client-000.05.05-14API-english-release.apk"
+call :do_download "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.5/AirPlay-Client-000.05.05-14API-withAllLanguageTranslations-release.apk"
+
 goto :done
 
 :do_download

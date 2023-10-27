@@ -27,6 +27,7 @@ call :do_download "com.github.warren_bank.bookmarks"                            
 call :do_download "com.github.warren_bank.myplaces"                                 "https://github.com/warren-bank/Android-MyPlaces/raw/master/android-studio-project/MyPlaces/src/main/res/drawable/ic_launcher.png"
 call :do_download "com.cb.oneclipboard.android.server"                              "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/android-studio-project/OneClipboardAndroidServer/src/main/res/drawable/logo.png"
 call :do_download "com.cb.oneclipboard.android.client"                              "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/android-studio-project/OneClipboardAndroidClient/src/main/res/drawable/logo.png"
+call :do_download "com.github.warren_bank.airplay_client"                           "https://github.com/warren-bank/Android-AirPlay-Client/raw/master/android-studio-project/AirPlay-Client/src/main/res/drawable-xxhdpi/ic_launcher.png"
 
 goto :done
 
