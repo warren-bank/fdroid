@@ -74,6 +74,9 @@ call :do_download "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GP
 rem :: https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/releases
 call :do_download "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/releases/download/v1.0.3/SMS-Forwarding-release.apk"
 
+rem :: https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/releases
+call :do_download "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/releases/download/v2.1.4/Slideshow-Screensaver-002.01.04-17API-withAllLanguageTranslations-release.apk"
+
 goto :done
 
 :do_download
