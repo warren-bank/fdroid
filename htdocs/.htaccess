@@ -141,3 +141,11 @@ RewriteRule "^/?repo/com\.github\.warren_bank\.sms_automatic_reply_gps/.+/icon.*
 Redirect 301 "/repo/SMS-Forwarding-release.apk"                                                                                                       "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/releases/download/v1.0.3/SMS-Forwarding-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.sms_automatic_forwarding/.+/icon.*\.png$"                                                              "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/raw/v1.0.3/android-studio-project/SMS-Forwarding/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.slideshow_screensaver
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/Slideshow-Screensaver-002.01.04-17API-withAllLanguageTranslations-release.apk"                                                    "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/releases/download/v2.1.4/Slideshow-Screensaver-002.01.04-17API-withAllLanguageTranslations-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.slideshow_screensaver/.+/icon.*\.png$"                                                                 "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/raw/v2.1.4/android-studio-project/Slideshow-Screensaver/src/main/res/drawable/launcher.png" [L,R=301]
