@@ -71,6 +71,9 @@ call :do_download "https://github.com/warren-bank/Android-Locale-Changer/release
 rem :: https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/releases
 call :do_download "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/releases/download/v2.1.7/SMS-my-GPS-release.apk"
 
+rem :: https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/releases
+call :do_download "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/releases/download/v1.0.3/SMS-Forwarding-release.apk"
+
 goto :done
 
 :do_download

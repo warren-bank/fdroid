@@ -30,6 +30,7 @@ call :do_download "com.cb.oneclipboard.android.client"                          
 call :do_download "com.github.warren_bank.airplay_client"                           "https://github.com/warren-bank/Android-AirPlay-Client/raw/master/android-studio-project/AirPlay-Client/src/main/res/drawable-xxhdpi/ic_launcher.png"
 call :do_download "com.github.warren_bank.locale_changer"                           "https://github.com/warren-bank/Android-Locale-Changer/raw/master/android-studio-project/Locale-Changer/src/main/res/drawable/ic_launcher.png"
 call :do_download "com.github.warren_bank.sms_automatic_reply_gps"                  "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/raw/master/android-studio-project/SMS-my-GPS/src/main/res/drawable/launcher.png"
+call :do_download "com.github.warren_bank.sms_automatic_forwarding"                 "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/raw/master/android-studio-project/SMS-Forwarding/src/main/res/drawable/launcher.png"
 
 goto :done
 

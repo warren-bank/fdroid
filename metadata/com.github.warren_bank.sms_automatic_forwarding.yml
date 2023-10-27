@@ -1,0 +1,24 @@
+# https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/blob/v1.0.3/android-studio-project/constants.gradle
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Phone & SMS
+License: GPL-2.0
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/Android-SMS-Automatic-Forwarding.git
+SourceCode: https://github.com/warren-bank/Android-SMS-Automatic-Forwarding
+IssueTracker: https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/issues
+
+AutoName: SMS Forwarding
+Name: SMS Forwarding
+WebSite: None
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 001.00.03-11API
+CurrentVersionCode: 1000311
+UpdateCheckMode: None
+AutoUpdateMode: None

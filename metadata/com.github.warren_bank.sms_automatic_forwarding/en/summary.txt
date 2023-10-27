@@ -1,0 +1,1 @@
+Inspect received SMS messages and conditionally forward them.
