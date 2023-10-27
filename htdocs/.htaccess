@@ -84,3 +84,11 @@ Redirect 301 "/repo/Bookmarks-002.00.01-09API-withUserRuntimePermissions-english
 Redirect 301 "/repo/Bookmarks-002.00.01-09API-withUserRuntimePermissions-withAllLanguageTranslations-release.apk"                                     "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.01-09API/Bookmarks-002.00.01-09API-withUserRuntimePermissions-withAllLanguageTranslations-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.bookmarks/.+/icon.*\.png$"                                                                             "https://github.com/warren-bank/Android-Bookmarks/raw/002.00.01-09API/android-studio-project/Bookmarks/src/main/res/drawable/icon_app.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.myplaces
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/MyPlaces-release.apk"                                                                                                             "https://github.com/warren-bank/Android-MyPlaces/releases/download/v05.00.05/MyPlaces-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.myplaces/.+/icon.*\.png$"                                                                              "https://github.com/warren-bank/Android-MyPlaces/raw/v05.00.05/android-studio-project/MyPlaces/src/main/res/drawable/ic_launcher.png" [L,R=301]
