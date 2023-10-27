@@ -57,6 +57,10 @@ call :do_download "https://github.com/warren-bank/Android-Bookmarks/releases/dow
 rem :: https://github.com/warren-bank/Android-MyPlaces/releases
 call :do_download "https://github.com/warren-bank/Android-MyPlaces/releases/download/v05.00.05/MyPlaces-release.apk"
 
+rem :: https://github.com/warren-bank/fork-Java-OneClipboard/releases
+call :do_download "https://github.com/warren-bank/fork-Java-OneClipboard/releases/download/improvements/v3.1.3/OneClipboardAndroidServer-3.01.03-release.apk"
+call :do_download "https://github.com/warren-bank/fork-Java-OneClipboard/releases/download/improvements/v3.1.3/OneClipboardAndroidClient-3.01.03-release.apk"
+
 goto :done
 
 :do_download

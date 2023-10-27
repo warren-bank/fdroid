@@ -1,0 +1,1 @@
+Server to synchronize clipboard data across clients.

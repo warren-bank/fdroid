@@ -25,6 +25,8 @@ call :do_download "com.github.warren_bank.nodejs_frontend"                      
 call :do_download "com.github.warren_bank.tiny_television_time_tracker"             "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/raw/fork/tmdb/android-studio-project/TV-Tracker/src/main/res/drawable-v21/icon.png"
 call :do_download "com.github.warren_bank.bookmarks"                                "https://github.com/warren-bank/Android-Bookmarks/raw/v02/android-studio-project/Bookmarks/src/main/res/drawable/icon_app.png"
 call :do_download "com.github.warren_bank.myplaces"                                 "https://github.com/warren-bank/Android-MyPlaces/raw/master/android-studio-project/MyPlaces/src/main/res/drawable/ic_launcher.png"
+call :do_download "com.cb.oneclipboard.android.server"                              "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/android-studio-project/OneClipboardAndroidServer/src/main/res/drawable/logo.png"
+call :do_download "com.cb.oneclipboard.android.client"                              "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/android-studio-project/OneClipboardAndroidClient/src/main/res/drawable/logo.png"
 
 goto :done
 
