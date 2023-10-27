@@ -68,6 +68,9 @@ call :do_download "https://github.com/warren-bank/Android-AirPlay-Client/release
 rem :: https://github.com/warren-bank/Android-Locale-Changer/releases
 call :do_download "https://github.com/warren-bank/Android-Locale-Changer/releases/download/v1.1.0/Locale-Changer-release.apk"
 
+rem :: https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/releases
+call :do_download "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/releases/download/v2.1.7/SMS-my-GPS-release.apk"
+
 goto :done
 
 :do_download

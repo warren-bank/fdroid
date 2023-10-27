@@ -1,0 +1,13 @@
+Conditional criteria include:
+
+* a whitelist of sender phone numbers
+* a substring that must occur at the beginning
+  of the received SMS message
+
+GPS location data include:
+
+* latitude and longitude coordinates
+* accuracy (meters)
+* speed (meters/sec)
+* direction (cardinal or ordinal, and degrees)
+* URL to Google Maps
