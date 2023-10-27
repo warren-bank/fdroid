@@ -165,3 +165,11 @@ RewriteRule "^/?repo/com\.github\.warren_bank\.adb_over_wifi/.+/icon.*\.png$"   
 Redirect 301 "/repo/Root-Script-Runner-release.apk"                                                                                                   "https://github.com/warren-bank/Android-Root-Script-Runner/releases/download/v01.00.01/Root-Script-Runner-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.root_script_runner/.+/icon.*\.png$"                                                                    "https://github.com/warren-bank/Android-Root-Script-Runner/raw/v01.00.01/android-studio-project/Root-Script-Runner/src/main/res/drawable/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.cli_feedback
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/CLI-Feedback-release.apk"                                                                                                         "https://github.com/warren-bank/Android-CLI-Feedback/releases/download/v02.00.00/CLI-Feedback-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.cli_feedback/.+/icon.*\.png$"                                                                          "https://github.com/google/material-design-icons/raw/4.0.0/png/social/notifications_active/materialiconstwotone/48dp/2x/twotone_notifications_active_black_48dp.png" [L,R=301]
