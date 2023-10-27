@@ -34,6 +34,7 @@ call :do_download "com.github.warren_bank.sms_automatic_forwarding"             
 call :do_download "com.github.warren_bank.slideshow_screensaver"                    "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/raw/v02/android-studio-project/Slideshow-Screensaver/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.adb_over_wifi"                            "https://github.com/warren-bank/Android-ADB-over-WiFi/raw/master/android-studio-project/ADB-over-WiFi/src/main/res/drawable/ic_launcher.png"
 call :do_download "com.github.warren_bank.root_script_runner"                       "https://github.com/warren-bank/Android-Root-Script-Runner/raw/master/android-studio-project/Root-Script-Runner/src/main/res/drawable/ic_launcher.png"
+call :do_download "com.github.warren_bank.cli_feedback"                             "https://github.com/google/material-design-icons/raw/4.0.0/png/social/notifications_active/materialiconstwotone/48dp/2x/twotone_notifications_active_black_48dp.png"
 
 goto :done
 

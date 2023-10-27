@@ -83,6 +83,9 @@ call :do_download "https://github.com/warren-bank/Android-ADB-over-WiFi/releases
 rem :: https://github.com/warren-bank/Android-Root-Script-Runner/releases
 call :do_download "https://github.com/warren-bank/Android-Root-Script-Runner/releases/download/v01.00.01/Root-Script-Runner-release.apk"
 
+rem :: https://github.com/warren-bank/Android-CLI-Feedback/releases
+call :do_download "https://github.com/warren-bank/Android-CLI-Feedback/releases/download/v02.00.00/CLI-Feedback-release.apk"
+
 goto :done
 
 :do_download
