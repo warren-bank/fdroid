@@ -157,3 +157,11 @@ RewriteRule "^/?repo/com\.github\.warren_bank\.slideshow_screensaver/.+/icon.*\.
 Redirect 301 "/repo/ADB-over-WiFi-release.apk"                                                                                                        "https://github.com/warren-bank/Android-ADB-over-WiFi/releases/download/v01.00.01/ADB-over-WiFi-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.adb_over_wifi/.+/icon.*\.png$"                                                                         "https://github.com/warren-bank/Android-ADB-over-WiFi/raw/v01.00.01/android-studio-project/ADB-over-WiFi/src/main/res/drawable/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.root_script_runner
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/Root-Script-Runner-release.apk"                                                                                                   "https://github.com/warren-bank/Android-Root-Script-Runner/releases/download/v01.00.01/Root-Script-Runner-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.root_script_runner/.+/icon.*\.png$"                                                                    "https://github.com/warren-bank/Android-Root-Script-Runner/raw/v01.00.01/android-studio-project/Root-Script-Runner/src/main/res/drawable/ic_launcher.png" [L,R=301]
