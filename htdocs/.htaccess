@@ -200,3 +200,11 @@ Redirect 301 "/repo/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x
 Redirect 301 "/repo/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86_64-release.apk"                                                    "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86_64-release.apk"
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.bonjour_webrtc/.+/icon.*\.png$"                                                                        "https://github.com/warren-bank/Android-Bonjour-WebRTC/raw/v01.03.09/android-studio-project/Bonjour-WebRTC/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# org.proxydroid
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/proxydroid-3.2.0.003-withAllLanguageTranslations-universal-release.apk"                                                           "https://github.com/warren-bank/fork-Android-proxydroid/releases/download/no-ads/v3.2.0.003/proxydroid-3.2.0.003-withAllLanguageTranslations-universal-release.apk"
+
+RewriteRule "^/?repo/org\.proxydroid/.+/icon.*\.png$"                                                                                                 "https://github.com/warren-bank/fork-Android-proxydroid/raw/no-ads/v3.2.0.003/android-studio-project/proxydroid/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
