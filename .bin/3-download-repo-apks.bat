@@ -96,6 +96,9 @@ call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/release
 call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86-release.apk"
 call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86_64-release.apk"
 
+rem :: https://github.com/warren-bank/fork-Android-proxydroid/releases
+call :do_download "https://github.com/warren-bank/fork-Android-proxydroid/releases/download/no-ads/v3.2.0.003/proxydroid-3.2.0.003-withAllLanguageTranslations-universal-release.apk"
+
 goto :done
 
 :do_download
