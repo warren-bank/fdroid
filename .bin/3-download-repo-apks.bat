@@ -105,6 +105,9 @@ call :do_download "https://github.com/warren-bank/fork-Android-Httper/releases/d
 call :do_download "https://github.com/warren-bank/fork-Android-Httper/releases/download/1.04.02-periodic-requests-service/Httper-1.04.02-periodic-requests-service-x86-release.apk"
 call :do_download "https://github.com/warren-bank/fork-Android-Httper/releases/download/1.04.02-periodic-requests-service/Httper-1.04.02-periodic-requests-service-x86_64-release.apk"
 
+rem :: https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases
+call :do_download "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases/download/v02.04.01/RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk"
+
 goto :done
 
 :do_download

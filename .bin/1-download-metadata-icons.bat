@@ -40,6 +40,7 @@ call :do_download "com.github.warren_bank.ptt_bluetooth_speaker.sender"         
 call :do_download "com.github.warren_bank.bonjour_webrtc"                           "https://github.com/warren-bank/Android-Bonjour-WebRTC/raw/master/android-studio-project/Bonjour-WebRTC/src/main/res/drawable/launcher.png"
 call :do_download "org.proxydroid"                                                  "https://github.com/warren-bank/fork-Android-proxydroid/raw/no-ads/android-studio-project/proxydroid/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "org.mushare.httper"                                              "https://github.com/warren-bank/fork-Android-Httper/raw/feature/01-periodic-requests-service/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+call :do_download "com.github.warren_bank.rtsp_ipcam_viewer"                        "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/raw/master/android-studio-project/RTSP-IPCam-Viewer/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 
 goto :done
 
