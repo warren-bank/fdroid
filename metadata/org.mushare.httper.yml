@@ -1,0 +1,24 @@
+# https://github.com/warren-bank/fork-Android-Httper/blob/1.04.02-periodic-requests-service/app/build.gradle
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Internet
+License: GPL-2.0
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/fork-Android-Httper.git
+SourceCode: https://github.com/warren-bank/fork-Android-Httper/tree/feature/01-periodic-requests-service
+IssueTracker: https://github.com/warren-bank/fork-Android-Httper/issues
+
+AutoName: Httper
+Name: Httper
+WebSite: None
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 1.04.02-periodic-requests-service
+CurrentVersionCode: 6
+UpdateCheckMode: None
+AutoUpdateMode: None

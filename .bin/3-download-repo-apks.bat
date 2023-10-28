@@ -99,6 +99,12 @@ call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/release
 rem :: https://github.com/warren-bank/fork-Android-proxydroid/releases
 call :do_download "https://github.com/warren-bank/fork-Android-proxydroid/releases/download/no-ads/v3.2.0.003/proxydroid-3.2.0.003-withAllLanguageTranslations-universal-release.apk"
 
+rem :: https://github.com/warren-bank/fork-Android-Httper/releases
+call :do_download "https://github.com/warren-bank/fork-Android-Httper/releases/download/1.04.02-periodic-requests-service/Httper-1.04.02-periodic-requests-service-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/fork-Android-Httper/releases/download/1.04.02-periodic-requests-service/Httper-1.04.02-periodic-requests-service-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/fork-Android-Httper/releases/download/1.04.02-periodic-requests-service/Httper-1.04.02-periodic-requests-service-x86-release.apk"
+call :do_download "https://github.com/warren-bank/fork-Android-Httper/releases/download/1.04.02-periodic-requests-service/Httper-1.04.02-periodic-requests-service-x86_64-release.apk"
+
 goto :done
 
 :do_download
