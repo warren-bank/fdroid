@@ -219,3 +219,11 @@ Redirect 301 "/repo/Httper-1.04.02-periodic-requests-service-x86-release.apk"   
 Redirect 301 "/repo/Httper-1.04.02-periodic-requests-service-x86_64-release.apk"                                                                      "https://github.com/warren-bank/fork-Android-Httper/releases/download/1.04.02-periodic-requests-service/Httper-1.04.02-periodic-requests-service-x86_64-release.apk"
 
 RewriteRule "^/?repo/org\.mushare\.httper/.+/icon.*\.png$"                                                                                            "https://github.com/warren-bank/fork-Android-Httper/raw/1.04.02-periodic-requests-service/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.rtsp_ipcam_viewer
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk"                                                        "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases/download/v02.04.01/RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk"
+
+RewriteRule "^/?repo/com\.github\.warren_bank\.rtsp_ipcam_viewer/.+/icon.*\.png$"                                                                     "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/raw/v02.04.01/android-studio-project/RTSP-IPCam-Viewer/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
