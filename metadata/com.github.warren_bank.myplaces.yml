@@ -14,7 +14,7 @@ IssueTracker: https://github.com/warren-bank/Android-MyPlaces/issues
 
 AutoName: MyPlaces
 Name: MyPlaces
-WebSite: None
+WebSite: ''
 RequiresRoot: false
 
 AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee

@@ -16,7 +16,7 @@ IssueTracker: https://github.com/warren-bank/Android-ADB-over-WiFi/issues
 
 AutoName: ADB over WiFi
 Name: ADB over WiFi
-WebSite: None
+WebSite: ''
 RequiresRoot: true
 
 AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
