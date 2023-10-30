@@ -283,3 +283,15 @@ Redirect 301 "/archive/Broadcast-Mock-SMS-release.apk"                          
 
 RewriteRule "^/?archive/com\.github\.warren_bank\.broadcast_mock_sms/.+/icon.*\.png$"                                                                 "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/v02.00.05/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_mock_sms\.\d+\.png$"                                                       "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/v02.00.05/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.broadcast_sms_sent
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/Broadcast-SMS_SENT-release.apk"                                                                                                "https://github.com/warren-bank/Android-Broadcast-SMS_SENT/releases/download/v0.2.0/Broadcast-SMS_SENT-release.apk"
+
+# icon origin:
+#   https://www.freepik.com/icon/notification_4279725
+
+RewriteRule "^/?archive/com\.github\.warren_bank\.broadcast_sms_sent/.+/icon.*\.png$"                                                                 "https://cdn-icons-png.flaticon.com/256/4279/4279725.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_sms_sent\.\d+\.png$"                                                       "https://cdn-icons-png.flaticon.com/256/4279/4279725.png" [L,R=301]
