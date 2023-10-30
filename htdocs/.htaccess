@@ -253,3 +253,12 @@ Redirect 301 "/repo/RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslation
 
 RewriteRule "^/?repo/com\.github\.warren_bank\.rtsp_ipcam_viewer/.+/icon.*\.png$"                                                                     "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/raw/v02.04.01/android-studio-project/RTSP-IPCam-Viewer/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.rtsp_ipcam_viewer\.\d+\.png$"                                                           "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/raw/v02.04.01/android-studio-project/RTSP-IPCam-Viewer/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.rtsp_screencaster
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/RTSP-ScreenCaster-release.apk"                                                                                                 "https://github.com/warren-bank/Android-RTSP-ScreenCaster/releases/download/v01.01.05/RTSP-ScreenCaster-release.apk"
+
+RewriteRule "^/?archive/com\.github\.warren_bank\.rtsp_screencaster/.+/icon.*\.png$"                                                                  "https://github.com/warren-bank/Android-RTSP-ScreenCaster/raw/v01.01.05/android-studio-project/libscreening-examples/RTSP-ScreenCaster/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.rtsp_screencaster\.\d+\.png$"                                                        "https://github.com/warren-bank/Android-RTSP-ScreenCaster/raw/v01.01.05/android-studio-project/libscreening-examples/RTSP-ScreenCaster/src/main/res/drawable/launcher.png" [L,R=301]
