@@ -262,3 +262,15 @@ Redirect 301 "/archive/RTSP-ScreenCaster-release.apk"                           
 
 RewriteRule "^/?archive/com\.github\.warren_bank\.rtsp_screencaster/.+/icon.*\.png$"                                                                  "https://github.com/warren-bank/Android-RTSP-ScreenCaster/raw/v01.01.05/android-studio-project/libscreening-examples/RTSP-ScreenCaster/src/main/res/drawable/launcher.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.rtsp_screencaster\.\d+\.png$"                                                        "https://github.com/warren-bank/Android-RTSP-ScreenCaster/raw/v01.01.05/android-studio-project/libscreening-examples/RTSP-ScreenCaster/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.airtunes_client
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/AirTunes-Client-001.00.00-01API-release.apk"                                                                                   "https://github.com/warren-bank/Android-AirTunes-Client/releases/download/v1.0.0/AirTunes-Client-001.00.00-01API-release.apk"
+
+# icon origin:
+#   https://commons.wikimedia.org/wiki/File:AirPlay_Audio_logo.svg
+
+RewriteRule "^/?archive/com\.github\.warren_bank\.airtunes_client/.+/icon.*\.png$"                                                                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.airtunes_client\.\d+\.png$"                                                          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png" [L,R=301]
