@@ -27,6 +27,9 @@ call :do_download "https://github.com/warren-bank/Android-AirTunes-Client/releas
 rem :: https://github.com/warren-bank/Android-Broadcast-Mock-SMS/releases
 call :do_download "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/releases/download/v02.00.05/Broadcast-Mock-SMS-release.apk"
 
+rem :: https://github.com/warren-bank/Android-Broadcast-SMS_SENT/releases
+call :do_download "https://github.com/warren-bank/Android-Broadcast-SMS_SENT/releases/download/v0.2.0/Broadcast-SMS_SENT-release.apk"
+
 goto :done
 
 :do_download

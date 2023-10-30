@@ -1,0 +1,1 @@
+Observes SMS for sent messages, and locally broadcasts a duplicate copy.
