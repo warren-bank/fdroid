@@ -274,3 +274,12 @@ Redirect 301 "/archive/AirTunes-Client-001.00.00-01API-release.apk"             
 
 RewriteRule "^/?archive/com\.github\.warren_bank\.airtunes_client/.+/icon.*\.png$"                                                                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.airtunes_client\.\d+\.png$"                                                          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.broadcast_mock_sms
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/Broadcast-Mock-SMS-release.apk"                                                                                                "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/releases/download/v02.00.05/Broadcast-Mock-SMS-release.apk"
+
+RewriteRule "^/?archive/com\.github\.warren_bank\.broadcast_mock_sms/.+/icon.*\.png$"                                                                 "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/v02.00.05/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_mock_sms\.\d+\.png$"                                                       "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/v02.00.05/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png" [L,R=301]
