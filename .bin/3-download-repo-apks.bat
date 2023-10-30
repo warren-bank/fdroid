@@ -24,6 +24,9 @@ call :do_download "https://github.com/warren-bank/Android-RTSP-ScreenCaster/rele
 rem :: https://github.com/warren-bank/Android-AirTunes-Client/releases
 call :do_download "https://github.com/warren-bank/Android-AirTunes-Client/releases/download/v1.0.0/AirTunes-Client-001.00.00-01API-release.apk"
 
+rem :: https://github.com/warren-bank/Android-Broadcast-Mock-SMS/releases
+call :do_download "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/releases/download/v02.00.05/Broadcast-Mock-SMS-release.apk"
+
 goto :done
 
 :do_download

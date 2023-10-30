@@ -1,0 +1,3 @@
+Limitations:
+
+* Only works on versions of Android <= 5.1 (Lollipop, API 22)
