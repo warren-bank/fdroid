@@ -21,6 +21,9 @@ if not exist "%repo_dir%" mkdir "%repo_dir%"
 rem :: https://github.com/warren-bank/Android-RTSP-ScreenCaster/releases
 call :do_download "https://github.com/warren-bank/Android-RTSP-ScreenCaster/releases/download/v01.01.05/RTSP-ScreenCaster-release.apk"
 
+rem :: https://github.com/warren-bank/Android-AirTunes-Client/releases
+call :do_download "https://github.com/warren-bank/Android-AirTunes-Client/releases/download/v1.0.0/AirTunes-Client-001.00.00-01API-release.apk"
+
 goto :done
 
 :do_download

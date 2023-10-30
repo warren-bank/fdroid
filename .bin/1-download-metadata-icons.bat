@@ -17,6 +17,7 @@ if not exist "%log_dirpath%" mkdir "%log_dirpath%"
 if exist "%log_filepath%" del "%log_filepath%"
 
 call :do_download "com.github.warren_bank.rtsp_screencaster"                        "https://github.com/warren-bank/Android-RTSP-ScreenCaster/raw/master/android-studio-project/libscreening-examples/RTSP-ScreenCaster/src/main/res/drawable/launcher.png"
+call :do_download "com.github.warren_bank.airtunes_client"                          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png"
 
 goto :done
 
