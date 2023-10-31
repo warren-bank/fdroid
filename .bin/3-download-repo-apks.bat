@@ -30,6 +30,9 @@ call :do_download "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/rel
 rem :: https://github.com/warren-bank/Android-Broadcast-SMS_SENT/releases
 call :do_download "https://github.com/warren-bank/Android-Broadcast-SMS_SENT/releases/download/v0.2.0/Broadcast-SMS_SENT-release.apk"
 
+rem :: https://github.com/warren-bank/fork-Android-Plumble/releases
+call :do_download "https://github.com/warren-bank/fork-Android-Plumble/releases/download/3.3.0-rc1.mod-0.0.11/Plumble.apk"
+
 goto :done
 
 :do_download

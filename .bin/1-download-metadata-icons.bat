@@ -20,6 +20,7 @@ call :do_download "com.github.warren_bank.rtsp_screencaster"                    
 call :do_download "com.github.warren_bank.airtunes_client"                          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png"
 call :do_download "com.github.warren_bank.broadcast_mock_sms"                       "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/master/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png"
 call :do_download "com.github.warren_bank.broadcast_sms_sent"                       "https://cdn-icons-png.flaticon.com/256/4279/4279725.png"
+call :do_download "com.morlunk.mumbleclient"                                        "https://github.com/warren-bank/fork-Android-Plumble/raw/master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
 
 goto :done
 
