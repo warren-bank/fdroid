@@ -295,3 +295,12 @@ Redirect 301 "/archive/Broadcast-SMS_SENT-release.apk"                          
 
 RewriteRule "^/?archive/com\.github\.warren_bank\.broadcast_sms_sent/.+/icon.*\.png$"                                                                 "https://cdn-icons-png.flaticon.com/256/4279/4279725.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_sms_sent\.\d+\.png$"                                                       "https://cdn-icons-png.flaticon.com/256/4279/4279725.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.morlunk.mumbleclient
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/Plumble.apk"                                                                                                                   "https://github.com/warren-bank/fork-Android-Plumble/releases/download/3.3.0-rc1.mod-0.0.11/Plumble.apk"
+
+RewriteRule "^/?archive/com\.morlunk\.mumbleclient/.+/icon.*\.png$"                                                                                   "https://github.com/warren-bank/fork-Android-Plumble/raw/3.3.0-rc1.mod-0.0.11/app/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.morlunk\.mumbleclient\.\d+\.png$"                                                                         "https://github.com/warren-bank/fork-Android-Plumble/raw/3.3.0-rc1.mod-0.0.11/app/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
