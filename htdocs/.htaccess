@@ -313,3 +313,12 @@ Redirect 301 "/archive/My-Places-release.apk"                                   
 
 RewriteRule "^/?archive/rrapps\.myplaces/.+/icon.*\.png$"                                                                                             "https://github.com/warren-bank/fork-Android-My-Places/raw/modified/v1.20.01/android-studio-project/My-Places/src/main/res/drawable-xxxhdpi/m_places_launcher_256.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/rrapps\.myplaces\.\d+\.png$"                                                                                   "https://github.com/warren-bank/fork-Android-My-Places/raw/modified/v1.20.01/android-studio-project/My-Places/src/main/res/drawable-xxxhdpi/m_places_launcher_256.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.kunzisoft.keepass.libre
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/KeePassDX-libre-release.apk"                                                                                                   "https://github.com/warren-bank/fork-Android-KeePassDX/releases/download/fork/01-reset-group-when-url-opens/v2.9.1-002/KeePassDX-libre-release.apk"
+
+RewriteRule "^/?archive/com\.kunzisoft\.keepass\.libre/.+/icon.*\.png$"                                                                               "https://github.com/warren-bank/fork-Android-KeePassDX/raw/fork/01-reset-group-when-url-opens/v2.9.1-002/app/src/libre/res/mipmap-xxxhdpi/ic_launcher_round.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.kunzisoft\.keepass\.libre\.\d+\.png$"                                                                     "https://github.com/warren-bank/fork-Android-KeePassDX/raw/fork/01-reset-group-when-url-opens/v2.9.1-002/app/src/libre/res/mipmap-xxxhdpi/ic_launcher_round.png" [L,R=301]
