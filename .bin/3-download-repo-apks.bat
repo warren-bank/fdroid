@@ -50,6 +50,12 @@ call :do_download "https://github.com/warren-bank/Android-libVLC-Demo/releases/d
 call :do_download "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-x86-release.apk"
 call :do_download "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-x86_64-release.apk"
 
+rem :: https://github.com/warren-bank/Android-AppRTCMobile/releases
+call :do_download "https://github.com/warren-bank/Android-AppRTCMobile/releases/download/v1.0.28513.01/AppRTCMobile-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-AppRTCMobile/releases/download/v1.0.28513.01/AppRTCMobile-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-AppRTCMobile/releases/download/v1.0.28513.01/AppRTCMobile-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-AppRTCMobile/releases/download/v1.0.28513.01/AppRTCMobile-x86_64-release.apk"
+
 goto :done
 
 :do_download
