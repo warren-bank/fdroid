@@ -21,6 +21,7 @@ call :do_download "com.github.warren_bank.airtunes_client"                      
 call :do_download "com.github.warren_bank.broadcast_mock_sms"                       "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/master/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png"
 call :do_download "com.github.warren_bank.broadcast_sms_sent"                       "https://cdn-icons-png.flaticon.com/256/4279/4279725.png"
 call :do_download "com.morlunk.mumbleclient"                                        "https://github.com/warren-bank/fork-Android-Plumble/raw/master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+call :do_download "rrapps.myplaces"                                                 "https://github.com/warren-bank/fork-Android-My-Places/raw/fork/05-minor-tweaks-and-customizations/android-studio-project/My-Places/src/main/res/drawable-xxxhdpi/m_places_launcher_256.png"
 
 goto :done
 

@@ -33,6 +33,9 @@ call :do_download "https://github.com/warren-bank/Android-Broadcast-SMS_SENT/rel
 rem :: https://github.com/warren-bank/fork-Android-Plumble/releases
 call :do_download "https://github.com/warren-bank/fork-Android-Plumble/releases/download/3.3.0-rc1.mod-0.0.11/Plumble.apk"
 
+rem :: https://github.com/warren-bank/fork-Android-My-Places/releases
+call :do_download "https://github.com/warren-bank/fork-Android-My-Places/releases/download/modified/v1.20.01/My-Places-release.apk"
+
 goto :done
 
 :do_download
