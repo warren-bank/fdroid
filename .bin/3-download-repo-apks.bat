@@ -36,6 +36,9 @@ call :do_download "https://github.com/warren-bank/fork-Android-Plumble/releases/
 rem :: https://github.com/warren-bank/fork-Android-My-Places/releases
 call :do_download "https://github.com/warren-bank/fork-Android-My-Places/releases/download/modified/v1.20.01/My-Places-release.apk"
 
+rem :: https://github.com/warren-bank/fork-Android-KeePassDX/releases
+call :do_download "https://github.com/warren-bank/fork-Android-KeePassDX/releases/download/fork/01-reset-group-when-url-opens/v2.9.1-002/KeePassDX-libre-release.apk"
+
 goto :done
 
 :do_download
