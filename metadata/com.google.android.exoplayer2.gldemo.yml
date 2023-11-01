@@ -1,0 +1,26 @@
+# https://github.com/warren-bank/Android-ExoPlayer-demos/blob/r2.14.0.000/constants.gradle
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Development
+- Internet
+- Multimedia
+License: Apache-2.0
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/Android-ExoPlayer-demos.git
+SourceCode: https://github.com/warren-bank/Android-ExoPlayer-demos/tree/r2.14.0
+IssueTracker: https://github.com/warren-bank/Android-ExoPlayer-demos/issues
+
+AutoName: ExoPlayer GL demo
+Name: ExoPlayer GL demo
+WebSite: https://github.com/google/ExoPlayer/tree/r2.14.0/demos/gl
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 2.14.0
+CurrentVersionCode: 2014000
+UpdateCheckMode: None
+AutoUpdateMode: None

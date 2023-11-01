@@ -39,6 +39,11 @@ call :do_download "https://github.com/warren-bank/fork-Android-My-Places/release
 rem :: https://github.com/warren-bank/fork-Android-KeePassDX/releases
 call :do_download "https://github.com/warren-bank/fork-Android-KeePassDX/releases/download/fork/01-reset-group-when-url-opens/v2.9.1-002/KeePassDX-libre-release.apk"
 
+rem :: https://github.com/warren-bank/Android-ExoPlayer-demos/releases
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/1-main-noDecoderExtensions-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/2-cast-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/3-gl-release.apk"
+
 goto :done
 
 :do_download

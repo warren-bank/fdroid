@@ -23,6 +23,9 @@ call :do_download "com.github.warren_bank.broadcast_sms_sent"                   
 call :do_download "com.morlunk.mumbleclient"                                        "https://github.com/warren-bank/fork-Android-Plumble/raw/master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
 call :do_download "rrapps.myplaces"                                                 "https://github.com/warren-bank/fork-Android-My-Places/raw/fork/05-minor-tweaks-and-customizations/android-studio-project/My-Places/src/main/res/drawable-xxxhdpi/m_places_launcher_256.png"
 call :do_download "com.kunzisoft.keepass.libre"                                     "https://github.com/warren-bank/fork-Android-KeePassDX/raw/fork/01-reset-group-when-url-opens/app/src/libre/res/mipmap-xxxhdpi/ic_launcher_round.png"
+call :do_download "com.google.android.exoplayer2.demo"                              "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0/1-main/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+call :do_download "com.google.android.exoplayer2.castdemo"                          "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0/2-cast/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+call :do_download "com.google.android.exoplayer2.gldemo"                            "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 
 goto :done
 
