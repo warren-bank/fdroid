@@ -44,6 +44,12 @@ call :do_download "https://github.com/warren-bank/Android-ExoPlayer-demos/releas
 call :do_download "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/2-cast-release.apk"
 call :do_download "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/3-gl-release.apk"
 
+rem :: https://github.com/warren-bank/Android-libVLC-Demo/releases
+call :do_download "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-x86_64-release.apk"
+
 goto :done
 
 :do_download

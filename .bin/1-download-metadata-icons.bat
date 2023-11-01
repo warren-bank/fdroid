@@ -26,6 +26,7 @@ call :do_download "com.kunzisoft.keepass.libre"                                 
 call :do_download "com.google.android.exoplayer2.demo"                              "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0/1-main/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "com.google.android.exoplayer2.castdemo"                          "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0/2-cast/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "com.google.android.exoplayer2.gldemo"                            "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+call :do_download "com.github.warren_bank.libvlc_demo"                              "https://github.com/warren-bank/Android-libVLC-Demo/raw/libvlc/v2.x/android-studio-project/libVLC-Demo/src/main/res/drawable/ic_launcher.png"
 
 goto :done
 
