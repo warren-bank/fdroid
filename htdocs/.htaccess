@@ -349,3 +349,15 @@ Redirect 301 "/archive/3-gl-release.apk"                                        
 
 RewriteRule "^/?archive/com\.google\.android\.exoplayer2\.gldemo/.+/icon.*\.png$"                                                                     "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.gldemo\.\d+\.png$"                                                           "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.libvlc_demo
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/libVLC-Demo-arm64-v8a-release.apk"                                                                                             "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-arm64-v8a-release.apk"
+Redirect 301 "/archive/libVLC-Demo-armeabi-v7a-release.apk"                                                                                           "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-armeabi-v7a-release.apk"
+Redirect 301 "/archive/libVLC-Demo-x86-release.apk"                                                                                                   "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-x86-release.apk"
+Redirect 301 "/archive/libVLC-Demo-x86_64-release.apk"                                                                                                "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-x86_64-release.apk"
+
+RewriteRule "^/?archive/com\.github\.warren_bank\.libvlc_demo/.+/icon.*\.png$"                                                                        "https://github.com/warren-bank/Android-libVLC-Demo/raw/v2.1.12-007/android-studio-project/libVLC-Demo/src/main/res/drawable/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.libvlc_demo\.\d+\.png$"                                                              "https://github.com/warren-bank/Android-libVLC-Demo/raw/v2.1.12-007/android-studio-project/libVLC-Demo/src/main/res/drawable/ic_launcher.png" [L,R=301]
