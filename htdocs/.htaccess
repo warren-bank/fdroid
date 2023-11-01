@@ -391,3 +391,12 @@ Redirect 301 "/archive/2-cat-gallery-release.apk"                               
 
 RewriteRule "^/?archive/com\.google\.android\.flexbox\.apps\.catgallery/.+/icon.*\.png$"                                                              "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.flexbox\.apps\.catgallery\.\d+\.png$"                                                    "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# org.rtspplayer.sample
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/VideoExpertsGroup-RTSPPlayer-release.apk"                                                                                      "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/releases/download/v4.2.10/VideoExpertsGroup-RTSPPlayer-release.apk"
+
+RewriteRule "^/?archive/org\.rtspplayer\.sample/.+/icon.*\.png$"                                                                                      "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/raw/v4.2.10/VideoExpertsGroup-RTSPPlayer/src/main/res/drawable-xxhdpi/app.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/org\.rtspplayer\.sample\.\d+\.png$"                                                                            "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/raw/v4.2.10/VideoExpertsGroup-RTSPPlayer/src/main/res/drawable-xxhdpi/app.png" [L,R=301]
