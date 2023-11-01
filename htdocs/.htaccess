@@ -304,3 +304,12 @@ Redirect 301 "/archive/Plumble.apk"                                             
 
 RewriteRule "^/?archive/com\.morlunk\.mumbleclient/.+/icon.*\.png$"                                                                                   "https://github.com/warren-bank/fork-Android-Plumble/raw/3.3.0-rc1.mod-0.0.11/app/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/com\.morlunk\.mumbleclient\.\d+\.png$"                                                                         "https://github.com/warren-bank/fork-Android-Plumble/raw/3.3.0-rc1.mod-0.0.11/app/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# rrapps.myplaces
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/My-Places-release.apk"                                                                                                         "https://github.com/warren-bank/fork-Android-My-Places/releases/download/modified/v1.20.01/My-Places-release.apk"
+
+RewriteRule "^/?archive/rrapps\.myplaces/.+/icon.*\.png$"                                                                                             "https://github.com/warren-bank/fork-Android-My-Places/raw/modified/v1.20.01/android-studio-project/My-Places/src/main/res/drawable-xxxhdpi/m_places_launcher_256.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/rrapps\.myplaces\.\d+\.png$"                                                                                   "https://github.com/warren-bank/fork-Android-My-Places/raw/modified/v1.20.01/android-studio-project/My-Places/src/main/res/drawable-xxxhdpi/m_places_launcher_256.png" [L,R=301]
