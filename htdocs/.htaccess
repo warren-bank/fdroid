@@ -373,3 +373,21 @@ Redirect 301 "/archive/AppRTCMobile-x86_64-release.apk"                         
 
 RewriteRule "^/?archive/org\.appspot\.apprtc/.+/icon.*\.png$"                                                                                         "https://github.com/warren-bank/Android-AppRTCMobile/raw/v1.0.28513.01/android-studio-project/AppRTCMobile/src/main/res/drawable-xhdpi/ic_launcher.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/org\.appspot\.apprtc\.\d+\.png$"                                                                               "https://github.com/warren-bank/Android-AppRTCMobile/raw/v1.0.28513.01/android-studio-project/AppRTCMobile/src/main/res/drawable-xhdpi/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.google.android.apps.flexbox
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/1-playground-release.apk"                                                                                                      "https://github.com/warren-bank/Android-FlexboxLayout-demos/releases/download/r1.1.0.001/1-playground-release.apk"
+
+RewriteRule "^/?archive/com\.google\.android\.apps\.flexbox/.+/icon.*\.png$"                                                                          "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/1-playground/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.apps\.flexbox\.\d+\.png$"                                                                "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/1-playground/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.google.android.flexbox.apps.catgallery
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/2-cat-gallery-release.apk"                                                                                                     "https://github.com/warren-bank/Android-FlexboxLayout-demos/releases/download/r1.1.0.001/2-cat-gallery-release.apk"
+
+RewriteRule "^/?archive/com\.google\.android\.flexbox\.apps\.catgallery/.+/icon.*\.png$"                                                              "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.flexbox\.apps\.catgallery\.\d+\.png$"                                                    "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
