@@ -28,6 +28,8 @@ call :do_download "com.google.android.exoplayer2.castdemo"                      
 call :do_download "com.google.android.exoplayer2.gldemo"                            "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "com.github.warren_bank.libvlc_demo"                              "https://github.com/warren-bank/Android-libVLC-Demo/raw/libvlc/v2.x/android-studio-project/libVLC-Demo/src/main/res/drawable/ic_launcher.png"
 call :do_download "org.appspot.apprtc"                                              "https://github.com/warren-bank/Android-AppRTCMobile/raw/master/android-studio-project/AppRTCMobile/src/main/res/drawable-xhdpi/ic_launcher.png"
+call :do_download "com.google.android.apps.flexbox"                                 "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0/1-playground/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+call :do_download "com.google.android.flexbox.apps.catgallery"                      "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 
 goto :done
 

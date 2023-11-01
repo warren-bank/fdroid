@@ -56,6 +56,10 @@ call :do_download "https://github.com/warren-bank/Android-AppRTCMobile/releases/
 call :do_download "https://github.com/warren-bank/Android-AppRTCMobile/releases/download/v1.0.28513.01/AppRTCMobile-x86-release.apk"
 call :do_download "https://github.com/warren-bank/Android-AppRTCMobile/releases/download/v1.0.28513.01/AppRTCMobile-x86_64-release.apk"
 
+rem :: https://github.com/warren-bank/Android-FlexboxLayout-demos/releases
+call :do_download "https://github.com/warren-bank/Android-FlexboxLayout-demos/releases/download/r1.1.0.001/1-playground-release.apk"
+call :do_download "https://github.com/warren-bank/Android-FlexboxLayout-demos/releases/download/r1.1.0.001/2-cat-gallery-release.apk"
+
 goto :done
 
 :do_download
