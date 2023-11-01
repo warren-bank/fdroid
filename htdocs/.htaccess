@@ -322,3 +322,30 @@ Redirect 301 "/archive/KeePassDX-libre-release.apk"                             
 
 RewriteRule "^/?archive/com\.kunzisoft\.keepass\.libre/.+/icon.*\.png$"                                                                               "https://github.com/warren-bank/fork-Android-KeePassDX/raw/fork/01-reset-group-when-url-opens/v2.9.1-002/app/src/libre/res/mipmap-xxxhdpi/ic_launcher_round.png" [L,R=301]
 RewriteRule "^/?archive/icons(?:-\d+)?/com\.kunzisoft\.keepass\.libre\.\d+\.png$"                                                                     "https://github.com/warren-bank/fork-Android-KeePassDX/raw/fork/01-reset-group-when-url-opens/v2.9.1-002/app/src/libre/res/mipmap-xxxhdpi/ic_launcher_round.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.google.android.exoplayer2.demo
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/1-main-noDecoderExtensions-release.apk"                                                                                        "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/1-main-noDecoderExtensions-release.apk"
+
+RewriteRule "^/?archive/com\.google\.android\.exoplayer2\.demo/.+/icon.*\.png$"                                                                       "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/1-main/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.demo\.\d+\.png$"                                                             "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/1-main/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.google.android.exoplayer2.castdemo
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/2-cast-release.apk"                                                                                                            "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/2-cast-release.apk"
+
+RewriteRule "^/?archive/com\.google\.android\.exoplayer2\.castdemo/.+/icon.*\.png$"                                                                   "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/2-cast/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.castdemo\.\d+\.png$"                                                         "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/2-cast/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.google.android.exoplayer2.gldemo
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/3-gl-release.apk"                                                                                                              "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/3-gl-release.apk"
+
+RewriteRule "^/?archive/com\.google\.android\.exoplayer2\.gldemo/.+/icon.*\.png$"                                                                     "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.gldemo\.\d+\.png$"                                                           "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
