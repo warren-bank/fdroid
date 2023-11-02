@@ -9,6 +9,14 @@ Redirect 301 "/favicon.ico"                "https://avatars.githubusercontent.co
 Redirect 301 "/repo/icons/warren-bank.png" "https://avatars.githubusercontent.com/u/6810270"
 
 # --------------------------------------------------------------------
+# global rule that applies to all apps:
+#   normalize path for localized icons.
+#   internally rewrite to use path for the requested app's default icon.
+# --------------------------------------------------------------------
+
+RewriteRule "^(/?(?:repo|archive))/([^/]+)/[^/]+/icon.*\.png$" "$1/icons/$2.png" [B,PT]
+
+# --------------------------------------------------------------------
 # com.github.warren_bank.exoplayer_airplay_receiver
 # --------------------------------------------------------------------
 
@@ -18,8 +26,7 @@ Redirect 301 "/repo/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTr
 Redirect 301 "/repo/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"                     "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"
 Redirect 301 "/repo/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"                  "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.exoplayer_airplay_receiver/.+/icon.*\.png$"                                                            "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/raw/v3.4.5/android-studio-project/ExoPlayer-AirPlay-Receiver/src/main/res/drawable/launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.exoplayer_airplay_receiver\.\d+\.png$"                                                  "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/raw/v3.4.5/android-studio-project/ExoPlayer-AirPlay-Receiver/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.exoplayer_airplay_receiver(?:\.\d+)?\.png$"                                             "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/raw/v3.4.5/android-studio-project/ExoPlayer-AirPlay-Receiver/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.mock_location
@@ -29,8 +36,7 @@ Redirect 301 "/repo/Mock-my-GPS-002.03.01-03API-withAllLanguageTranslations-with
 Redirect 301 "/repo/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"                  "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"
 Redirect 301 "/repo/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"                "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.mock_location/.+/icon.*\.png$"                                                                         "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.03.01/android-studio-project/Mock-my-GPS/src/main/res/drawable/launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location\.\d+\.png$"                                                               "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.03.01/android-studio-project/Mock-my-GPS/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location(?:\.\d+)?\.png$"                                                          "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.03.01/android-studio-project/Mock-my-GPS/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.mock_location.service.microg_nlp_backend
@@ -38,8 +44,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location\.\d+
 
 Redirect 301 "/repo/Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk"                                           "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.mock_location\.service\.microg_nlp_backend/.+/icon.*\.png$"                                            "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.03.01/android-studio-project/Mock-my-GPS-UnifiedNlp-Backend/src/main/res/drawable/launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location\.service\.microg_nlp_backend\.\d+\.png$"                                  "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.03.01/android-studio-project/Mock-my-GPS-UnifiedNlp-Backend/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location\.service\.microg_nlp_backend(?:\.\d+)?\.png$"                             "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.03.01/android-studio-project/Mock-my-GPS-UnifiedNlp-Backend/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.webmonkey
@@ -50,8 +55,7 @@ Redirect 301 "/repo/WebMonkey-003.00.01-08API-english-withAdBlock-release.apk"  
 Redirect 301 "/repo/WebMonkey-003.00.01-08API-withAllLanguageTranslations-noAdBlock-release.apk"                                                      "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-withAllLanguageTranslations-noAdBlock-release.apk"
 Redirect 301 "/repo/WebMonkey-003.00.01-08API-withAllLanguageTranslations-withAdBlock-release.apk"                                                    "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-withAllLanguageTranslations-withAdBlock-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.webmonkey/.+/icon.*\.png$"                                                                             "https://github.com/warren-bank/Android-WebMonkey/raw/v03.00.01/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webmonkey\.\d+\.png$"                                                                   "https://github.com/warren-bank/Android-WebMonkey/raw/v03.00.01/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webmonkey(?:\.\d+)?\.png$"                                                              "https://github.com/warren-bank/Android-WebMonkey/raw/v03.00.01/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.webcast
@@ -59,8 +63,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webmonkey\.\d+\.pn
 
 Redirect 301 "/repo/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"                                                      "https://github.com/warren-bank/Android-WebCast/releases/download/v05.01.00/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.webcast/.+/icon.*\.png$"                                                                               "https://github.com/warren-bank/Android-WebCast/raw/v05.01.00/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webcast\.\d+\.png$"                                                                     "https://github.com/warren-bank/Android-WebCast/raw/v05.01.00/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webcast(?:\.\d+)?\.png$"                                                                "https://github.com/warren-bank/Android-WebCast/raw/v05.01.00/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.nodejs_frontend
@@ -71,8 +74,7 @@ Redirect 301 "/repo/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-
 Redirect 301 "/repo/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86-release.apk"                                                      "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86-release.apk"
 Redirect 301 "/repo/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86_64-release.apk"                                                   "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86_64-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.nodejs_frontend/.+/icon.*\.png$"                                                                       "https://github.com/warren-bank/Android-NodeJS-Frontend/raw/v1.0.2/android-studio-project/NodeJS-Frontend/src/main/res/mipmap-xxxhdpi/launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.nodejs_frontend\.\d+\.png$"                                                             "https://github.com/warren-bank/Android-NodeJS-Frontend/raw/v1.0.2/android-studio-project/NodeJS-Frontend/src/main/res/mipmap-xxxhdpi/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.nodejs_frontend(?:\.\d+)?\.png$"                                                        "https://github.com/warren-bank/Android-NodeJS-Frontend/raw/v1.0.2/android-studio-project/NodeJS-Frontend/src/main/res/mipmap-xxxhdpi/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.tiny_television_time_tracker
@@ -81,8 +83,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.nodejs_frontend\.\
 Redirect 301 "/repo/TV-Tracker-008.00.24-09API-english-release.apk"                                                                                   "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.24-09API/TV-Tracker-008.00.24-09API-english-release.apk"
 Redirect 301 "/repo/TV-Tracker-008.00.24-09API-withAllLanguageTranslations-release.apk"                                                               "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.24-09API/TV-Tracker-008.00.24-09API-withAllLanguageTranslations-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.tiny_television_time_tracker/.+/icon.*\.png$"                                                          "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/raw/tmdb/008.00.24-09API/android-studio-project/TV-Tracker/src/main/res/drawable-v21/icon.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.tiny_television_time_tracker\.\d+\.png$"                                                "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/raw/tmdb/008.00.24-09API/android-studio-project/TV-Tracker/src/main/res/drawable-v21/icon.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.tiny_television_time_tracker(?:\.\d+)?\.png$"                                           "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/raw/tmdb/008.00.24-09API/android-studio-project/TV-Tracker/src/main/res/drawable-v21/icon.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.bookmarks
@@ -91,8 +92,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.tiny_television_ti
 Redirect 301 "/repo/Bookmarks-002.00.01-09API-withUserRuntimePermissions-english-release.apk"                                                         "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.01-09API/Bookmarks-002.00.01-09API-withUserRuntimePermissions-english-release.apk"
 Redirect 301 "/repo/Bookmarks-002.00.01-09API-withUserRuntimePermissions-withAllLanguageTranslations-release.apk"                                     "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.01-09API/Bookmarks-002.00.01-09API-withUserRuntimePermissions-withAllLanguageTranslations-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.bookmarks/.+/icon.*\.png$"                                                                             "https://github.com/warren-bank/Android-Bookmarks/raw/002.00.01-09API/android-studio-project/Bookmarks/src/main/res/drawable/icon_app.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.bookmarks\.\d+\.png$"                                                                   "https://github.com/warren-bank/Android-Bookmarks/raw/002.00.01-09API/android-studio-project/Bookmarks/src/main/res/drawable/icon_app.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.bookmarks(?:\.\d+)?\.png$"                                                              "https://github.com/warren-bank/Android-Bookmarks/raw/002.00.01-09API/android-studio-project/Bookmarks/src/main/res/drawable/icon_app.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.myplaces
@@ -100,8 +100,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.bookmarks\.\d+\.pn
 
 Redirect 301 "/repo/MyPlaces-release.apk"                                                                                                             "https://github.com/warren-bank/Android-MyPlaces/releases/download/v05.00.05/MyPlaces-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.myplaces/.+/icon.*\.png$"                                                                              "https://github.com/warren-bank/Android-MyPlaces/raw/v05.00.05/android-studio-project/MyPlaces/src/main/res/drawable/ic_launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.myplaces\.\d+\.png$"                                                                    "https://github.com/warren-bank/Android-MyPlaces/raw/v05.00.05/android-studio-project/MyPlaces/src/main/res/drawable/ic_launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.myplaces(?:\.\d+)?\.png$"                                                               "https://github.com/warren-bank/Android-MyPlaces/raw/v05.00.05/android-studio-project/MyPlaces/src/main/res/drawable/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.cb.oneclipboard.android.server
@@ -109,8 +108,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.myplaces\.\d+\.png
 
 Redirect 301 "/repo/OneClipboardAndroidServer-3.01.03-release.apk"                                                                                    "https://github.com/warren-bank/fork-Java-OneClipboard/releases/download/improvements/v3.1.3/OneClipboardAndroidServer-3.01.03-release.apk"
 
-RewriteRule "^/?repo/com\.cb\.oneclipboard\.android\.server/.+/icon.*\.png$"                                                                          "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/v3.1.3/android-studio-project/OneClipboardAndroidServer/src/main/res/drawable/logo.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.cb\.oneclipboard\.android\.server\.\d+\.png$"                                                                "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/v3.1.3/android-studio-project/OneClipboardAndroidServer/src/main/res/drawable/logo.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.cb\.oneclipboard\.android\.server(?:\.\d+)?\.png$"                                                           "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/v3.1.3/android-studio-project/OneClipboardAndroidServer/src/main/res/drawable/logo.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.cb.oneclipboard.android.client
@@ -118,8 +116,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.cb\.oneclipboard\.android\.server\.\d+\
 
 Redirect 301 "/repo/OneClipboardAndroidClient-3.01.03-release.apk"                                                                                    "https://github.com/warren-bank/fork-Java-OneClipboard/releases/download/improvements/v3.1.3/OneClipboardAndroidClient-3.01.03-release.apk"
 
-RewriteRule "^/?repo/com\.cb\.oneclipboard\.android\.client/.+/icon.*\.png$"                                                                          "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/v3.1.3/android-studio-project/OneClipboardAndroidClient/src/main/res/drawable/logo.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.cb\.oneclipboard\.android\.client\.\d+\.png$"                                                                "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/v3.1.3/android-studio-project/OneClipboardAndroidClient/src/main/res/drawable/logo.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.cb\.oneclipboard\.android\.client(?:\.\d+)?\.png$"                                                           "https://github.com/warren-bank/fork-Java-OneClipboard/raw/improvements/v3.1.3/android-studio-project/OneClipboardAndroidClient/src/main/res/drawable/logo.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.airplay_client
@@ -128,8 +125,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.cb\.oneclipboard\.android\.client\.\d+\
 Redirect 301 "/repo/AirPlay-Client-000.05.05-14API-english-release.apk"                                                                               "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.5/AirPlay-Client-000.05.05-14API-english-release.apk"
 Redirect 301 "/repo/AirPlay-Client-000.05.05-14API-withAllLanguageTranslations-release.apk"                                                           "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.5/AirPlay-Client-000.05.05-14API-withAllLanguageTranslations-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.airplay_client/.+/icon.*\.png$"                                                                        "https://github.com/warren-bank/Android-AirPlay-Client/raw/v0.5.5/android-studio-project/AirPlay-Client/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.airplay_client\.\d+\.png$"                                                              "https://github.com/warren-bank/Android-AirPlay-Client/raw/v0.5.5/android-studio-project/AirPlay-Client/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.airplay_client(?:\.\d+)?\.png$"                                                         "https://github.com/warren-bank/Android-AirPlay-Client/raw/v0.5.5/android-studio-project/AirPlay-Client/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.locale_changer
@@ -137,8 +133,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.airplay_client\.\d
 
 Redirect 301 "/repo/Locale-Changer-release.apk"                                                                                                       "https://github.com/warren-bank/Android-Locale-Changer/releases/download/v1.1.0/Locale-Changer-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.locale_changer/.+/icon.*\.png$"                                                                        "https://github.com/warren-bank/Android-Locale-Changer/raw/v1.1.0/android-studio-project/Locale-Changer/src/main/res/drawable/ic_launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.locale_changer\.\d+\.png$"                                                              "https://github.com/warren-bank/Android-Locale-Changer/raw/v1.1.0/android-studio-project/Locale-Changer/src/main/res/drawable/ic_launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.locale_changer(?:\.\d+)?\.png$"                                                         "https://github.com/warren-bank/Android-Locale-Changer/raw/v1.1.0/android-studio-project/Locale-Changer/src/main/res/drawable/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.sms_automatic_reply_gps
@@ -146,8 +141,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.locale_changer\.\d
 
 Redirect 301 "/repo/SMS-my-GPS-release.apk"                                                                                                           "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/releases/download/v2.1.7/SMS-my-GPS-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.sms_automatic_reply_gps/.+/icon.*\.png$"                                                               "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/raw/v2.1.7/android-studio-project/SMS-my-GPS/src/main/res/drawable/launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.sms_automatic_reply_gps\.\d+\.png$"                                                     "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/raw/v2.1.7/android-studio-project/SMS-my-GPS/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.sms_automatic_reply_gps(?:\.\d+)?\.png$"                                                "https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/raw/v2.1.7/android-studio-project/SMS-my-GPS/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.sms_automatic_forwarding
@@ -155,8 +149,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.sms_automatic_repl
 
 Redirect 301 "/repo/SMS-Forwarding-release.apk"                                                                                                       "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/releases/download/v1.0.3/SMS-Forwarding-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.sms_automatic_forwarding/.+/icon.*\.png$"                                                              "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/raw/v1.0.3/android-studio-project/SMS-Forwarding/src/main/res/drawable/launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.sms_automatic_forwarding\.\d+\.png$"                                                    "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/raw/v1.0.3/android-studio-project/SMS-Forwarding/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.sms_automatic_forwarding(?:\.\d+)?\.png$"                                               "https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/raw/v1.0.3/android-studio-project/SMS-Forwarding/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.slideshow_screensaver
@@ -164,8 +157,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.sms_automatic_forw
 
 Redirect 301 "/repo/Slideshow-Screensaver-002.01.04-17API-withAllLanguageTranslations-release.apk"                                                    "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/releases/download/v2.1.4/Slideshow-Screensaver-002.01.04-17API-withAllLanguageTranslations-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.slideshow_screensaver/.+/icon.*\.png$"                                                                 "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/raw/v2.1.4/android-studio-project/Slideshow-Screensaver/src/main/res/drawable/launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.slideshow_screensaver\.\d+\.png$"                                                       "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/raw/v2.1.4/android-studio-project/Slideshow-Screensaver/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.slideshow_screensaver(?:\.\d+)?\.png$"                                                  "https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/raw/v2.1.4/android-studio-project/Slideshow-Screensaver/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.adb_over_wifi
@@ -173,8 +165,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.slideshow_screensa
 
 Redirect 301 "/repo/ADB-over-WiFi-release.apk"                                                                                                        "https://github.com/warren-bank/Android-ADB-over-WiFi/releases/download/v01.00.01/ADB-over-WiFi-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.adb_over_wifi/.+/icon.*\.png$"                                                                         "https://github.com/warren-bank/Android-ADB-over-WiFi/raw/v01.00.01/android-studio-project/ADB-over-WiFi/src/main/res/drawable/ic_launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.adb_over_wifi\.\d+\.png$"                                                               "https://github.com/warren-bank/Android-ADB-over-WiFi/raw/v01.00.01/android-studio-project/ADB-over-WiFi/src/main/res/drawable/ic_launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.adb_over_wifi(?:\.\d+)?\.png$"                                                          "https://github.com/warren-bank/Android-ADB-over-WiFi/raw/v01.00.01/android-studio-project/ADB-over-WiFi/src/main/res/drawable/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.root_script_runner
@@ -182,8 +173,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.adb_over_wifi\.\d+
 
 Redirect 301 "/repo/Root-Script-Runner-release.apk"                                                                                                   "https://github.com/warren-bank/Android-Root-Script-Runner/releases/download/v01.00.01/Root-Script-Runner-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.root_script_runner/.+/icon.*\.png$"                                                                    "https://github.com/warren-bank/Android-Root-Script-Runner/raw/v01.00.01/android-studio-project/Root-Script-Runner/src/main/res/drawable/ic_launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.root_script_runner\.\d+\.png$"                                                          "https://github.com/warren-bank/Android-Root-Script-Runner/raw/v01.00.01/android-studio-project/Root-Script-Runner/src/main/res/drawable/ic_launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.root_script_runner(?:\.\d+)?\.png$"                                                     "https://github.com/warren-bank/Android-Root-Script-Runner/raw/v01.00.01/android-studio-project/Root-Script-Runner/src/main/res/drawable/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.cli_feedback
@@ -191,8 +181,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.root_script_runner
 
 Redirect 301 "/repo/CLI-Feedback-release.apk"                                                                                                         "https://github.com/warren-bank/Android-CLI-Feedback/releases/download/v02.00.00/CLI-Feedback-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.cli_feedback/.+/icon.*\.png$"                                                                          "https://github.com/google/material-design-icons/raw/4.0.0/png/social/notifications_active/materialiconstwotone/48dp/2x/twotone_notifications_active_black_48dp.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.cli_feedback\.\d+\.png$"                                                                "https://github.com/google/material-design-icons/raw/4.0.0/png/social/notifications_active/materialiconstwotone/48dp/2x/twotone_notifications_active_black_48dp.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.cli_feedback(?:\.\d+)?\.png$"                                                           "https://github.com/google/material-design-icons/raw/4.0.0/png/social/notifications_active/materialiconstwotone/48dp/2x/twotone_notifications_active_black_48dp.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.ptt_bluetooth_speaker.receiver
@@ -200,8 +189,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.cli_feedback\.\d+\
 
 Redirect 301 "/repo/PTT-Bluetooth-Speaker-Receiver-001.01.03-10API-withAllLanguageTranslations-release.apk"                                           "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/releases/download/v1.1.3/PTT-Bluetooth-Speaker-Receiver-001.01.03-10API-withAllLanguageTranslations-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.ptt_bluetooth_speaker\.receiver/.+/icon.*\.png$"                                                       "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/raw/v1.1.3/android-studio-project/PTT-Bluetooth-Speaker-Receiver/src/main/res/drawable/phone_bluetooth_speaker.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.ptt_bluetooth_speaker\.receiver\.\d+\.png$"                                             "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/raw/v1.1.3/android-studio-project/PTT-Bluetooth-Speaker-Receiver/src/main/res/drawable/phone_bluetooth_speaker.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.ptt_bluetooth_speaker\.receiver(?:\.\d+)?\.png$"                                        "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/raw/v1.1.3/android-studio-project/PTT-Bluetooth-Speaker-Receiver/src/main/res/drawable/phone_bluetooth_speaker.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.ptt_bluetooth_speaker.sender
@@ -209,8 +197,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.ptt_bluetooth_spea
 
 Redirect 301 "/repo/PTT-Bluetooth-Speaker-Sender-001.01.03-10API-withAllLanguageTranslations-release.apk"                                             "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/releases/download/v1.1.3/PTT-Bluetooth-Speaker-Sender-001.01.03-10API-withAllLanguageTranslations-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.ptt_bluetooth_speaker\.sender/.+/icon.*\.png$"                                                         "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/raw/v1.1.3/android-studio-project/PTT-Bluetooth-Speaker-Sender/src/main/res/drawable/phone_in_talk.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.ptt_bluetooth_speaker\.sender\.\d+\.png$"                                               "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/raw/v1.1.3/android-studio-project/PTT-Bluetooth-Speaker-Sender/src/main/res/drawable/phone_in_talk.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.ptt_bluetooth_speaker\.sender(?:\.\d+)?\.png$"                                          "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/raw/v1.1.3/android-studio-project/PTT-Bluetooth-Speaker-Sender/src/main/res/drawable/phone_in_talk.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.bonjour_webrtc
@@ -221,8 +208,7 @@ Redirect 301 "/repo/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-a
 Redirect 301 "/repo/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86-release.apk"                                                       "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86-release.apk"
 Redirect 301 "/repo/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86_64-release.apk"                                                    "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86_64-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.bonjour_webrtc/.+/icon.*\.png$"                                                                        "https://github.com/warren-bank/Android-Bonjour-WebRTC/raw/v01.03.09/android-studio-project/Bonjour-WebRTC/src/main/res/drawable/launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.bonjour_webrtc\.\d+\.png$"                                                              "https://github.com/warren-bank/Android-Bonjour-WebRTC/raw/v01.03.09/android-studio-project/Bonjour-WebRTC/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.bonjour_webrtc(?:\.\d+)?\.png$"                                                         "https://github.com/warren-bank/Android-Bonjour-WebRTC/raw/v01.03.09/android-studio-project/Bonjour-WebRTC/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # org.proxydroid
@@ -230,8 +216,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.bonjour_webrtc\.\d
 
 Redirect 301 "/repo/proxydroid-3.2.0.003-withAllLanguageTranslations-universal-release.apk"                                                           "https://github.com/warren-bank/fork-Android-proxydroid/releases/download/no-ads/v3.2.0.003/proxydroid-3.2.0.003-withAllLanguageTranslations-universal-release.apk"
 
-RewriteRule "^/?repo/org\.proxydroid/.+/icon.*\.png$"                                                                                                 "https://github.com/warren-bank/fork-Android-proxydroid/raw/no-ads/v3.2.0.003/android-studio-project/proxydroid/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/org\.proxydroid\.\d+\.png$"                                                                                       "https://github.com/warren-bank/fork-Android-proxydroid/raw/no-ads/v3.2.0.003/android-studio-project/proxydroid/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/org\.proxydroid(?:\.\d+)?\.png$"                                                                                  "https://github.com/warren-bank/fork-Android-proxydroid/raw/no-ads/v3.2.0.003/android-studio-project/proxydroid/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # org.mushare.httper
@@ -242,8 +227,7 @@ Redirect 301 "/repo/Httper-1.04.02-periodic-requests-service-armeabi-v7a-release
 Redirect 301 "/repo/Httper-1.04.02-periodic-requests-service-x86-release.apk"                                                                         "https://github.com/warren-bank/fork-Android-Httper/releases/download/1.04.02-periodic-requests-service/Httper-1.04.02-periodic-requests-service-x86-release.apk"
 Redirect 301 "/repo/Httper-1.04.02-periodic-requests-service-x86_64-release.apk"                                                                      "https://github.com/warren-bank/fork-Android-Httper/releases/download/1.04.02-periodic-requests-service/Httper-1.04.02-periodic-requests-service-x86_64-release.apk"
 
-RewriteRule "^/?repo/org\.mushare\.httper/.+/icon.*\.png$"                                                                                            "https://github.com/warren-bank/fork-Android-Httper/raw/1.04.02-periodic-requests-service/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/org\.mushare\.httper\.\d+\.png$"                                                                                  "https://github.com/warren-bank/fork-Android-Httper/raw/1.04.02-periodic-requests-service/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/org\.mushare\.httper(?:\.\d+)?\.png$"                                                                             "https://github.com/warren-bank/fork-Android-Httper/raw/1.04.02-periodic-requests-service/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.rtsp_ipcam_viewer
@@ -251,8 +235,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/org\.mushare\.httper\.\d+\.png$"            
 
 Redirect 301 "/repo/RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk"                                                        "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases/download/v02.04.01/RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk"
 
-RewriteRule "^/?repo/com\.github\.warren_bank\.rtsp_ipcam_viewer/.+/icon.*\.png$"                                                                     "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/raw/v02.04.01/android-studio-project/RTSP-IPCam-Viewer/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.rtsp_ipcam_viewer\.\d+\.png$"                                                           "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/raw/v02.04.01/android-studio-project/RTSP-IPCam-Viewer/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.rtsp_ipcam_viewer(?:\.\d+)?\.png$"                                                      "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/raw/v02.04.01/android-studio-project/RTSP-IPCam-Viewer/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.rtsp_screencaster
@@ -260,8 +243,7 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.rtsp_ipcam_viewer\
 
 Redirect 301 "/archive/RTSP-ScreenCaster-release.apk"                                                                                                 "https://github.com/warren-bank/Android-RTSP-ScreenCaster/releases/download/v01.01.05/RTSP-ScreenCaster-release.apk"
 
-RewriteRule "^/?archive/com\.github\.warren_bank\.rtsp_screencaster/.+/icon.*\.png$"                                                                  "https://github.com/warren-bank/Android-RTSP-ScreenCaster/raw/v01.01.05/android-studio-project/libscreening-examples/RTSP-ScreenCaster/src/main/res/drawable/launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.rtsp_screencaster\.\d+\.png$"                                                        "https://github.com/warren-bank/Android-RTSP-ScreenCaster/raw/v01.01.05/android-studio-project/libscreening-examples/RTSP-ScreenCaster/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.rtsp_screencaster(?:\.\d+)?\.png$"                                                   "https://github.com/warren-bank/Android-RTSP-ScreenCaster/raw/v01.01.05/android-studio-project/libscreening-examples/RTSP-ScreenCaster/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.airtunes_client
@@ -272,8 +254,7 @@ Redirect 301 "/archive/AirTunes-Client-001.00.00-01API-release.apk"             
 # icon origin:
 #   https://commons.wikimedia.org/wiki/File:AirPlay_Audio_logo.svg
 
-RewriteRule "^/?archive/com\.github\.warren_bank\.airtunes_client/.+/icon.*\.png$"                                                                    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.airtunes_client\.\d+\.png$"                                                          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.airtunes_client(?:\.\d+)?\.png$"                                                     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.broadcast_mock_sms
@@ -281,8 +262,7 @@ RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.airtunes_client
 
 Redirect 301 "/archive/Broadcast-Mock-SMS-release.apk"                                                                                                "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/releases/download/v02.00.05/Broadcast-Mock-SMS-release.apk"
 
-RewriteRule "^/?archive/com\.github\.warren_bank\.broadcast_mock_sms/.+/icon.*\.png$"                                                                 "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/v02.00.05/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_mock_sms\.\d+\.png$"                                                       "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/v02.00.05/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_mock_sms(?:\.\d+)?\.png$"                                                  "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/v02.00.05/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.broadcast_sms_sent
@@ -293,8 +273,7 @@ Redirect 301 "/archive/Broadcast-SMS_SENT-release.apk"                          
 # icon origin:
 #   https://www.freepik.com/icon/notification_4279725
 
-RewriteRule "^/?archive/com\.github\.warren_bank\.broadcast_sms_sent/.+/icon.*\.png$"                                                                 "https://cdn-icons-png.flaticon.com/256/4279/4279725.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_sms_sent\.\d+\.png$"                                                       "https://cdn-icons-png.flaticon.com/256/4279/4279725.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_sms_sent(?:\.\d+)?\.png$"                                                  "https://cdn-icons-png.flaticon.com/256/4279/4279725.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.morlunk.mumbleclient
@@ -302,8 +281,7 @@ RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_sms_s
 
 Redirect 301 "/archive/Plumble.apk"                                                                                                                   "https://github.com/warren-bank/fork-Android-Plumble/releases/download/3.3.0-rc1.mod-0.0.11/Plumble.apk"
 
-RewriteRule "^/?archive/com\.morlunk\.mumbleclient/.+/icon.*\.png$"                                                                                   "https://github.com/warren-bank/fork-Android-Plumble/raw/3.3.0-rc1.mod-0.0.11/app/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.morlunk\.mumbleclient\.\d+\.png$"                                                                         "https://github.com/warren-bank/fork-Android-Plumble/raw/3.3.0-rc1.mod-0.0.11/app/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.morlunk\.mumbleclient(?:\.\d+)?\.png$"                                                                    "https://github.com/warren-bank/fork-Android-Plumble/raw/3.3.0-rc1.mod-0.0.11/app/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # rrapps.myplaces
@@ -311,8 +289,7 @@ RewriteRule "^/?archive/icons(?:-\d+)?/com\.morlunk\.mumbleclient\.\d+\.png$"   
 
 Redirect 301 "/archive/My-Places-release.apk"                                                                                                         "https://github.com/warren-bank/fork-Android-My-Places/releases/download/modified/v1.20.01/My-Places-release.apk"
 
-RewriteRule "^/?archive/rrapps\.myplaces/.+/icon.*\.png$"                                                                                             "https://github.com/warren-bank/fork-Android-My-Places/raw/modified/v1.20.01/android-studio-project/My-Places/src/main/res/drawable-xxxhdpi/m_places_launcher_256.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/rrapps\.myplaces\.\d+\.png$"                                                                                   "https://github.com/warren-bank/fork-Android-My-Places/raw/modified/v1.20.01/android-studio-project/My-Places/src/main/res/drawable-xxxhdpi/m_places_launcher_256.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/rrapps\.myplaces(?:\.\d+)?\.png$"                                                                              "https://github.com/warren-bank/fork-Android-My-Places/raw/modified/v1.20.01/android-studio-project/My-Places/src/main/res/drawable-xxxhdpi/m_places_launcher_256.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.kunzisoft.keepass.libre
@@ -320,8 +297,7 @@ RewriteRule "^/?archive/icons(?:-\d+)?/rrapps\.myplaces\.\d+\.png$"             
 
 Redirect 301 "/archive/KeePassDX-libre-release.apk"                                                                                                   "https://github.com/warren-bank/fork-Android-KeePassDX/releases/download/fork/01-reset-group-when-url-opens/v2.9.1-002/KeePassDX-libre-release.apk"
 
-RewriteRule "^/?archive/com\.kunzisoft\.keepass\.libre/.+/icon.*\.png$"                                                                               "https://github.com/warren-bank/fork-Android-KeePassDX/raw/fork/01-reset-group-when-url-opens/v2.9.1-002/app/src/libre/res/mipmap-xxxhdpi/ic_launcher_round.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.kunzisoft\.keepass\.libre\.\d+\.png$"                                                                     "https://github.com/warren-bank/fork-Android-KeePassDX/raw/fork/01-reset-group-when-url-opens/v2.9.1-002/app/src/libre/res/mipmap-xxxhdpi/ic_launcher_round.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.kunzisoft\.keepass\.libre(?:\.\d+)?\.png$"                                                                "https://github.com/warren-bank/fork-Android-KeePassDX/raw/fork/01-reset-group-when-url-opens/v2.9.1-002/app/src/libre/res/mipmap-xxxhdpi/ic_launcher_round.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.google.android.exoplayer2.demo
@@ -329,8 +305,7 @@ RewriteRule "^/?archive/icons(?:-\d+)?/com\.kunzisoft\.keepass\.libre\.\d+\.png$
 
 Redirect 301 "/archive/1-main-noDecoderExtensions-release.apk"                                                                                        "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/1-main-noDecoderExtensions-release.apk"
 
-RewriteRule "^/?archive/com\.google\.android\.exoplayer2\.demo/.+/icon.*\.png$"                                                                       "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/1-main/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.demo\.\d+\.png$"                                                             "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/1-main/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.demo(?:\.\d+)?\.png$"                                                        "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/1-main/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.google.android.exoplayer2.castdemo
@@ -338,8 +313,7 @@ RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.demo\.\
 
 Redirect 301 "/archive/2-cast-release.apk"                                                                                                            "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/2-cast-release.apk"
 
-RewriteRule "^/?archive/com\.google\.android\.exoplayer2\.castdemo/.+/icon.*\.png$"                                                                   "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/2-cast/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.castdemo\.\d+\.png$"                                                         "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/2-cast/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.castdemo(?:\.\d+)?\.png$"                                                    "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/2-cast/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.google.android.exoplayer2.gldemo
@@ -347,8 +321,7 @@ RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.castdem
 
 Redirect 301 "/archive/3-gl-release.apk"                                                                                                              "https://github.com/warren-bank/Android-ExoPlayer-demos/releases/download/r2.14.0.000/3-gl-release.apk"
 
-RewriteRule "^/?archive/com\.google\.android\.exoplayer2\.gldemo/.+/icon.*\.png$"                                                                     "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.gldemo\.\d+\.png$"                                                           "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.exoplayer2\.gldemo(?:\.\d+)?\.png$"                                                      "https://github.com/warren-bank/Android-ExoPlayer-demos/raw/r2.14.0.000/3-gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.libvlc_demo
@@ -359,8 +332,7 @@ Redirect 301 "/archive/libVLC-Demo-armeabi-v7a-release.apk"                     
 Redirect 301 "/archive/libVLC-Demo-x86-release.apk"                                                                                                   "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-x86-release.apk"
 Redirect 301 "/archive/libVLC-Demo-x86_64-release.apk"                                                                                                "https://github.com/warren-bank/Android-libVLC-Demo/releases/download/v2.1.12-007/libVLC-Demo-x86_64-release.apk"
 
-RewriteRule "^/?archive/com\.github\.warren_bank\.libvlc_demo/.+/icon.*\.png$"                                                                        "https://github.com/warren-bank/Android-libVLC-Demo/raw/v2.1.12-007/android-studio-project/libVLC-Demo/src/main/res/drawable/ic_launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.libvlc_demo\.\d+\.png$"                                                              "https://github.com/warren-bank/Android-libVLC-Demo/raw/v2.1.12-007/android-studio-project/libVLC-Demo/src/main/res/drawable/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.libvlc_demo(?:\.\d+)?\.png$"                                                         "https://github.com/warren-bank/Android-libVLC-Demo/raw/v2.1.12-007/android-studio-project/libVLC-Demo/src/main/res/drawable/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # org.appspot.apprtc
@@ -371,8 +343,7 @@ Redirect 301 "/archive/AppRTCMobile-armeabi-v7a-release.apk"                    
 Redirect 301 "/archive/AppRTCMobile-x86-release.apk"                                                                                                  "https://github.com/warren-bank/Android-AppRTCMobile/releases/download/v1.0.28513.01/AppRTCMobile-x86-release.apk"
 Redirect 301 "/archive/AppRTCMobile-x86_64-release.apk"                                                                                               "https://github.com/warren-bank/Android-AppRTCMobile/releases/download/v1.0.28513.01/AppRTCMobile-x86_64-release.apk"
 
-RewriteRule "^/?archive/org\.appspot\.apprtc/.+/icon.*\.png$"                                                                                         "https://github.com/warren-bank/Android-AppRTCMobile/raw/v1.0.28513.01/android-studio-project/AppRTCMobile/src/main/res/drawable-xhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/org\.appspot\.apprtc\.\d+\.png$"                                                                               "https://github.com/warren-bank/Android-AppRTCMobile/raw/v1.0.28513.01/android-studio-project/AppRTCMobile/src/main/res/drawable-xhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/org\.appspot\.apprtc(?:\.\d+)?\.png$"                                                                          "https://github.com/warren-bank/Android-AppRTCMobile/raw/v1.0.28513.01/android-studio-project/AppRTCMobile/src/main/res/drawable-xhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.google.android.apps.flexbox
@@ -380,8 +351,7 @@ RewriteRule "^/?archive/icons(?:-\d+)?/org\.appspot\.apprtc\.\d+\.png$"         
 
 Redirect 301 "/archive/1-playground-release.apk"                                                                                                      "https://github.com/warren-bank/Android-FlexboxLayout-demos/releases/download/r1.1.0.001/1-playground-release.apk"
 
-RewriteRule "^/?archive/com\.google\.android\.apps\.flexbox/.+/icon.*\.png$"                                                                          "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/1-playground/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.apps\.flexbox\.\d+\.png$"                                                                "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/1-playground/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.apps\.flexbox(?:\.\d+)?\.png$"                                                           "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/1-playground/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.google.android.flexbox.apps.catgallery
@@ -389,8 +359,7 @@ RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.apps\.flexbox\.\d+\
 
 Redirect 301 "/archive/2-cat-gallery-release.apk"                                                                                                     "https://github.com/warren-bank/Android-FlexboxLayout-demos/releases/download/r1.1.0.001/2-cat-gallery-release.apk"
 
-RewriteRule "^/?archive/com\.google\.android\.flexbox\.apps\.catgallery/.+/icon.*\.png$"                                                              "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.flexbox\.apps\.catgallery\.\d+\.png$"                                                    "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.flexbox\.apps\.catgallery(?:\.\d+)?\.png$"                                               "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0.001/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # org.rtspplayer.sample
@@ -398,5 +367,4 @@ RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.flexbox\.apps\.catg
 
 Redirect 301 "/archive/VideoExpertsGroup-RTSPPlayer-release.apk"                                                                                      "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/releases/download/v4.2.10/VideoExpertsGroup-RTSPPlayer-release.apk"
 
-RewriteRule "^/?archive/org\.rtspplayer\.sample/.+/icon.*\.png$"                                                                                      "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/raw/v4.2.10/VideoExpertsGroup-RTSPPlayer/src/main/res/drawable-xxhdpi/app.png" [L,R=301]
-RewriteRule "^/?archive/icons(?:-\d+)?/org\.rtspplayer\.sample\.\d+\.png$"                                                                            "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/raw/v4.2.10/VideoExpertsGroup-RTSPPlayer/src/main/res/drawable-xxhdpi/app.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/org\.rtspplayer\.sample(?:\.\d+)?\.png$"                                                                       "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/raw/v4.2.10/VideoExpertsGroup-RTSPPlayer/src/main/res/drawable-xxhdpi/app.png" [L,R=301]
