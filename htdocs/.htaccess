@@ -4,9 +4,10 @@
 
 RewriteEngine On
 
-Redirect 301 "/index.html"                 "/repo/index.html"
-Redirect 301 "/favicon.ico"                "https://avatars.githubusercontent.com/u/6810270?s=48"
-Redirect 301 "/repo/icons/warren-bank.png" "https://avatars.githubusercontent.com/u/6810270"
+Redirect 301 "/index.html"                    "/repo/index.html"
+Redirect 301 "/favicon.ico"                   "https://avatars.githubusercontent.com/u/6810270?s=48"
+Redirect 301 "/repo/icons/warren-bank.png"    "https://avatars.githubusercontent.com/u/6810270"
+Redirect 301 "/archive/icons/warren-bank.png" "https://avatars.githubusercontent.com/u/6810270"
 
 # --------------------------------------------------------------------
 # global rule that applies to all apps:
@@ -181,7 +182,11 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.root_script_runner
 
 Redirect 301 "/repo/CLI-Feedback-release.apk"                                                                                                         "https://github.com/warren-bank/Android-CLI-Feedback/releases/download/v02.00.00/CLI-Feedback-release.apk"
 
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.cli_feedback(?:\.\d+)?\.png$"                                                           "https://github.com/google/material-design-icons/raw/4.0.0/png/social/notifications_active/materialiconstwotone/48dp/2x/twotone_notifications_active_black_48dp.png" [L,R=301]
+# icon origin:
+#   https://github.com/google/material-design-icons/tree/4.0.0
+#   https://github.com/google/material-design-icons/raw/4.0.0/png/social/notifications_active/materialiconstwotone/48dp/2x/twotone_notifications_active_black_48dp.png
+
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.cli_feedback(?:\.\d+)?\.png$"                                                           "https://github.com/warren-bank/fdroid/raw/repo-metadata/metadata/com.github.warren_bank.cli_feedback/en/icon.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.ptt_bluetooth_speaker.receiver
@@ -253,8 +258,9 @@ Redirect 301 "/archive/AirTunes-Client-001.00.00-01API-release.apk"             
 
 # icon origin:
 #   https://commons.wikimedia.org/wiki/File:AirPlay_Audio_logo.svg
+#   https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png
 
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.airtunes_client(?:\.\d+)?\.png$"                                                     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.airtunes_client(?:\.\d+)?\.png$"                                                     "https://github.com/warren-bank/fdroid/raw/archive-metadata/metadata/com.github.warren_bank.airtunes_client/en/icon.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.broadcast_mock_sms
@@ -272,8 +278,9 @@ Redirect 301 "/archive/Broadcast-SMS_SENT-release.apk"                          
 
 # icon origin:
 #   https://www.freepik.com/icon/notification_4279725
+#   https://cdn-icons-png.flaticon.com/256/4279/4279725.png
 
-RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_sms_sent(?:\.\d+)?\.png$"                                                  "https://cdn-icons-png.flaticon.com/256/4279/4279725.png" [L,R=301]
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.broadcast_sms_sent(?:\.\d+)?\.png$"                                                  "https://github.com/warren-bank/fdroid/raw/archive-metadata/metadata/com.github.warren_bank.broadcast_sms_sent/en/icon.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.morlunk.mumbleclient
