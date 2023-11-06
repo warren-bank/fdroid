@@ -5,7 +5,7 @@ Categories:
 - Development
 - Internet
 - Multimedia
-License: ''
+License: CC-BY-NC-ND-4.0
 AuthorName: Warren R Bank
 AuthorEmail: warren.r.bank@gmail.com
 
@@ -18,6 +18,8 @@ AutoName: VXG RTSP Player demo
 Name: VXG RTSP Player demo
 WebSite: https://www.videoexpertsgroup.com/mobile/
 RequiresRoot: false
+AntiFeatures:
+- UpstreamNonFree
 
 AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
 CurrentVersion: 4.2.10
