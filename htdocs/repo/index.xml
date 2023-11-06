@@ -1,91 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?><fdroid><repo icon="warren-bank.png" name="warren-bank" pubkey="30820517308202ffa0030201020204692613ff300d06092a864886f70d01010b0500303b3110300e060355040b1307462d44726f6964312730250603550403131e48502d38343730702e6d796e6574776f726b73657474696e67732e636f6d3020170d3233313031323231353833355a180f32303531303232373231353833355a303b3110300e060355040b1307462d44726f6964312730250603550403131e48502d38343730702e6d796e6574776f726b73657474696e67732e636f6d30820222300d06092a864886f70d01010105000382020f003082020a0282020100cced1b674328ab3775d27632ce259a734f69d023edc2891fa1372f55e73c34fba467b66454fd8eefc3943d3d86ff845696bda115547404e109cd3cf0f3a7d90dbc01f136e99e884f8b6da3576d182ba1dce5e630b5d5682e4176bcad023ae7a832c639b5a083a2a5efcb304e12108ead1a010923b577f5aecddb372e4c7913707f517226ca2a390a049ee680c828febfc0a652285c4462cc0bcbe41ea426b34c28521391803efeeef716109ebe0d1dbfe50256c74db2f9f210a8f86393ccd30ca5f73b26bafb7d567f82c79fbc3202bd212d463ce72d5ac0a586f9a379a1801552f0a935b154a5413e651ee3548075f4e718097a82279ff6c77dfe17c1c79406a5cbc4a73a17fa5b545fa918348aedab73931b02f681be22fd4e1f72ae49de5f00dc6f1cb1cfa5d03ec9585001ebb59c8ebe2c010f270930bd83415b147d2eacc573c4252dbd986ac423baafc7542760db6ecb684d4a0ba8cff9107f47f51bd7c9cba0b240aadad41517f847e7de352dd8658d6bb1cb008b308ae275d1be3c8c09c3784699f6495de7fc54669a0a9711e2185fcda8ad99ee1bf614771bf0dc60653579ed4b716f9e8de842c7f76f6ee997c1309a962ced5ce3d15ad10c469f053448e8e2c0aef925e489204f03cbe41589f34ddc714536b688964b5b51d088537f540fb3288dfde12570f492d27a1788333e7be4dbd73ce8785839e7c1cfe6110203010001a321301f301d0603551d0e04160414d57498f8547b63906af9e5462c3bbeacddbfb289300d06092a864886f70d01010b050003820201002e8a7282269cab89fe1c064acfe0ad1ff8713183b12477ecc2a01e9fbb707ea521c1e9322c71ac4e086034b42dfab03dee4f62cba5e51d0475e11fa54067395a38edcb78bbee447549be15b5fd21b5bb543baeb9d8e79854022392c1be273ead00f3563535ff03c5dfe449f634f737841c9ed69cbd418ce3de89acc72587422cc518583a8ccf9ff74c3d40aec0db789d6a0be0277d4b3fea3e722bdf6f614ecf8524da43bf4cfed8e202b427dd3f5d41c7cd23f1e2ecb7c688933110d7fe7820b4b02953456eca87a353c718f4da2768358d94c286c1d2199e800f217aa1debd95965270cba642b6a3d944a1263510639840dd0064888a8a7fa95d4d9a5e4c76ca185c7813f4f02a30b2fd255c22fdf2239957effb28776caccc795e2abc143b1d3686bf30a0681487d2c26d875110d8c1917c4ee256f4262f51bd98e302ccfea4570b43e64998b5fe806a0d82e8dfae0433303f3f5bfac5c03b1b6911e5deaf00190249d71f9e9d6ad17bb70e269d0f39a1340f9d4144c720a2405941c00ebc706cc7ed716d4298e7b423a80919c0972774bb1b17c94bcdb82fb506b287a5aaaf9dcd8729e87a587df04976789832fe7bac663e0756113cf716bcdcb0d282758a511d384be5e6235b92b88d6625949dbd8803a629345c2e0d7ff99c622854d3f13aba63706e80d676cb92de7950d09ee651f4edfad14672709ceed697ad559c" timestamp="1698583384" url="https://warren-bank.github.io/fdroid/repo" version="20001"><description>This is an F-Droid repository of apps written by Warren Bank. All source code is GPL-2.0 and available on github: https://github.com/warren-bank?tab=repositories. All APK files are served by 301 redirect to a release asset within the corresponding github repository, and signed by its author with a key having the fingerprint: (SHA-1) 48b2fd2988b9358251b193e5eecac2e43298ef2d, (SHA-256) 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee.</description></repo><application id="com.github.warren_bank.adb_over_wifi"><id>com.github.warren_bank.adb_over_wifi</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>ADB over WiFi</name><summary>Toggles Android Debug Bridge daemon (adbd) between USB and WiFi mode.</summary><icon>com.github.warren_bank.adb_over_wifi.1000101.png</icon><desc>Requires root!
+<?xml version="1.0" encoding="utf-8"?><fdroid><repo icon="warren-bank.png" name="warren-bank" pubkey="30820517308202ffa0030201020204692613ff300d06092a864886f70d01010b0500303b3110300e060355040b1307462d44726f6964312730250603550403131e48502d38343730702e6d796e6574776f726b73657474696e67732e636f6d3020170d3233313031323231353833355a180f32303531303232373231353833355a303b3110300e060355040b1307462d44726f6964312730250603550403131e48502d38343730702e6d796e6574776f726b73657474696e67732e636f6d30820222300d06092a864886f70d01010105000382020f003082020a0282020100cced1b674328ab3775d27632ce259a734f69d023edc2891fa1372f55e73c34fba467b66454fd8eefc3943d3d86ff845696bda115547404e109cd3cf0f3a7d90dbc01f136e99e884f8b6da3576d182ba1dce5e630b5d5682e4176bcad023ae7a832c639b5a083a2a5efcb304e12108ead1a010923b577f5aecddb372e4c7913707f517226ca2a390a049ee680c828febfc0a652285c4462cc0bcbe41ea426b34c28521391803efeeef716109ebe0d1dbfe50256c74db2f9f210a8f86393ccd30ca5f73b26bafb7d567f82c79fbc3202bd212d463ce72d5ac0a586f9a379a1801552f0a935b154a5413e651ee3548075f4e718097a82279ff6c77dfe17c1c79406a5cbc4a73a17fa5b545fa918348aedab73931b02f681be22fd4e1f72ae49de5f00dc6f1cb1cfa5d03ec9585001ebb59c8ebe2c010f270930bd83415b147d2eacc573c4252dbd986ac423baafc7542760db6ecb684d4a0ba8cff9107f47f51bd7c9cba0b240aadad41517f847e7de352dd8658d6bb1cb008b308ae275d1be3c8c09c3784699f6495de7fc54669a0a9711e2185fcda8ad99ee1bf614771bf0dc60653579ed4b716f9e8de842c7f76f6ee997c1309a962ced5ce3d15ad10c469f053448e8e2c0aef925e489204f03cbe41589f34ddc714536b688964b5b51d088537f540fb3288dfde12570f492d27a1788333e7be4dbd73ce8785839e7c1cfe6110203010001a321301f301d0603551d0e04160414d57498f8547b63906af9e5462c3bbeacddbfb289300d06092a864886f70d01010b050003820201002e8a7282269cab89fe1c064acfe0ad1ff8713183b12477ecc2a01e9fbb707ea521c1e9322c71ac4e086034b42dfab03dee4f62cba5e51d0475e11fa54067395a38edcb78bbee447549be15b5fd21b5bb543baeb9d8e79854022392c1be273ead00f3563535ff03c5dfe449f634f737841c9ed69cbd418ce3de89acc72587422cc518583a8ccf9ff74c3d40aec0db789d6a0be0277d4b3fea3e722bdf6f614ecf8524da43bf4cfed8e202b427dd3f5d41c7cd23f1e2ecb7c688933110d7fe7820b4b02953456eca87a353c718f4da2768358d94c286c1d2199e800f217aa1debd95965270cba642b6a3d944a1263510639840dd0064888a8a7fa95d4d9a5e4c76ca185c7813f4f02a30b2fd255c22fdf2239957effb28776caccc795e2abc143b1d3686bf30a0681487d2c26d875110d8c1917c4ee256f4262f51bd98e302ccfea4570b43e64998b5fe806a0d82e8dfae0433303f3f5bfac5c03b1b6911e5deaf00190249d71f9e9d6ad17bb70e269d0f39a1340f9d4144c720a2405941c00ebc706cc7ed716d4298e7b423a80919c0972774bb1b17c94bcdb82fb506b287a5aaaf9dcd8729e87a587df04976789832fe7bac663e0756113cf716bcdcb0d282758a511d384be5e6235b92b88d6625949dbd8803a629345c2e0d7ff99c622854d3f13aba63706e80d676cb92de7950d09ee651f4edfad14672709ceed697ad559c" timestamp="1699437593" url="https://warren-bank.github.io/fdroid/repo" version="20001"><description>This is an F-Droid repository of apps written by Warren Bank. All source code is GPL-2.0 and available on github: https://github.com/warren-bank?tab=repositories. All APK files are served by 301 redirect to a release asset within the corresponding github repository, and signed by its author with a key having the fingerprint: (SHA-1) 48b2fd2988b9358251b193e5eecac2e43298ef2d, (SHA-256) 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee.</description></repo><application id="com.github.warren_bank.adb_over_wifi"><id>com.github.warren_bank.adb_over_wifi</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>ADB over WiFi</name><summary>Toggles Android Debug Bridge daemon (adbd) between USB and WiFi mode.</summary><icon>com.github.warren_bank.adb_over_wifi.1000101.png</icon><desc>Requires root!
 
 USB mode is the default. It requires a USB cable and USB drivers to connect the Android device to a computer.
 
 WiFi mode is wireless and does not require any additional drivers. Any computer can use the &quot;adb&quot; client to request a connection to the Android device.
 
-When WiFi mode is enabled, this app displays the &quot;adb&quot; command necessary to request such a connection over a LAN.
-</desc><license>GPL-2.0</license><categories>Connectivity,Development,System</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/Android-ADB-over-WiFi</source><tracker>https://github.com/warren-bank/Android-ADB-over-WiFi/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.00.01-01API</marketversion><marketvercode>1000101</marketvercode><requirements>root</requirements><package><version>001.00.01-01API</version><versioncode>1000101</versioncode><apkname>ADB-over-WiFi-release.apk</apkname><hash type="sha256">c7e155a78d1184c6e0ff5ff4facf664f5c855359e97ab680529d4ecfc7b0fd88</hash><size>80623</size><sdkver>1</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig></package></application><application id="com.github.warren_bank.bonjour_webrtc"><id>com.github.warren_bank.bonjour_webrtc</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Bonjour WebRTC</name><summary>Make video calls between devices in a LAN.</summary><desc>mDNS (Bonjour) is used for the discovery of other available devices in a LAN. As such, no WebRTC signaling server is needed.
+When WiFi mode is enabled, this app displays the &quot;adb&quot; command necessary to request such a connection over a LAN.</desc><license>GPL-2.0</license><categories>Connectivity,Development,System</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/Android-ADB-over-WiFi</source><tracker>https://github.com/warren-bank/Android-ADB-over-WiFi/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.00.01-01API</marketversion><marketvercode>1000101</marketvercode><requirements>root</requirements><package><version>001.00.01-01API</version><versioncode>1000101</versioncode><apkname>ADB-over-WiFi-release.apk</apkname><hash type="sha256">c7e155a78d1184c6e0ff5ff4facf664f5c855359e97ab680529d4ecfc7b0fd88</hash><size>80623</size><sdkver>1</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig></package></application><application id="com.github.warren_bank.bonjour_webrtc"><id>com.github.warren_bank.bonjour_webrtc</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Bonjour WebRTC</name><summary>Make video calls between devices in a LAN.</summary><desc>mDNS (Bonjour) is used for the discovery of other available devices in a LAN. As such, no WebRTC signaling server is needed.
 
-WebRTC is used for everything else.
-</desc><license>GPL-2.0</license><categories>Connectivity,Phone &amp; SMS</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/Android-Bonjour-WebRTC</source><tracker>https://github.com/warren-bank/Android-Bonjour-WebRTC/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.03.09-16API</marketversion><marketvercode>1030916</marketvercode><package><version>001.03.09-16API</version><versioncode>1030916</versioncode><apkname>Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-arm64-v8a-release.apk</apkname><hash type="sha256">5b9bbf97af1a5b220cf47bfd85322f59e33018cee1d59f7fc671740eed1b810b</hash><size>3806002</size><sdkver>16</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECORD_AUDIO,SYSTEM_ALERT_WINDOW,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions><nativecode>arm64-v8a</nativecode><features>android.hardware.camera,android.hardware.camera.autofocus</features></package></application><application id="com.github.warren_bank.bookmarks"><id>com.github.warren_bank.bookmarks</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Bookmarks</name><summary>Save Intents as an organized collection of bookmarks.</summary><desc>Background:
+WebRTC is used for everything else.</desc><license>GPL-2.0</license><categories>Connectivity,Phone &amp; SMS</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/Android-Bonjour-WebRTC</source><tracker>https://github.com/warren-bank/Android-Bonjour-WebRTC/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.03.09-16API</marketversion><marketvercode>1030916</marketvercode><package><version>001.03.09-16API</version><versioncode>1030916</versioncode><apkname>Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-arm64-v8a-release.apk</apkname><hash type="sha256">5b9bbf97af1a5b220cf47bfd85322f59e33018cee1d59f7fc671740eed1b810b</hash><size>3806002</size><sdkver>16</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_CONNECT,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECORD_AUDIO,SYSTEM_ALERT_WINDOW,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions><nativecode>arm64-v8a</nativecode><features>android.hardware.camera,android.hardware.camera.autofocus</features></package></application><application id="com.github.warren_bank.bookmarks"><id>com.github.warren_bank.bookmarks</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Bookmarks</name><summary>Save Intents as an organized collection of bookmarks.</summary><desc>Background:
 
-* an Android Intent can be used to open
-  a precise part of any installed application,
-  and pass to it any type or quantity of data
-* as such, an Intent is like an Android bookmark
+● an Android Intent can be used to open
+&amp;nbsp;&amp;nbsp;a precise part of any installed
+&amp;nbsp;&amp;nbsp;application, and pass to it any type
+&amp;nbsp;&amp;nbsp;or quantity of data
+● as such, an Intent is like an Android
+&amp;nbsp;&amp;nbsp;bookmark
 
 Features include the ability to:
 
-* configure and save Intents as named bookmarks
-* use bookmarks to:
-  - start an Activity
-  - start a Service
-  - send a Broadcast
-* schedule bookmarks to be used later:
-  - one time
-  - at an interval
-* intercept Intents started by other applications:
-  - to modify
-  - to save
-* backup and restore:
-  - the entire SQLite database
-  - JSON data file
-  - Netscape Bookmark HTML data file
-</desc><license>GPL-2.0</license><categories>Development,System,Time</categories><category>Development</category><web></web><source>https://github.com/warren-bank/Android-Bookmarks/tree/v02</source><tracker>https://github.com/warren-bank/Android-Bookmarks/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.00.01-09API</marketversion><marketvercode>2000109</marketvercode><package><version>002.00.01-09API</version><versioncode>2000109</versioncode><apkname>Bookmarks-002.00.01-09API-withUserRuntimePermissions-english-release.apk</apkname><hash type="sha256">2eef2cc3bfc0c8d2d15c7d0117cfaaf3e2bc474ec5bde889a980c0bee188cf6f</hash><size>249581</size><sdkver>9</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>CALL_PHONE,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,SYSTEM_ALERT_WINDOW,WRITE_EXTERNAL_STORAGE,com.android.alarm.permission.SET_ALARM,com.android.launcher.permission.INSTALL_SHORTCUT</permissions></package></application><application id="com.github.warren_bank.cli_feedback"><id>com.github.warren_bank.cli_feedback</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>CLI Feedback</name><summary>Non-interactive utility to provide user feedback from the command line.</summary><desc>Types of user feedback:
+● configure and save Intents as named
+&amp;nbsp;&amp;nbsp;bookmarks
+● use bookmarks to:
+&amp;nbsp;&amp;nbsp;○ start an Activity
+&amp;nbsp;&amp;nbsp;○ start a Service
+&amp;nbsp;&amp;nbsp;○ send a Broadcast
+● schedule bookmarks to be used later:
+&amp;nbsp;&amp;nbsp;○ one time
+&amp;nbsp;&amp;nbsp;○ at an interval
+● intercept Intents started by other
+&amp;nbsp;&amp;nbsp;applications:
+&amp;nbsp;&amp;nbsp;○ to modify
+&amp;nbsp;&amp;nbsp;○ to save
+● backup and restore:
+&amp;nbsp;&amp;nbsp;○ the entire SQLite database
+&amp;nbsp;&amp;nbsp;○ JSON data file
+&amp;nbsp;&amp;nbsp;○ Netscape Bookmark HTML data file</desc><license>GPL-2.0</license><categories>Development,System,Time</categories><category>Development</category><web></web><source>https://github.com/warren-bank/Android-Bookmarks/tree/v02</source><tracker>https://github.com/warren-bank/Android-Bookmarks/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.00.01-09API</marketversion><marketvercode>2000109</marketvercode><package><version>002.00.01-09API</version><versioncode>2000109</versioncode><apkname>Bookmarks-002.00.01-09API-withUserRuntimePermissions-english-release.apk</apkname><hash type="sha256">2eef2cc3bfc0c8d2d15c7d0117cfaaf3e2bc474ec5bde889a980c0bee188cf6f</hash><size>249581</size><sdkver>9</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>CALL_PHONE,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,SYSTEM_ALERT_WINDOW,WRITE_EXTERNAL_STORAGE,com.android.alarm.permission.SET_ALARM,com.android.launcher.permission.INSTALL_SHORTCUT</permissions></package></application><application id="com.github.warren_bank.cli_feedback"><id>com.github.warren_bank.cli_feedback</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>CLI Feedback</name><summary>Non-interactive utility to provide user feedback from the command line.</summary><desc>Types of user feedback:
 
-* show a Toast
-* show a Notification
-* play an audio Ringtone
+● show a Toast
+● show a Notification
+● play an audio Ringtone
 
-All types of user feedback are started by Intent. This utility can be used both by other applications, as well as directly by the user from a command line terminal emulator.
-</desc><license>GPL-2.0</license><categories>Development,System</categories><category>Development</category><web></web><source>https://github.com/warren-bank/Android-CLI-Feedback</source><tracker>https://github.com/warren-bank/Android-CLI-Feedback/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.00.00-11API</marketversion><marketvercode>524297</marketvercode><package><version>002.00.00-11API</version><versioncode>524297</versioncode><apkname>CLI-Feedback-release.apk</apkname><hash type="sha256">c3e5e1fba2dd54da3a2e95a0ae83efaae890539bb37ca7ad17cb635a52e564ec</hash><size>10275</size><sdkver>11</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig></package></application><application id="com.github.warren_bank.airplay_client"><id>com.github.warren_bank.airplay_client</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>DroidPlay</name><summary>AirPlay (version 1) client for Android.</summary><desc>Features include:
+All types of user feedback are started by Intent. This utility can be used both by other applications, as well as directly by the user from a command line terminal emulator.</desc><license>GPL-2.0</license><categories>Development,System</categories><category>Development</category><web></web><source>https://github.com/warren-bank/Android-CLI-Feedback</source><tracker>https://github.com/warren-bank/Android-CLI-Feedback/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.00.00-11API</marketversion><marketvercode>524297</marketvercode><package><version>002.00.00-11API</version><versioncode>524297</versioncode><apkname>CLI-Feedback-release.apk</apkname><hash type="sha256">c3e5e1fba2dd54da3a2e95a0ae83efaae890539bb37ca7ad17cb635a52e564ec</hash><size>10275</size><sdkver>11</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig></package></application><application id="com.github.warren_bank.airplay_client"><id>com.github.warren_bank.airplay_client</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>DroidPlay</name><summary>AirPlay (version 1) client for Android.</summary><desc>Features include:
 
-* Automatic discovery of AirPlay receivers within the same network
-* Beam photos from your device to AirPlay
-* Stream videos and music from your device to AirPlay
-* Mirror the screen from your device to AirPlay
+● Automatic discovery of AirPlay
+&amp;nbsp;&amp;nbsp;receivers within the same network
+● Beam photos from your device to
+&amp;nbsp;&amp;nbsp;AirPlay
+● Stream videos and music from your
+&amp;nbsp;&amp;nbsp;device to AirPlay
+● Mirror the screen from your device to
+&amp;nbsp;&amp;nbsp;AirPlay
 
 Credits:
 
-* DroidPlay
-    The original version of this application.
-    https://github.com/tutikka/DroidPlay
-* ScreenStream
-    Provided much of the code to implement screen mirroring on Android 5.0+
-    https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
-* AirPlay (version 1) protocol
-    http://nto.github.io/AirPlay.html
-</desc><license>GPL-3.0</license><categories>Graphics,Multimedia,System</categories><category>Graphics</category><web></web><source>https://github.com/warren-bank/Android-AirPlay-Client</source><tracker>https://github.com/warren-bank/Android-AirPlay-Client/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>000.05.05-14API</marketversion><marketvercode>50514</marketvercode><package><version>000.05.05-14API</version><versioncode>50514</versioncode><apkname>AirPlay-Client-000.05.05-14API-english-release.apk</apkname><hash type="sha256">30bf572302e7a029a180b0bb6e13fd5fe88eb415c96f8a681edb449e3b4727b9</hash><size>292544</size><sdkver>14</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,WAKE_LOCK</permissions></package></application><application id="com.github.warren_bank.exoplayer_airplay_receiver"><id>com.github.warren_bank.exoplayer_airplay_receiver</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>ExoAirPlayer</name><summary>ExoPlayer based media player with API for remote control.</summary><desc>Listens on the Wi-Fi LAN adapter using a stateless HTTP API (based on AirPlay v1). Advertises its availability for discovery using mDNS (Bonjour).
+● DroidPlay
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The original version of this
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;application.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Provided much of the code to
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;implement screen mirroring on
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Android 5.0+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (version 1) protocol
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Unofficial documentation.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;http://nto.github.io/AirPlay.html</desc><license>GPL-3.0</license><categories>Graphics,Multimedia,System</categories><category>Graphics</category><web></web><source>https://github.com/warren-bank/Android-AirPlay-Client</source><tracker>https://github.com/warren-bank/Android-AirPlay-Client/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>000.05.05-14API</marketversion><marketvercode>50514</marketvercode><package><version>000.05.05-14API</version><versioncode>50514</versioncode><apkname>AirPlay-Client-000.05.05-14API-english-release.apk</apkname><hash type="sha256">30bf572302e7a029a180b0bb6e13fd5fe88eb415c96f8a681edb449e3b4727b9</hash><size>292544</size><sdkver>14</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,WAKE_LOCK</permissions></package></application><application id="com.github.warren_bank.exoplayer_airplay_receiver"><id>com.github.warren_bank.exoplayer_airplay_receiver</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>ExoAirPlayer</name><summary>ExoPlayer based media player with API for remote control.</summary><desc>Listens on the Wi-Fi LAN adapter using a stateless HTTP API (based on AirPlay v1). Advertises its availability for discovery using mDNS (Bonjour).
 
 Supports devices of all display sizes; inexpensive generic set-top boxes with high-resolution HDMI output are the target platform, but works equally well on very old handsets with very small low-resolution screens.
 
-The API is extensive and fully documented. A static web page SPA client implementation makes this functionality highly accessible. At its most basic level, this API provides the ability to &quot;cast&quot; media URLs into a playlist and control all aspects of playback.</desc><license>GPL-2.0</license><categories>Multimedia</categories><category>Multimedia</category><web>http://webcast-reloaded.surge.sh/airplay_sender.html</web><source>https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/tree/v03</source><tracker>https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>003.04.05-16API</marketversion><marketvercode>3040516</marketvercode><package><version>003.04.05-16API</version><versioncode>3040516</versioncode><apkname>ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-noDecoderExtensions-release.apk</apkname><hash type="sha256">3708a28b3c6942d47de2bab1ac8b68c9dfd90acd3515c57026d8184591f87667</hash><size>3719418</size><sdkver>16</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,FOREGROUND_SERVICE,GET_TASKS,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,SYSTEM_ALERT_WINDOW,WAKE_LOCK</permissions><nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode></package></application><application id="org.mushare.httper"><id>org.mushare.httper</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Httper</name><summary>Configure and send HTTP requests.</summary><desc>Configurable HTTP request attributes:
+The API is extensive and fully documented. A static web page SPA client implementation makes this functionality highly accessible. At its most basic level, this API provides the ability to &quot;cast&quot; media URLs into a playlist and control all aspects of playback.</desc><license>GPL-2.0</license><categories>Multimedia</categories><category>Multimedia</category><web>http://webcast-reloaded.surge.sh/airplay_sender.html</web><source>https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/tree/v03</source><tracker>https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>003.04.05-16API</marketversion><marketvercode>3040516</marketvercode><package><version>003.04.05-16API</version><versioncode>3040516</versioncode><apkname>ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-noDecoderExtensions-release.apk</apkname><hash type="sha256">3708a28b3c6942d47de2bab1ac8b68c9dfd90acd3515c57026d8184591f87667</hash><size>3719418</size><sdkver>16</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,FOREGROUND_SERVICE,GET_TASKS,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,SYSTEM_ALERT_WINDOW,WAKE_LOCK</permissions><nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode></package></application><application id="org.mushare.httper"><id>org.mushare.httper</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Httper</name><summary>Configure and send HTTP requests.</summary><desc>Configurable HTTP request attributes:
 
-* method
-* protocol
-* URL
-* headers
-* querystring parameters
-* body
+● method
+● protocol
+● URL
+● headers
+● querystring parameters
+● body
 
 Features include the ability to:
 
-* send a request once
-* send a request repeatedly at a specified time interval
-* reload the configuration of a prior request from a history log
-* pretty print JSON response data
-* preview HTML response data
-</desc><license>GPL-2.0</license><categories>Internet</categories><category>Internet</category><web></web><source>https://github.com/warren-bank/fork-Android-Httper/tree/feature/01-periodic-requests-service</source><tracker>https://github.com/warren-bank/fork-Android-Httper/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>1.04.02-periodic-requests-service</marketversion><marketvercode>6</marketvercode><package><version>1.04.02-periodic-requests-service</version><versioncode>6</versioncode><apkname>Httper-1.04.02-periodic-requests-service-arm64-v8a-release.apk</apkname><hash type="sha256">d71d4f1073d02d165c2e792d6c69f707103e3dc73d432c86d23acc1ea9260583</hash><size>3681684</size><sdkver>15</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,org.mushare.httper.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions><nativecode>arm64-v8a</nativecode></package></application><application id="com.github.warren_bank.locale_changer"><id>com.github.warren_bank.locale_changer</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Locale Changer</name><summary>Change the default Android system locale.</summary><icon>com.github.warren_bank.locale_changer.1010003.png</icon><desc>Displays a list of all available locales. Clicking on any list item changes the Android system locale to the selected value. Changes are persistent.
+● send a request once
+● send a request repeatedly at a
+&amp;nbsp;&amp;nbsp;specified time interval
+● reload the configuration of a prior
+&amp;nbsp;&amp;nbsp;request from a history log
+● pretty print JSON response data
+● preview HTML response data</desc><license>GPL-2.0</license><categories>Internet</categories><category>Internet</category><web></web><source>https://github.com/warren-bank/fork-Android-Httper/tree/feature/01-periodic-requests-service</source><tracker>https://github.com/warren-bank/fork-Android-Httper/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>1.04.02-periodic-requests-service</marketversion><marketvercode>6</marketvercode><package><version>1.04.02-periodic-requests-service</version><versioncode>6</versioncode><apkname>Httper-1.04.02-periodic-requests-service-arm64-v8a-release.apk</apkname><hash type="sha256">d71d4f1073d02d165c2e792d6c69f707103e3dc73d432c86d23acc1ea9260583</hash><size>3681684</size><sdkver>15</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,org.mushare.httper.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions><nativecode>arm64-v8a</nativecode></package></application><application id="com.github.warren_bank.locale_changer"><id>com.github.warren_bank.locale_changer</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Locale Changer</name><summary>Change the default Android system locale.</summary><icon>com.github.warren_bank.locale_changer.1010003.png</icon><desc>Displays a list of all available locales. Clicking on any list item changes the Android system locale to the selected value. Changes are persistent.
 
-The currently active locale is always positioned as the first list item.
-</desc><license>GPL-2.0</license><categories>System</categories><category>System</category><web></web><source>https://github.com/warren-bank/Android-Locale-Changer</source><tracker>https://github.com/warren-bank/Android-Locale-Changer/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.01.00-03API</marketversion><marketvercode>1010003</marketvercode><package><version>001.01.00-03API</version><versioncode>1010003</versioncode><apkname>Locale-Changer-release.apk</apkname><hash type="sha256">ec081d1d378b2ecc78a310cd2b62b761188a83a93d0efa8b67b3ef2269ae81ce</hash><size>156219</size><sdkver>3</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>CHANGE_CONFIGURATION</permissions></package></application><application id="com.github.warren_bank.mock_location"><id>com.github.warren_bank.mock_location</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Mock my GPS</name><summary>Mock Android location providers: GPS, Network, Fused.</summary><desc>Features include the ability to:
+The currently active locale is always positioned as the first list item.</desc><license>GPL-2.0</license><categories>System</categories><category>System</category><web></web><source>https://github.com/warren-bank/Android-Locale-Changer</source><tracker>https://github.com/warren-bank/Android-Locale-Changer/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.01.00-03API</marketversion><marketvercode>1010003</marketvercode><package><version>001.01.00-03API</version><versioncode>1010003</versioncode><apkname>Locale-Changer-release.apk</apkname><hash type="sha256">ec081d1d378b2ecc78a310cd2b62b761188a83a93d0efa8b67b3ef2269ae81ce</hash><size>156219</size><sdkver>3</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>CHANGE_CONFIGURATION</permissions></package></application><application id="com.github.warren_bank.mock_location"><id>com.github.warren_bank.mock_location</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Mock my GPS</name><summary>Mock Android location providers: GPS, Network, Fused.</summary><desc>Features include the ability to:
 
-* mock a fixed position
-* simulate a trip
-* use a joystick to move relative to a mock fixed position
-* accept latitude and longitude geo-coordinate pairs from Intents
-* save latitude and longitude geo-coordinate pairs as named bookmarks
+● mock a fixed position
+● simulate a trip
+● use a joystick to move relative to a
+&amp;nbsp;&amp;nbsp;mock fixed position
+● accept latitude and longitude
+&amp;nbsp;&amp;nbsp;geo-coordinate pairs from Intents
+● save latitude and longitude
+&amp;nbsp;&amp;nbsp;geo-coordinate pairs as named
+&amp;nbsp;&amp;nbsp;bookmarks
 
 Variations:
 
@@ -96,242 +107,284 @@ Variations:
 Android integration:
 
 1. enable Developer Options
-     Settings &gt; System &gt; About phone
-   repeatedly click 7 times:
-     Build number
+&amp;nbsp;&amp;nbsp;&amp;nbsp;● open:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Settings &gt; System &gt; About phone
+&amp;nbsp;&amp;nbsp;&amp;nbsp;● repeatedly click 7 times:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Build number
 2. configure:
-     Settings &gt; System &gt; Developer Options
-   values:
-     Select mock location app: &quot;Mock my GPS&quot;
-</desc><license>GPL-2.0</license><categories>Navigation,System</categories><category>Navigation</category><web></web><source>https://github.com/warren-bank/Android-Mock-Location/tree/service</source><tracker>https://github.com/warren-bank/Android-Mock-Location/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.03.01</marketversion><marketvercode>2030100</marketvercode><package><version>002.03.01-19API</version><versioncode>2030119</versioncode><apkname>Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk</apkname><hash type="sha256">e830b59f5dd983239bf3c67be05eb023bcc493d6c462974a0640ef16cc67c032</hash><size>626705</size><sdkver>19</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MOCK_LOCATION,FOREGROUND_SERVICE,POST_NOTIFICATIONS,SYSTEM_ALERT_WINDOW,com.github.warren_bank.mock_location.service.microg_nlp_backend.LocationService.BIND</permissions></package><package><version>002.03.01-03API</version><versioncode>2030103</versioncode><apkname>Mock-my-GPS-002.03.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk</apkname><hash type="sha256">2eedc4923540a70af9fe548351eb30c6414147ca072b30c7d5bcc34f5dff21cb</hash><size>285191</size><sdkver>3</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MOCK_LOCATION,FOREGROUND_SERVICE,POST_NOTIFICATIONS,SYSTEM_ALERT_WINDOW,com.github.warren_bank.mock_location.service.microg_nlp_backend.LocationService.BIND</permissions></package></application><application id="com.github.warren_bank.mock_location.service.microg_nlp_backend"><id>com.github.warren_bank.mock_location.service.microg_nlp_backend</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Mock my GPS UnifiedNlp Backend</name><summary>Companion for &quot;Mock my GPS&quot;. Backend plugin for &quot;UnifiedNlp&quot;.</summary><desc>Allows &quot;Mock my GPS&quot; to behave as a mock location provider for &quot;UnifiedNlp&quot;.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;● open:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Settings &gt; System &gt; Developer
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Options
+&amp;nbsp;&amp;nbsp;&amp;nbsp;● save values:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Mock location app: &quot;Mock my GPS&quot;</desc><license>GPL-2.0</license><categories>Navigation,System</categories><category>Navigation</category><web></web><source>https://github.com/warren-bank/Android-Mock-Location/tree/service</source><tracker>https://github.com/warren-bank/Android-Mock-Location/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.03.01</marketversion><marketvercode>2030100</marketvercode><package><version>002.03.01-19API</version><versioncode>2030119</versioncode><apkname>Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk</apkname><hash type="sha256">e830b59f5dd983239bf3c67be05eb023bcc493d6c462974a0640ef16cc67c032</hash><size>626705</size><sdkver>19</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MOCK_LOCATION,FOREGROUND_SERVICE,POST_NOTIFICATIONS,SYSTEM_ALERT_WINDOW,com.github.warren_bank.mock_location.service.microg_nlp_backend.LocationService.BIND</permissions></package><package><version>002.03.01-03API</version><versioncode>2030103</versioncode><apkname>Mock-my-GPS-002.03.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk</apkname><hash type="sha256">2eedc4923540a70af9fe548351eb30c6414147ca072b30c7d5bcc34f5dff21cb</hash><size>285191</size><sdkver>3</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MOCK_LOCATION,FOREGROUND_SERVICE,POST_NOTIFICATIONS,SYSTEM_ALERT_WINDOW,com.github.warren_bank.mock_location.service.microg_nlp_backend.LocationService.BIND</permissions></package></application><application id="com.github.warren_bank.mock_location.service.microg_nlp_backend"><id>com.github.warren_bank.mock_location.service.microg_nlp_backend</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Mock my GPS UnifiedNlp Backend</name><summary>Companion for &quot;Mock my GPS&quot;. Backend plugin for &quot;UnifiedNlp&quot;.</summary><desc>Allows &quot;Mock my GPS&quot; to behave as a mock location provider for &quot;UnifiedNlp&quot;.
 
 &quot;UnifiedNlp&quot; is:
 
-* typically installed as a component of &quot;microG&quot;
-* intended for use on de-Googled Android ROMs
-* a drop-in replacement for &quot;Google Location Services&quot;
+● typically installed as a component of
+&amp;nbsp;&amp;nbsp;&quot;microG&quot;
+● intended for use on de-Googled Android
+&amp;nbsp;&amp;nbsp;ROMs
+● a drop-in replacement for &quot;Google
+&amp;nbsp;&amp;nbsp;Location Services&quot;
 
 &quot;UnifiedNlp&quot; integration of mock location data:
 
-* is only enabled while &quot;Mock my GPS&quot; is active
-* is prioritized over other &quot;UnifiedNlp&quot; backend plugins
-  by advancing the timestamp 45 seconds,
-  so it appears to be most recent
-</desc><license>GPL-2.0</license><categories>Navigation,System</categories><category>Navigation</category><web></web><source>https://github.com/warren-bank/Android-Mock-Location/tree/service</source><tracker>https://github.com/warren-bank/Android-Mock-Location/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.03.01</marketversion><marketvercode>2030100</marketvercode><package><version>002.03.01-09API</version><versioncode>2030109</versioncode><apkname>Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">88f62c178fa5504e27fed8fd93842f997ded207fef99ec0cf22637391f017fff</hash><size>80977</size><sdkver>9</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>com.github.warren_bank.mock_location.service.microg_nlp_backend.LocationService.BIND</permissions></package></application><application id="com.github.warren_bank.myplaces"><id>com.github.warren_bank.myplaces</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>MyPlaces</name><summary>Reads GPX and KML files as lists of geographic coordinate bookmarks.</summary><icon>com.github.warren_bank.myplaces.5000514.png</icon><desc>Features include the ability to:
+● is only enabled while &quot;Mock my GPS&quot; is
+&amp;nbsp;&amp;nbsp;active
+● is prioritized over other &quot;UnifiedNlp&quot;
+&amp;nbsp;&amp;nbsp;backend plugins by advancing the
+&amp;nbsp;&amp;nbsp;timestamp 45 seconds, so it appears to
+&amp;nbsp;&amp;nbsp;be most recent</desc><license>GPL-2.0</license><categories>Navigation,System</categories><category>Navigation</category><web></web><source>https://github.com/warren-bank/Android-Mock-Location/tree/service</source><tracker>https://github.com/warren-bank/Android-Mock-Location/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.03.01</marketversion><marketvercode>2030100</marketvercode><package><version>002.03.01-09API</version><versioncode>2030109</versioncode><apkname>Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">88f62c178fa5504e27fed8fd93842f997ded207fef99ec0cf22637391f017fff</hash><size>80977</size><sdkver>9</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>com.github.warren_bank.mock_location.service.microg_nlp_backend.LocationService.BIND</permissions></package></application><application id="com.github.warren_bank.myplaces"><id>com.github.warren_bank.myplaces</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>MyPlaces</name><summary>Reads GPX and KML files as lists of geographic coordinate bookmarks.</summary><icon>com.github.warren_bank.myplaces.5000514.png</icon><desc>Features include the ability to:
 
-* sort the list of geographic coordinates:
-  - sequential
-      Ordered as the locations occur in the input file.
-      ex: a precise travel itinerary
-  - distance
-      Ordered by distance from the current location.
-      ex: ad-hoc exploration of nearby POI
-  - alphabetic
-      Ordered by the descriptive names associated with locations.
-      ex: bookmarks of favorite places
-* click on a list item to open the corresponding location
-  in an external application, such as mapping or navigation.
-</desc><license>GPL-2.0</license><categories>Navigation</categories><category>Navigation</category><web></web><source>https://github.com/warren-bank/Android-MyPlaces</source><tracker>https://github.com/warren-bank/Android-MyPlaces/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>005.00.05-14API</marketversion><marketvercode>5000514</marketvercode><package><version>005.00.05-14API</version><versioncode>5000514</versioncode><apkname>MyPlaces-release.apk</apkname><hash type="sha256">a172127a1258c15e32e7f9defa0b3d11e1e966ebe45d7b59b17293b813841881</hash><size>1279880</size><sdkver>14</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions></package></application><application id="com.github.warren_bank.nodejs_frontend"><id>com.github.warren_bank.nodejs_frontend</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Node.js Frontend</name><summary>Frontend to execute Node.js application from the Android filesystem.</summary><desc>Features include the ability to:
+● sort the list of geographic
+&amp;nbsp;&amp;nbsp;coordinates:
+&amp;nbsp;&amp;nbsp;○ sequential
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ordered as the locations occur in
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the input file.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;● ex: a precise travel itinerary
+&amp;nbsp;&amp;nbsp;○ distance
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ordered by distance from the
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;current location.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;● ex: ad-hoc exploration of nearby
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;POI
+&amp;nbsp;&amp;nbsp;○ alphabetic
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ordered by the descriptive names
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;associated with locations.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;● ex: bookmarks of favorite places
+● click on a list item to open the
+&amp;nbsp;&amp;nbsp;corresponding location in an external
+&amp;nbsp;&amp;nbsp;application, such as mapping or
+&amp;nbsp;&amp;nbsp;navigation.</desc><license>GPL-2.0</license><categories>Navigation</categories><category>Navigation</category><web></web><source>https://github.com/warren-bank/Android-MyPlaces</source><tracker>https://github.com/warren-bank/Android-MyPlaces/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>005.00.05-14API</marketversion><marketvercode>5000514</marketvercode><package><version>005.00.05-14API</version><versioncode>5000514</versioncode><apkname>MyPlaces-release.apk</apkname><hash type="sha256">a172127a1258c15e32e7f9defa0b3d11e1e966ebe45d7b59b17293b813841881</hash><size>1279880</size><sdkver>14</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions></package></application><application id="com.github.warren_bank.nodejs_frontend"><id>com.github.warren_bank.nodejs_frontend</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Node.js Frontend</name><summary>Frontend to execute Node.js application from the Android filesystem.</summary><desc>Features include the ability to:
 
-* configure and save any number of application profiles
-* each application profile can specify:
-  - title
-  - file path to main Javascript file
-  - command line options for the Node.js runtime
-  - command line options for the application
-  - environment variables
-  - current working directory
-* application profiles are grouped by:
-  - &quot;exec&quot;
-      Applications share a single process.
-      Only one can execute at a time.
-  - &quot;fork&quot;
-      Each application is given its own process.
-      Each executes in a foreground service.
-      An associated notification kills the process.
-* backup and restore:
-  - export all application profiles to JSON
-  - import new application profiles from JSON
+● configure and save any number of
+&amp;nbsp;&amp;nbsp;application profiles
+● each application profile can specify:
+&amp;nbsp;&amp;nbsp;○ title
+&amp;nbsp;&amp;nbsp;○ file path to main Javascript file
+&amp;nbsp;&amp;nbsp;○ command line options for the Node.js
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;runtime
+&amp;nbsp;&amp;nbsp;○ command line options for the
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;application
+&amp;nbsp;&amp;nbsp;○ environment variables
+&amp;nbsp;&amp;nbsp;○ current working directory
+● application profiles are grouped by:
+&amp;nbsp;&amp;nbsp;○ &quot;exec&quot;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Applications share a single
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;process. Only one can execute at a
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;time.
+&amp;nbsp;&amp;nbsp;○ &quot;fork&quot;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Each application is given its own
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;process. Each executes in a
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;foreground service. An associated
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;notification kills the process.
+● backup and restore:
+&amp;nbsp;&amp;nbsp;○ export all application profiles to
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;JSON
+&amp;nbsp;&amp;nbsp;○ import new application profiles from
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;JSON
 
 Embedded runtime environment:
 
-* Node.js 12.19.0
-* OpenSSL 1.1.1g
-</desc><license>GPL-2.0</license><categories>Development</categories><category>Development</category><web></web><source>https://github.com/warren-bank/Android-NodeJS-Frontend</source><tracker>https://github.com/warren-bank/Android-NodeJS-Frontend/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.00.02-19API</marketversion><marketvercode>1000219</marketvercode><package><version>001.00.02-19API</version><versioncode>1000219</versioncode><apkname>NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-arm64-v8a-release.apk</apkname><hash type="sha256">5e0669bcfe8dc23bc5b080f43cab57ffc9b044ec402f64d92fbd1cb0745e68ae</hash><size>13319135</size><sdkver>19</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions><uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/><uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/><nativecode>arm64-v8a</nativecode></package></application><application id="com.cb.oneclipboard.android.client"><id>com.cb.oneclipboard.android.client</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>OneClipboard</name><summary>Client to synchronize clipboard data through a server.</summary><desc>Servers are available for a variety of platforms, including Android.
+● Node.js 12.19.0
+● OpenSSL 1.1.1g</desc><license>GPL-2.0</license><categories>Development</categories><category>Development</category><web></web><source>https://github.com/warren-bank/Android-NodeJS-Frontend</source><tracker>https://github.com/warren-bank/Android-NodeJS-Frontend/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.00.02-19API</marketversion><marketvercode>1000219</marketvercode><package><version>001.00.02-19API</version><versioncode>1000219</versioncode><apkname>NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-arm64-v8a-release.apk</apkname><hash type="sha256">5e0669bcfe8dc23bc5b080f43cab57ffc9b044ec402f64d92fbd1cb0745e68ae</hash><size>13319135</size><sdkver>19</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions><uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/><uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/><nativecode>arm64-v8a</nativecode></package></application><application id="com.cb.oneclipboard.android.client"><id>com.cb.oneclipboard.android.client</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>OneClipboard</name><summary>Client to synchronize clipboard data through a server.</summary><desc>Servers are available for a variety of platforms, including Android.
 
 All clients that connect to a common server and authenticate using the same username and password combination will share a common clipboard. Whenever any client copies new data into its clipboard, this data is sent to the server and then broadcast to all authenticated clients.
 
 All clipboard data is encrypted end-to-end.
 
-Tasker integration is supported.
-</desc><license>LGPL-3.0</license><categories>Connectivity,System</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/fork-Java-OneClipboard/tree/improvements</source><tracker>https://github.com/warren-bank/fork-Java-OneClipboard/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>3.01.03</marketversion><marketvercode>30103</marketvercode><package><version>3.01.03</version><versioncode>30103</versioncode><apkname>OneClipboardAndroidClient-3.01.03-release.apk</apkname><hash type="sha256">0aaac8f694ca7dde9b29d57c613bad992c241cf6670a636b8fcf9a976d2ca458</hash><size>1091404</size><sdkver>14</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,com.cb.oneclipboard.android.client.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions></package></application><application id="com.cb.oneclipboard.android.server"><id>com.cb.oneclipboard.android.server</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>OneClipboard Server</name><summary>Server to synchronize clipboard data across clients.</summary><desc>Clients are available for a variety of platforms, including Android.
+Tasker integration is supported.</desc><license>LGPL-3.0</license><categories>Connectivity,System</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/fork-Java-OneClipboard/tree/improvements</source><tracker>https://github.com/warren-bank/fork-Java-OneClipboard/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>3.01.03</marketversion><marketvercode>30103</marketvercode><package><version>3.01.03</version><versioncode>30103</versioncode><apkname>OneClipboardAndroidClient-3.01.03-release.apk</apkname><hash type="sha256">0aaac8f694ca7dde9b29d57c613bad992c241cf6670a636b8fcf9a976d2ca458</hash><size>1091404</size><sdkver>14</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,com.cb.oneclipboard.android.client.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions></package></application><application id="com.cb.oneclipboard.android.server"><id>com.cb.oneclipboard.android.server</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>OneClipboard Server</name><summary>Server to synchronize clipboard data across clients.</summary><desc>Clients are available for a variety of platforms, including Android.
 
 All clients that connect to this server and authenticate using the same username and password combination will share a common clipboard. Whenever any client copies new data into its clipboard, this data is sent to the server and then broadcast to all authenticated clients.
 
-All clipboard data is encrypted end-to-end.
-</desc><license>LGPL-3.0</license><categories>Connectivity,System</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/fork-Java-OneClipboard/tree/improvements</source><tracker>https://github.com/warren-bank/fork-Java-OneClipboard/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>3.01.03</marketversion><marketvercode>30103</marketvercode><package><version>3.01.03</version><versioncode>30103</versioncode><apkname>OneClipboardAndroidServer-3.01.03-release.apk</apkname><hash type="sha256">1338324c69801ebf9ef01870f6f0cf23cebbca4a25edf84e6742f1c5e421a466</hash><size>31350</size><sdkver>1</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,WAKE_LOCK</permissions></package></application><application id="org.proxydroid"><id>org.proxydroid</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>ProxyDroid</name><summary>Configure and manage network proxy servers.</summary><desc>Requires root!
+All clipboard data is encrypted end-to-end.</desc><license>LGPL-3.0</license><categories>Connectivity,System</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/fork-Java-OneClipboard/tree/improvements</source><tracker>https://github.com/warren-bank/fork-Java-OneClipboard/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>3.01.03</marketversion><marketvercode>30103</marketvercode><package><version>3.01.03</version><versioncode>30103</versioncode><apkname>OneClipboardAndroidServer-3.01.03-release.apk</apkname><hash type="sha256">1338324c69801ebf9ef01870f6f0cf23cebbca4a25edf84e6742f1c5e421a466</hash><size>31350</size><sdkver>1</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,WAKE_LOCK</permissions></package></application><application id="org.proxydroid"><id>org.proxydroid</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>ProxyDroid</name><summary>Configure and manage network proxy servers.</summary><desc>Requires root!
 
 Features include:
 
-* support for proxy server protocols:
-  - HTTP
-  - HTTPS
-  - SOCKS4
-  - SOCKS5
-* support for authentication methods:
-  - Basic
-  - NTLM
-  - NTLMv2
-* support for enabling of proxy server:
-  - globally, for all apps
-  - only for specific apps
-* support for a blacklist:
-  - IP addresses to bypass the proxy
-* support for a DNS proxy
-* support for multiple profiles
-* basic support for a proxy auto-configuration (PAC) file
-* ability to associate a particular profile with:
-  - WiFi SSID
-  - Mobile Network
-* widget to toggle proxy on/off
-* runtime efficiency:
-  - consumes little battery
-  - uses little RAM
-</desc><license>GPL-3.0</license><categories>Connectivity,Internet,System</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/fork-Android-proxydroid/tree/no-ads</source><tracker>https://github.com/warren-bank/fork-Android-proxydroid/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>3.2.0.003</marketversion><marketvercode>320003</marketvercode><requirements>root</requirements><package><version>3.2.0.003</version><versioncode>320003</versioncode><apkname>proxydroid-3.2.0.003-withAllLanguageTranslations-universal-release.apk</apkname><hash type="sha256">20ba9b3e02a96cb10df4849710d220930e8ef23f843ccbcfa390c724fa27ea1b</hash><size>11477604</size><sdkver>16</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions><uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/><uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/><nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode></package></application><application id="com.github.warren_bank.ptt_bluetooth_speaker.receiver"><id>com.github.warren_bank.ptt_bluetooth_speaker.receiver</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>PTT Bluetooth Speaker: Receiver</name><summary>Receives audio from the sender and plays it through the speaker.</summary><desc>Runs in a foreground Service:
+● support for proxy server protocols:
+&amp;nbsp;&amp;nbsp;○ HTTP
+&amp;nbsp;&amp;nbsp;○ HTTPS
+&amp;nbsp;&amp;nbsp;○ SOCKS4
+&amp;nbsp;&amp;nbsp;○ SOCKS5
+● support for authentication methods:
+&amp;nbsp;&amp;nbsp;○ Basic
+&amp;nbsp;&amp;nbsp;○ NTLM
+&amp;nbsp;&amp;nbsp;○ NTLMv2
+● support for enabling of proxy server:
+&amp;nbsp;&amp;nbsp;○ globally, for all apps
+&amp;nbsp;&amp;nbsp;○ only for specific apps
+● support for a blacklist:
+&amp;nbsp;&amp;nbsp;○ IP addresses to bypass the proxy
+● support for a DNS proxy
+● support for multiple profiles
+● basic support for a proxy
+&amp;nbsp;&amp;nbsp;auto-configuration (PAC) file
+● ability to associate a particular
+&amp;nbsp;&amp;nbsp;profile with:
+&amp;nbsp;&amp;nbsp;○ WiFi SSID
+&amp;nbsp;&amp;nbsp;○ Mobile Network
+● widget to toggle proxy on/off
+● runtime efficiency:
+&amp;nbsp;&amp;nbsp;○ consumes little battery
+&amp;nbsp;&amp;nbsp;○ uses little RAM</desc><license>GPL-3.0</license><categories>Connectivity,Internet,System</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/fork-Android-proxydroid/tree/no-ads</source><tracker>https://github.com/warren-bank/fork-Android-proxydroid/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>3.2.0.003</marketversion><marketvercode>320003</marketvercode><requirements>root</requirements><package><version>3.2.0.003</version><versioncode>320003</versioncode><apkname>proxydroid-3.2.0.003-withAllLanguageTranslations-universal-release.apk</apkname><hash type="sha256">20ba9b3e02a96cb10df4849710d220930e8ef23f843ccbcfa390c724fa27ea1b</hash><size>11477604</size><sdkver>16</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions><uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/><uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/><nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode></package></application><application id="com.github.warren_bank.ptt_bluetooth_speaker.receiver"><id>com.github.warren_bank.ptt_bluetooth_speaker.receiver</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>PTT Bluetooth Speaker: Receiver</name><summary>Receives audio from the sender and plays it through the speaker.</summary><desc>Runs in a foreground Service:
 
-* there is no visible UI
-* makes the Bluetooth adapter discoverable
-* starts a Bluetooth Socket server
-* listens for a connection from a sender
+● there is no visible UI
+● makes the Bluetooth adapter
+&amp;nbsp;&amp;nbsp;discoverable
+● starts a Bluetooth Socket server
+● listens for a connection from a sender
 
 When a sender connects:
 
-* stops listening for a sender connection
-* plays the audio stream from the connected Socket
+● stops listening for a sender
+&amp;nbsp;&amp;nbsp;connection
+● plays the audio stream from the
+&amp;nbsp;&amp;nbsp;connected Socket
 
 When a sender disconnects:
 
-* resumes listening for a new sender connection
-</desc><license>GPL-2.0</license><categories>Connectivity,Phone &amp; SMS</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker</source><tracker>https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.01.03-10API</marketversion><marketvercode>1010310</marketvercode><package><version>001.01.03-10API</version><versioncode>1010310</versioncode><apkname>PTT-Bluetooth-Speaker-Receiver-001.01.03-10API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">482afa1e41a1db438e58de52aaa3cc198f4672a5bb89a1ee5fce57d99ba66730</hash><size>34731</size><sdkver>10</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_ADVERTISE,BLUETOOTH_CONNECT,BLUETOOTH_SCAN,FOREGROUND_SERVICE,POST_NOTIFICATIONS</permissions></package></application><application id="com.github.warren_bank.ptt_bluetooth_speaker.sender"><id>com.github.warren_bank.ptt_bluetooth_speaker.sender</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>PTT Bluetooth Speaker: Sender</name><summary>Captures audio from the microphone and sends it to the receiver.</summary><desc>Usage:
+● resumes listening for a new sender
+&amp;nbsp;&amp;nbsp;connection</desc><license>GPL-2.0</license><categories>Connectivity,Phone &amp; SMS</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker</source><tracker>https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.01.03-10API</marketversion><marketvercode>1010310</marketvercode><package><version>001.01.03-10API</version><versioncode>1010310</versioncode><apkname>PTT-Bluetooth-Speaker-Receiver-001.01.03-10API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">482afa1e41a1db438e58de52aaa3cc198f4672a5bb89a1ee5fce57d99ba66730</hash><size>34731</size><sdkver>10</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_ADVERTISE,BLUETOOTH_CONNECT,BLUETOOTH_SCAN,FOREGROUND_SERVICE,POST_NOTIFICATIONS</permissions></package></application><application id="com.github.warren_bank.ptt_bluetooth_speaker.sender"><id>com.github.warren_bank.ptt_bluetooth_speaker.sender</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>PTT Bluetooth Speaker: Sender</name><summary>Captures audio from the microphone and sends it to the receiver.</summary><desc>Usage:
 
-* displays a list of all paired Bluetooth devices
-  - click the one that identifies the desired receiver
-  - wait for connection
+● displays a list of all paired
+&amp;nbsp;&amp;nbsp;Bluetooth devices
+&amp;nbsp;&amp;nbsp;○ click the one that identifies the
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;desired receiver
+&amp;nbsp;&amp;nbsp;○ wait for connection
 
-* toggle the PTT button
-  - green indicates that audio is currently being captured
-    from the microphone and streamed through the connected socket
-  - red indicates that the audio stream is currently paused
+● toggle the PTT button
+&amp;nbsp;&amp;nbsp;○ green indicates that audio is
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;currently being captured
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;from the microphone and streamed
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;through the connected socket
+&amp;nbsp;&amp;nbsp;○ red indicates that the audio stream
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;is currently paused
 
-* move the slider to adjust the volume of the audio
-  - default: 25%
-  - maximum: 200%
-</desc><license>GPL-2.0</license><categories>Connectivity,Phone &amp; SMS</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker</source><tracker>https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.01.03-10API</marketversion><marketvercode>1010310</marketvercode><package><version>001.01.03-10API</version><versioncode>1010310</versioncode><apkname>PTT-Bluetooth-Speaker-Sender-001.01.03-10API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">f9aac673dfa0749e7502868b0c1af49a7c94a7b30bf3f180f0a6e3e9ff07f06b</hash><size>63712</size><sdkver>10</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,RECORD_AUDIO</permissions></package></application><application id="com.github.warren_bank.root_script_runner"><id>com.github.warren_bank.root_script_runner</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Root Script Runner</name><summary>Executes shell scripts as the root user.</summary><icon>com.github.warren_bank.root_script_runner.1000114.png</icon><desc>Requires root!
+● move the slider to adjust the volume
+&amp;nbsp;&amp;nbsp;of the audio
+&amp;nbsp;&amp;nbsp;○ default: 25%
+&amp;nbsp;&amp;nbsp;○ maximum: 200%</desc><license>GPL-2.0</license><categories>Connectivity,Phone &amp; SMS</categories><category>Connectivity</category><web></web><source>https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker</source><tracker>https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.01.03-10API</marketversion><marketvercode>1010310</marketvercode><package><version>001.01.03-10API</version><versioncode>1010310</versioncode><apkname>PTT-Bluetooth-Speaker-Sender-001.01.03-10API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">f9aac673dfa0749e7502868b0c1af49a7c94a7b30bf3f180f0a6e3e9ff07f06b</hash><size>63712</size><sdkver>10</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,RECORD_AUDIO</permissions></package></application><application id="com.github.warren_bank.root_script_runner"><id>com.github.warren_bank.root_script_runner</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Root Script Runner</name><summary>Executes shell scripts as the root user.</summary><icon>com.github.warren_bank.root_script_runner.1000114.png</icon><desc>Requires root!
 
 Execution of a shell script can be invoked in two ways:
 
 1. interactive
-     By the user manually choosing a file.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;By the user manually choosing a
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;file.
 2. automatic
-     By an Intent.
-</desc><license>GPL-2.0</license><categories>Development,System</categories><category>Development</category><web></web><source>https://github.com/warren-bank/Android-Root-Script-Runner</source><tracker>https://github.com/warren-bank/Android-Root-Script-Runner/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.00.01-14API</marketversion><marketvercode>1000114</marketvercode><requirements>root</requirements><package><version>001.00.01-14API</version><versioncode>1000114</versioncode><apkname>Root-Script-Runner-release.apk</apkname><hash type="sha256">6fb108a9cc13af19e4626ddd1f3075da3f10dcca12c2bb404e9e6b4c77f37105</hash><size>1392001</size><sdkver>14</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>READ_EXTERNAL_STORAGE</permissions></package></application><application id="com.github.warren_bank.rtsp_ipcam_viewer"><id>com.github.warren_bank.rtsp_ipcam_viewer</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>RTSP IP-Cam Viewer</name><summary>Watch RTSP and RTMP video streams.</summary><desc>These formats are typical of inexpensive IP security cameras.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;By an Intent.</desc><license>GPL-2.0</license><categories>Development,System</categories><category>Development</category><web></web><source>https://github.com/warren-bank/Android-Root-Script-Runner</source><tracker>https://github.com/warren-bank/Android-Root-Script-Runner/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.00.01-14API</marketversion><marketvercode>1000114</marketvercode><requirements>root</requirements><package><version>001.00.01-14API</version><versioncode>1000114</versioncode><apkname>Root-Script-Runner-release.apk</apkname><hash type="sha256">6fb108a9cc13af19e4626ddd1f3075da3f10dcca12c2bb404e9e6b4c77f37105</hash><size>1392001</size><sdkver>14</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>READ_EXTERNAL_STORAGE</permissions></package></application><application id="com.github.warren_bank.rtsp_ipcam_viewer"><id>com.github.warren_bank.rtsp_ipcam_viewer</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>RTSP IP-Cam Viewer</name><summary>Watch RTSP and RTMP video streams.</summary><desc>These formats are typical of inexpensive IP security cameras.
 
 Features include the ability to:
 
-* configure an unlimited number of video streams
-* import video streams from a JSON file
-* each stream can include URLs for two sources:
-  - low resolution
-  - high resolution
-* selectively enable and disable streams in the list
-* display the enabled streams in either a list or grid layout
-  - uses low resolution (when available)
-* select a single stream from the list or grid layout
-  - displays in full screen
-  - uses high resolution (when available)
+● configure an unlimited number of video
+&amp;nbsp;&amp;nbsp;streams
+● import video streams from a JSON file
+● each stream can include URLs for two
+&amp;nbsp;&amp;nbsp;sources:
+&amp;nbsp;&amp;nbsp;○ low resolution
+&amp;nbsp;&amp;nbsp;○ high resolution
+● selectively enable and disable streams
+&amp;nbsp;&amp;nbsp;in the list
+● display the enabled streams in either
+&amp;nbsp;&amp;nbsp;a list or grid layout
+&amp;nbsp;&amp;nbsp;○ uses low resolution (when available)
+● select a single stream from the list
+&amp;nbsp;&amp;nbsp;or grid layout
+&amp;nbsp;&amp;nbsp;○ displays in full screen
+&amp;nbsp;&amp;nbsp;○ uses high resolution (when
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;available)
 
 History:
 
 This application was originally written to test an experimental branch of ExoPlayer. At the time, this branch had an open pull request that hadn't been merged after several years:
-  https://github.com/google/ExoPlayer/pull/3854
+&amp;nbsp;&amp;nbsp;https://github.com/google/ExoPlayer/pull/3854
 
-Eventually, this branch was merged. Now, this application uses a stable build of ExoPlayer. Which, imho, makes it less interesting. But it may still be useful.
-</desc><license>GPL-2.0</license><categories>Internet,Multimedia,Security</categories><category>Internet</category><web></web><source>https://github.com/warren-bank/Android-RTSP-IPCam-Viewer</source><tracker>https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.04.01-16API</marketversion><marketvercode>2040116</marketvercode><package><version>002.04.01-16API</version><versioncode>2040116</versioncode><apkname>RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">145bb18dd8da91eb73d0fd2d13767275a014db5c25c8e56d7c8034d468d703a3</hash><size>3816963</size><sdkver>16</sdkver><targetSdkVersion>29</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE</permissions><nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode></package></application><application id="com.github.warren_bank.slideshow_screensaver"><id>com.github.warren_bank.slideshow_screensaver</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Slideshow Screensaver</name><summary>Screensaver that displays a slideshow of local images.</summary><desc>Slideshow Settings:
+Eventually, this branch was merged. Now, this application uses a stable build of ExoPlayer. Which, imho, makes it less interesting. But it may still be useful.</desc><license>GPL-2.0</license><categories>Internet,Multimedia,Security</categories><category>Internet</category><web></web><source>https://github.com/warren-bank/Android-RTSP-IPCam-Viewer</source><tracker>https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.04.01-16API</marketversion><marketvercode>2040116</marketvercode><package><version>002.04.01-16API</version><versioncode>2040116</versioncode><apkname>RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">145bb18dd8da91eb73d0fd2d13767275a014db5c25c8e56d7c8034d468d703a3</hash><size>3816963</size><sdkver>16</sdkver><targetSdkVersion>29</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE</permissions><nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode></package></application><application id="com.github.warren_bank.slideshow_screensaver"><id>com.github.warren_bank.slideshow_screensaver</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Slideshow Screensaver</name><summary>Screensaver that displays a slideshow of local images.</summary><desc>Slideshow Settings:
 
-* Time Duration (ms)
-    The period of time each image is displayed.
-* Use MediaStore provider
-    Obtains image files from Android index.
-* Directory path
-    Obtain images from a particular directory in the filesystem.
-* Recurse into subdirectories
-* Random order
-</desc><license>GPL-2.0</license><categories>Graphics,System</categories><category>Graphics</category><web></web><source>https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/tree/v02</source><tracker>https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.01.04-17API</marketversion><marketvercode>2010417</marketvercode><package><version>002.01.04-17API</version><versioncode>2010417</versioncode><apkname>Slideshow-Screensaver-002.01.04-17API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">7bd7ebbcc7c12b14ddae2b3fcfe1859282dcf3bf1319584076c6683c50d6a840</hash><size>480732</size><sdkver>17</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES</permissions><uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/></package></application><application id="com.github.warren_bank.sms_automatic_forwarding"><id>com.github.warren_bank.sms_automatic_forwarding</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>SMS Forwarding</name><summary>Inspect received SMS messages and conditionally forward them.</summary><icon>com.github.warren_bank.sms_automatic_forwarding.1000311.png</icon><desc>The conditions are defined by a list of rules. Each rule associates a forwarding recipient telephone number with a pattern that must match the sender of a received SMS message.
+● Time Duration (ms)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The period of time each image is
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;displayed.
+● Use MediaStore provider
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Obtains image files from Android
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;index.
+● Directory path
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Obtain images from a particular
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;directory in the filesystem.
+● Recurse into subdirectories
+● Random order</desc><license>GPL-2.0</license><categories>Graphics,System</categories><category>Graphics</category><web></web><source>https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/tree/v02</source><tracker>https://github.com/warren-bank/Android-Image-Slideshow-Screensaver/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.01.04-17API</marketversion><marketvercode>2010417</marketvercode><package><version>002.01.04-17API</version><versioncode>2010417</versioncode><apkname>Slideshow-Screensaver-002.01.04-17API-withAllLanguageTranslations-release.apk</apkname><hash type="sha256">7bd7ebbcc7c12b14ddae2b3fcfe1859282dcf3bf1319584076c6683c50d6a840</hash><size>480732</size><sdkver>17</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES</permissions><uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/></package></application><application id="com.github.warren_bank.sms_automatic_forwarding"><id>com.github.warren_bank.sms_automatic_forwarding</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>SMS Forwarding</name><summary>Inspect received SMS messages and conditionally forward them.</summary><icon>com.github.warren_bank.sms_automatic_forwarding.1000311.png</icon><desc>The conditions are defined by a list of rules. Each rule associates a forwarding recipient telephone number with a pattern that must match the sender of a received SMS message.
 
-When a new SMS message is received, it is forwarded to recipient telephone numbers according to each rule having a matching pattern.
-</desc><license>GPL-2.0</license><categories>Phone &amp; SMS</categories><category>Phone &amp; SMS</category><web></web><source>https://github.com/warren-bank/Android-SMS-Automatic-Forwarding</source><tracker>https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.00.03-11API</marketversion><marketvercode>1000311</marketvercode><package><version>001.00.03-11API</version><versioncode>1000311</versioncode><apkname>SMS-Forwarding-release.apk</apkname><hash type="sha256">311a0ca63a6b398ce183899e5332ae839a010b55e9c4593d5f87f0ff64e2d1a7</hash><size>113585</size><sdkver>11</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>RECEIVE_SMS,SEND_SMS</permissions></package></application><application id="com.github.warren_bank.sms_automatic_reply_gps"><id>com.github.warren_bank.sms_automatic_reply_gps</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>SMS my GPS</name><summary>Inspect received SMS messages and conditionally reply with GPS location data.</summary><icon>com.github.warren_bank.sms_automatic_reply_gps.2010711.png</icon><desc>Conditional criteria include:
+When a new SMS message is received, it is forwarded to recipient telephone numbers according to each rule having a matching pattern.</desc><license>GPL-2.0</license><categories>Phone &amp; SMS</categories><category>Phone &amp; SMS</category><web></web><source>https://github.com/warren-bank/Android-SMS-Automatic-Forwarding</source><tracker>https://github.com/warren-bank/Android-SMS-Automatic-Forwarding/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>001.00.03-11API</marketversion><marketvercode>1000311</marketvercode><package><version>001.00.03-11API</version><versioncode>1000311</versioncode><apkname>SMS-Forwarding-release.apk</apkname><hash type="sha256">311a0ca63a6b398ce183899e5332ae839a010b55e9c4593d5f87f0ff64e2d1a7</hash><size>113585</size><sdkver>11</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>RECEIVE_SMS,SEND_SMS</permissions></package></application><application id="com.github.warren_bank.sms_automatic_reply_gps"><id>com.github.warren_bank.sms_automatic_reply_gps</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>SMS my GPS</name><summary>Inspect received SMS messages and conditionally reply with GPS location data.</summary><icon>com.github.warren_bank.sms_automatic_reply_gps.2010711.png</icon><desc>Conditional criteria include:
 
-* a whitelist of sender phone numbers
-* a substring that must occur at the beginning
-  of the received SMS message
+● a whitelist of sender phone numbers
+● a substring that must occur at the
+&amp;nbsp;&amp;nbsp;beginning of the received SMS message
 
 GPS location data include:
 
-* latitude and longitude coordinates
-* accuracy (meters)
-* speed (meters/sec)
-* direction (cardinal or ordinal, and degrees)
-* URL to Google Maps
-</desc><license>GPL-2.0</license><categories>Navigation,Phone &amp; SMS</categories><category>Navigation</category><web></web><source>https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS</source><tracker>https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.01.07-11API</marketversion><marketvercode>2010711</marketvercode><package><version>002.01.07-11API</version><versioncode>2010711</versioncode><apkname>SMS-my-GPS-release.apk</apkname><hash type="sha256">ca0282e7baba4a6205c5d40cb61e0d981b26513b8529340944d526156a97d36c</hash><size>194629</size><sdkver>11</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_FINE_LOCATION,RECEIVE_SMS,SEND_SMS</permissions><features>android.hardware.location.gps</features></package></application><application id="com.github.warren_bank.tiny_television_time_tracker"><id>com.github.warren_bank.tiny_television_time_tracker</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>Tiny Television Time Tracker (TV Tracker)</name><summary>Track your favorite television series.</summary><desc>Features include the ability to:
+● latitude and longitude coordinates
+● accuracy (meters)
+● speed (meters/sec)
+● direction (cardinal or ordinal, and
+&amp;nbsp;&amp;nbsp;degrees)
+● URL to Google Maps</desc><license>GPL-2.0</license><categories>Navigation,Phone &amp; SMS</categories><category>Navigation</category><web></web><source>https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS</source><tracker>https://github.com/warren-bank/Android-SMS-Automatic-Reply-GPS/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>002.01.07-11API</marketversion><marketvercode>2010711</marketvercode><package><version>002.01.07-11API</version><versioncode>2010711</versioncode><apkname>SMS-my-GPS-release.apk</apkname><hash type="sha256">ca0282e7baba4a6205c5d40cb61e0d981b26513b8529340944d526156a97d36c</hash><size>194629</size><sdkver>11</sdkver><targetSdkVersion>28</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_FINE_LOCATION,RECEIVE_SMS,SEND_SMS</permissions><features>android.hardware.location.gps</features></package></application><application id="com.github.warren_bank.tiny_television_time_tracker"><id>com.github.warren_bank.tiny_television_time_tracker</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>Tiny Television Time Tracker (TV Tracker)</name><summary>Track your favorite television series.</summary><desc>Features include the ability to:
 
-* search for television series by name
-* add television series in search results to a list
-* sort and filter the list of added television series
-* drill into the list to read detailed information
-  about each series and its available episodes
-* mark episodes as having been watched
-* mark series as disabled
-* associate each series with external URLs
-  - ex: web sites where the series can be watched
-* update the television series in the list
-  - to obtain information about new episodes
+● search for television series by name
+● add television series in search
+&amp;nbsp;&amp;nbsp;results to a list
+● sort and filter the list of added
+&amp;nbsp;&amp;nbsp;television series
+● drill into the list to read detailed
+&amp;nbsp;&amp;nbsp;information about each series and its
+&amp;nbsp;&amp;nbsp;available episodes
+● mark episodes as having been watched
+● mark series as disabled
+● associate each series with external
+&amp;nbsp;&amp;nbsp;URLs
+&amp;nbsp;&amp;nbsp;○ ex: web sites where the series can
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;be watched
+● update the television series in the
+&amp;nbsp;&amp;nbsp;list
+&amp;nbsp;&amp;nbsp;○ to obtain information about new
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;episodes
 
 Network requirements:
 
-* the list of added television series
-  can be used while fully offline
-* an internet connection is only needed
-  to manually add or update television series
+● the list of added television series
+&amp;nbsp;&amp;nbsp;can be used while fully offline
+● an internet connection is only needed
+&amp;nbsp;&amp;nbsp;to manually add or update television
+&amp;nbsp;&amp;nbsp;series
 
 Credits:
 
-* all data is obtained from The Movie Database (TMDB),
-  using version 3 of the TMDB API
-* historic lineage:
-  1. DroidSeries
-       https://github.com/pcabido/droidseries
-  2. DroidShows
-       https://github.com/ltguillaume/droidshows
-  3. Tiny Television Time Tracker (TV Tracker)
-</desc><license>GPL-3.0</license><categories>Multimedia,Time</categories><category>Multimedia</category><web></web><source>https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/tree/fork/tmdb</source><tracker>https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>008.00.24-09API</marketversion><marketvercode>8002409</marketvercode><package><version>008.00.24-09API</version><versioncode>8002409</versioncode><apkname>TV-Tracker-008.00.24-09API-english-release.apk</apkname><hash type="sha256">21f724dc3e03100a03bb4a1eeea47e1828d73275ae7e3bd91e1c54242c28d3b6</hash><size>824283</size><sdkver>9</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE</permissions><uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/><uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/></package></application><application id="com.github.warren_bank.webcast"><id>com.github.warren_bank.webcast</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>WebCast</name><summary>Light-weight web browser to extract video URLs from web sites.</summary><desc>Video URLs on the current web page are displayed in a list.
+● all data is obtained from The Movie
+&amp;nbsp;&amp;nbsp;Database (TMDB), using version 3 of
+&amp;nbsp;&amp;nbsp;the TMDB API
+● historic lineage:
+&amp;nbsp;&amp;nbsp;1. DroidSeries
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;https://github.com/pcabido/droidseries
+&amp;nbsp;&amp;nbsp;2. DroidShows
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;https://github.com/ltguillaume/droidshows
+&amp;nbsp;&amp;nbsp;3. Tiny Television Time Tracker</desc><license>GPL-3.0</license><categories>Multimedia,Time</categories><category>Multimedia</category><web></web><source>https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/tree/fork/tmdb</source><tracker>https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>008.00.24-09API</marketversion><marketvercode>8002409</marketvercode><package><version>008.00.24-09API</version><versioncode>8002409</versioncode><apkname>TV-Tracker-008.00.24-09API-english-release.apk</apkname><hash type="sha256">21f724dc3e03100a03bb4a1eeea47e1828d73275ae7e3bd91e1c54242c28d3b6</hash><size>824283</size><sdkver>9</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE</permissions><uses-permission maxSdkVersion="29" name="android.permission.READ_EXTERNAL_STORAGE"/><uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/></package></application><application id="com.github.warren_bank.webcast"><id>com.github.warren_bank.webcast</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>WebCast</name><summary>Light-weight web browser to extract video URLs from web sites.</summary><desc>Video URLs on the current web page are displayed in a list.
 
 Settings determine the behavior when a video URL is selected:
-* the internal video player includes a Chromecast sender
-* the external video player allows another app to play the video URL
-* the &quot;ExoAirPlayer&quot; and &quot;HLS Proxy&quot; senders
-  each load a static web page SPA client for the chosen server
-</desc><license>GPL-2.0</license><categories>Internet,Multimedia</categories><category>Internet</category><web></web><source>https://github.com/warren-bank/Android-WebCast/tree/05-webcast-filename-media3</source><tracker>https://github.com/warren-bank/Android-WebCast/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>005.01.00-16API</marketversion><marketvercode>5010016</marketvercode><package><version>005.01.00-16API</version><versioncode>5010016</versioncode><apkname>WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk</apkname><hash type="sha256">cd6a4dd6c4b449717ec5bb71c44f9b81366a7c1b1eac959d205ea3dbf96e3129</hash><size>5148121</size><sdkver>16</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK</permissions></package></application><application id="com.github.warren_bank.webmonkey"><id>com.github.warren_bank.webmonkey</id><added>2023-10-29</added><lastupdated>2023-10-29</lastupdated><name>WebMonkey</name><summary>Light-weight web browser with support for Greasemonkey userscripts.</summary><desc>Features include:
+● the internal video player includes a
+&amp;nbsp;&amp;nbsp;Chromecast sender
+● the external video player allows
+&amp;nbsp;&amp;nbsp;another app to play the video URL
+● the &quot;ExoAirPlayer&quot; and &quot;HLS Proxy&quot;
+&amp;nbsp;&amp;nbsp;senders each load a static web page
+&amp;nbsp;&amp;nbsp;SPA client for the chosen server</desc><license>GPL-2.0</license><categories>Internet,Multimedia</categories><category>Internet</category><web></web><source>https://github.com/warren-bank/Android-WebCast/tree/05-webcast-filename-media3</source><tracker>https://github.com/warren-bank/Android-WebCast/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>005.01.00-16API</marketversion><marketvercode>5010016</marketvercode><package><version>005.01.00-16API</version><versioncode>5010016</versioncode><apkname>WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk</apkname><hash type="sha256">cd6a4dd6c4b449717ec5bb71c44f9b81366a7c1b1eac959d205ea3dbf96e3129</hash><size>5148121</size><sdkver>16</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK</permissions></package></application><application id="com.github.warren_bank.webmonkey"><id>com.github.warren_bank.webmonkey</id><added>2023-11-08</added><lastupdated>2023-11-08</lastupdated><name>WebMonkey</name><summary>Light-weight web browser with support for Greasemonkey userscripts.</summary><desc>Features include:
 
-* detection of userscript URLs
-* automatic userscript updates
-* an extended Javascript API
-  to expose Android specific capabilities
-* the ability to ignore HTTPS certificate errors
+● detection of userscript URLs
+● automatic userscript updates
+● an extended Javascript API to expose
+&amp;nbsp;&amp;nbsp;Android specific capabilities
+● the ability to ignore HTTPS
+&amp;nbsp;&amp;nbsp;certificate errors
 
 Limitations:
 
-* userscripts only run in the top window
-  - script injection into iframes is possible,
-    but requires a complicated workaround;
-    refer to the README for details.
-</desc><license>GPL-2.0</license><categories>Internet</categories><category>Internet</category><web>https://warren-bank.github.io/Android-WebMonkey/index.html</web><source>https://github.com/warren-bank/Android-WebMonkey/tree/v03</source><tracker>https://github.com/warren-bank/Android-WebMonkey/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>003.00.01-08API</marketversion><marketvercode>3000108</marketvercode><package><version>003.00.01-08API</version><versioncode>3000108</versioncode><apkname>WebMonkey-003.00.01-08API-english-noAdBlock-release.apk</apkname><hash type="sha256">8395a859e670c549318547a064b105945a3f9100815612117c290ebc5861fd3e</hash><size>105888</size><sdkver>8</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-10-29</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>INTERNET</permissions></package></application></fdroid>
+● userscripts only run in the top window
+&amp;nbsp;&amp;nbsp;○ script injection into iframes is
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;possible, but requires a complicated
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;workaround; refer to the README for
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;details.</desc><license>GPL-2.0</license><categories>Internet</categories><category>Internet</category><web>https://warren-bank.github.io/Android-WebMonkey/index.html</web><source>https://github.com/warren-bank/Android-WebMonkey/tree/v03</source><tracker>https://github.com/warren-bank/Android-WebMonkey/issues</tracker><author>Warren R Bank</author><email>warren.r.bank@gmail.com</email><marketversion>003.00.01-08API</marketversion><marketvercode>3000108</marketvercode><package><version>003.00.01-08API</version><versioncode>3000108</versioncode><apkname>WebMonkey-003.00.01-08API-english-noAdBlock-release.apk</apkname><hash type="sha256">8395a859e670c549318547a064b105945a3f9100815612117c290ebc5861fd3e</hash><size>105888</size><sdkver>8</sdkver><targetSdkVersion>33</targetSdkVersion><added>2023-11-08</added><sig>11bed9dcaf2e358faa7bded91aafaf05</sig><permissions>INTERNET</permissions></package></application></fdroid>
