@@ -1,10 +1,24 @@
 Slideshow Settings:
 
-* Time Duration (ms)
-    The period of time each image is displayed.
-* Use MediaStore provider
-    Obtains image files from Android index.
-* Directory path
-    Obtain images from a particular directory in the filesystem.
-* Recurse into subdirectories
-* Random order
+<ul>
+<li>Time Duration (ms)<blockquote>
+
+The period of time each image is displayed.
+
+</blockquote>
+</li>
+<li>Use <em>MediaStore</em> provider<blockquote>
+
+Obtains image files from Android index.
+
+</blockquote>
+</li>
+<li>Directory path<blockquote>
+
+Obtain images from a particular directory in the filesystem.
+
+</blockquote>
+</li>
+<li>Recurse into subdirectories</li>
+<li>Random order</li>
+</ul>

@@ -2,27 +2,41 @@ Requires root!
 
 Features include:
 
-* support for proxy server protocols:
-  - HTTP
-  - HTTPS
-  - SOCKS4
-  - SOCKS5
-* support for authentication methods:
-  - Basic
-  - NTLM
-  - NTLMv2
-* support for enabling of proxy server:
-  - globally, for all apps
-  - only for specific apps
-* support for a blacklist:
-  - IP addresses to bypass the proxy
-* support for a DNS proxy
-* support for multiple profiles
-* basic support for a proxy auto-configuration (PAC) file
-* ability to associate a particular profile with:
-  - WiFi SSID
-  - Mobile Network
-* widget to toggle proxy on/off
-* runtime efficiency:
-  - consumes little battery
-  - uses little RAM
+<ul>
+<li>support for proxy server protocols:<ul>
+<li>HTTP</li>
+<li>HTTPS</li>
+<li>SOCKS4</li>
+<li>SOCKS5</li>
+</ul>
+</li>
+<li>support for authentication methods:<ul>
+<li>Basic</li>
+<li>NTLM</li>
+<li>NTLMv2</li>
+</ul>
+</li>
+<li>support for enabling of proxy server:<ul>
+<li>globally, for all apps</li>
+<li>only for specific apps</li>
+</ul>
+</li>
+<li>support for a blacklist:<ul>
+<li>IP addresses to bypass the proxy</li>
+</ul>
+</li>
+<li>support for a DNS proxy</li>
+<li>support for multiple profiles</li>
+<li>basic support for a proxy auto-configuration (PAC) file</li>
+<li>ability to associate a particular profile with:<ul>
+<li>WiFi SSID</li>
+<li>Mobile Network</li>
+</ul>
+</li>
+<li>widget to toggle proxy on/off</li>
+<li>runtime efficiency:<ul>
+<li>consumes little battery</li>
+<li>uses little RAM</li>
+</ul>
+</li>
+</ul>

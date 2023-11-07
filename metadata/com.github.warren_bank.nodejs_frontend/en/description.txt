@@ -1,26 +1,44 @@
 Features include the ability to:
 
-* configure and save any number of application profiles
-* each application profile can specify:
-  - title
-  - file path to main Javascript file
-  - command line options for the Node.js runtime
-  - command line options for the application
-  - environment variables
-  - current working directory
-* application profiles are grouped by:
-  - "exec"
-      Applications share a single process.
-      Only one can execute at a time.
-  - "fork"
-      Each application is given its own process.
-      Each executes in a foreground service.
-      An associated notification kills the process.
-* backup and restore:
-  - export all application profiles to JSON
-  - import new application profiles from JSON
+<ul>
+<li>configure and save any number of application profiles</li>
+<li>each application profile can specify:<ul>
+<li>title</li>
+<li>file path to main Javascript file</li>
+<li>command line options for the Node.js runtime</li>
+<li>command line options for the application</li>
+<li>environment variables</li>
+<li>current working directory</li>
+</ul>
+</li>
+<li>application profiles are grouped by:<ul>
+<li><em>&quot;exec&quot;</em><blockquote>
+
+Applications share a single process.<br>
+Only one can execute at a time.
+
+</blockquote>
+</li>
+<li><em>&quot;fork&quot;</em><blockquote>
+
+Each application is given its own process.<br>
+Each executes in a foreground service.<br>
+An associated notification kills the process.
+
+</blockquote>
+</li>
+</ul>
+</li>
+<li>backup and restore:<ul>
+<li>export all application profiles to JSON</li>
+<li>import new application profiles from JSON</li>
+</ul>
+</li>
+</ul>
 
 Embedded runtime environment:
 
-* Node.js 12.19.0
-* OpenSSL 1.1.1g
+<ul>
+<li>Node.js 12.19.0</li>
+<li>OpenSSL 1.1.1g</li>
+</ul>

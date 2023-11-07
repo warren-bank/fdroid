@@ -1,31 +1,51 @@
 Features include the ability to:
 
-* search for television series by name
-* add television series in search results to a list
-* sort and filter the list of added television series
-* drill into the list to read detailed information
-  about each series and its available episodes
-* mark episodes as having been watched
-* mark series as disabled
-* associate each series with external URLs
-  - ex: web sites where the series can be watched
-* update the television series in the list
-  - to obtain information about new episodes
+<ul>
+<li>search for television series by name</li>
+<li>add television series in search results to a list</li>
+<li>sort and filter the list of added television series</li>
+<li>drill into the list to read detailed information
+about each series and its available episodes</li>
+<li>mark episodes as having been watched</li>
+<li>mark series as disabled</li>
+<li>associate each series with external URLs<ul>
+<li>ex: web sites where the series can be watched</li>
+</ul>
+</li>
+<li>update the television series in the list<ul>
+<li>to obtain information about new episodes</li>
+</ul>
+</li>
+</ul>
 
 Network requirements:
 
-* the list of added television series
-  can be used while fully offline
-* an internet connection is only needed
-  to manually add or update television series
+<ul>
+<li>the list of added television series
+can be used while fully offline</li>
+<li>an internet connection is only needed
+to manually add or update television series</li>
+</ul>
 
 Credits:
 
-* all data is obtained from The Movie Database (TMDB),
-  using version 3 of the TMDB API
-* historic lineage:
-  1. DroidSeries
-       https://github.com/pcabido/droidseries
-  2. DroidShows
-       https://github.com/ltguillaume/droidshows
-  3. Tiny Television Time Tracker (TV Tracker)
+<ul>
+<li>all data is obtained from The Movie Database (TMDB),
+using version 3 of the TMDB API</li>
+<li>historic lineage:<ol>
+<li>DroidSeries<blockquote>
+
+<a href="https://github.com/pcabido/droidseries">https://github.com/pcabido/droidseries</a>
+
+</blockquote>
+</li>
+<li>DroidShows<blockquote>
+
+<a href="https://github.com/ltguillaume/droidshows">https://github.com/ltguillaume/droidshows</a>
+
+</blockquote>
+</li>
+<li>Tiny Television Time Tracker (TV Tracker)</li>
+</ol>
+</li>
+</ul>

@@ -1,24 +1,36 @@
 Background:
 
-* an Android Intent can be used to open
-  a precise part of any installed application,
-  and pass to it any type or quantity of data
-* as such, an Intent is like an Android bookmark
+<ul>
+<li>an Android Intent can be used to open
+a precise part of any installed application,
+and pass to it any type or quantity of data</li>
+<li>as such, an Intent is like an Android bookmark</li>
+</ul>
 
 Features include the ability to:
 
-* configure and save Intents as named bookmarks
-* use bookmarks to:
-  - start an Activity
-  - start a Service
-  - send a Broadcast
-* schedule bookmarks to be used later:
-  - one time
-  - at an interval
-* intercept Intents started by other applications:
-  - to modify
-  - to save
-* backup and restore:
-  - the entire SQLite database
-  - JSON data file
-  - Netscape Bookmark HTML data file
+<ul>
+<li>configure and save Intents as named bookmarks</li>
+<li>use bookmarks to:<ul>
+<li>start an Activity</li>
+<li>start a Service</li>
+<li>send a Broadcast</li>
+</ul>
+</li>
+<li>schedule bookmarks to be used later:<ul>
+<li>one time</li>
+<li>at an interval</li>
+</ul>
+</li>
+<li>intercept Intents started by other applications:<ul>
+<li>to modify</li>
+<li>to save</li>
+</ul>
+</li>
+<li>backup and restore:<ul>
+<li>the entire SQLite database</li>
+<li>JSON data file</li>
+<li>Netscape Bookmark HTML data file</li>
+</ul>
+</li>
+</ul>

@@ -1,0 +1,28 @@
+Requires root!
+
+Features include:
+
+* support for proxy server protocols:
+  * HTTP
+  * HTTPS
+  * SOCKS4
+  * SOCKS5
+* support for authentication methods:
+  * Basic
+  * NTLM
+  * NTLMv2
+* support for enabling of proxy server:
+  * globally, for all apps
+  * only for specific apps
+* support for a blacklist:
+  * IP addresses to bypass the proxy
+* support for a DNS proxy
+* support for multiple profiles
+* basic support for a proxy auto-configuration (PAC) file
+* ability to associate a particular profile with:
+  * WiFi SSID
+  * Mobile Network
+* widget to toggle proxy on/off
+* runtime efficiency:
+  * consumes little battery
+  * uses little RAM

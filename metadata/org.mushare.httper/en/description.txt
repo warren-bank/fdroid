@@ -1,16 +1,20 @@
 Configurable HTTP request attributes:
 
-* method
-* protocol
-* URL
-* headers
-* querystring parameters
-* body
+<ul>
+<li>method</li>
+<li>protocol</li>
+<li>URL</li>
+<li>headers</li>
+<li>querystring parameters</li>
+<li>body</li>
+</ul>
 
 Features include the ability to:
 
-* send a request once
-* send a request repeatedly at a specified time interval
-* reload the configuration of a prior request from a history log
-* pretty print JSON response data
-* preview HTML response data
+<ul>
+<li>send a request once</li>
+<li>send a request repeatedly at a specified time interval</li>
+<li>reload the configuration of a prior request from a history log</li>
+<li>pretty print JSON response data</li>
+<li>preview HTML response data</li>
+</ul>

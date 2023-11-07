@@ -1,14 +1,30 @@
 Features include the ability to:
 
-* sort the list of geographic coordinates:
-  - sequential
-      Ordered as the locations occur in the input file.
-      ex: a precise travel itinerary
-  - distance
-      Ordered by distance from the current location.
-      ex: ad-hoc exploration of nearby POI
-  - alphabetic
-      Ordered by the descriptive names associated with locations.
-      ex: bookmarks of favorite places
-* click on a list item to open the corresponding location
-  in an external application, such as mapping or navigation.
+<ul>
+<li>sort the list of geographic coordinates:<ul>
+<li>sequential<blockquote>
+
+Ordered as the locations occur in the input file.<br>
+ex: a precise travel itinerary
+
+</blockquote>
+</li>
+<li>distance<blockquote>
+
+Ordered by distance from the current location.<br>
+ex: ad-hoc exploration of nearby POI
+
+</blockquote>
+</li>
+<li>alphabetic<blockquote>
+
+Ordered by the descriptive names associated with locations.<br>
+ex: bookmarks of favorite places
+
+</blockquote>
+</li>
+</ul>
+</li>
+<li>click on a list item to open the corresponding location
+in an external application, such as mapping or navigation.</li>
+</ul>

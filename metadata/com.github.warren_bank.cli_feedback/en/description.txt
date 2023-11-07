@@ -1,7 +1,9 @@
 Types of user feedback:
 
-* show a Toast
-* show a Notification
-* play an audio Ringtone
+<ul>
+<li>show a Toast</li>
+<li>show a Notification</li>
+<li>play an audio Ringtone</li>
+</ul>
 
 All types of user feedback are started by Intent. This utility can be used both by other applications, as well as directly by the user from a command line terminal emulator.

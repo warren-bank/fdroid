@@ -1,14 +1,20 @@
 Features include:
 
-* detection of userscript URLs
-* automatic userscript updates
-* an extended Javascript API
-  to expose Android specific capabilities
-* the ability to ignore HTTPS certificate errors
+<ul>
+<li>detection of userscript URLs</li>
+<li>automatic userscript updates</li>
+<li>an extended Javascript API
+to expose Android specific capabilities</li>
+<li>the ability to ignore HTTPS certificate errors</li>
+</ul>
 
 Limitations:
 
-* userscripts only run in the top window
-  - script injection into iframes is possible,
-    but requires a complicated workaround;
-    refer to the README for details.
+<ul>
+<li>userscripts only run in the top window<ul>
+<li>script injection into iframes is possible,
+but requires a complicated workaround;
+refer to the <em>README</em> for details.</li>
+</ul>
+</li>
+</ul>
