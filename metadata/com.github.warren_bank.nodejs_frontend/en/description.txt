@@ -10,12 +10,9 @@ Features include the ability to:
   - current working directory
 * application profiles are grouped by:
   - "exec"
-      Applications share a single process.
-      Only one can execute at a time.
+      Applications share a single process. Only one can execute at a time.
   - "fork"
-      Each application is given its own process.
-      Each executes in a foreground service.
-      An associated notification kills the process.
+      Each application is given its own process. Each executes in a foreground service. An associated notification kills the process.
 * backup and restore:
   - export all application profiles to JSON
   - import new application profiles from JSON

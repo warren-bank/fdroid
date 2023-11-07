@@ -1,8 +1,6 @@
 Background:
 
-* an Android Intent can be used to open
-  a precise part of any installed application,
-  and pass to it any type or quantity of data
+* an Android Intent can be used to open a precise part of any installed application, and pass to it any type or quantity of data
 * as such, an Intent is like an Android bookmark
 
 Features include the ability to:

@@ -1,8 +1,7 @@
 Conditional criteria include:
 
 * a whitelist of sender phone numbers
-* a substring that must occur at the beginning
-  of the received SMS message
+* a substring that must occur at the beginning of the received SMS message
 
 GPS location data include:
 

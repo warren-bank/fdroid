@@ -15,10 +15,12 @@ Variations:
 Android integration:
 
 1. enable Developer Options
-     Settings > System > About phone
-   repeatedly click 7 times:
-     Build number
+   * open:
+       Settings > System > About phone
+   * repeatedly click 7 times:
+       Build number
 2. configure:
-     Settings > System > Developer Options
-   values:
-     Select mock location app: "Mock my GPS"
+   * open:
+       Settings > System > Developer Options
+   * save values:
+       Mock location app: "Mock my GPS"

@@ -9,6 +9,4 @@ Allows "Mock my GPS" to behave as a mock location provider for "UnifiedNlp".
 "UnifiedNlp" integration of mock location data:
 
 * is only enabled while "Mock my GPS" is active
-* is prioritized over other "UnifiedNlp" backend plugins
-  by advancing the timestamp 45 seconds,
-  so it appears to be most recent
+* is prioritized over other "UnifiedNlp" backend plugins by advancing the timestamp 45 seconds, so it appears to be most recent

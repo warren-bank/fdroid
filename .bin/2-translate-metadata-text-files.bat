@@ -15,4 +15,4 @@ rem :: -------------------------------------------
 
 call "%USERPROFILE%\IBM_TRANSLATOR_API_CREDENTIALS.bat"
 
-call translate-fdroid-metadata-text-files -i "%default_locale%" -d "%metadata_dir%" -c "icon.png" >>"%log_filepath%" 2>&1
+call translate-fdroid-metadata-text-files -i "%default_locale%" -d "%metadata_dir%" -c "icon.png" --html-entities >>"%log_filepath%" 2>&1
