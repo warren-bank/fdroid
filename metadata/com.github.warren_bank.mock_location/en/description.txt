@@ -1,10 +1,13 @@
 Features include the ability to:
 
-* mock a fixed position
-* simulate a trip
-* use a joystick to move relative to a mock fixed position
-* accept latitude and longitude geo-coordinate pairs from Intents
-* save latitude and longitude geo-coordinate pairs as named bookmarks
+● mock a fixed position
+● simulate a trip
+● use a joystick to move relative to a mock
+&nbsp;&nbsp;fixed position
+● accept latitude and longitude
+&nbsp;&nbsp;geo-coordinate pairs from Intents
+● save latitude and longitude geo-coordinate
+&nbsp;&nbsp;pairs as named bookmarks
 
 Variations:
 
@@ -15,12 +18,12 @@ Variations:
 Android integration:
 
 1. enable Developer Options
-   * open:
-       Settings > System > About phone
-   * repeatedly click 7 times:
-       Build number
+&nbsp;&nbsp;&nbsp;● open:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Settings > System > About phone
+&nbsp;&nbsp;&nbsp;● repeatedly click 7 times:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build number
 2. configure:
-   * open:
-       Settings > System > Developer Options
-   * save values:
-       Mock location app: "Mock my GPS"
+&nbsp;&nbsp;&nbsp;● open:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Settings > System > Developer Options
+&nbsp;&nbsp;&nbsp;● save values:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location app: "Mock my GPS"

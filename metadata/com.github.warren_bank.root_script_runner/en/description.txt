@@ -3,6 +3,6 @@ Requires root!
 Execution of a shell script can be invoked in two ways:
 
 1. interactive
-     By the user manually choosing a file.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the user manually choosing a file.
 2. automatic
-     By an Intent.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By an Intent.

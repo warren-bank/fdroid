@@ -1,12 +1,14 @@
 Conditional criteria include:
 
-* a whitelist of sender phone numbers
-* a substring that must occur at the beginning of the received SMS message
+● a whitelist of sender phone numbers
+● a substring that must occur at the
+&nbsp;&nbsp;beginning of the received SMS message
 
 GPS location data include:
 
-* latitude and longitude coordinates
-* accuracy (meters)
-* speed (meters/sec)
-* direction (cardinal or ordinal, and degrees)
-* URL to Google Maps
+● latitude and longitude coordinates
+● accuracy (meters)
+● speed (meters/sec)
+● direction (cardinal or ordinal, and
+&nbsp;&nbsp;degrees)
+● URL to Google Maps
