@@ -4,5 +4,7 @@ Uses WebRTC Native APIs via JNI.
 
 Features include the ability to:
 
-* make WebRTC video calls using a free public signaling server (https://appr.tc)
-* directly connect 2 devices on the same LAN without the need for a signaling server
+● make WebRTC video calls using a free public
+&nbsp;&nbsp;signaling server (https://appr.tc)
+● directly connect 2 devices on the same LAN
+&nbsp;&nbsp;without the need for a signaling server

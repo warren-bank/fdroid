@@ -2,15 +2,21 @@ KeePassDX allows editing encrypted data in a single file in KeePass format, and 
 
 Features:
 
-* Create database files, entries, and groups.
-* Support for .kdb and .kdbx files (version 1 to 4) with AES - Twofish - ChaCha20 - Argon2 algorithm.
-* Compatible with the majority of alternative programs (KeePass, KeePassXC, KeeWeb, …).
-* Allows opening and copying URI / URL fields quickly.
-* Biometric recognition for fast unlocking (fingerprint, face unlock, …).
-* One-Time Password management (HOTP / TOTP) for two-factor authentication (2FA).
-* Material design with themes.
-* Auto-Fill and Integration.
-* Field filling keyboard.
-* Dynamic templates.
-* History of each entry.
-* Precise management of settings.
+● Create database files, entries, and groups.
+● Support for .kdb and .kdbx files (version 1
+&nbsp;&nbsp;to 4) with AES - Twofish - ChaCha20 -
+&nbsp;&nbsp;Argon2 algorithm.
+● Compatible with the majority of alternative
+&nbsp;&nbsp;programs (KeePass, KeePassXC, KeeWeb, …).
+● Allows opening and copying URI / URL fields
+&nbsp;&nbsp;quickly.
+● Biometric recognition for fast unlocking
+&nbsp;&nbsp;(fingerprint, face unlock, …).
+● One-Time Password management (HOTP / TOTP)
+&nbsp;&nbsp;for two-factor authentication (2FA).
+● Material design with themes.
+● Auto-Fill and Integration.
+● Field filling keyboard.
+● Dynamic templates.
+● History of each entry.
+● Precise management of settings.
