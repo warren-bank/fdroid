@@ -1,3 +1,5 @@
 Limitations:
 
-* Only works on versions of Android &lt;= 5.1 (Lollipop, API 22)
+<ul>
+<li>Only works on versions of Android &lt;= 5.1 (Lollipop, API 22)</li>
+</ul>

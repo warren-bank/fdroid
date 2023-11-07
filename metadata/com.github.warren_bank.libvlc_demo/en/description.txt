@@ -1,4 +1,6 @@
 Notes:
 
-* MainActivity contains a text field to manually enter the URL or file path to a supported media for playback
-* VideoActivity performs the actual playback, and can be opened by Intent
+<ul>
+<li><em>MainActivity</em> contains a text field to manually enter the URL or file path to a supported media for playback</li>
+<li><em>VideoActivity</em> performs the actual playback, and can be opened by <em>Intent</em></li>
+</ul>
