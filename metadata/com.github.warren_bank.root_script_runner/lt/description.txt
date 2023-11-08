@@ -1,0 +1,9 @@
+Reikia šaknų!
+
+Apvalkalo scenarijaus vykdymas gali būti naudojamas dviem būdais:
+
+1. Interaktyvi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vartotojas rankiniu būdu renkantis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;failą.
+2. Automatinis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prie Intent.

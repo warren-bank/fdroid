@@ -1,0 +1,9 @@
+Kræver rod!
+
+Udførelse af et shell-script kan startes på to måder:
+
+1. interaktiv
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Når brugeren har valgt en fil
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manuelt.
+2. automatisk
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Af et Intent.

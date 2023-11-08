@@ -1,0 +1,21 @@
+Läuft in einem Vordergrund-Service:
+
+● Es gibt keine sichtbare
+&nbsp;&nbsp;Benutzeroberfläche
+● macht den Bluetooth-Adapter auffindbar
+● startet einen Bluetooth-Socket-Server
+● Hört auf eine Verbindung von einem
+&nbsp;&nbsp;Absender
+
+Wenn ein Sender eine Verbindung herstellt:
+
+● Stoppt die Empfangsbereitschaft für
+&nbsp;&nbsp;eine Senderverbindung
+● Wiedergabe des Audiodatenstroms aus
+&nbsp;&nbsp;dem angeschlossenen Socket
+
+Wenn ein Absender die Verbindung trennt:
+
+● Wiederaufnahme der
+&nbsp;&nbsp;Empfangsbereitschaft für eine neue
+&nbsp;&nbsp;Senderverbindung

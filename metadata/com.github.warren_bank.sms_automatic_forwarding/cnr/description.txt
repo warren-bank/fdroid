@@ -1,0 +1,3 @@
+Uslovi su definirani listom pravila. Svako pravilo pridružuje se telefonskom broju primatelja sa šablonom koji mora da odgovara pošiljaocu primljenih SMS poruka.
+
+Kada se primi nova SMS poruka, ona se prosljeđuje primateljevim telefonskim brojevima u skladu sa svakim pravilom koji ima odgovarajući obrazac.

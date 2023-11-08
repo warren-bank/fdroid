@@ -1,0 +1,1 @@
+Prepína démona mostu pre ladenie mostu Android (adbd) medzi USB a WiFi.

@@ -1,0 +1,1 @@
+Učinit audiovizuální volání mezi zařízeními v síti LAN.

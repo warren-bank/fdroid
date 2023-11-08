@@ -1,0 +1,19 @@
+Werkt in een voorgrondservice:
+
+● er is geen zichtbare UI
+● maakt de Bluetooth-adapter vindbaar
+● start een Bluetooth Socket-server
+● luistert naar een verbinding van een
+&nbsp;&nbsp;afzender
+
+Wanneer een afzender verbinding maakt:
+
+● stoppen met luisteren naar een
+&nbsp;&nbsp;verzender-verbinding
+● speelt de audio stream van de
+&nbsp;&nbsp;aangesloten Socket
+
+Wanneer een afzender geen verbinding maakt:
+
+● hervat het luisteren naar een nieuwe
+&nbsp;&nbsp;verzender-verbinding

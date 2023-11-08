@@ -1,0 +1,19 @@
+機能には、
+
+● 同じネットワーク内での AirPlay 受信機の自動検出
+● デバイスから AirPlay へのビーム写真
+● デバイスから AirPlay に至るまでのビデオと音楽をストリーミング
+● デバイスから AirPlay への画面のミラーリング
+
+履修単位 :
+
+● ドルードプレイ
+&nbsp;&nbsp;&nbsp;&nbsp;このアプリケーションのオリジナル・バージョン。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● スクリーンストリーム
+&nbsp;&nbsp;&nbsp;&nbsp;Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;で画面ミラーリングを実装するためのコードの多くを提供
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (バージョン 1) プロトコル
+&nbsp;&nbsp;&nbsp;&nbsp;非公式の文書。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

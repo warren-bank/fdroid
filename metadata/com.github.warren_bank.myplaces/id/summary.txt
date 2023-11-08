@@ -1,0 +1,1 @@
+Membaca berkas GPX dan KML sebagai daftar penanda koordinat geografis.

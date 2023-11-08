@@ -1,0 +1,1 @@
+Poista Node.js-sovellus Android-tiedostojärjestelmästä.

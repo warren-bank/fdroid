@@ -1,0 +1,38 @@
+Funktionerne omfatter muligheden for at:
+
+● søg efter tv-serie efter navn
+● tilføj tv-serier i søgeresultater til
+&nbsp;&nbsp;en liste
+● sortere og filtrere listen over
+&nbsp;&nbsp;tilføjede tv-serier
+● drill-down på listen for at læse
+&nbsp;&nbsp;detaljerede oplysninger om hver serie
+&nbsp;&nbsp;og dens tilgængelige afsnit
+● Mærke episoder, mens de er blevet set
+● markserie som deaktiveret
+● tilknytte hver serie med eksterne URL
+&nbsp;&nbsp;' er
+&nbsp;&nbsp;○ eks: websteder, hvor serien kan
+&nbsp;&nbsp;&nbsp;&nbsp;overvåges
+● opdatér tv-serien på listen
+&nbsp;&nbsp;○ for at få oplysninger om nye afsnit
+
+Netværkskrav:
+
+● listen over de tilføjede tv-serier kan
+&nbsp;&nbsp;bruges, mens den er fuldt offline
+● en internetforbindelse er kun
+&nbsp;&nbsp;nødvendig for manuelt at tilføje eller
+&nbsp;&nbsp;opdatere tv-serier
+
+Kreditering:
+
+● alle data hentes fra The Movie
+&nbsp;&nbsp;Database (TMDB), ved hjælp af version
+&nbsp;&nbsp;3 af TMDB API
+● historisk slægt:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

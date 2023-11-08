@@ -1,0 +1,1 @@
+ExoPlayer dựa trên media player với API để điều khiển từ xa.

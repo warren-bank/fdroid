@@ -1,0 +1,34 @@
+وتشمل السمات القدرة على ما يلي :
+
+● توصيف وحفظ أي عدد من ملفات مواصفات
+&nbsp;&nbsp;التطبيق
+● يمكن أن يقوم كل ملف مواصفات التطبيقات
+&nbsp;&nbsp;بتحديد :
+&nbsp;&nbsp;○ العنوان
+&nbsp;&nbsp;○ مسار الملف لملف Javascript الرئيسي
+&nbsp;&nbsp;○ اختيارات سطر الأمر لوقت تشغيل
+&nbsp;&nbsp;&nbsp;&nbsp;Node.js
+&nbsp;&nbsp;○ اختيارات سطر الأمر للتطبيق
+&nbsp;&nbsp;○ متغيرات بيئة التشغيل
+&nbsp;&nbsp;○ دليل العمل الحالي
+● يتم تجميع ملفات مواصفات التطبيق بواسطة
+&nbsp;&nbsp;:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;تقوم التطبيقات بمشاركة عملية
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;واحدة. يمكن تنفيذ واحد فقط في وقت
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;واحد.
+&nbsp;&nbsp;○ "شوكة"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;يتم منح كل تطبيق العملية الخاصة
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;به. كل من execues في خدمة
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foreground. يقوم الاعلام المصاحب
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;بقتل العملية.
+● نسخة احتياطية واستعادة :
+&nbsp;&nbsp;○ ارسال كل ملفات مواصفات التطبيق الى
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ استقبال ملفات مواصفات التطبيق
+&nbsp;&nbsp;&nbsp;&nbsp;الجديدة من JSON
+
+بيئة تشغيل وقت التشغيل المتضمنة :
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

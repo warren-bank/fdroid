@@ -1,0 +1,32 @@
+Contexte:
+
+● Une intention Android peut être
+&nbsp;&nbsp;utilisée pour ouvrir une partie
+&nbsp;&nbsp;précise de toute application installée
+&nbsp;&nbsp;et lui transmettre tout type ou
+&nbsp;&nbsp;quantité de données
+● En tant que tel, une intention est
+&nbsp;&nbsp;comme un signet Android
+
+Les fonctions incluent la capacité:
+
+● Configurer et enregistrer les
+&nbsp;&nbsp;sous-domaines sous la forme de signets
+&nbsp;&nbsp;nommés
+● Utiliser des signets pour:
+&nbsp;&nbsp;○ Démarrer une activité
+&nbsp;&nbsp;○ Démarrer un service
+&nbsp;&nbsp;○ Envoyer une diffusion
+● Planifier les signets à utiliser
+&nbsp;&nbsp;ultérieurement:
+&nbsp;&nbsp;○ Une fois
+&nbsp;&nbsp;○ à un intervalle
+● Intercepter les sous-tentes démarrées
+&nbsp;&nbsp;par d'autres applications:
+&nbsp;&nbsp;○ à modifier
+&nbsp;&nbsp;○ Pour enregistrer
+● Sauvegarde et restauration:
+&nbsp;&nbsp;○ Toute la base de données SQLite
+&nbsp;&nbsp;○ Fichier de données JSON
+&nbsp;&nbsp;○ Fichier de données HTML des signets
+&nbsp;&nbsp;&nbsp;&nbsp;Netscape

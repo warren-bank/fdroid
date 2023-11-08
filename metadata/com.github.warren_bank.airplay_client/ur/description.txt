@@ -1,0 +1,23 @@
+خصوصیات شامل ہیں:
+
+● اسی نیٹ ورک کے اندر ایئرپلے ریسیورز کی
+&nbsp;&nbsp;خودکار دریافت
+● AirPlay کے لئے آپ کے آلہ سے بیم تصاویر
+● آپ کے آلہ سے AirPlay کے ویڈیوز اور
+&nbsp;&nbsp;موسیقی
+● آپ کے آلہ سے AirPlay کے لئے سکرین
+&nbsp;&nbsp;آئینہ
+
+عقیدہ:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;اس ایپلی کیشن کا اصل ورژن
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;اینڈرائیڈ 5.0+ پر اسکرین منعکس کرنے
+&nbsp;&nbsp;&nbsp;&nbsp;کے عمل کو لاگو کرنے کے لیے زیادہ سے
+&nbsp;&nbsp;&nbsp;&nbsp;زیادہ کوڈ فراہم کرنا
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (ورژن 1) پروٹوکول
+&nbsp;&nbsp;&nbsp;&nbsp;غیر سرکاری دستاویزات.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

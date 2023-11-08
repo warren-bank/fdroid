@@ -1,0 +1,31 @@
+Context:
+
+● un interior Android poate fi folosit
+&nbsp;&nbsp;pentru a deschide o parte precisă a
+&nbsp;&nbsp;oricărei aplicații instalate, și să
+&nbsp;&nbsp;treacă la ea orice tip sau cantitate
+&nbsp;&nbsp;de date
+● ca atare, un Intent este ca un semn de
+&nbsp;&nbsp;carte Android
+
+Caracteristicile includ capacitatea de a:
+
+● configura și de a salva Incorturi ca
+&nbsp;&nbsp;marcaje numite
+● utilizarea marcajelor pentru:
+&nbsp;&nbsp;○ Începe o activitate
+&nbsp;&nbsp;○ Începe un serviciu
+&nbsp;&nbsp;○ Trimite un mesaj
+● marcaje de program care urmează să fie
+&nbsp;&nbsp;utilizate mai târziu:
+&nbsp;&nbsp;○ O dată
+&nbsp;&nbsp;○ la un interval
+● interceptare Incorturi pornite de alte
+&nbsp;&nbsp;aplicații:
+&nbsp;&nbsp;○ de modificare
+&nbsp;&nbsp;○ pentru a salva
+● backup și restaurare:
+&nbsp;&nbsp;○ întreaga bază de date SQLite
+&nbsp;&nbsp;○ Fișier de date JSON
+&nbsp;&nbsp;○ Fișier de date HTML Netscape
+&nbsp;&nbsp;&nbsp;&nbsp;Bookmark

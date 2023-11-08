@@ -1,0 +1,26 @@
+功能包括 :
+
+● 模拟固定位置
+● 模拟行程
+● 使用操纵杆相对于模拟固定位置移动
+● 接受来自 Intent 的经纬度地理坐标对
+● 将经纬度地理坐标对另存为指定书签
+
+变体 :
+
+1. AOSP
+2. AOSP + Google 播放服务
+3. AOSP + 华为移动服务
+
+Android 集成:
+
+1. 启用开发者选项
+&nbsp;&nbsp;&nbsp;● 打开 :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;设置》系统》关于电话
+&nbsp;&nbsp;&nbsp;● 重复单击 7 次:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;构建号
+2. 配置 :
+&nbsp;&nbsp;&nbsp;● 打开 :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;设置》系统》开发者选项
+&nbsp;&nbsp;&nbsp;● 保存值:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模拟位置应用 : "Mock my GPS"

@@ -1,0 +1,21 @@
+Penggunaan:
+
+● tampilkan sebuah daftar dari semua
+&nbsp;&nbsp;perangkat Bluetooth dipasangkan
+&nbsp;&nbsp;○ klik salah satu yang
+&nbsp;&nbsp;&nbsp;&nbsp;mengidentifikasi penerima yang
+&nbsp;&nbsp;&nbsp;&nbsp;diinginkan
+&nbsp;&nbsp;○ tunggu koneksi
+
+● jungkit tombol PTT
+&nbsp;&nbsp;○ hijau menandakan bahwa audio saat
+&nbsp;&nbsp;&nbsp;&nbsp;ini sedang ditangkap
+&nbsp;&nbsp;&nbsp;&nbsp;dari mikrofon dan streaming melalui
+&nbsp;&nbsp;&nbsp;&nbsp;soket yang terhubung
+&nbsp;&nbsp;○ warna merah menunjukkan bahwa aliran
+&nbsp;&nbsp;&nbsp;&nbsp;audio saat ini diistirahatisasikan
+
+● pindahkan slider untuk menyesuaikan
+&nbsp;&nbsp;volume dari audio
+&nbsp;&nbsp;○ default: 25%
+&nbsp;&nbsp;○ maksimum: 200%

@@ -1,0 +1,22 @@
+Ominaisuuksiin kuuluu kyky:
+
+● Luettelo maantieteellisistä
+&nbsp;&nbsp;koordinaateista:
+&nbsp;&nbsp;○ Peräkkäiset
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tilaa, koska sijainteja tapahtuu
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syötetiedostossa.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: tarkka matkasuunnitelma
+&nbsp;&nbsp;○ Etäisyys
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tilattu pois nykyisestä
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sijainnista.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: läheisen POI :n tilapäinen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tutkimus
+&nbsp;&nbsp;○ Aakkosellinen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tiliin liitetyt kuvailevat nimet.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: Suosikkipaikkojen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kirjanmerkit
+● Napsauttamalla luettelon objektia voit
+&nbsp;&nbsp;avata vastaavan sijainnin ulkoisessa
+&nbsp;&nbsp;sovelluksessa, kuten
+&nbsp;&nbsp;vastaavuusmäärityksessä tai
+&nbsp;&nbsp;navigoinnissa.

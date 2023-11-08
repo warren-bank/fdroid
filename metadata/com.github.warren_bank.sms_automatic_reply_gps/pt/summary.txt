@@ -1,0 +1,1 @@
+Inspecionar mensagens de SMS e responder condicionalmente com dados de localização do GPS.

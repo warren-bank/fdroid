@@ -1,0 +1,9 @@
+Traži korijen!
+
+Izvođenje skripta ljuske može se pozvati na dva načina:
+
+1. interaktivno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Od strane korisnika ručno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;izabiranjem datoteke.
+2. automatsko
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Od strane Inatora.

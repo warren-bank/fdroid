@@ -1,0 +1,36 @@
+Функции включают в себя:
+
+● настроить и сохранить любое число
+&nbsp;&nbsp;профайлов приложений
+● в каждом профиле приложения можно
+&nbsp;&nbsp;указать:
+&nbsp;&nbsp;○ заголовок
+&nbsp;&nbsp;○ путь к основному файлу Javascript
+&nbsp;&nbsp;○ опции командной строки для среды
+&nbsp;&nbsp;&nbsp;&nbsp;выполнения Node.js
+&nbsp;&nbsp;○ опции командной строки для
+&nbsp;&nbsp;&nbsp;&nbsp;приложения
+&nbsp;&nbsp;○ переменные среды
+&nbsp;&nbsp;○ текущий рабочий каталог
+● Профили приложений сгруппированы по:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Приложения совместно используют
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;один процесс. Только один может
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;выполняться одновременно.
+&nbsp;&nbsp;○ "вилка"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Каждому приложению предоставляется
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;собственный процесс. Каждый
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;выполняется в интерактивных
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;службе. Связанное уведомление
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;убивает процесс.
+● резервное копирование и
+&nbsp;&nbsp;восстановление:
+&nbsp;&nbsp;○ экспортировать все профили
+&nbsp;&nbsp;&nbsp;&nbsp;приложений в JSON
+&nbsp;&nbsp;○ импорт новых профайлов приложений из
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Встроенная среда выполнения:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

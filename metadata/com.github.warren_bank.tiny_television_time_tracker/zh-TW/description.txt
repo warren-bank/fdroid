@@ -1,0 +1,28 @@
+特性包括下列功能：
+
+● 按姓名搜尋電視
+● 將搜尋結果中的電視系列新增至清單
+● 排序並過濾新增的電視連續劇列表
+● 鑽入清單中，以讀取每一個系列及其可用劇集的詳細資訊
+● 將其標示為已監看
+● 標示系列已停用
+● 將每個系列與外部 URL 相關聯
+&nbsp;&nbsp;○ ex：可在其中監看系列的網站
+● 更新清單中的電視系列
+&nbsp;&nbsp;○ 獲取關於新劇集的資訊
+
+網路需求：
+
+● 當完全離線時，可以使用新增的電視系列列表
+● 僅需手動新增或更新電視系列時，才需要網際網路連線
+
+Credits ：
+
+● 所有資料都是從「影片資料庫」（TMDB）取得，使用 TMDB API 的第
+&nbsp;&nbsp;3 版
+● 歷史世系：
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. Droid顯示
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. 小型電視時間追踪器

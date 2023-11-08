@@ -1,0 +1,24 @@
+Fitur-fitur mencakup:
+
+● Penemuan otomatis penerima AirPlay
+&nbsp;&nbsp;dalam jaringan yang sama
+● Berkas berkas dari perangkat Anda ke
+&nbsp;&nbsp;AirPlay
+● Stream video dan musik dari perangkat
+&nbsp;&nbsp;Anda ke AirPlay
+● Cermin layar dari perangkat Anda ke
+&nbsp;&nbsp;AirPlay
+
+Kredit:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Versi asli dari aplikasi ini.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Aliran Layar
+&nbsp;&nbsp;&nbsp;&nbsp;Menyediakan banyak kode untuk
+&nbsp;&nbsp;&nbsp;&nbsp;mengimplementasikan screen mirroring
+&nbsp;&nbsp;&nbsp;&nbsp;pada Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protokol AirPlay (versi 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Dokumentasi tidak resmi.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

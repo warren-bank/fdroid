@@ -1,0 +1,1 @@
+Preglejte prejeta sporočila SMS in jih pogojno posredite naprej.

@@ -1,0 +1,32 @@
+Caracteristicile includ capacitatea de a:
+
+● Simulează o poziție fixă
+● simula o excursie
+● utilizați un joystick pentru a muta în
+&nbsp;&nbsp;raport cu o poziție fixă machetă
+● acceptă perechi de geo-coordonate de
+&nbsp;&nbsp;latitudine și longitudine de la
+&nbsp;&nbsp;Incorturi
+● salva de latitudine și longitudine
+&nbsp;&nbsp;geo-coordonate perechi ca marcaje
+&nbsp;&nbsp;numite
+
+Variații:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+Integrare Android:
+
+1. Activează opțiunile
+&nbsp;&nbsp;&nbsp;● deschis:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setări > Sistem > Despre telefon
+&nbsp;&nbsp;&nbsp;● în mod repetat, faceți clic pe
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Număr de construcție
+2. configura:
+&nbsp;&nbsp;&nbsp;● deschis:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setări > Sistem > Opțiuni de
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dezvoltare
+&nbsp;&nbsp;&nbsp;● a salva valori:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;App locație joc: "Mock GPS meu"

@@ -1,0 +1,1 @@
+Utilitário não interativo para fornecer feedback do usuário a partir da linha de comando.

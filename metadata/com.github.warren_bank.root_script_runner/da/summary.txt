@@ -1,0 +1,1 @@
+Udfører shell-scripts som root-bruger.

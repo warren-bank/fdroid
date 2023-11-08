@@ -1,0 +1,23 @@
+배경:
+
+● Android Intent를 사용하여 설치된 애플리케이션의 정확한
+&nbsp;&nbsp;부분을 열고 데이터의 유형 또는 수량을 전달할 수 있다.
+● 이와 같이, Intent는 Android 책갈피와 같다.
+
+기능에는 다음 기능이 포함됩니다.
+
+● 이름 지정된 책갈피로 Intents를 구성하고 저장하기
+● 는 책갈피를 사용한다.
+&nbsp;&nbsp;○ 활동을 시작하다.
+&nbsp;&nbsp;○ 서비스를 시작하다.
+&nbsp;&nbsp;○ 브로드캐스트 보내기
+● 나중에 사용할 책갈피 스케줄:
+&nbsp;&nbsp;○ 한 번은
+&nbsp;&nbsp;○ 한 간격으로.
+● 다른 애플리케이션에 의해 시작된 Intents 인터셉트:
+&nbsp;&nbsp;○ 수정하다
+&nbsp;&nbsp;○ 저장하다
+● 백업 및 복원:
+&nbsp;&nbsp;○ 전체 SQLite 데이터베이스
+&nbsp;&nbsp;○ JSON 데이터 파일
+&nbsp;&nbsp;○ Netscape 책갈피 HTML 데이터 파일

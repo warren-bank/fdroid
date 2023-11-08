@@ -1,0 +1,19 @@
+Les fonctions comprennent:
+
+● détection d'URL de script utilisateur
+● mises à jour automatiques de script
+● une API JavaScript étendue pour
+&nbsp;&nbsp;exposer les capacités spécifiques
+&nbsp;&nbsp;d'Android
+● la capacité d'ignorer les erreurs de
+&nbsp;&nbsp;certificat HTTPS
+
+Limites:
+
+● userscripts s'exécute uniquement dans
+&nbsp;&nbsp;la fenêtre supérieure
+&nbsp;&nbsp;○ l'injection de script dans iframes
+&nbsp;&nbsp;&nbsp;&nbsp;est possible, mais nécessite une
+&nbsp;&nbsp;&nbsp;&nbsp;solution de contournement
+&nbsp;&nbsp;&nbsp;&nbsp;compliquée; consultez le fichier
+&nbsp;&nbsp;&nbsp;&nbsp;README pour plus de détails.

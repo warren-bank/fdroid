@@ -1,0 +1,7 @@
+Typy opinii użytkowników:
+
+● pokaż Toast
+● pokaż powiadomienie
+● odtwarzanie dźwięku Ringtone
+
+Wszystkie typy informacji zwrotnych użytkowników są uruchamiane przez element Intent. Ten program narzędziowy może być używany zarówno przez inne aplikacje, jak i bezpośrednio przez użytkownika z emulatora terminalu wiersza komend.

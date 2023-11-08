@@ -1,0 +1,20 @@
+Usage:
+
+● displays a list of all paired
+&nbsp;&nbsp;Bluetooth devices
+&nbsp;&nbsp;○ click the one that identifies the
+&nbsp;&nbsp;&nbsp;&nbsp;desired receiver
+&nbsp;&nbsp;○ wait for connection
+
+● toggle the PTT button
+&nbsp;&nbsp;○ green indicates that audio is
+&nbsp;&nbsp;&nbsp;&nbsp;currently being captured
+&nbsp;&nbsp;&nbsp;&nbsp;from the microphone and streamed
+&nbsp;&nbsp;&nbsp;&nbsp;through the connected socket
+&nbsp;&nbsp;○ red indicates that the audio stream
+&nbsp;&nbsp;&nbsp;&nbsp;is currently paused
+
+● move the slider to adjust the volume
+&nbsp;&nbsp;of the audio
+&nbsp;&nbsp;○ default: 25%
+&nbsp;&nbsp;○ maximum: 200%

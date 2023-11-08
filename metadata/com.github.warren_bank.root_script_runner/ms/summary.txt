@@ -1,0 +1,1 @@
+Melaksanakan skrip shell sebagai pengguna root.

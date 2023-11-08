@@ -1,0 +1,33 @@
+Характеристиките включват способността да:
+
+● се присмива на фиксирана позиция
+● Симулира пътуване.
+● използване на джойстик, за да се
+&nbsp;&nbsp;движат в сравнение с мними фиксирана
+&nbsp;&nbsp;позиция
+● да приеме географска ширина и дължина
+&nbsp;&nbsp;geo-координира двойки от Inпалатки
+● запазване на географска ширина и
+&nbsp;&nbsp;дължина geo-координира двойки като
+&nbsp;&nbsp;наименувани отметки
+
+Вариации:
+
+1. AOSP:
+2. AOSP + Услуги за Google Play
+3. AOSP + Huawei Mobile Services
+
+Интеграция с Android:
+
+1. Опции за разработчици
+&nbsp;&nbsp;&nbsp;● отворени:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Настройки > Система > За телефон
+&nbsp;&nbsp;&nbsp;● Многократно щракване 7 пъти:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Изграждане на номер
+2. конфигуриране:
+&nbsp;&nbsp;&nbsp;● отворени:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Настройки > Система > Опции за
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;разработчици
+&nbsp;&nbsp;&nbsp;● запазване на стойности:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Примерното приложение: "Mock моя
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPS"

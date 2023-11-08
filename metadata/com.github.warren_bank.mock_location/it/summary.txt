@@ -1,0 +1,1 @@
+Mock Android location provider: GPS, Rete, Fuso.

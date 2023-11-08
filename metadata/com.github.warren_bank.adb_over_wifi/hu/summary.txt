@@ -1,0 +1,1 @@
+Az Android Debug Bridge démon (adbd) átváltása USB és WiFi mód között.

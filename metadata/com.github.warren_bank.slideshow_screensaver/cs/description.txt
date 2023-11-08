@@ -1,0 +1,13 @@
+Nastavení prezentace:
+
+● Doba trvání (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Časové období, po které se každý
+&nbsp;&nbsp;&nbsp;&nbsp;obrázek zobrazí.
+● Použít poskytovatele MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Získává soubory obrázků z indexu
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Cesta k adresáři
+&nbsp;&nbsp;&nbsp;&nbsp;Získejte obrazy z určitého adresáře
+&nbsp;&nbsp;&nbsp;&nbsp;v systému souborů.
+● Rekurse do podadresářů
+● Náhodné pořadí

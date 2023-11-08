@@ -1,0 +1,18 @@
+Konfigurovatelné atributy požadavku HTTP:
+
+● metoda
+● protokol
+● URL
+● záhlaví
+● parametry řetězce dotazu
+● tělo
+
+Funkce zahrnují schopnost:
+
+● odeslat požadavek jednou
+● opakované odeslání požadavku v
+&nbsp;&nbsp;uvedeném časovém intervalu
+● znovu načíst konfiguraci předchozího
+&nbsp;&nbsp;požadavku z protokolu historie
+● pěkná tisková data JSON odezvy
+● náhled dat odpovědi HTML

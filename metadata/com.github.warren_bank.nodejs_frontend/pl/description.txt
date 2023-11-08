@@ -1,0 +1,36 @@
+Funkcje obejmują możliwość:
+
+● konfigurowanie i zapisywanie dowolnej
+&nbsp;&nbsp;liczby profili aplikacji
+● każdy profil aplikacji może określać:
+&nbsp;&nbsp;○ tytuł
+&nbsp;&nbsp;○ ścieżka pliku do głównego pliku
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript
+&nbsp;&nbsp;○ opcje wiersza komend dla środowiska
+&nbsp;&nbsp;&nbsp;&nbsp;wykonawczego Node.js
+&nbsp;&nbsp;○ opcje wiersza komend dla aplikacji
+&nbsp;&nbsp;○ zmienne środowiskowe
+&nbsp;&nbsp;○ bieżący katalog roboczy
+● profile aplikacji są pogrupowane
+&nbsp;&nbsp;według:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikacje współużytkują pojedynczy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. W danym momencie może być
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wykonywana tylko jedna.
+&nbsp;&nbsp;○ "rozwidlenie"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Każdy wniosek otrzymuje swój
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;własny proces. Każdy wykonywany
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jest w usłudze pierwszoplanowej.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Powiązane powiadomienie zabija
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces.
+● tworzenie i odtwarzanie kopii
+&nbsp;&nbsp;zapasowych:
+&nbsp;&nbsp;○ eksportuj wszystkie profile
+&nbsp;&nbsp;&nbsp;&nbsp;aplikacji do formatu JSON
+&nbsp;&nbsp;○ import nowych profili aplikacji z
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Osadzone środowisko wykonawcze:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

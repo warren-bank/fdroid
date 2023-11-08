@@ -1,0 +1,37 @@
+Caracteristicile includ capacitatea de a:
+
+● configurați și salvați orice număr de
+&nbsp;&nbsp;profiluri de aplicații
+● fiecare profil de aplicație poate
+&nbsp;&nbsp;specifica:
+&nbsp;&nbsp;○ titlu
+&nbsp;&nbsp;○ Calea de fișier către fișierul
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript principal
+&nbsp;&nbsp;○ opțiuni de linie de comandă pentru
+&nbsp;&nbsp;&nbsp;&nbsp;timpul de rulare Node.js
+&nbsp;&nbsp;○ opțiuni de linie de comandă pentru
+&nbsp;&nbsp;&nbsp;&nbsp;aplicație
+&nbsp;&nbsp;○ variabile de mediu
+&nbsp;&nbsp;○ director de lucru curent
+● profilele de aplicare sunt grupate
+&nbsp;&nbsp;după:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplicațiile împărtășesc un singur
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. Doar unul poate executa la
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;un moment dat.
+&nbsp;&nbsp;○ "furculiţa"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fiecare aplicație este dată
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;propriul proces. Fiecare execută
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;într-un serviciu de prim-plan. O
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notificare asociată ucide
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;procesul.
+● backup și restaurare:
+&nbsp;&nbsp;○ export toate profilurile de aplicare
+&nbsp;&nbsp;&nbsp;&nbsp;la JSON
+&nbsp;&nbsp;○ import noi profile de aplicare de la
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Mediu de rulare încorporat:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

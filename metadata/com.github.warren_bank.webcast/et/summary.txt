@@ -1,0 +1,1 @@
+Veebilehitseja valguskaalu veebilehitseja, et saada veebilehtedelt videoURL-id.

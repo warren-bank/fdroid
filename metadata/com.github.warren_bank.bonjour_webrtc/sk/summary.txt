@@ -1,0 +1,1 @@
+Vytvorte video hovory medzi zariadeniami v sieti LAN.

@@ -1,0 +1,20 @@
+Käyttö:
+
+● Näyttää luettelon kaikista
+&nbsp;&nbsp;paritetuista Bluetooth-laitteista
+&nbsp;&nbsp;○ Napsauttamalla sitä, joka yksilöi
+&nbsp;&nbsp;&nbsp;&nbsp;halutun vastaanottimen
+&nbsp;&nbsp;○ Odota yhteyttä
+
+● Paina PTT-painiketta
+&nbsp;&nbsp;○ Vihreä osoittaa, että ääni on
+&nbsp;&nbsp;&nbsp;&nbsp;parhaillaan siepattu
+&nbsp;&nbsp;&nbsp;&nbsp;Mikrofonin kautta ja streamed
+&nbsp;&nbsp;&nbsp;&nbsp;yhdistettyjen pistorasian läpi
+&nbsp;&nbsp;○ Punainen osoittaa, että äänivirta on
+&nbsp;&nbsp;&nbsp;&nbsp;tällä hetkellä keskeytetty
+
+● Siirtää liukusäädintä säätää
+&nbsp;&nbsp;äänenvoimakkuutta
+&nbsp;&nbsp;○ Oletusarvo: 25 %
+&nbsp;&nbsp;○ Enintään: 200 %

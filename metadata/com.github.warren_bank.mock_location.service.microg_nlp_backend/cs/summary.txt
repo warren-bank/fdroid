@@ -1,0 +1,1 @@
+Companion pro "Mock má GPS". Modul plug-in typu backend pro "UnifiedNlp".

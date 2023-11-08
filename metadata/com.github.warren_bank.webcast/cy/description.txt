@@ -1,0 +1,11 @@
+Mae URLau fideo ar y dudalen gwe gyfredol yn cael eu dangos mewn rhestr.
+
+Mae'r gosodiadau yn penderfynu'r ymddygiad pan fo URL fideo yn cael ei ddewis:
+● mae'r chwaraewr fideo mewnol yn
+&nbsp;&nbsp;cynnwys anfonwr Chromast
+● mae'r chwaraewr fideo allanol yn
+&nbsp;&nbsp;caniatáu i ap arall chwarae'r URL
+&nbsp;&nbsp;fideo
+● mae'r "ExoAirPlayer" a "HS Dirprwy" yn
+&nbsp;&nbsp;creu pob llwyth tudalen gwe statig SPA
+&nbsp;&nbsp;yn y gweinydd a ddewiswyd

@@ -1,0 +1,1 @@
+A GPX és KML fájlok olvasása a földrajzi koordináta könyvjelzők listájaként.

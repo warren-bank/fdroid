@@ -1,0 +1,1 @@
+Göndericiden gelen sesi alır ve hoparlörden çalar.

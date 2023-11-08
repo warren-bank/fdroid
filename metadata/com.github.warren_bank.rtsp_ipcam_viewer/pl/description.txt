@@ -1,0 +1,31 @@
+Formaty te są typowe dla niedrogich kamer ochrony IP.
+
+Funkcje obejmują możliwość:
+
+● skonfigurować nieograniczoną liczbę
+&nbsp;&nbsp;strumieni wideo
+● importowanie strumieni wideo z pliku
+&nbsp;&nbsp;JSON
+● każdy strumień może zawierać adresy
+&nbsp;&nbsp;URL dla dwóch źródeł:
+&nbsp;&nbsp;○ niska rozdzielczość
+&nbsp;&nbsp;○ wysoka rozdzielczość
+● selektywne włączanie i wyłączanie
+&nbsp;&nbsp;strumieni na liście
+● wyświetl włączone strumienie w
+&nbsp;&nbsp;układzie listy lub siatki
+&nbsp;&nbsp;○ wykorzystuje niską rozdzielczość
+&nbsp;&nbsp;&nbsp;&nbsp;(jeśli są dostępne)
+● wybierz pojedynczy strumień z listy
+&nbsp;&nbsp;lub układu siatki
+&nbsp;&nbsp;○ wyświetlanie na pełnym ekranie
+&nbsp;&nbsp;○ wykorzystuje wysoką rozdzielczość
+&nbsp;&nbsp;&nbsp;&nbsp;(jeśli są dostępne)
+
+Historia:
+
+Ta aplikacja została pierwotnie napisana w celu przetestowania eksperymentalnego oddziału ExoPlayer. W tym czasie ta gałąź miała otwarte żądanie pobrania, które nie zostało scalone po kilku latach:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/
+&nbsp;&nbsp;3854
+
+Ostatecznie ta gałąź została scalona. Teraz ta aplikacja wykorzystuje stabilną kompilację ExoPlayera. Co, imho, sprawia, że jest mniej interesujący. Ale to może być jeszcze pożyteczne.

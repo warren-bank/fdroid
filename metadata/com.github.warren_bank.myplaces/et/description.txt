@@ -1,0 +1,19 @@
+Funktsioonide hulka kuuluvad võime:
+
+● sorteeri geograafiliste koordinaatide
+&nbsp;&nbsp;nimekirja:
+&nbsp;&nbsp;○ Järjestikune
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Käsk asukohad asukohas input fail.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: täpne reisikava
+&nbsp;&nbsp;○ Kaugus
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tellitud kaugus praegusest
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asukohast.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: lähedalasuvate POI ad hoc
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uuringud
+&nbsp;&nbsp;○ tähestikuline
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tellitud kirjeldavate nimede koos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asukohad.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: lemmikkohtade järjehoidjad
+● klõpsa nimekirjas, mis avab vastava
+&nbsp;&nbsp;asukoha välisrakenduses, näiteks
+&nbsp;&nbsp;kaardistamine või navigatsioon.

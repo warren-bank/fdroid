@@ -1,0 +1,30 @@
+Aceste formate sunt tipice pentru camerele de securitate IP ieftine.
+
+Caracteristicile includ capacitatea de a:
+
+● configurează un număr nelimitat de
+&nbsp;&nbsp;fluxuri video
+● importa fluxuri video dintr-un fișier
+&nbsp;&nbsp;JSON
+● fiecare flux poate include URL-uri
+&nbsp;&nbsp;pentru două surse:
+&nbsp;&nbsp;○ rezoluţie mică
+&nbsp;&nbsp;○ rezoluție înaltă
+● Activează selectiv și dezactivează
+&nbsp;&nbsp;fluxurile din listă
+● afişează fluxurile activate fie într-o
+&nbsp;&nbsp;listă, fie în format de grilă
+&nbsp;&nbsp;○ utilizează o rezoluție scăzută
+&nbsp;&nbsp;&nbsp;&nbsp;(atunci când este disponibilă)
+● selectați un singur flux din lista sau
+&nbsp;&nbsp;grila de dispunere
+&nbsp;&nbsp;○ afişează în ecran complet
+&nbsp;&nbsp;○ utilizează o rezoluție înaltă
+&nbsp;&nbsp;&nbsp;&nbsp;(atunci când este disponibilă)
+
+Istorie:
+
+Această aplicație a fost scrisă inițial pentru a testa o ramură experimentală a ExoPlayer. La acea vreme, această ramură a avut o cerere de tragere deschisă care nu a fost fuzionată după mai mulți ani:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+În cele din urmă, această ramură a fuzionat Acum, această aplicație folosește o construcție stabilă a ExoPlayer. Ceea ce, imho, face mai puțin interesant. Dar s-ar putea să fie folositor.

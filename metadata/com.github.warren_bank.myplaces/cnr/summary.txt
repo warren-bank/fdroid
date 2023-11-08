@@ -1,0 +1,1 @@
+Čita GPX i KML datoteke kao liste geografskih koordinata.

@@ -1,0 +1,5 @@
+Uzklausa Wi-Fi LAN adapteri, izmantojot bezpavalstnieku HTTP API (pamatojoties uz AirPlay v1). Reklamē tās pieejamību par atklājumu, izmantojot mDNS (Bonjour).
+
+Atbalsta ierīces visu displeju izmēriem; zemas izšķirtspējas iestatīšanas kastes ar augstas izšķirtspējas HDMI izvadi ir mērķa platforma, bet darbojas vienlīdz labi uz ļoti veciem roku komplektiem ar ļoti maziem zemas izšķirtspējas ekrāniem.
+
+API ir plaša un pilnībā dokumentēta. Statiska web lapa SPA klientu ieviešana padara šo funkcionalitāti ļoti pieejamu. Savā pamatlīmenī, šis API nodrošina spēju "cast" mediju URL atskaņošanas sarakstā un kontrolēt visus aspektus atskaņošanas.

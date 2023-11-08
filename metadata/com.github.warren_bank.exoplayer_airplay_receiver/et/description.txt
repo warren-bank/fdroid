@@ -1,0 +1,5 @@
+Kuulatakse Wi-Fi LAN-adapterit, kasutades olekuta HTTP API (AirPlay v1 põhjal). Reklaamib oma kättesaadavuse avastamist kasutades MDNS (Bonjour).
+
+Toetab seadmeid kõik kuvatavad suurused; odav geneeriline set-top kastid kõrge resolutsiooniga HDMI väljund on sihtplatvormi, kuid töötab võrdselt hästi väga vana käesetid väga väikeste madala resolutsiooniga ekraanid.
+
+API on ulatuslik ja täielikult dokumenteeritud. Staatiline veebilehekülg SPA kliendirakendus muudab selle funktsionaalsuse väga ligipääsetavaks. Oma kõige põhilisemal tasemel annab see API võimaluse "valatud" meedia URL-id esitusnimekirja ja kontrollida kõiki taasesituse aspekte.

@@ -1,0 +1,34 @@
+Funktionerne omfatter muligheden for at:
+
+● konfigurere og gemme et hvilket som
+&nbsp;&nbsp;helst antal applikationsprofiler
+● hver applikationsprofil kan angive:
+&nbsp;&nbsp;○ titel
+&nbsp;&nbsp;○ filsti til hovedJavascript-fil
+&nbsp;&nbsp;○ kommandolinjeparametre for
+&nbsp;&nbsp;&nbsp;&nbsp;Node.js-runtime
+&nbsp;&nbsp;○ kommandolinjeparametre for
+&nbsp;&nbsp;&nbsp;&nbsp;applikationen
+&nbsp;&nbsp;○ miljøvariabler
+&nbsp;&nbsp;○ aktuelt arbejdsbibliotek
+● applikationsprofiler grupperes efter:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applikationer deler en enkelt
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. Kun én kan udføre det på
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;et tidspunkt.
+&nbsp;&nbsp;○ "gaffel"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hver applikation får sin egen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. Hver henrettelse i en
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forgrundstjeneste. En tilknyttet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notifikation dræber processen.
+● sikkerhedskopieringen og
+&nbsp;&nbsp;genindlæsning:
+&nbsp;&nbsp;○ eksportér alle applikationsprofiler
+&nbsp;&nbsp;&nbsp;&nbsp;til JSON
+&nbsp;&nbsp;○ importér nye applikationsprofiler
+&nbsp;&nbsp;&nbsp;&nbsp;fra JSON
+
+Indlejret runtimemiljø:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

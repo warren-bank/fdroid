@@ -1,0 +1,30 @@
+Deze formaten zijn typisch voor goedkope IP beveiligingscamera's.
+
+Kenmerken omvatten de mogelijkheid om:
+
+● een onbeperkt aantal videostreams
+&nbsp;&nbsp;configureren
+● video-streams importeren uit een
+&nbsp;&nbsp;JSON-bestand
+● Elke gegevensstroom kan URL's voor
+&nbsp;&nbsp;twee bronnen bevatten:
+&nbsp;&nbsp;○ Lage resolutie
+&nbsp;&nbsp;○ hoge resolutie
+● Streams in de lijst inschakelen en
+&nbsp;&nbsp;uitschakelen
+● toon de ingeschakelde stromen in een
+&nbsp;&nbsp;lijst of rasterindeling
+&nbsp;&nbsp;○ gebruikt lage resolutie (indien
+&nbsp;&nbsp;&nbsp;&nbsp;beschikbaar)
+● selecteer een enkele stroom in de
+&nbsp;&nbsp;lijst of rasterindeling
+&nbsp;&nbsp;○ afbeelden in volledig scherm
+&nbsp;&nbsp;○ gebruikt hoge resolutie (indien
+&nbsp;&nbsp;&nbsp;&nbsp;beschikbaar)
+
+Historie:
+
+Deze toepassing werd oorspronkelijk geschreven om een experimentele tak van ExoPlayer te testen. Op dat moment had deze tak een open pull aanvraag die na enkele jaren niet meer was samengevoegd:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Uiteindelijk werd deze tak samengevoegd. Nu, deze applicatie maakt gebruik van een stabiele build van ExoPlayer. Wat het minder interessant maakt. Maar het kan nog nuttig zijn.

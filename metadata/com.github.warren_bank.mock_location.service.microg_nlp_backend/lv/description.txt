@@ -1,0 +1,18 @@
+Ļauj "Mock manu GPS" uzvesties kā zeķu atrašanās vietas sniedzējs "UnifiedNlp".
+
+"UnifiedNlp" ir:
+
+● parasti uzstāda kā "mikroG" sastāvdaļu
+● paredzēti lietošanai uz de-Googled
+&nbsp;&nbsp;Android ROM
+● "Google Location Services" rezerves
+&nbsp;&nbsp;aizvietotājs
+
+"UnifiedNlp" mikoku atrašanās vietas datu integrācija:
+
+● ir tikai ieslēgts, kamēr "Mock mans
+&nbsp;&nbsp;GPS" ir aktīvs
+● ir prioritāte pār citiem "UnifiedNlp"
+&nbsp;&nbsp;aizmugure plugins, padziļinot
+&nbsp;&nbsp;timestamp 45 sekundes, tāpēc tas,
+&nbsp;&nbsp;šķiet, ir visvairāk jaunākais

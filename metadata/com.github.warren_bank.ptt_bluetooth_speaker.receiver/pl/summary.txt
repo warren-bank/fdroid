@@ -1,0 +1,1 @@
+Odbiera dźwięk od nadawcy i odtwarza go przez głośnik.

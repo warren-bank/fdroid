@@ -1,0 +1,30 @@
+Yêu cầu root!
+
+Tính năng bao gồm:
+
+● hỗ trợ các giao thức máy chủ proxy:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● hỗ trợ cho phương pháp xác thực
+&nbsp;&nbsp;○ Cơ bản
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● hỗ trợ cho phép máy phục vụ ủy nhiệm:
+&nbsp;&nbsp;○ cho tất cả ứng dụng
+&nbsp;&nbsp;○ cho ứng dụng cụ thể
+● hỗ trợ cho một danh sách đen:
+&nbsp;&nbsp;○ Địa chỉ IP để bỏ qua proxy
+● hỗ trợ ủy nhiệm DNS
+● hỗ trợ cho nhiều hồ sơ
+● hỗ trợ cơ bản cho tập tin autom-cấu
+&nbsp;&nbsp;hình tự động (PAC)
+● để liên kết một thông tin cụ thể
+&nbsp;&nbsp;với:
+&nbsp;&nbsp;○ SSID WiFi
+&nbsp;&nbsp;○ Mạng di động
+● tiện ích để bật/tắt proxy
+● hiệu suất vận hành
+&nbsp;&nbsp;○ tiêu thụ ít pin
+&nbsp;&nbsp;○ dùng ít RAM

@@ -1,0 +1,20 @@
+Attributi di richiesta HTTP configurabili:
+
+● metodo
+● protocollo
+● URL
+● intestazioni
+● parametri querystring
+● corpo
+
+Le funzioni includono la possibilità di:
+
+● inviare una richiesta una volta
+● inviare una richiesta ripetutamente ad
+&nbsp;&nbsp;un intervallo di tempo specificato
+● ricarica la configurazione di una
+&nbsp;&nbsp;richiesta precedente da un log di
+&nbsp;&nbsp;cronologia
+● dati di risposta JSON di stampa
+&nbsp;&nbsp;piuttosto
+● anteprima dei dati di risposta HTML

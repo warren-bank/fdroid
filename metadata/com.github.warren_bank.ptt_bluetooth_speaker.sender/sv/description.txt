@@ -1,0 +1,20 @@
+Användning:
+
+● visar en lista över alla parade
+&nbsp;&nbsp;Bluetooth-enheter
+&nbsp;&nbsp;○ klicka på den som identifierar den
+&nbsp;&nbsp;&nbsp;&nbsp;önskade mottagaren
+&nbsp;&nbsp;○ vänta på anslutning
+
+● växla PTT-knapp
+&nbsp;&nbsp;○ grönt indikerar att ljud för
+&nbsp;&nbsp;&nbsp;&nbsp;närvarande fångas
+&nbsp;&nbsp;&nbsp;&nbsp;från mikrofonen och strömmade via
+&nbsp;&nbsp;&nbsp;&nbsp;den anslutna socket
+&nbsp;&nbsp;○ rött indikerar att ljudströmmen är
+&nbsp;&nbsp;&nbsp;&nbsp;pausad
+
+● flytta skjutreglaget för att justera
+&nbsp;&nbsp;volymen av ljudet
+&nbsp;&nbsp;○ standard: 25%
+&nbsp;&nbsp;○ högst: 200%

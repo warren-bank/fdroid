@@ -1,0 +1,1 @@
+Frontser for å utføre Node.js søknad fra Android-filsystemet.

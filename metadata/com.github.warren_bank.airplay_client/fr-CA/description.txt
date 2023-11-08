@@ -1,0 +1,24 @@
+Les fonctions comprennent:
+
+● Reconnaissance automatique des
+&nbsp;&nbsp;récepteurs AirPlay dans le même réseau
+● Des photos de votre appareil à AirPlay
+● Vidéos de flux et musique de votre
+&nbsp;&nbsp;appareil à AirPlay
+● Miroir de l'écran de votre appareil à
+&nbsp;&nbsp;AirPlay
+
+Crédits:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;La version originale de cette
+&nbsp;&nbsp;&nbsp;&nbsp;application.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Flux d'écran
+&nbsp;&nbsp;&nbsp;&nbsp;Fourni une grande partie du code
+&nbsp;&nbsp;&nbsp;&nbsp;pour implémenter la mise en miroir
+&nbsp;&nbsp;&nbsp;&nbsp;d'écran sur Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protocole airPlay (version 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Documentation non officielle.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

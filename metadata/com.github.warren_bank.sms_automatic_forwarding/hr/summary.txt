@@ -1,0 +1,1 @@
+Pregledajte primljene SMS poruke i uvjetno ih proslježite.

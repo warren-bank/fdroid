@@ -1,0 +1,1 @@
+Toggles Android Debug Bridge daemon (adbd) între USB și modul WiFi.

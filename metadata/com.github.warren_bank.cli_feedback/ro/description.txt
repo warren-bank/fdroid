@@ -1,0 +1,7 @@
+Tipuri de feedback-ul utilizatorului:
+
+● arată un Toast
+● arată o notificare
+● reda un ton de apel audio
+
+Toate tipurile de feedback ale utilizatorilor sunt pornite de Intent. Acest utilitar poate fi utilizat atât prin alte aplicații, cât și direct de către utilizator de la un emulator terminal de linie de comandă.

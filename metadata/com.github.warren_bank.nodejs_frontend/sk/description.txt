@@ -1,0 +1,33 @@
+Medzi funkcie patrí schopnosť:
+
+● konfigurovať a uložiť ľubovoľný počet
+&nbsp;&nbsp;aplikačných profilov
+● každý profil aplikácie môže
+&nbsp;&nbsp;špecifikovať:
+&nbsp;&nbsp;○ nadpis
+&nbsp;&nbsp;○ cesta k hlavnému súboru Javascript
+&nbsp;&nbsp;○ voľby príkazového riadka pre runtime
+&nbsp;&nbsp;&nbsp;&nbsp;Node.js
+&nbsp;&nbsp;○ voľby príkazového riadka pre
+&nbsp;&nbsp;&nbsp;&nbsp;aplikáciu
+&nbsp;&nbsp;○ premenné prostredia
+&nbsp;&nbsp;○ aktuálny pracovný adresár
+● aplikačné profily sú zoskupené podľa:
+&nbsp;&nbsp;○ 'exec'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikácie zdieľajú jeden proces.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naraz sa môže spustiť len jeden.
+&nbsp;&nbsp;○ "vidlica"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Každá aplikácia má svoj vlastný
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. Každá z nich sa vykonáva v
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;službe v popredí. Priradená
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notifikácia zabíja proces.
+● zálohovanie a obnova:
+&nbsp;&nbsp;○ exportovať všetky profily aplikácií
+&nbsp;&nbsp;&nbsp;&nbsp;do JSON
+&nbsp;&nbsp;○ importovať nové profily aplikácií z
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Prostredie vloženého prostredia runtime:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

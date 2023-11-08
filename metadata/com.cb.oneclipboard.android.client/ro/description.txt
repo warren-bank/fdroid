@@ -1,0 +1,7 @@
+Serverele sunt disponibile pentru o varietate de platforme, inclusiv Android.
+
+Toți clienții care se conectează la un server comun și se autentifică folosind aceeași combinație de nume de utilizator și parolă vor împărți un clipboard comun. Ori de câte ori orice client copiază date noi în clipboard-ul său, aceste date sunt trimise la server și apoi transmise tuturor clienților autentificați.
+
+Toate datele din clipboard sunt criptate end-to-end.
+
+Integrarea tasker este susținută.

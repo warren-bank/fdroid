@@ -1,0 +1,11 @@
+Adresy URL pre video na aktuálnej webovej stránke sa zobrazia v zozname.
+
+Nastavenia určujú správanie pri výbere adresy URL pre video:
+● interný video prehrávač obsahuje
+&nbsp;&nbsp;Chromektast odosielateľ
+● externý video prehrávač umožňuje inej
+&nbsp;&nbsp;aplikácii hrať video URL
+● Odosielatelia "ExoAirPlayer" a "HLS
+&nbsp;&nbsp;Proxy" pri každom zaťažení statickej
+&nbsp;&nbsp;webovej stránky SPA klienta pre
+&nbsp;&nbsp;vybratý server

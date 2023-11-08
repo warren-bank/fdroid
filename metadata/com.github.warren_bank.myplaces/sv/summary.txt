@@ -1,0 +1,1 @@
+Läser GPX-och KML-filer som listor över geografiska koordinatbokmärken.

@@ -1,0 +1,1 @@
+Serveris, lai sinhronizētu starpliktuves datus no klientiem.

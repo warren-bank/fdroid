@@ -1,0 +1,1 @@
+Screensaver koji prikazuje slideshow lokalnih slika.

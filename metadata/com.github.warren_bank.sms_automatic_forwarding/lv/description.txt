@@ -1,0 +1,3 @@
+Nosacījumi ir definēti ar noteikumu sarakstu. Katrs noteikums asociē pāradresācijas saņēmēja telefona numuru ar modeli, kuram jāatbilst saņemtā SMS īsziņas sūtītājam.
+
+Ja tiek saņemta jauna SMS īsziņa, to nosūta saņēmējam tālruņa numurus saskaņā ar katru noteikumu, kam ir atbilstošs modelis.

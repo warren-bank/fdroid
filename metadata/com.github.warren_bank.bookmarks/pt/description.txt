@@ -1,0 +1,31 @@
+Background:
+
+● uma Intenção de Android pode ser usada
+&nbsp;&nbsp;para abrir uma parte precisa de
+&nbsp;&nbsp;qualquer aplicativo instalado, e
+&nbsp;&nbsp;passar para ele qualquer tipo ou
+&nbsp;&nbsp;quantidade de dados
+● como tal, um Intento é como um
+&nbsp;&nbsp;marcador Android
+
+Os recursos incluem a capacidade de:
+
+● configurar e salvar Intents como
+&nbsp;&nbsp;favoritos
+● utilizar indicadores para:
+&nbsp;&nbsp;○ iniciar uma Atividade
+&nbsp;&nbsp;○ iniciar um Serviço
+&nbsp;&nbsp;○ enviar um Broadcast
+● planejar indicadores a serem
+&nbsp;&nbsp;utilizados posteriormente:
+&nbsp;&nbsp;○ uma vez
+&nbsp;&nbsp;○ em um intervalo
+● interceptação Intentos iniciados por
+&nbsp;&nbsp;outras aplicações:
+&nbsp;&nbsp;○ para modificar
+&nbsp;&nbsp;○ para salvar
+● backup e restauração:
+&nbsp;&nbsp;○ o banco de dados SQLite inteiro
+&nbsp;&nbsp;○ Arquivo de dados JSON
+&nbsp;&nbsp;○ Arquivo de dados HTML do Netscape
+&nbsp;&nbsp;&nbsp;&nbsp;Bookmark

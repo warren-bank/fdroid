@@ -1,0 +1,12 @@
+功能包括 :
+
+● 检测用户脚本 URL
+● 自动用户脚本更新
+● 扩展的 Javascript API 以公开 Android 特定功能
+● 忽略 HTTP 证书错误的能力
+
+限制 :
+
+● 用户脚本仅在顶部窗口中运行
+&nbsp;&nbsp;○ 可以将脚本注入到 iframes 中，但需要复杂的变通方法 ;
+&nbsp;&nbsp;&nbsp;&nbsp;请参阅自述文件以获取详细信息。

@@ -1,0 +1,1 @@
+Realizar llamadas de vídeo entre dispositivos en una LAN.

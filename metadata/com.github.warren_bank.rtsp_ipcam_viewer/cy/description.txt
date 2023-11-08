@@ -1,0 +1,29 @@
+Mae'r fformatau hyn yn nodweddiadol o gamerâu diogelwch IP rhad.
+
+Mae nodweddion yn cynnwys y gallu i:
+
+● ffurfweddu nifer diderfyn o ffrydiau
+&nbsp;&nbsp;fideo
+● mewnforio ffrydiau fideo o ffeil JSON
+● gall pob ffrwd gynnwys URLau ar gyfer
+&nbsp;&nbsp;dau ffynhonnell:
+&nbsp;&nbsp;○ cydraniad isel
+&nbsp;&nbsp;○ cydraniad uchel
+● galluogi ac analluogi ffrydiau yn y
+&nbsp;&nbsp;rhestr
+● dangos y ffrydiau a alluogir mewn un
+&nbsp;&nbsp;ai rhestr neu gynllun grid
+&nbsp;&nbsp;○ yn defnyddio datrysiad isel (pan
+&nbsp;&nbsp;&nbsp;&nbsp;fydd ar gael)
+● dewis un llif o'r rhestr neu'r cynllun
+&nbsp;&nbsp;grid
+&nbsp;&nbsp;○ dangos mewn sgrin lawn
+&nbsp;&nbsp;○ defnyddio datrysiad uchel (pan fydd
+&nbsp;&nbsp;&nbsp;&nbsp;ar gael)
+
+Hanes:
+
+Ysgrifennwyd y rhaglen hon yn wreiddiol i brofi cangen arbrofol o ExoPlayer. Ar y pryd, yr oedd gan y gangen hon gais ar sail agored na chafodd ei huno ar ôl sawl blwyddyn:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Yn y pen draw, unwyd y gangen hon. Yn awr, mae'r rhaglen hon yn defnyddio adeilad ExoPlayer. Ac mae hynny, yn ei wneud yn llai diddorol. Ond efallai y bydd yn ddefnyddiol o hyd.

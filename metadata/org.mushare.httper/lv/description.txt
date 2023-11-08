@@ -1,0 +1,18 @@
+Konfigurējams HTTP pieprasījuma atribūti:
+
+● metode
+● Protokols
+● URL
+● galvenes
+● querystring parametri
+● ,
+
+Funkcijas ietver spēju:
+
+● nosūta pieprasījumu vienu reizi
+● nosūtīt pieprasījumu atkārtoti
+&nbsp;&nbsp;noteiktā laika intervālā
+● pārlādēt iepriekšēja pieprasījuma
+&nbsp;&nbsp;konfigurāciju no vēstures žurnāla
+● diezgan drukas JSON atbildes dati
+● priekšskatījums HTML atbildes dati

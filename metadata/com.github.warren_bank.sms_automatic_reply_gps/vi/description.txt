@@ -1,0 +1,15 @@
+Các tiêu chí có điều kiện
+
+● Một người theo chủ nghĩa trắng của số
+&nbsp;&nbsp;điện thoại người gửi
+● một chuỗi con phải xảy ra ở đầu
+&nbsp;&nbsp;của thông báo SMS đã nhận
+
+Dữ liệu vị trí GPS bao gồm:
+
+● Và tọa độ kinh độ
+● chính xác (m)
+● speed (meters/sec)
+● hướng (hồng y hoặc thứ tự, và bằng
+&nbsp;&nbsp;cấp)
+● Địa chỉ Mạng đến Google Maps

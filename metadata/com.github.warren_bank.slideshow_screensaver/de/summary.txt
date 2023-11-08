@@ -1,0 +1,1 @@
+Bildschirmschoner, der eine Slideshow der lokalen Bilder zeigt.

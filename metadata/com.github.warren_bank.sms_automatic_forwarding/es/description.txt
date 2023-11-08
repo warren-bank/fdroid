@@ -1,0 +1,3 @@
+Las condiciones se definen mediante una lista de reglas. Cada regla asocia un número de teléfono destinatario de reenvío con un patrón que debe coincidir con el remitente de un mensaje SMS recibido.
+
+Cuando se recibe un mensaje SMS nuevo, se reenvía a los números de teléfono del destinatario de acuerdo con cada regla que tiene un patrón de coincidencia.

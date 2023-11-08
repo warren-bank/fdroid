@@ -1,0 +1,3 @@
+Tingimused on määratletud reeglite nimekirjas. Iga reegel kaastöötaja edastab saaja telefoninumber koos muster, mis peab vastama saatja saanud SMS sõnum.
+
+Kui saadetakse uus SMS-sõnum, edastatakse see saaja telefoninumbritele vastavalt iga reegli järgi, millel on sobiv muster.

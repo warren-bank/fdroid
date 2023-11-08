@@ -1,0 +1,24 @@
+特性包括下列功能：
+
+● 配置及儲存任何數目的應用程式設定檔
+● 每一個應用程式設定檔都可以指定：
+&nbsp;&nbsp;○ 標題
+&nbsp;&nbsp;○ 主要 Javascript 檔案的檔案路徑
+&nbsp;&nbsp;○ Node.js 執行時期的指令行選項
+&nbsp;&nbsp;○ 應用程式的指令行選項
+&nbsp;&nbsp;○ 環境變數
+&nbsp;&nbsp;○ 現行工作目錄
+● 應用程式設定檔的分組方式如下：
+&nbsp;&nbsp;○ " exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;應用程式共用單一程序。 一次只能執行一個。
+&nbsp;&nbsp;○ " 叉"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;每一個應用程式都提供了自己的程序。 每一個在前景服務中執行。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相關聯的通知會結束處理程序。
+● 備份及還原：
+&nbsp;&nbsp;○ 將所有應用程式設定檔匯出至 JSON
+&nbsp;&nbsp;○ 從 JSON 匯入新的應用程式設定檔
+
+內嵌執行時期環境：
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

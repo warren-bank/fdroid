@@ -1,0 +1,31 @@
+Contexte:
+
+● Un objet Android peut être utilisé
+&nbsp;&nbsp;pour ouvrir une partie précise de
+&nbsp;&nbsp;toute application installée et lui
+&nbsp;&nbsp;transmettre tout type ou quantité de
+&nbsp;&nbsp;données
+● comme tel, une intention est comme un
+&nbsp;&nbsp;signet Android
+
+Les fonctions comprennent la capacité:
+
+● configurer et enregistrer les Intents
+&nbsp;&nbsp;comme des signets nommés
+● utiliser des signets pour:
+&nbsp;&nbsp;○ démarrer une activité
+&nbsp;&nbsp;○ démarrer un service
+&nbsp;&nbsp;○ envoyer une diffusion
+● planifier les signets à utiliser
+&nbsp;&nbsp;ultérieurement:
+&nbsp;&nbsp;○ une fois
+&nbsp;&nbsp;○ à un intervalle
+● interception Intente démarrée par
+&nbsp;&nbsp;d'autres applications:
+&nbsp;&nbsp;○ pour modifier
+&nbsp;&nbsp;○ pour enregistrer
+● sauvegarde et restauration:
+&nbsp;&nbsp;○ toute la base de données SQLite
+&nbsp;&nbsp;○ Fichier de données JSON
+&nbsp;&nbsp;○ Fichier de données HTML de signet
+&nbsp;&nbsp;&nbsp;&nbsp;Netscape

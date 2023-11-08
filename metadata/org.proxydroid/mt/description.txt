@@ -1,0 +1,34 @@
+Teħtieġ l-għerq!
+
+Il-karatteristiċi jinkludu:
+
+● appoġġ għall-protokolli tas-server
+&nbsp;&nbsp;proxy:
+&nbsp;&nbsp;○ HTTP:
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCJI5
+● appoġġ għal metodi ta '
+&nbsp;&nbsp;awtentikazzjoni:
+&nbsp;&nbsp;○ Bażiku
+&nbsp;&nbsp;○ NLM
+&nbsp;&nbsp;○ NTLMv2
+● appoġġ biex ikun jista ' jsir server
+&nbsp;&nbsp;bi prokura:
+&nbsp;&nbsp;○ globalment, għall-apps kollha
+&nbsp;&nbsp;○ għal apps speċifiċi biss
+● appoġġ għal blacklist:
+&nbsp;&nbsp;○ L-IP jindirizza biex jgħaddi
+&nbsp;&nbsp;&nbsp;&nbsp;l-prokura
+● appoġġ għal prokura DNS
+● appoġġ għal profili multipli
+● appoġġ bażiku għal fajl ta
+&nbsp;&nbsp;'awtokonfigurazzjoni ta' prokura (PAC)
+● il-ħila li jassoċjaw profil
+&nbsp;&nbsp;partikolari ma ':
+&nbsp;&nbsp;○ SSID WiFi
+&nbsp;&nbsp;○ Netwerk mobbli
+● widget biex toggle prokura fuq/off
+● effiċjenza fit-tul:
+&nbsp;&nbsp;○ tikkonsma ftit batterija
+&nbsp;&nbsp;○ tuża RAM ftit

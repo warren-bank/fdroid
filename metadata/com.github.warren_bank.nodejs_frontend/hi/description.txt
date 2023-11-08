@@ -1,0 +1,35 @@
+विशेषताओं में शामिल करने की क्षमता शामिल हैं:
+
+● अनुप्रयोग प्रोफ़ाइल की किसी भी संख्या
+&nbsp;&nbsp;को सहेजने और सहेजें
+● प्रत्येक अनुप्रयोग प्रोफ़ाइल निर्दिष्ट
+&nbsp;&nbsp;कर सकते हैं:
+&nbsp;&nbsp;○ ख़िताब
+&nbsp;&nbsp;○ मुख्य Javascript फ़ाइल में फ़ाइल पथ
+&nbsp;&nbsp;○ नोडे.js रनटाइम के लिए कमांड लाइन
+&nbsp;&nbsp;&nbsp;&nbsp;विकल्प
+&nbsp;&nbsp;○ आवेदन के लिए कमांड लाइन विकल्प
+&nbsp;&nbsp;○ पर्यावरण चर
+&nbsp;&nbsp;○ वर्तमान कार्यशील निर्देशिका
+● अनुप्रयोग प्रोफाइल को समूहबद्ध किया
+&nbsp;&nbsp;गया हैः
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;अनुप्रयोग एक एकल प्रक्रिया को साझा
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;करते हैं. केवल एक ही समय पर
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;निष्पादित कर सकते हैं.
+&nbsp;&nbsp;○ "फॉर्क"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;प्रत्येक आवेदन को अपनी प्रक्रिया
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;दी जाती है. प्रत्येक व्यक्ति एक
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;अग्रभूमि सेवा में निष्पादित होता
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;है । एक संबद्ध अधिसूचना प्रक्रिया
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;को मारता है.
+● बैकअप और बहाल:
+&nbsp;&nbsp;○ सभी अनुप्रयोग प्रोफाइल JSON के लिए
+&nbsp;&nbsp;&nbsp;&nbsp;निर्यात
+&nbsp;&nbsp;○ नया अनुप्रयोग प्रोफाइल JSON से आयात
+&nbsp;&nbsp;&nbsp;&nbsp;करें
+
+एंबेडेड रनटाइम वातावरण:
+
+● नोदे.js 12.19.0
+● OpenSSL 1.1.1g

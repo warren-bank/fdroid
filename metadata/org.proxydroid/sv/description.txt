@@ -1,0 +1,31 @@
+Kräver roten!
+
+Funktioner är:
+
+● support för proxyserverprotokoll:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPSAR
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● Stöd för behörighetskontrollmetoder:
+&nbsp;&nbsp;○ Grundläggande
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● support för aktivering av proxyserver:
+&nbsp;&nbsp;○ globalt, för alla appar
+&nbsp;&nbsp;○ Endast för specifika appar
+● Stöd för en svart lista:
+&nbsp;&nbsp;○ IP-adresser för att kringgå proxy
+● stöd för en DNS-proxy
+● stöd för flera profiler
+● grundläggande funktioner för en
+&nbsp;&nbsp;proxykonfiguration för
+&nbsp;&nbsp;autokonfigurering (PAC)
+● möjlighet att associera en viss profil
+&nbsp;&nbsp;med:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobilnät
+● widget att växla proxy på / av
+● körningsgrad:
+&nbsp;&nbsp;○ konsumerar litet batteri
+&nbsp;&nbsp;○ använder lite RAM

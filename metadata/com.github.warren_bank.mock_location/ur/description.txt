@@ -1,0 +1,32 @@
+خصوصیات میں شامل ہیں:
+
+● ایک مقررہ مقام کا فرضی
+● ایک سفر سمیٹتے
+● ایک فرضی مقررہ مقام پر رشتہ دار کو
+&nbsp;&nbsp;منتقل کرنے کے لئے ایک joystick کا
+&nbsp;&nbsp;استعمال
+● بلد اور عرض بلد (طول و عرض) قبول کرتے
+&nbsp;&nbsp;ہیں.
+● طول بلد اور عرض بلد (طول و عرض) کو
+&nbsp;&nbsp;محفوظ کرنے کے لئے بکمارکلٹ نامی جوڑے
+
+مختلف قسم:
+
+1. AOSP
+2. AOSP + گوگل کھیلیں سروسز
+3. AOSP + Huawei موبائل سروسز
+
+اینڈرائیڈ انضمام:
+
+1. ڈیولپر اختیارات کو فعال کریں
+&nbsp;&nbsp;&nbsp;● کھلا:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;سیٹنگز سسٹم
+&nbsp;&nbsp;&nbsp;● بار بار 7 مرتبہ کلک کریں:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;بنائیں نمبر
+2. ترتیب دینا:
+&nbsp;&nbsp;&nbsp;● کھلا:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Settings -- System > ڈیولپر
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;اختیارات
+&nbsp;&nbsp;&nbsp;● اقدار کو بچائے:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;موک مقام ایپ: "ماک میرا جی پی
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ایس"

@@ -1,0 +1,18 @@
+Runs f ' Servizz miksub:
+
+● m' hemm l-ebda UI viżibbli
+● jagħmel l-adapter Bluetooth disverable
+● jibda server tal-but Bluetooth
+● jisma ' konnessjoni minn mittent
+
+Meta mittent jgħaqqad:
+
+● tieqaf tisma 'konnessjoni ta' min
+&nbsp;&nbsp;jibgħat
+● jilgħab il-kurrent awdjo mill-But
+&nbsp;&nbsp;Konness
+
+Meta mittent jiddistilla:
+
+● jerġa 'jibda jisma' konnessjoni ta '
+&nbsp;&nbsp;min jibgħat

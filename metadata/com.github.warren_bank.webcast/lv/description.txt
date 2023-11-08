@@ -1,0 +1,10 @@
+Video URL uz pašreizējo tīmekļa lapu ir parādīti sarakstā.
+
+Iestatījumi nosaka uzvedību, kad tiek izvēlēts video URL:
+● iekšējais video atskaņotājs ietver
+&nbsp;&nbsp;Chromecast sūtītāju
+● ārējais video atskaņotājs ļauj citu
+&nbsp;&nbsp;lietotni atskaņot video URL
+● "ExoAirPlayer" un "HLS Proxy" sūtītāji
+&nbsp;&nbsp;katrs ielādē statisku web lapu SPA
+&nbsp;&nbsp;klientu izvēlētajam serverim

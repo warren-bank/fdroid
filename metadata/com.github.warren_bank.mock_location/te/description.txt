@@ -1,0 +1,30 @@
+విశేషాలు:
+
+● నిర్దిష్ట స్థానం
+● ఒక పర్యటన సిమ్యుట్
+● ఒక జాయ్స్టిక్ ను ఒక మోక్ నిర్దిష్ట
+&nbsp;&nbsp;స్థానమునకు అనుబంధంగా తరలించడానికి
+&nbsp;&nbsp;ఉపయోగించుము
+● అక్షాంశం మరియు దీర్ఘచతురసర భూ-అక్షాంశం
+● Ltitude and longitude geo-coordinate
+&nbsp;&nbsp;pairs as named bookmarks
+
+వేరియములు:
+
+1. AOSP
+2. AOSP + Google Play సేవలు
+3. AOSP + Huawei మొబైల్ సేవలు
+
+ఆండ్రాయిడ్ నియామకం:
+
+1. డెవలప్మెర్ ఐచ్ఛికాలు
+&nbsp;&nbsp;&nbsp;● తెరువు:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;అమరిక సిస్టమ్ > ఫోన్ గురించి
+&nbsp;&nbsp;&nbsp;● 7 సార్లు బిందువుగా నొక్కుము:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;సంఖ్యను బదిచేయి
+2. ఆకృతి:
+&nbsp;&nbsp;&nbsp;● తెరువు:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;అమరిక > సిస్టమ్ > డెవలప్మెర్
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ఐచ్చికములు
+&nbsp;&nbsp;&nbsp;● విలువలను రక్షించుము:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location app: "Mock my GPS"

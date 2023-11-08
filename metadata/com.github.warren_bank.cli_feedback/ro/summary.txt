@@ -1,0 +1,1 @@
+Utilitar non-interactiv pentru a oferi feedback-ul utilizatorului de la linia de comandă.

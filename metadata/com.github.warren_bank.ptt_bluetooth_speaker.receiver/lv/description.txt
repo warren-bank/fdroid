@@ -1,0 +1,18 @@
+Darbojas priekšplānā Pakalpojums:
+
+● nav redzamas UI
+● padara Bluetooth adapteri atklājamu
+● sākas Bluetooth Socket serveris
+● klausās pieslēgšanās no sūtītāja,
+
+Ja sūtītājs savieno:
+
+● pārtrauc klausīties sūtītāja
+&nbsp;&nbsp;pieslēgumu
+● atskaņo audio plūsmu no pievienotās
+&nbsp;&nbsp;Socket
+
+Ja sūtītājs atvieno:
+
+● atsāk klausoties jaunu sūtītāja
+&nbsp;&nbsp;pieslēgumu

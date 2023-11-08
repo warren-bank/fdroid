@@ -1,0 +1,18 @@
+Izvaja se v ospredju:
+
+● ni vidnih UI
+● onemogočljiv vmesnik Bluetooth
+● zažene strežnik Bluetooth Socket
+● posluša za povezavo pošiljatelja
+
+Ko se pošiljatelj poveže:
+
+● zaustavitev poslušanje za povezavo
+&nbsp;&nbsp;pošiljatelja
+● predvaje avdio tok iz povezanega
+&nbsp;&nbsp;vtičnice
+
+Ko pošiljatelj prekine povezavo:
+
+● nadaljuje z poslušanje za novo
+&nbsp;&nbsp;povezavo pošiljatelja

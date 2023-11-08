@@ -1,0 +1,23 @@
+คุณลักษณะรวมถึง:
+
+● การค้นหาตัวรับ Air Play
+&nbsp;&nbsp;แบบอัตโนมัติภายในเครือข่ายเดียวกัน
+● รูปถ่ายบีมจากอุปกรณ์ของคุณไปยัง Air
+&nbsp;&nbsp;Play
+● สตรีมวิดีโอและเพลงจากอุปกรณ์ของคุณไปยัง
+&nbsp;&nbsp;Air Play
+● มิร์เรอร์หน้าจอจากอุปกรณ์ของคุณไปยัง
+&nbsp;&nbsp;Air Play
+
+สร้างมันขึ้นมา
+
+● โดรดเพลย์
+&nbsp;&nbsp;&nbsp;&nbsp;เวอร์ชันต้นฉบับของแอ็พพลิเคชันนี้
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● สตรีมหน้าจอ
+&nbsp;&nbsp;&nbsp;&nbsp;จัดเตรียมโค้ดจำนวนมากเพื่อนำการทำมิเรอร์หน้าจอไปใช้งานบน
+&nbsp;&nbsp;&nbsp;&nbsp;Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● โปรโตคอล Air Play (เวอร์ชัน 1)
+&nbsp;&nbsp;&nbsp;&nbsp;เอกสารคู่มือที่ไม่เพียงพอ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

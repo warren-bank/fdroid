@@ -1,0 +1,17 @@
+Gnéithe:
+
+● braig URLanna userscript a bhrath
+● Nuashonruithe scripte uathoibríoch
+● ó Javascript Javascript API a
+&nbsp;&nbsp;thabhairt Android Android cumais
+&nbsp;&nbsp;shonracha
+● an cumas chun earráidí deimhniúcháin
+&nbsp;&nbsp;HTTPS a fháil
+
+Teorainneacha:
+
+● userscrippts amháin i bhfuinneog an
+&nbsp;&nbsp;barr
+&nbsp;&nbsp;○ Tá script in icomes is féidir, ach
+&nbsp;&nbsp;&nbsp;&nbsp;éilíonn obair casta ar fud; tagairt
+&nbsp;&nbsp;&nbsp;&nbsp;don README le haghaidh sonraí.

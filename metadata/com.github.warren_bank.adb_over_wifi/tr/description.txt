@@ -1,0 +1,7 @@
+Kök gerektirir!
+
+USB kipi varsayılan değerdir. Android aygıtı bir bilgisayara bağlamak için bir USB kablosu ve USB sürücüleri gerekir.
+
+WiFi modu kablosuz olarak ve ek sürücüler gerektirmez. Herhangi bir bilgisayar, Android aygır ile bağlantı istemek için "adb" istemcisini kullanabilir.
+
+Wi-Fi kipi etkinleştirildiğinde, bu uygulama bir LAN üzerinden böyle bir bağlantı istemek için gerekli olan "adb" komutunu görüntüler.

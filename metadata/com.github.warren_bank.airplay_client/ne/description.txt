@@ -1,0 +1,23 @@
+विशेषताहरू:
+
+● एउटै सञ्जालभित्र एयरप्ले प्राप्तिको
+&nbsp;&nbsp;स्वचालित आविष्कार
+● बिम फोटोहरु आफ्नो डिभाइस देखि एयरप्ले
+&nbsp;&nbsp;सम्म
+● तपाईँको यन्त्रबाट स्ट्रिम भिडियो र
+&nbsp;&nbsp;संगीत AirPlay
+● तपाईँको यन्त्रदेखि AirPlay सम्मको
+&nbsp;&nbsp;पर्दा मिरर गर्नुहोस्
+
+श्रेय:
+
+● ड्रोइडप्ले
+&nbsp;&nbsp;&nbsp;&nbsp;यो अनुप्रयोगको मूल संस्करण.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● स्क्रिनस्ट्रीम
+&nbsp;&nbsp;&nbsp;&nbsp;एन्ड्रोइड ५.०+ मा स्क्रीन प्रतिबिंब
+&nbsp;&nbsp;&nbsp;&nbsp;लागू गर्न कोड को धेरै
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● एयरप्ले (संस्करण १) प्रोटोकल
+&nbsp;&nbsp;&nbsp;&nbsp;गैर सरकारी मिसिलिकरण.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

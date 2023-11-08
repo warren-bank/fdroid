@@ -1,0 +1,3 @@
+Ehdot on määritelty sääntöjen luettelossa. Kukin sääntö luo uuden vastaanottajan puhelinnumeron, jonka hakuperusteen on vastattava vastaanotetun SMS-sanoman lähettäjää.
+
+Kun uusi SMS-sanoma vastaanotetaan, se välitetään vastaanottajan puhelinnumeroihin kunkin säännön mukaisesti.

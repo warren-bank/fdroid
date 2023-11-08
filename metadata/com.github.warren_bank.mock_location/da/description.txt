@@ -1,0 +1,32 @@
+Funktionerne omfatter muligheden for at:
+
+● hån en fast position
+● simulere en tur
+● Brug en joystick til at flytte i
+&nbsp;&nbsp;forhold til en fast position
+● Accepter breddegrad og
+&nbsp;&nbsp;længdekoordineringspar fra Intents
+● spar breddegrad og
+&nbsp;&nbsp;længdegrad-koordinerer par som
+&nbsp;&nbsp;navngivne bogmærker
+
+Variationer:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+Android-integration:
+
+1. Aktivér Developer-indstillinger
+&nbsp;&nbsp;&nbsp;● åbn:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indstillinger > System > Om
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;telefon
+&nbsp;&nbsp;&nbsp;● klik gentagne gange 7 gange:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build-nummer
+2. konfigurér:
+&nbsp;&nbsp;&nbsp;● åbn:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indstillinger > System >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developer-indstillinger
+&nbsp;&nbsp;&nbsp;● gem værdier:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location-app: "Mock my GPS"

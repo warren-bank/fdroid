@@ -1,0 +1,1 @@
+Inspectez les messages SMS reçus et répondez sous condition avec les données de localisation GPS.

@@ -1,0 +1,40 @@
+Medzi funkcie patrí schopnosť:
+
+● hľadať televízny serior podľa mena
+● pridať televízny serior vo výsledkoch
+&nbsp;&nbsp;vyhľadávania do zoznamu
+● zoradiť a filtrovať zoznam pridaných
+&nbsp;&nbsp;televíznych sérií
+● prejsť do zoznamu, aby ste si mohli
+&nbsp;&nbsp;prečítať podrobné informácie o každej
+&nbsp;&nbsp;sérii a o jeho dostupných epizédiách
+● označiť epizódy ako boli sledované
+● značky značiek ako zakázané
+● priradiť každú sériu k externým
+&nbsp;&nbsp;adresám URL
+&nbsp;&nbsp;○ ex: webové stránky, v ktorých možno
+&nbsp;&nbsp;&nbsp;&nbsp;sledovať sériu
+● aktualizovať televízny serior v
+&nbsp;&nbsp;zozname
+&nbsp;&nbsp;○ na získanie informácií o nových
+&nbsp;&nbsp;&nbsp;&nbsp;príhodách
+
+Požiadavky na sieť:
+
+● Zoznam pridaných televíznych sérií je
+&nbsp;&nbsp;možné použiť v režime offline
+● pripojenie na internet je potrebné len
+&nbsp;&nbsp;na manuálne pridanie alebo
+&nbsp;&nbsp;aktualizáciu televíznych sérií
+
+Kredity
+
+● všetky údaje sú získané z databázy
+&nbsp;&nbsp;Movie Database (TMDB), používajúce
+&nbsp;&nbsp;verziu 3 TMDB API
+● historická lineage:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidZobrazuje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Malý televízny čas tracker

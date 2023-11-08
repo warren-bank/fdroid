@@ -1,0 +1,8 @@
+Vyžaduje kořen!
+
+Provedení skriptu shellu může být vyvoláno dvěma způsoby:
+
+1. interaktivní
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uživatel ručně vybere soubor.
+2. automatický
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Záměr.

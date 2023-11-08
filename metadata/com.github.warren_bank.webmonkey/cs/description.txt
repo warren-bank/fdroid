@@ -1,0 +1,17 @@
+Vlastnosti zahrnují:
+
+● detekce adres URL pro userscript
+● automatické aktualizace userscript
+● rozšířené rozhraní JavaScript API pro
+&nbsp;&nbsp;vystavení specifických schopností
+&nbsp;&nbsp;systému Android
+● schopnost ignorovat chyby certifikátu
+&nbsp;&nbsp;HTTPS
+
+Omezení:
+
+● userscripts only run in the top window
+&nbsp;&nbsp;○ vložení skriptu do sekce iframe je
+&nbsp;&nbsp;&nbsp;&nbsp;možné, ale vyžaduje to komplikované
+&nbsp;&nbsp;&nbsp;&nbsp;náhradní řešení; podrobnosti
+&nbsp;&nbsp;&nbsp;&nbsp;naleznete v souboru README.

@@ -1,0 +1,5 @@
+Hört auf dem Wi-Fi-LAN-Adapter mit einer statusunabhängigen HTTP-API (basierend auf AirPlay v1). Bewirbt seine Verfügbarkeit für die Erkennung mit mDNS (Bonjour).
+
+Unterstützt Geräte aller Displaygrößen; preiswerte generische Set-Top-Boxen mit hochaufgelöster HDMI-Ausgabe sind die Zielplattform, funktionieren aber genauso gut auf sehr alten Handsets mit sehr kleinen, niedrigauflösenden Bildschirmen.
+
+Die API ist umfangreich und vollständig dokumentiert. Eine statische Web-Seite SPA-Client-Implementierung macht diese Funktionalität sehr zugänglich. Diese API bietet die Möglichkeit, Medien-URLs in eine Wiedergabeliste zu "umsetzen" und alle Aspekte der Wiedergabe zu steuern.

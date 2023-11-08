@@ -1,0 +1,11 @@
+Bildspelsinställningar:
+
+● Tidslängd (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Perioden för varje bild visas.
+● Använd MediaStore-leverantör
+&nbsp;&nbsp;&nbsp;&nbsp;Hämtar bildfiler från Android-index.
+● Katalogsökväg
+&nbsp;&nbsp;&nbsp;&nbsp;Hämta bilder från en viss katalog i
+&nbsp;&nbsp;&nbsp;&nbsp;filsystemet.
+● Rekurser i underkataloger
+● Slumpmässig ordning

@@ -1,0 +1,9 @@
+Memerlukan akar!
+
+Pelaksanaan bagi skrip shell boleh diseru dalam dua cara:
+
+1. Interaktif
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oleh pengguna secara manual memilih
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fail.
+2. automatik
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oleh Inkhemah.

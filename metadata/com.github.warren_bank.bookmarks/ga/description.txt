@@ -1,0 +1,31 @@
+Cúlra:
+
+● Is féidir Android Intinne a úsáid chun
+&nbsp;&nbsp;páirt cruinn a oscailt d' aon iarratas
+&nbsp;&nbsp;suiteáilte, agus pas a fháil ar aon
+&nbsp;&nbsp;chineál nó cainníocht na sonraí
+● mar sin, tá sé Intinne cosúil le
+&nbsp;&nbsp;leabharmharc Android
+
+Gnéithe a áirítear ar an gcumas chun:
+
+● Sábháil agus sábháil Intents mar
+&nbsp;&nbsp;leabharmharcanna ainmnithe
+● úsáid leabharmharcanna le:
+&nbsp;&nbsp;○ Tosaigh an t-am
+&nbsp;&nbsp;○ Tús na Seirbhíse
+&nbsp;&nbsp;○ Seol Craoladh
+● sceideal na leabharmharcanna a bheidh
+&nbsp;&nbsp;le húsáid níos déanaí:
+&nbsp;&nbsp;○ am
+&nbsp;&nbsp;○ ag eatramh
+● Cuireadh tús le feidhmchláir
+&nbsp;&nbsp;idirlinnte a thosaigh le hiarratais
+&nbsp;&nbsp;eile:
+&nbsp;&nbsp;○ a mhodhnú
+&nbsp;&nbsp;○ a shábháil
+● cúltaca agus athchóiriú:
+&nbsp;&nbsp;○ an bunachar sonraí SQLite ar fad
+&nbsp;&nbsp;○ Comhad sonraí JSON
+&nbsp;&nbsp;○ Leabharmarcanna Netscape HTML sonraí
+&nbsp;&nbsp;&nbsp;&nbsp;HTML

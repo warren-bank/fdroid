@@ -1,0 +1,1 @@
+Przechwytuje dźwięk z mikrofonu i wysyła go do odbiornika.

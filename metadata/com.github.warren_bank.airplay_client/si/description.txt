@@ -1,0 +1,21 @@
+විශේෂාංග ඇතුලත් කිරීම:
+
+● එම ජාලය තුල AirPlay ග්රාහකයන්
+&nbsp;&nbsp;ස්වයංක්රීයව සොයාගැනීම
+● බීම් ඡායාරූප ඔබේ උපකරණයෙන් AirPlay
+● Stream videos and music from your
+&nbsp;&nbsp;device to AirPlay
+● ඔබේ උපකරණයෙන් තිරය ගුවන් ගත කරන්න
+
+Credits:
+
+● ඩ්රයිඩ්වාදනය
+&nbsp;&nbsp;&nbsp;&nbsp;මෙම යෙදුම මුල් ස්වරූපයයි.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;ඇන්ඩ්රොයිඩ් 5.0+ මත තිරගත කිරීම සදහා
+&nbsp;&nbsp;&nbsp;&nbsp;ක්රියාත්මක කිරීමට ඇති සංකේත බොහෝ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (version 1) මූලලේඛය
+&nbsp;&nbsp;&nbsp;&nbsp;නිපුණත ලේඛන.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

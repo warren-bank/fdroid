@@ -1,0 +1,7 @@
+Teħtieġ l-għerq!
+
+USB modalità hija l-inadempjenza. Teħtieġ kejbil USB u sewwieqa USB biex jgħaqqdu l-apparat Android għal kompjuter.
+
+Il-mod WiFi huwa wireless u ma jeħtieġ l-ebda sewwieqa addizzjonali. Kwalunkwe kompjuter jista ' juża l-klijent "adb" li jitlob konnessjoni mal-apparat Android.
+
+Meta modalità WiFi hija ppermettiet, din l-app turi l-kmand "adb" meħtieġa biex jitolbu konnessjoni bħal din fuq LAN.

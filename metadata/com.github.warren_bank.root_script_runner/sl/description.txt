@@ -1,0 +1,8 @@
+Zahteva koren!
+
+Izvajanje skripta lupine je mogoče priklicati na dva načina:
+
+1. interaktivno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uporabnik ročno izbere datoteko.
+2. samodejno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V šotoru.

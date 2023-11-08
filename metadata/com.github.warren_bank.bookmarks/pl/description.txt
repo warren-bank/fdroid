@@ -1,0 +1,31 @@
+Tło:
+
+● W celu otwarcia precyzyjnej części
+&nbsp;&nbsp;dowolnej zainstalowanej aplikacji i
+&nbsp;&nbsp;przekazania do niej dowolnego typu lub
+&nbsp;&nbsp;ilości danych można użyć urządzenia z
+&nbsp;&nbsp;systemem Android Intent.
+● jako taki, Intent jest jak zakładka
+&nbsp;&nbsp;Android
+
+Funkcje obejmują możliwość:
+
+● konfigurowanie i zapisywanie intencji
+&nbsp;&nbsp;jako nazwanych zakładek
+● użyj zakładek do:
+&nbsp;&nbsp;○ uruchamianie działania
+&nbsp;&nbsp;○ uruchamianie usługi
+&nbsp;&nbsp;○ wyślij rozgłaszanie
+● harmonogram zakładek do późniejszego
+&nbsp;&nbsp;użycia:
+&nbsp;&nbsp;○ jeden raz
+&nbsp;&nbsp;○ w danym przedziale czasu
+● Intencje przechwycenia rozpoczęte
+&nbsp;&nbsp;przez inne aplikacje:
+&nbsp;&nbsp;○ do modyfikacji
+&nbsp;&nbsp;○ aby zapisać
+● tworzenie i odtwarzanie kopii
+&nbsp;&nbsp;zapasowych:
+&nbsp;&nbsp;○ cała baza danych SQLite
+&nbsp;&nbsp;○ Plik danych JSON
+&nbsp;&nbsp;○ Plik danych HTML zakładki Netscape

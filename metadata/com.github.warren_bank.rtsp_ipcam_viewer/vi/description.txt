@@ -1,0 +1,27 @@
+Các định dạng này là điển hình của các camera an ninh IP rẻ tiền
+
+Tính năng bao gồm khả năng:
+
+● cấu hình sô ́ dòng video không giới
+&nbsp;&nbsp;hạn
+● nhập dòng video tư ̀ tập tin JSON
+● mỗi luồng có thể bao gồm các URL cho
+&nbsp;&nbsp;hai nguồn:
+&nbsp;&nbsp;○ giải quyết thấp
+&nbsp;&nbsp;○ giải pháp cao
+● Bật có chọn lọc và tắt các dòng
+&nbsp;&nbsp;trong danh sách
+● hiển thị các dòng được bật trong
+&nbsp;&nbsp;danh sách hoặc bô ́ cục Lưới
+&nbsp;&nbsp;○ sử dụng độ phân giải thấp (khi có)
+● chọn dòng duy nhất từ danh sách hoặc
+&nbsp;&nbsp;bố trí lưới
+&nbsp;&nbsp;○ hiển thị đầy đủ màn hình
+&nbsp;&nbsp;○ sử dụng độ phân giải cao (khi có)
+
+Lịch sử:
+
+Ứng dụng này ban đầu được viết để thử nghiệm một nhánh thử nghiệm của ExoPlayer. Vào thời điểm đó, chi nhánh này có một yêu cầu kéo mở đã không được sáp nhập sau vài năm:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Cuối cùng, chi nhánh này đã được sáp nhập. Bây giờ, ứng dụng này sử dụng một bản xây dựng ổn định của ExoPlayer. Điều đó làm cho nó ít thú vị hơn. Nhưng nó vẫn có thể hữu ích.

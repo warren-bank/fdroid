@@ -1,0 +1,1 @@
+Alınan SMS iletilerini inceleyin ve koşullu olarak GPS konum verileri ile yanıt verin.

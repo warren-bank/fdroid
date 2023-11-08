@@ -1,0 +1,41 @@
+Funkcijos apima galimybę:
+
+● Televizijos search series by name
+● įtraukti televizijos search search
+&nbsp;&nbsp;result to a list
+● Rūšiuoti ir filtruoti į pridėta
+&nbsp;&nbsp;televizijos serija sąrašą
+● būti įtraukti į sąrašą skaityti
+&nbsp;&nbsp;išsamią informaciją apie kiekvieną
+&nbsp;&nbsp;seriją ir jos galimus epizodų
+● Pažymėti epizodai, kaip buvo stebimi
+● Ženklų serija kaip išjungta
+● asocijuotoji kiekviena serija su
+&nbsp;&nbsp;išoriniu URL
+&nbsp;&nbsp;○ ex: interneto svetainės, kuriose
+&nbsp;&nbsp;&nbsp;&nbsp;eilutė gali būti stebima
+● atnaujinti televizijos programų seriją
+&nbsp;&nbsp;sąraše
+&nbsp;&nbsp;○ gauti informaciją apie naujus
+&nbsp;&nbsp;&nbsp;&nbsp;epizodus
+
+Tinklo reikalavimai:
+
+● Papildomos televizijos serijos sąrašas
+&nbsp;&nbsp;gali būti naudojamas visiškai
+&nbsp;&nbsp;atsijungus
+● interneto ryšys yra būtinas tik
+&nbsp;&nbsp;rankiniu būdu įtraukti arba atnaujinti
+&nbsp;&nbsp;televizijos serią
+
+Kreditai:
+
+● Visi duomenys gaunami iš Movie
+&nbsp;&nbsp;Database (TMDB), naudojant TMDB API 3
+&nbsp;&nbsp;versiją
+● istorinės linijos:
+&nbsp;&nbsp;1. DroidSea
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television time Tracker

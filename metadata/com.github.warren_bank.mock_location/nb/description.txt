@@ -1,0 +1,32 @@
+Funksjoner omfatter muligheten til å:
+
+● spoter en fast stilling
+● simulere en tur
+● bruke en joystick til å flytte relativ
+&nbsp;&nbsp;til en fiktiv fast stilling
+● aksepter breddegrader og lengdegrad
+&nbsp;&nbsp;geo-koordinat par fra Intelt
+● lagre breddegrader og lengdegrad
+&nbsp;&nbsp;geo-koordinere par som navngitte
+&nbsp;&nbsp;bokmerker
+
+Variasjoner:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobiltjenester
+
+Android-integrering:
+
+1. aktiver Developer Options
+&nbsp;&nbsp;&nbsp;● åpen:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Innstillinger > System > Om
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;telefon
+&nbsp;&nbsp;&nbsp;● gjentatte ganger klikk 7 ganger:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bygg nummer
+2. konfigurer:
+&nbsp;&nbsp;&nbsp;● åpen:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Innstillinger > System >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utviklervalg
+&nbsp;&nbsp;&nbsp;● lagre verdier:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location app: "Mock min GPS"

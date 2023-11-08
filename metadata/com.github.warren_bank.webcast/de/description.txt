@@ -1,0 +1,12 @@
+Video-URLs auf der aktuellen Webseite werden in einer Liste angezeigt.
+
+Einstellungen bestimmen das Verhalten, wenn eine Video-URL ausgewählt wird:
+● Der interne Videoplayer enthält einen
+&nbsp;&nbsp;Chromecast-Sender
+● Der externe Videoplayer ermöglicht
+&nbsp;&nbsp;eine weitere App, um die Video-URL zu
+&nbsp;&nbsp;spielen
+● Die Absender "ExoAirPlayer" und
+&nbsp;&nbsp;"HLS-Proxy" laden jeweils einen
+&nbsp;&nbsp;statischen Web-Page-SPA-Client für den
+&nbsp;&nbsp;ausgewählten Server.

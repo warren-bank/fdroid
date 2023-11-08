@@ -1,0 +1,1 @@
+Überprüfen Sie empfangene SMS-Nachrichten und beantworten Sie die GPS-Standortdaten bedingt.

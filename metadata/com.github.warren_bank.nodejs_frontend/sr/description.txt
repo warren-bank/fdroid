@@ -1,0 +1,33 @@
+Функције укључују могућност да:
+
+● конфигуриши и сачувај било који број
+&nbsp;&nbsp;профила апликација
+● Сваки профил апликације може да
+&nbsp;&nbsp;наведе:
+&nbsp;&nbsp;○ наслов
+&nbsp;&nbsp;○ путања датотеке до главне Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;датотеке
+&nbsp;&nbsp;○ Опције командне линије за Node.js
+&nbsp;&nbsp;&nbsp;&nbsp;runtime
+&nbsp;&nbsp;○ Опције командне линије за апликацију
+&nbsp;&nbsp;○ променљиве окружења
+&nbsp;&nbsp;○ тренутни радни директоријум
+● профиле апликације су груписане по:
+&nbsp;&nbsp;○ "извршни"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Апликације деле један процес. Само
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;један може да се изврши у исто
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;време.
+&nbsp;&nbsp;○ "виљушка"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Свака апликација је добила свој
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;сопствени процес. Сваки извршилац
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;извршава у првом плану. Придружено
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;обавештење убија процес.
+● Подршка и враћање:
+&nbsp;&nbsp;○ извоз свих профила апликација за
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ увези нове профиле апликације JSON
+
+Уграђена окружења извршавања:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

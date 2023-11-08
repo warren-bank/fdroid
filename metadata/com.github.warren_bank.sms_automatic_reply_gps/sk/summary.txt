@@ -1,0 +1,1 @@
+Kontrolujte prijaté SMS správy a podmienečne odpovedať na údaje o polohe GPS.

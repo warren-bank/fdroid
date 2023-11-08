@@ -1,0 +1,1 @@
+Browser web di peso leggero per estrarre URL video dai siti web.

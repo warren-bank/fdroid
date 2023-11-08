@@ -1,0 +1,37 @@
+Funktsioonide hulka kuuluvad võime:
+
+● Telesarja otsing nime järgi
+● Telesari lisamine otsingutulemustesse
+&nbsp;&nbsp;nimekirja
+● sorteeri ja filtreerida lisatud
+&nbsp;&nbsp;telesarja nimekirja
+● rida, et lugeda üksikasjalikku teavet
+&nbsp;&nbsp;iga seeria ja selle saadaolevate
+&nbsp;&nbsp;episoodide kohta
+● märgised, kui neid on jälgitud
+● mark seeria kui keelatud
+● Iga seeria seotakse väliste URL-ide
+&nbsp;&nbsp;abil
+&nbsp;&nbsp;○ ex: veebilehed, kus saab jälgida
+&nbsp;&nbsp;&nbsp;&nbsp;seeria
+● uuendab nimekirja teleseeriat
+&nbsp;&nbsp;○ teavet uute episoodide kohta
+
+Võrgunõuded:
+
+● Lisatud televiisorite nimekirja saab
+&nbsp;&nbsp;kasutada täielikult võrguühenduseta
+● Internetiühendust on vaja ainult
+&nbsp;&nbsp;telesarja käsitsi lisamiseks või
+&nbsp;&nbsp;uuendamiseks
+
+Autorid:
+
+● kõik andmed on saadud Movie Datable
+&nbsp;&nbsp;(TMDB), kasutades TMDB API versiooni 3
+● ajalooline sugupuu:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShow
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tilluke TV-aja tracker

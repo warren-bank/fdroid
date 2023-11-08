@@ -1,0 +1,1 @@
+Navegador web peso-leve para extrair URLs de vídeo de sites web.

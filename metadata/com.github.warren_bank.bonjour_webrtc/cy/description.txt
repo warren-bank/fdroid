@@ -1,0 +1,3 @@
+mae mDNS (Bonjur) yn cael ei ddefnyddio i ganfod dyfeisiau eraill sydd ar gael mewn LAN. Fel y cyfryw, nid oes angen i WebRTC lofnodi gweinydd.
+
+Mae webRTC yn cael ei ddefnyddio ar gyfer popeth arall.

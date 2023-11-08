@@ -1,0 +1,22 @@
+Mae'r nodweddion yn cynnwys:
+
+● Canfod y derbynwyr Awyr yn ymysgogol o
+&nbsp;&nbsp;fewn yr un rhwydwaith
+● Lluniau trawst o'ch dyfais i AirPlay
+● Fideos llif a cherddoriaeth o'ch
+&nbsp;&nbsp;dyfais i Awyr
+● Adlewyrchu 'r sgrin o' ch dyfais i
+&nbsp;&nbsp;Awyr
+
+Diolchiadau:
+
+● Language
+&nbsp;&nbsp;&nbsp;&nbsp;Fersiwn gwreiddiol y rhaglen hon.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● SgrînFfram
+&nbsp;&nbsp;&nbsp;&nbsp;Darparwch lawer o'r cod i weithredu
+&nbsp;&nbsp;&nbsp;&nbsp;ar y sgrîn sgrin ar Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protocol Chwarae (fersiwn 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Dogfennaeth answyddogol.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

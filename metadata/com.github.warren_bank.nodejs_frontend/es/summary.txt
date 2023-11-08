@@ -1,0 +1,1 @@
+Frontend para ejecutar la aplicación Node.js desde el sistema de archivos Android.

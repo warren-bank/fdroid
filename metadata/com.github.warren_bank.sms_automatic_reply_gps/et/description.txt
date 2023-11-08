@@ -1,0 +1,14 @@
+Tingimuslikud kriteeriumid hõlmavad järgmist:
+
+● Saatja telefoninumbrite valge
+● alamstring, mis peab toimuma saanud
+&nbsp;&nbsp;SMS-sõnumi alguses
+
+GPS asukoha andmed sisaldavad:
+
+● Laius-ja pikkuskoordinaadid
+● täpsus (meetrites)
+● kiirus (mega/sek)
+● direction (kardinal või ordinal, ja
+&nbsp;&nbsp;kraadi)
+● Google Mapsi URL

@@ -1,0 +1,19 @@
+Atribute de solicitare HTTP configurabile:
+
+● Metodă
+● protocol
+● URL
+● antete
+● parametrii querystring
+● corp
+
+Caracteristicile includ capacitatea de a:
+
+● trimite o dată o cerere
+● trimite o solicitare în mod repetat la
+&nbsp;&nbsp;un interval de timp specificat
+● reîncărcați configurația unei
+&nbsp;&nbsp;solicitări prealabile dintr-un jurnal
+&nbsp;&nbsp;de istorie
+● Date de răspuns la JSON
+● previzualizare date de răspuns HTML

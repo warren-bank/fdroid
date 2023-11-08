@@ -1,0 +1,1 @@
+Lê arquivos GPX e KML como listas de marcadores de coordenadas geográficas.

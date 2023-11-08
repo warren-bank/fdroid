@@ -1,0 +1,13 @@
+Feltételes kritériumok:
+
+● A küldő telefonszámok fehérelistája
+● Egy rész-karaktersorozat, amely a
+&nbsp;&nbsp;fogadott SMS üzenet elején történik
+
+A GPS helyadatok a következők:
+
+● Szélességi és hosszúsági koordináták
+● Pontosság (méter)
+● Sebesség (meters/mp)
+● Irány (bíboros vagy rendelet)
+● A Google Maps URL címe

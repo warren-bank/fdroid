@@ -1,0 +1,1 @@
+Neinteraktyvi programa, skirta pateikti naudotojo atsiliepimus iš komandų eilutės.

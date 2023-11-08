@@ -1,0 +1,40 @@
+Zu den Features gehören die folgenden Funktionen:
+
+● Konfigurieren und Speichern einer
+&nbsp;&nbsp;beliebigen Anzahl von
+&nbsp;&nbsp;Anwendungsprofilen
+● Jedes Anwendungsprofil kann Folgendes
+&nbsp;&nbsp;angeben:
+&nbsp;&nbsp;○ Titel
+&nbsp;&nbsp;○ Dateipfad zur Hauptdatei für
+&nbsp;&nbsp;&nbsp;&nbsp;JavaScript
+&nbsp;&nbsp;○ Befehlszeilenoptionen für die
+&nbsp;&nbsp;&nbsp;&nbsp;Node.js-Laufzeit
+&nbsp;&nbsp;○ Befehlszeilenoptionen für die
+&nbsp;&nbsp;&nbsp;&nbsp;Anwendung
+&nbsp;&nbsp;○ Umgebungsvariablen
+&nbsp;&nbsp;○ aktuelles Arbeitsverzeichnis
+● Anwendungsprofile werden gruppiert
+&nbsp;&nbsp;nach:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anwendungen können einen einzigen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prozess gemeinsam nutzen. Es kann
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jeweils nur einer ausgeführt
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;werden.
+&nbsp;&nbsp;○ "Gabel"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jede Anwendung erhält ihren
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eigenen Prozess. Jede Ausführung
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wird in einem Vordergrundservice
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ausgeführt. Durch eine zugeordnete
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benachrichtigung wird der Prozess
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beendet.
+● Sicherung und Wiederherstellung:
+&nbsp;&nbsp;○ Alle Anwendungsprofile in JSON
+&nbsp;&nbsp;&nbsp;&nbsp;exportieren
+&nbsp;&nbsp;○ Neue Anwendungsprofile aus JSON
+&nbsp;&nbsp;&nbsp;&nbsp;importieren
+
+Eingebettete Laufzeitumgebung:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

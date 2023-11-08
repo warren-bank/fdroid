@@ -1,0 +1,7 @@
+Kræver rod!
+
+USB-tilstand er standardværdien. Det kræver et USB-kabel-og USB-styreprogrammer til at forbinde Android-enheden til en computer.
+
+WiFi-tilstand er trådløs og kræver ikke nogen ekstra styreprogrammer. Enhver computer kan bruge "adb"-klienten til at anmode om en forbindelse til Android-enheden.
+
+Når WiFi-tilstand er aktiveret, viser denne app den "adb"-kommando, der er nødvendig for at anmode om en sådan forbindelse over et LAN.

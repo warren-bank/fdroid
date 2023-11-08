@@ -1,0 +1,5 @@
+Ecoute sur la carte LAN Wi-Fi à l'aide d'une API HTTP sans état (basée sur AirPlay v1). Publie sa disponibilité pour la reconnaissance à l'aide de mDNS (Bonjour).
+
+Prend en charge les périphériques de toutes les tailles d'affichage ; les boîtiers génériques bon marché avec sortie HDMI haute résolution sont la plateforme cible, mais fonctionnent également bien sur des combinés très anciens avec de très petits écrans de basse résolution.
+
+L'API est vaste et entièrement documentée. Une implémentation de client SPA statique rend cette fonctionnalité très accessible. A son niveau le plus basique, cette API permet de "transtypage" dans une playlist et de contrôler tous les aspects de la lecture.

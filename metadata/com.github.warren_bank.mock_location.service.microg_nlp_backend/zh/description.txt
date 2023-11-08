@@ -1,0 +1,13 @@
+允许 "Mock my GPS" 作为 "UnifiedNlp"的模拟位置提供程序。
+
+" UnifiedNlp" 是:
+
+● 通常安装为 " MicroG" 的组件
+● 用于在非 Googled Android ROM 上使用
+● " Google 位置服务" 的替换件
+
+" UnifiedNlp" 集成模拟位置数据:
+
+● 仅当 "Mock my GPS" 处于活动状态时才启用
+● 通过推进时间戳记 45 seconds 来优先于其他
+&nbsp;&nbsp;"UnifiedNlp" 后端插件，因此它似乎是最新的

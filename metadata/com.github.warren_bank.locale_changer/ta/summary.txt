@@ -1,0 +1,1 @@
+முன்னிருப்பு Android system locale-க்கு மாற்று.

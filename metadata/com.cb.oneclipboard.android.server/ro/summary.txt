@@ -1,0 +1,1 @@
+Server pentru a sincroniza datele clipboard peste clienti.

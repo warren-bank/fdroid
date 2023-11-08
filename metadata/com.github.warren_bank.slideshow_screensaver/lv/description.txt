@@ -1,0 +1,14 @@
+Slīdrādes iestatījumi:
+
+● Laika Ilgums (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Tiek parādīts katra attēla laika
+&nbsp;&nbsp;&nbsp;&nbsp;periods.
+● Lietot MediaStore pakalpojumu
+&nbsp;&nbsp;sniedzēju
+&nbsp;&nbsp;&nbsp;&nbsp;Iegūst attēlu failus no Android
+&nbsp;&nbsp;&nbsp;&nbsp;indeksa.
+● Mapju ceļš
+&nbsp;&nbsp;&nbsp;&nbsp;Iegūt attēlus no konkrēta
+&nbsp;&nbsp;&nbsp;&nbsp;direktorija filesystem.
+● Rekursē apakšdirektorijos
+● Gadījuma secība

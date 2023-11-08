@@ -1,0 +1,35 @@
+বৈশিষ্ট্য সমূহের মধ্যে রয়েছে:
+
+● কোন সংখ্যক অ্যাপ্লিকেশন প্রোফাইল
+&nbsp;&nbsp;কনফিগার করে সংরক্ষণ করা হবে
+● প্রতিটি অ্যাপলিকেশন প্রোফাইল উল্লেখ
+&nbsp;&nbsp;করতে পারে:
+&nbsp;&nbsp;○ শিরোনাম
+&nbsp;&nbsp;○ প্রধান জাভাস্ক্রিপ্ট ফাইলে ফাইল পাথ
+&nbsp;&nbsp;○ Node.js রানটাইমের জন্য কমান্ড লাইন
+&nbsp;&nbsp;&nbsp;&nbsp;অপশন
+&nbsp;&nbsp;○ অ্যাপলিকেশনের জন্য কমান্ড লাইন অপশন
+&nbsp;&nbsp;○ পরিবেশের চলক
+&nbsp;&nbsp;○ বর্তমান কাজের ডিরেক্টরি
+● অ্যাপ্লিকেশন প্রোফাইল দলবদ্ধ করা
+&nbsp;&nbsp;হয়েছে:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;অ্যাপলিকেশন একটি একক প্রক্রিয়া
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;শেয়ার করে. শুধুমাত্র একটি সময়ে
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;চালানো সম্ভব.
+&nbsp;&nbsp;○ "Fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;প্রতিটি অ্যাপ্লিকেশনেরই নিজস্ব
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;প্রক্রিয়া দেয়া হয়. প্রতিটি
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;executes in a foreground service.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;একটি সংশ্লিষ্ট বিজ্ঞপ্তি
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;প্রক্রিয়াকে হত্যা করে.
+● ব্যাক-আপ এবং পুনরুদ্ধার:
+&nbsp;&nbsp;○ JSON-এ সকল অ্যাপ্লিকেশন প্রোফাইল
+&nbsp;&nbsp;&nbsp;&nbsp;রপ্তানি করো
+&nbsp;&nbsp;○ JSON থেকে নতুন অ্যাপলিকেশন প্রোফাইল
+&nbsp;&nbsp;&nbsp;&nbsp;ইম্পোর্ট করা হবে
+
+অভ্যন্তরীন রানটাইম এনভায়রনমেন্ট:
+
+● Node.js ১২.১৯.০
+● OpenSSL 1.1.1g

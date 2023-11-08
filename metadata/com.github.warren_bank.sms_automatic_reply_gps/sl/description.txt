@@ -1,0 +1,16 @@
+Pogojna merila vključujejo:
+
+● beli seznam telefonskih številk
+&nbsp;&nbsp;pošiljatelja
+● podniz, ki se mora pojavti na začetku
+&nbsp;&nbsp;prejetega sporočila SMS
+
+Podatki o lokaciji GPS vključujejo:
+
+● koordinate zemljepisne širine in
+&nbsp;&nbsp;dolžine
+● točnost (metri)
+● hitrost (meter/sek)
+● smer (kardinal ali ordinal, in
+&nbsp;&nbsp;stopinje)
+● URL do Google Maps

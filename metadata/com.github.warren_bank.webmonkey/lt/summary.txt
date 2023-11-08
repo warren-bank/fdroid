@@ -1,0 +1,1 @@
+Lengvas web naršyklė su parama Geremonkey userscripts.

@@ -1,0 +1,13 @@
+特性包括：
+
+● 偵測使用者 Script URL
+● 自動使用者 Script 更新
+● 延伸 Javascript API ，以顯現 Android 特定功能
+● 忽略 HTTPS 憑證錯誤的能力
+
+限制：
+
+● userscripts only run in the top window
+&nbsp;&nbsp;○ Script 注入 iframe
+&nbsp;&nbsp;&nbsp;&nbsp;是可能的，但需要複雜的暫行解決方法；如需詳細資料，請參閱 README
+&nbsp;&nbsp;&nbsp;&nbsp;。

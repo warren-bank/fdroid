@@ -1,0 +1,18 @@
+Dozvoljava "Mock moj GPS" da se ponaša kao lažnjak za "UnifiedNlp".
+
+"UnifiedNlp" je:
+
+● Obično se instalira kao komponenta
+&nbsp;&nbsp;"mikroG".
+● Da bi se koristili na Googleovim
+&nbsp;&nbsp;androidanim ROM-ovima
+● Zamjena za "Googleove lokacije za
+&nbsp;&nbsp;lociranje"
+
+"UnifiedNlp" integracija lažnih lokacija podataka:
+
+● Samo je omogućeno dok je "Mock moj
+&nbsp;&nbsp;GPS" aktivan.
+● "UnifiedNlp" pozadinski plugins
+&nbsp;&nbsp;unapređenjem vremenske oznake od 45
+&nbsp;&nbsp;sekundi, tako da izgleda da je nedavno

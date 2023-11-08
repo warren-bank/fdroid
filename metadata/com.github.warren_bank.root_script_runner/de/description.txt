@@ -1,0 +1,9 @@
+Erfordert Root!
+
+Die Ausführung eines Shell-Scripts kann auf zwei Arten aufgerufen werden:
+
+1. Interaktiv
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beim manuellen Auswählen einer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Datei durch den Benutzer.
+2. Automatisch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Durch ein Intent.

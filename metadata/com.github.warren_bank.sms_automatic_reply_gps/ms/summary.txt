@@ -1,0 +1,1 @@
+Periksa menerima mesej SMS dan jawapan secara tidak sah dengan data lokasi GPS.

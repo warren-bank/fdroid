@@ -1,0 +1,20 @@
+Kasutamine:
+
+● kuvab kõigi ühendatud
+&nbsp;&nbsp;Bluetooth-seadmete nimekirja
+&nbsp;&nbsp;○ kliki üks, mis identifitseerib
+&nbsp;&nbsp;&nbsp;&nbsp;soovitud vastuvõtja
+&nbsp;&nbsp;○ ootamine seoses
+
+● PTT-nupu lülitamine
+&nbsp;&nbsp;○ roheline näitab, et heli on praegu
+&nbsp;&nbsp;&nbsp;&nbsp;pildistatud
+&nbsp;&nbsp;&nbsp;&nbsp;mikrofonist ja otse läbi ühendatud
+&nbsp;&nbsp;&nbsp;&nbsp;pesa
+&nbsp;&nbsp;○ punane näitab, et audio stream on
+&nbsp;&nbsp;&nbsp;&nbsp;parajasti peatatud
+
+● liiguta liugurit, et kohandada
+&nbsp;&nbsp;helitugevust
+&nbsp;&nbsp;○ default: 25%
+&nbsp;&nbsp;○ maksimum: 200%

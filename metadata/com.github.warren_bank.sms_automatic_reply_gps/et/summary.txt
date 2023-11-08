@@ -1,0 +1,1 @@
+Tutvumine sai SMS-sõnumeid ja vastab tinglikult GPS-asukohaandmetega.

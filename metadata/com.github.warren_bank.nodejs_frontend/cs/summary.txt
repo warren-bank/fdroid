@@ -1,0 +1,1 @@
+Front to execute application Node.js ze systému souborů Android.

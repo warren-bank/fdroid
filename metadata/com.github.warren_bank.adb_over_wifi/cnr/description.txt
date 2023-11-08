@@ -1,0 +1,7 @@
+Traži korijen!
+
+USB mod je po defaultu. Potreban je USB kabel i USB drivere za spajanje Android uređaja na računar.
+
+Bežični internet je bežični i ne zahtijeva dodatne vozače. Bilo koji kompjuter može da koristi "adb" klijent da zatraži vezu sa Android uređajem.
+
+Kada je omogućen WiFi, ova aplikacija prikazuje "adb" komandu neophodnu za zahtijevanje takve veze preko LAN-a.

@@ -1,0 +1,25 @@
+Caracteristicile includ:
+
+● Descoperirea automată a receptoarelor
+&nbsp;&nbsp;AirPlay în cadrul aceleiași rețele
+● Fascicul de fotografii de pe
+&nbsp;&nbsp;dispozitiv la AirPlay
+● Flux video și muzică de pe
+&nbsp;&nbsp;dispozitivul dvs. pentru a AirPlay
+● Oglindește ecranul de pe dispozitiv la
+&nbsp;&nbsp;AirPlay
+
+Credite:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Versiunea originală a acestei
+&nbsp;&nbsp;&nbsp;&nbsp;aplicații.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;A furnizat o mare parte din cod
+&nbsp;&nbsp;&nbsp;&nbsp;pentru a implementa oglindirea
+&nbsp;&nbsp;&nbsp;&nbsp;ecranului pe Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protocolul AirPlay (versiunea 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Documentație neoficială.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

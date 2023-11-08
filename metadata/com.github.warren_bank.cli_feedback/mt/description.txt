@@ -1,0 +1,7 @@
+Tipi ta ' feedback tal-utent:
+
+● uri Toast
+● juru Notifika
+● tilgħab ta ' awdjo Ringtone
+
+It-tipi kollha ta ' feedback tal-utent huma mibdija mill-Intenzjoni. Din l-utilità tista 'tintuża kemm minn applikazzjonijiet oħra, kif ukoll direttament mill-utent minn emulator terminali ta' linja ta ' kmand.

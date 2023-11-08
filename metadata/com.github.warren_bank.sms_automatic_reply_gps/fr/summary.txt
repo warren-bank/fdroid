@@ -1,0 +1,1 @@
+Inspect a reçu des messages SMS et une réponse conditionnelle avec les données de localisation GPS.

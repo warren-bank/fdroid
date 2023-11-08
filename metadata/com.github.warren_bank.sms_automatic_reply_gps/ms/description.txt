@@ -1,0 +1,14 @@
+Kriteria bersyarat termasuk:
+
+● Senarai putih nombor telefon pengirim
+● subrentetan yang mesti berlaku pada
+&nbsp;&nbsp;permulaan mesej SMS yang diterima
+
+Data lokasi GPS termasuk:
+
+● koordinat latitud dan longitud
+● Ketepatan (meter)
+● kelajuan (meters/saat)
+● Arah (kardinal atau ordinal, dan
+&nbsp;&nbsp;darjah)
+● URL ke Google Maps

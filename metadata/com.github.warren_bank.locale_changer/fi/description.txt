@@ -1,0 +1,3 @@
+Näyttää luettelon kaikista käytettävissä olevista paikallistunnuksista. Luettelon rivinimike muuttaa Android-järjestelmän paikallistunnusta valitulle arvolle. Muutokset ovat pysyviä.
+
+Tällä hetkellä aktiivinen paikallistunnus on aina ensimmäinen luettelokohta.

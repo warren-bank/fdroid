@@ -1,0 +1,19 @@
+Penggunaan:
+
+● Papar senarai bagi semua peranti
+&nbsp;&nbsp;Bluetooth paimerah
+&nbsp;&nbsp;○ klik satu yang mengenalpasti
+&nbsp;&nbsp;&nbsp;&nbsp;penerima yang dikehendaki
+&nbsp;&nbsp;○ tunggu sambungan
+
+● togol butang PTT
+&nbsp;&nbsp;○ Hijau menunjukkan audio yang sedang
+&nbsp;&nbsp;&nbsp;&nbsp;ditangkap
+&nbsp;&nbsp;&nbsp;&nbsp;dari mikrofon dan strim melalui
+&nbsp;&nbsp;&nbsp;&nbsp;soket yang bersambung
+&nbsp;&nbsp;○ merah menunjukkan strim audio yang
+&nbsp;&nbsp;&nbsp;&nbsp;kini dipagunkan
+
+● alih pelungsur untuk laras volum audio
+&nbsp;&nbsp;○ piawai: 25%
+&nbsp;&nbsp;○ maksimum: 200%

@@ -1,0 +1,3 @@
+Podmínky jsou definovány seznamem pravidel. Každé pravidlo přiřazuje telefonní číslo příjemce postoupení se vzorem, který se musí shodovat s odesilatelem přijaté SMS zprávy.
+
+Když je přijata nová zpráva SMS, je přeposlána na telefonní čísla příjemců podle každého pravidla, které má odpovídající vzorek.

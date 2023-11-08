@@ -1,0 +1,16 @@
+Les critères conditionnels comprennent:
+
+● Une liste blanche des numéros de
+&nbsp;&nbsp;téléphone de l'expéditeur
+● Une sous-chaîne qui doit se produire
+&nbsp;&nbsp;au début du message SMS reçu
+
+Les données de localisation GPS comprennent:
+
+● Coordonnées de latitude et de
+&nbsp;&nbsp;longitude
+● Précision (mètres)
+● Vitesse (meters/s)
+● Direction (cardinal ou ordinal, et
+&nbsp;&nbsp;degrés)
+● URL vers Google Maps

@@ -1,0 +1,13 @@
+Nastavitve diaprojekcijske nastavitve:
+
+● Trajanje Časa (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Obdobje, v katerem je prikazana
+&nbsp;&nbsp;&nbsp;&nbsp;vsaka slika.
+● Uporabi ponudnika MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Pridobi slikovne datoteke iz indeksa
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Pot imenika
+&nbsp;&nbsp;&nbsp;&nbsp;Pridobite slike iz določenega
+&nbsp;&nbsp;&nbsp;&nbsp;imenika v datoteko-datotekosistemu.
+● Ponovno prekletstvo v podimenike
+● Naključno zaporedje

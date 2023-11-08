@@ -1,0 +1,12 @@
+Tetapan Nyahpapar:
+
+● Tempoh Masa (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Tempoh masa setiap imej dipaparkan.
+● Guna penyedia MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Obtains fail imej dari indeks
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Laluan direktori
+&nbsp;&nbsp;&nbsp;&nbsp;Dapatkan imej dari direktori
+&nbsp;&nbsp;&nbsp;&nbsp;tertentu dalam sistem fail.
+● Kutukan semula ke dalam subdirektori
+● Tertib rawak

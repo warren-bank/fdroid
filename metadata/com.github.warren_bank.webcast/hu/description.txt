@@ -1,0 +1,12 @@
+Az aktuális weboldalon lévő videó URL címek a listában jelennek meg.
+
+A beállítások határozzák meg a viselkedést a videó URL kiválasztásakor:
+● A belső videó lejátszója tartalmaz egy
+&nbsp;&nbsp;Chromecast küldőt
+● A külső videó lejátszója lehetővé
+&nbsp;&nbsp;teszi egy másik alkalmazás számára a
+&nbsp;&nbsp;videó URL lejátszását
+● Az "ExoAirPlayer" és a "HLS proxy"
+&nbsp;&nbsp;senders minden egyes betöltés statikus
+&nbsp;&nbsp;weboldalt SPA ügyfelet tölt be a
+&nbsp;&nbsp;kiválasztott kiszolgálóhoz

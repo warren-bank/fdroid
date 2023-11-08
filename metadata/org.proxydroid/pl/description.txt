@@ -1,0 +1,30 @@
+Wymaga elementu głównego!
+
+Dostępne są następujące funkcje:
+
+● obsługa protokołów serwera proxy:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● obsługa metod uwierzytelniania:
+&nbsp;&nbsp;○ Podstawowe
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● obsługa włączania serwera proxy:
+&nbsp;&nbsp;○ globalnie, dla wszystkich aplikacji
+&nbsp;&nbsp;○ tylko dla konkretnych aplikacji
+● wsparcie dla czarnej listy:
+&nbsp;&nbsp;○ Adresy IP do pominięcia proxy
+● obsługa proxy DNS
+● obsługa wielu profili
+● podstawowa obsługa dla pliku
+&nbsp;&nbsp;autokontroli proxy (PAC)
+● możliwość powiązania konkretnego
+&nbsp;&nbsp;profilu z:
+&nbsp;&nbsp;○ SSID sieci WiFi
+&nbsp;&nbsp;○ Sieć mobilna
+● widget do włączania/wyłączania proxy
+● wydajność środowiska wykonawczego:
+&nbsp;&nbsp;○ zużywa małą baterię
+&nbsp;&nbsp;○ używa małej pamięci RAM

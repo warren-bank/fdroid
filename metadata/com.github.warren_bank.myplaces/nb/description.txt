@@ -1,0 +1,21 @@
+Funksjoner omfatter muligheten til å:
+
+● sorter listen over geografiske
+&nbsp;&nbsp;koordinater:
+&nbsp;&nbsp;○ sekvensielt
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bestilte som lokaliteter
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forekommer i inndatafilen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● eks: en presis reisereiserute
+&nbsp;&nbsp;○ avstand
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bestilt med avstand fra den
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aktuelle plasseringen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● eks: ad-hoc-utforsking av
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nærliggende POI
+&nbsp;&nbsp;○ alfabetisk
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bestilt av de beskrivende navnene
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;knyttet til lokasjoner.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● eks: bokmerker av favorittsteder
+● klikk på et listepunkt for å åpne
+&nbsp;&nbsp;tilsvarende plassering i en ekstern
+&nbsp;&nbsp;applikasjon, for eksempel tilordning
+&nbsp;&nbsp;eller navigasjon.

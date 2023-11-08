@@ -1,0 +1,7 @@
+Richiede root!
+
+La modalità USB è il default. Richiede un cavo USB e i driver USB per collegare il dispositivo Android ad un computer.
+
+La modalità WiFi è wireless e non richiede alcun driver aggiuntivo. Qualsiasi computer può utilizzare il client "adb" per richiedere una connessione al dispositivo Android.
+
+Quando la modalità WiFi è abilitata, questa app visualizza il comando "adb" necessario per richiedere tale connessione su una LAN.

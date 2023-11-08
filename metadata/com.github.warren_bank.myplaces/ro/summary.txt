@@ -1,0 +1,1 @@
+Citește GPX și KML fișiere ca liste de marcaje de coordonate geografice.

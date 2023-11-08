@@ -1,0 +1,15 @@
+מאפשר ל - "Mock GPS שלי" להתנהג כספק מיקום מדומה עבור "UnifiedNlp".
+
+"UnifiedNlp" הוא:
+
+● מותקן בדרך כלל בתור רכיב של "microG"
+● מיועד לשימוש ב-Android ROMs של Android
+● החלפת החלפה עבור "Google Location
+&nbsp;&nbsp;Services"
+
+שילוב "UnifiedNlp" של נתוני מיקום דמה:
+
+● הופעל רק בזמן ש "Mock my GPS" פעיל
+● הוא קדימות על פני תוספים אחרים של
+&nbsp;&nbsp;"UnifiedNlp" אחרים על ידי קידום חותמת
+&nbsp;&nbsp;הזמן 45 שניות, כך שנראה לאחרונה

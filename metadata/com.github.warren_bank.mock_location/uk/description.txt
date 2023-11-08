@@ -1,0 +1,33 @@
+Особливості включають в себе можливість:
+
+● сміється з фіксованої позиції
+● імітація поїздки
+● скористатися джойстиком для
+&nbsp;&nbsp;пересування відносно фіксованої
+&nbsp;&nbsp;позиції
+● приймає пари широт і довготи
+&nbsp;&nbsp;гео-координатні пари з Intents
+● зберегти парами широти і
+&nbsp;&nbsp;довготи-координатні пари як назви
+&nbsp;&nbsp;закладок
+
+Зміни:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+Інтеграція Android:
+
+1. увімкнути параметри розробника
+&nbsp;&nbsp;&nbsp;● Відкрити:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Параметри > Система > Про телефон
+&nbsp;&nbsp;&nbsp;● Повторювати & 7 разів:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Номер збирання
+2. configure:
+&nbsp;&nbsp;&nbsp;● Відкрити:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Параметри > Система > Параметри
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;розробника
+&nbsp;&nbsp;&nbsp;● значення & збереження:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Програма для роботи з адресою:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mock my GPS"

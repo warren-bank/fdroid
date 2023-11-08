@@ -1,0 +1,12 @@
+Los URL de vídeo de la página web actual se muestran en una lista.
+
+Los valores determinan el comportamiento cuando se selecciona un URL de vídeo:
+● el reproductor de vídeo interno
+&nbsp;&nbsp;incluye un remitente de Chromecast
+● el reproductor de vídeo externo
+&nbsp;&nbsp;permite a otra aplicación reproducir
+&nbsp;&nbsp;el URL de vídeo
+● los remitentes "ExoAirPlayer" y "HLS
+&nbsp;&nbsp;Proxy" cargan cada uno un cliente de
+&nbsp;&nbsp;SPA de página web estática para el
+&nbsp;&nbsp;servidor elegido

@@ -1,0 +1,19 @@
+Pozwala "Mock mój GPS" zachować się jako dostawca lokalizacji mock dla "UnifiedNlp".
+
+"UnifiedNlp" to:
+
+● zazwyczaj instalowane jako komponent
+&nbsp;&nbsp;"microG"
+● przeznaczone do użytku w systemach
+&nbsp;&nbsp;Android-ROM-u
+● zastępstwo zastępcze dla "Google
+&nbsp;&nbsp;Location Services"
+
+"UnifiedNlp" integracja danych lokalizowania makiety:
+
+● jest włączony tylko wtedy, gdy "Mock
+&nbsp;&nbsp;mój GPS" jest aktywny
+● jest priorytetyzowana przez inne
+&nbsp;&nbsp;wtyczki zaplecza "UnifiedNlp" poprzez
+&nbsp;&nbsp;przyspieszenie datownika 45 sekund,
+&nbsp;&nbsp;więc wydaje się być najnowsza

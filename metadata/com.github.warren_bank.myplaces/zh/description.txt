@@ -1,0 +1,13 @@
+功能包括 :
+
+● 排序地理坐标列表 :
+&nbsp;&nbsp;○ 顺序
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于位置发生在输入文件中。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: 精确的旅行行程
+&nbsp;&nbsp;○ 距离
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按距离当前位置排序。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: 就近 POI 的特别探索
+&nbsp;&nbsp;○ 字母
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按与位置关联的描述性名称排序。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: 收藏场所的书签
+● 单击列表项以打开外部应用程序中的相应位置，如映射或导航。

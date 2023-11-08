@@ -1,0 +1,7 @@
+Los servidores están disponibles para una variedad de plataformas, incluyendo Android.
+
+Todos los clientes que se conectan a un servidor común y se autentican utilizando la misma combinación de nombre de usuario y contraseña compartirán un portapapeles común. Siempre que cualquier cliente copia nuevos datos en su portapapeles, estos datos se envían al servidor y luego se transmiten a todos los clientes autenticados.
+
+Todos los datos del portapapeles están cifrados de extremo a extremo.
+
+La integración de Tasker está soportada.

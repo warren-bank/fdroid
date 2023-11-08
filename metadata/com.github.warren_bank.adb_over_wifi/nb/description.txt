@@ -1,0 +1,7 @@
+Krever rot!
+
+USB-modus er standard. Det krever en USB-kabel og USB-drivere for å koble Android-enheten til en datamaskin.
+
+WiFi-modus er trådløst og krever ikke noen ekstra drivere. En hvilken som helst datamaskin kan bruke "adb"-klienten til å be om en tilkobling til Android-enheten.
+
+Når WiFi-modus er aktivert, viser denne appen "adb"-kommandoen som er nødvendig for å be om en slik tilkobling over et LAN.

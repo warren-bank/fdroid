@@ -1,0 +1,1 @@
+Fångar ljud från mikrofonen och skickar den till mottagaren.

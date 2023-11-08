@@ -1,0 +1,9 @@
+Zahtijeva korijen!
+
+Izvođenje shell skripte može se pozvati na dva načina:
+
+1. interaktivno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Od strane korisnika koji je ručno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;izabrao datoteku.
+2. automatski
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;U Inšatoru.

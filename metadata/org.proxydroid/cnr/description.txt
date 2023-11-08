@@ -1,0 +1,32 @@
+Traži korijen!
+
+Među značajkama su:
+
+● podrška za proxy server protokole:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SSOCKS4
+&nbsp;&nbsp;○ SSOCKS5.
+● Podrška za metode autentifikacije:
+&nbsp;&nbsp;○ Osnove.
+&nbsp;&nbsp;○ -NTLM.
+&nbsp;&nbsp;○ NTLMv2
+● Podrška za omogućavanje proxy servera:
+&nbsp;&nbsp;○ Na globalnoj razini, za sve
+&nbsp;&nbsp;&nbsp;&nbsp;aplikacije
+&nbsp;&nbsp;○ Samo za određene aplikacije.
+● Podrška za crnu listu:
+&nbsp;&nbsp;○ IP adrese da zaobiđu punomoć.
+● podrška za DNS proxy
+● podrška za višestruke profile
+● osnovna podrška za datoteku
+&nbsp;&nbsp;proxy-auto-konfiguracije (PAC)
+● mogućnost da se pridruži određeni
+&nbsp;&nbsp;profil sa:
+&nbsp;&nbsp;○ -WiFi SSID.
+&nbsp;&nbsp;○ Mobilna mreža.
+● Grafički element za
+&nbsp;&nbsp;uključivanje/isključivanje
+● Efikasnost u vremenu:
+&nbsp;&nbsp;○ Malo se istroši.
+&nbsp;&nbsp;○ Koristi malo RAM-a

@@ -1,0 +1,16 @@
+Criteriile condiționate includ:
+
+● un whitelist de numere de telefon
+&nbsp;&nbsp;expeditor
+● un substring care trebuie să apară la
+&nbsp;&nbsp;începutul mesajului SMS primit
+
+Datele de localizare GPS includ:
+
+● coordonate de latitudine și
+&nbsp;&nbsp;longitudine
+● Precizie (metri)
+● Viteza (meters/sec)
+● direcția (cardinal sau ordinal, și
+&nbsp;&nbsp;grade)
+● URL la Google Maps

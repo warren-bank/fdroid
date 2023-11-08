@@ -1,0 +1,1 @@
+Klient umożliwia synchronizowanie danych ze schowka przez serwer.

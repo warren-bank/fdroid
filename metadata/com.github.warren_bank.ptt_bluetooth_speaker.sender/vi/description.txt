@@ -1,0 +1,20 @@
+Sử dụng:
+
+● hiển thị danh sách tất cả các thiết bị
+&nbsp;&nbsp;Bluetooth kết hợp
+&nbsp;&nbsp;○ nhấp vào một cái xác định máy thu
+&nbsp;&nbsp;&nbsp;&nbsp;mong muốn
+&nbsp;&nbsp;○ đợi kết nối
+
+● Bật/tắt nút PTT
+&nbsp;&nbsp;○ Xanh lá cây cho biết âm thanh hiện
+&nbsp;&nbsp;&nbsp;&nbsp;đang bị bắt
+&nbsp;&nbsp;&nbsp;&nbsp;từ microphone và phát trực tuyến qua
+&nbsp;&nbsp;&nbsp;&nbsp;ổ cắm đã kết nối
+&nbsp;&nbsp;○ đỏ cho biết luồng âm thanh hiện đang
+&nbsp;&nbsp;&nbsp;&nbsp;tạm dừng
+
+● chuyển thanh trượt để điều chỉnh âm
+&nbsp;&nbsp;lượng âm thanh
+&nbsp;&nbsp;○ mặc định: 25%
+&nbsp;&nbsp;○ tối đa: 200%

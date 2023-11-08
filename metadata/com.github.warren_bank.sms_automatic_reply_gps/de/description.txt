@@ -1,0 +1,15 @@
+Zu den bedingten Kriterien gehören:
+
+● eine Whitelist der Absenderrufnummern
+● Eine Unterzeichenfolge, die am Anfang
+&nbsp;&nbsp;der empfangenen SMS-Nachricht
+&nbsp;&nbsp;vorkommen muss.
+
+Zu den GPS-Standortdaten gehören:
+
+● Breitengrad-und Längenkoordinaten
+● Genauigkeit (Meter)
+● Geschwindigkeit (meter/Sek.)
+● Richtung (Kardinal-oder Ordinalwert
+&nbsp;&nbsp;und Grad)
+● URL zu Google Maps

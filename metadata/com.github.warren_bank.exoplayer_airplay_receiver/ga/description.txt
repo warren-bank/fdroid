@@ -1,0 +1,5 @@
+Liostaigh ar an Wi-FAN adapter ag baint úsáide as API stát API (bunaithe ar Aer-v1). Fógraíonn a bheith ar fáil le haghaidh discovery ag baint úsáide as mDNS (Bonjár).
+
+Tacaíonn feistí de na méideanna taispeána go léir; boscaí indíolta giniúna giniúna le aschur HDMI aschur HDMI Is é an t-ardán sprioc, ach oibríonn chomh maith go maith ar fáil go maith ar láimhseáil an-beag scáileáin a bhfuil an-bheag scáileáin.
+
+Is é an API fairsing agus go hiomlán doiciméadaithe. Déanann leathanach gréasáin statach SPA cliant cur chun feidhme seo feidhmiúlacht an-inrochtana. Ag a leibhéal is mó bunúsach, Soláthraíonn sé seo API an cumas chun "a chaitheamh" URLanna na meáin i seinmliosta agus rialú ar gach gné de playback.

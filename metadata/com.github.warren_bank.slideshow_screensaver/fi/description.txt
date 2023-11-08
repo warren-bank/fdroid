@@ -1,0 +1,12 @@
+Slideshow-asetukset:
+
+● Aikaväli (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Kunkin kuvan aika tulee näkyviin.
+● Käytä Mediavaraston toimittajaa
+&nbsp;&nbsp;&nbsp;&nbsp;Noutaa kuvia Android-indeksistä.
+● Hakemistopolku
+&nbsp;&nbsp;&nbsp;&nbsp;Ota kuvia tietystä
+&nbsp;&nbsp;&nbsp;&nbsp;tiedostojärjestelmästä
+&nbsp;&nbsp;&nbsp;&nbsp;tiedostojärjestelmässä.
+● Recurse-alihakemistot
+● Satunnainen järjestys

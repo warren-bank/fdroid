@@ -1,0 +1,19 @@
+Konfigurabilni atributi HTTP zahtjeva:
+
+● metoda
+● protokol
+● URL
+● zaglavlja
+● Querystring parametri
+● tijelo
+
+Funkcije uključuju mogućnost da:
+
+● Pošalji zahtjev jednom
+● Pošalji zahtjev više puta u određenom
+&nbsp;&nbsp;vremenskom intervalu
+● Ponovno učitajte konfiguraciju
+&nbsp;&nbsp;prethodnog zahtjeva iz povijesnog
+&nbsp;&nbsp;dnevnika
+● lijepi ispis podataka JSON odgovora
+● pregled HTML podataka odgovora

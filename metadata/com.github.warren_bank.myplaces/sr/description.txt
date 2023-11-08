@@ -1,0 +1,21 @@
+Функције укључују могућност да:
+
+● Сортирај списак географских
+&nbsp;&nbsp;координата:
+&nbsp;&nbsp;○ секвенцијално
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Уређено је како се локације
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;јављају у улазном фајлу.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● еx: прецизан распоред путовања
+&nbsp;&nbsp;○ растојање
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Наређено је да се удаљи од
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;тренутне локације.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● еx: ад-хоц истраживање оближње
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ПОИ
+&nbsp;&nbsp;○ абецедни
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Наређено од стране описних имена
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;повезаних са локацијама.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: обележивачи омиљених места
+● кликните на ставку листе да бисте
+&nbsp;&nbsp;отворили одговарајућу локацију у
+&nbsp;&nbsp;спољној апликацији, као што је
+&nbsp;&nbsp;мапирање или навигација.

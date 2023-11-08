@@ -1,0 +1,41 @@
+Ciri-ciri termasuk keupayaan untuk:
+
+● gelintar siri televisyen dengan nama
+● tambah siri televisyen dalam keputusan
+&nbsp;&nbsp;gelintar ke senarai
+● isih dan penapis senarai siri
+&nbsp;&nbsp;televisyen yang ditambah
+● gelintar ke dalam senarai untuk
+&nbsp;&nbsp;membaca maklumat terperinci mengenai
+&nbsp;&nbsp;setiap siri dan episod yang tersedia
+● tanda episod sebagai telah ditonton
+● tanda siri sebagai dilumpuhkan
+● rakan kongsi setiap siri dengan URL
+&nbsp;&nbsp;luaran
+&nbsp;&nbsp;○ ex: laman web di mana siri boleh
+&nbsp;&nbsp;&nbsp;&nbsp;ditonton
+● kemaskini siri televisyen dalam
+&nbsp;&nbsp;senarai
+&nbsp;&nbsp;○ Dapatkan maklumat mengenai episod
+&nbsp;&nbsp;&nbsp;&nbsp;baru
+
+Keperluan rangkaian:
+
+● senarai siri televisyen yang ditambah
+&nbsp;&nbsp;boleh digunakan sementara sepenuhnya
+&nbsp;&nbsp;diluar talian
+● sambungan internet hanya diperlukan
+&nbsp;&nbsp;untuk tambah secara manual atau
+&nbsp;&nbsp;kemaskini siri televisyen
+
+Credits:
+
+● semua data diperoleh dari Pangkalan
+&nbsp;&nbsp;Data Filem (TMDB), menggunakan versi 3
+&nbsp;&nbsp;daripada API TMDB.
+● Garis sejarah bersejarah:
+&nbsp;&nbsp;1. Siri droidsiri
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Penjejak Masa Televisyen Kecil

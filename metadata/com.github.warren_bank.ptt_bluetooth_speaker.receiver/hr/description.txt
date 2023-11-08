@@ -1,0 +1,16 @@
+Izvodi se u prethodna usluga:
+
+● nema vidljivog korisničkog sučelja
+● čini Bluetooth adaptor nepopravljiv
+● pokreće Bluetooth poslužitelj utičnica
+● sluša za vezu od pošiljatelja
+
+Kad se pošiljatelja poveže:
+
+● zaustavlja slušanje veze pošiljatelja
+● igra audio tok iz povezanoSocket
+
+Kada se pošiljatelja odspoji:
+
+● nastavlja slušanje nove veze
+&nbsp;&nbsp;pošiljatelja

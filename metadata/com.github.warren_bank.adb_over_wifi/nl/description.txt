@@ -1,0 +1,7 @@
+Vereist root!
+
+De USB-werkstand is de standaardwaarde. Het vereist een USB-kabel en USB-stuurprogramma's om het Android-apparaat aan te sluiten op een computer.
+
+De WiFi-modus is draadloos en vereist geen extra stuurprogramma's. Elke computer kan de "adb" client gebruiken om een verbinding met het Android-apparaat aan te vragen.
+
+Wanneer de WiFi-modus is ingeschakeld, geeft deze app de opdracht "adb" weer die nodig is om een dergelijke verbinding via een LAN aan te vragen.

@@ -1,0 +1,23 @@
+Funkcijos apima:
+
+● Automatinis paieška AirPlay imtuvų per
+&nbsp;&nbsp;tą patį tinklą
+● Pluošto nuotraukos iš įrenginio į
+&nbsp;&nbsp;AirPlay
+● Srautmačiai video ir muzika iš
+&nbsp;&nbsp;įrenginio į AirPlay
+● Veidrodis ekrane iš savo įrenginio į
+&nbsp;&nbsp;AirPlay
+
+Kreditai:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Pradinė šios paraiškos versija.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Scenarijaus srautas
+&nbsp;&nbsp;&nbsp;&nbsp;Su sąlyga, kad daug kodo įgyvendinti
+&nbsp;&nbsp;&nbsp;&nbsp;ekrano veidrodžius Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (versija 1) protokolas
+&nbsp;&nbsp;&nbsp;&nbsp;Neoficialūs dokumentai.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

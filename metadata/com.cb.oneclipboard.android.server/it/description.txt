@@ -1,0 +1,5 @@
+I clienti sono disponibili per una varietà di piattaforme, tra cui Android.
+
+Tutti i client che si connettono a questo server e autenticano utilizzando la stessa combinazione username e password condivideranno un clipboard comune. Ogni qualvolta ogni client copia nuovi dati nei suoi appunti, questi dati vengono inviati al server e poi trasmessi a tutti i client autenticati.
+
+Tutti i dati clipboard sono crittografati per fine.

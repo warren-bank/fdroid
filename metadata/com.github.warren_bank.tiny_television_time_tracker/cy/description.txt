@@ -1,0 +1,37 @@
+Mae nodweddion yn cynnwys y gallu i:
+
+● chwilio am gyfres deledu yn ôl enw
+● ychwanegu cyfres deledu wrth chwilio
+&nbsp;&nbsp;am restr
+● trefnu a hidlo'r rhestr o gyfres
+&nbsp;&nbsp;deledu ychwanegol
+● dril ar y rhestr i ddarllen gwybodaeth
+&nbsp;&nbsp;fanwl am bob cyfres a'i episodau sydd
+&nbsp;&nbsp;ar gael
+● episodau fel pe bai wedi eu gwylio
+● cyfres o gyfres o bobl anabl
+● cysylltu pob cyfres â LAU allanol
+&nbsp;&nbsp;○ cyn: safleoedd gwe lle gellir
+&nbsp;&nbsp;&nbsp;&nbsp;gwylio'r gyfres
+● diweddaru'r gyfres deledu yn y rhestr
+&nbsp;&nbsp;○ i gael gwybodaeth am episodau newydd
+
+Gofynion rhwydwaith:
+
+● gellir defnyddio'r rhestr o gyfres
+&nbsp;&nbsp;deledu ychwanegol tra'n llwyr all-lein
+● dim ond i ychwanegu neu ddiweddaru
+&nbsp;&nbsp;cyfres y teledu y mae angen cysylltiad
+&nbsp;&nbsp;â'r rhyngrwyd
+
+Diolchiadau:
+
+● ceir pob data o'r Gronfa Ddata Ffilm
+&nbsp;&nbsp;(TMDB), gan ddefnyddio fersiwn 3 API
+&nbsp;&nbsp;TMDB
+● yn y llinell hanesyddol:
+&nbsp;&nbsp;1. Idrores
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DauDangos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Comment

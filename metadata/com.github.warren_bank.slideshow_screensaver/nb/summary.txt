@@ -1,0 +1,1 @@
+Screensparer som viser et slideshow av lokale bilder.

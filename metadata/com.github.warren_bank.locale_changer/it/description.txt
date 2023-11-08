@@ -1,0 +1,3 @@
+Visualizza un elenco di tutte le locali disponibili. Cliccando su qualsiasi voce di elenco cambia il locale del sistema Android al valore selezionato. Le modifiche sono persistenti.
+
+Il locale attualmente attivo è sempre posizionato come la prima voce di elenco.

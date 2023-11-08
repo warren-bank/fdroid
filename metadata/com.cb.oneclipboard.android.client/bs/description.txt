@@ -1,0 +1,7 @@
+Serveri su dostupni za različite platforme, uključujući i Android.
+
+Svi klijenti koji se povežu na zajednički server i autentificiraju koristeći isto korisničko ime i kombinaciju lozinke će dijeliti zajedničku memoriju za isječke. Kada god bilo koji klijent kopira nove podatke u svoju memoriju za isječke, ovi podaci se šalju na server i onda emitiraju svim ovlaštenim klijentima.
+
+Svi podaci o memoriji za isječke su enkriptirani.
+
+Podržana je integracija tasker-a.

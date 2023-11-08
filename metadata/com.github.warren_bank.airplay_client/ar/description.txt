@@ -1,0 +1,23 @@
+تتضمن الخصائص :
+
+● اكتشاف آلي لوحدات استلام AiryPlay داخل
+&nbsp;&nbsp;نفس شبكة الاتصالات
+● صور Beam من الجهاز الخاص بك الى
+&nbsp;&nbsp;AiryPlay
+● أشرطة الفيديو والموسيقى من الجهاز
+&nbsp;&nbsp;الخاص بك إلى شركة AiryPlay
+● نسخ الشاشة من الجهاز الخاص بك الى
+&nbsp;&nbsp;AiryPlay
+
+أرصدة دائنة :
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;النسخة الأصلية من هذا التطبيق.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;تم توفير جزء كبير من الكود لتنفيذ
+&nbsp;&nbsp;&nbsp;&nbsp;نسخة مرآة الشاشة على Android 5.0 +
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● بروتوكول AiryPlay (النسخة 1)
+&nbsp;&nbsp;&nbsp;&nbsp;وثائق غير رسمية.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

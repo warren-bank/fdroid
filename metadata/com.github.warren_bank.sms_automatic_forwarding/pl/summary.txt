@@ -1,0 +1,1 @@
+Sprawdź odebrane wiadomości SMS i warunkowo je przekaz.

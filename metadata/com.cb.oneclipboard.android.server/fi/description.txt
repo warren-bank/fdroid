@@ -1,0 +1,5 @@
+Asiakkaat ovat käytettävissä erilaisia alustoja, myös Android.
+
+Kaikki asiakkaat, jotka ovat yhteydessä tähän palvelimeen ja todennusta käyttäen samaa käyttäjätunnusta ja salasanayhdistelmää, jakavat yhteisen kirjoitusalustan. Kun asiakas kopioi uusia tietoja leikepöydälle, tämä data lähetetään palvelimeen ja lähetetään sitten kaikille todennetuille asiakkaille.
+
+Kaikki leiketaulut on salattu loppuun.

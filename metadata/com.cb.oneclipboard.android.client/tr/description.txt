@@ -1,0 +1,7 @@
+Sunucular, Android de dahil olmak üzere çeşitli platformlarda kullanılabilir.
+
+Ortak bir sunucuya bağlanan ve aynı kullanıcı adı ve parola birleşimini kullanarak kimlik doğrulaması yapan tüm istemciler ortak bir panoyu paylaşır. Her istemci yeni verileri panoya kopyaladığında, bu veriler sunucuya gönderilir ve sonra kimliği doğrulanmış tüm istemcilere yayınlanır.
+
+Tüm pano verileri, şifrelenmiş uçtan uca olarak şifrelenir.
+
+Görev ER bütünleştirmesi desteklenir.

@@ -1,0 +1,42 @@
+Özellikler aşağıdakileri yapabilme yeteneğini içerir:
+
+● ada göre televizyon dizisi ara
+● bir listeye arama sonuçlarında
+&nbsp;&nbsp;televizyon dizisi ekleme
+● eklenen televizyon dizileri listesini
+&nbsp;&nbsp;sıralayın ve süzün
+● her bir seri ve kullanılabilir
+&nbsp;&nbsp;bölümleri hakkında detaylı bilgileri
+&nbsp;&nbsp;okumak için listenin detayına
+● izlendiği gibi bölümleri işaretle
+● dizi devre dışı olarak işaretle
+● her seriyi dış URL ' lerle
+&nbsp;&nbsp;ilişkilendirin
+&nbsp;&nbsp;○ ex: serinin izlenebileceği web
+&nbsp;&nbsp;&nbsp;&nbsp;siteleri
+● listedeki televizyon dizilerini
+&nbsp;&nbsp;güncelleme
+&nbsp;&nbsp;○ yeni bölümlerle ilgili bilgi edinmek
+&nbsp;&nbsp;&nbsp;&nbsp;için
+
+Ağ gereksinimleri:
+
+● eklenen televizyon dizileri listesi
+&nbsp;&nbsp;tam olarak çevrimdışı olarak
+&nbsp;&nbsp;kullanılabiliyor.
+● bir internet bağlantısının sadece
+&nbsp;&nbsp;televizyon dizilerini manuel olarak
+&nbsp;&nbsp;eklemek veya güncelleştirmek için
+&nbsp;&nbsp;gereklidir
+
+Alacaklar:
+
+● tüm veriler, TMDB API ' nın 3.
+&nbsp;&nbsp;sürümünü kullanarak, Movie Database
+&nbsp;&nbsp;(TMDB) olanağından elde edilir
+● tarihi köken:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidGösteriler
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Minik Television Time Tracker

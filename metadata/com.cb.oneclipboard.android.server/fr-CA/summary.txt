@@ -1,0 +1,1 @@
+Serveur permettant de synchroniser les données du presse-papiers entre les clients.

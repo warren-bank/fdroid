@@ -1,0 +1,37 @@
+A szolgáltatások a következők:
+
+● Az alkalmazásprofilok számának
+&nbsp;&nbsp;beállítása és mentése
+● Az egyes alkalmazásprofilok
+&nbsp;&nbsp;megadhatják:
+&nbsp;&nbsp;○ Cím
+&nbsp;&nbsp;○ Fájl elérési út a fő Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;fájlhoz
+&nbsp;&nbsp;○ Node.js futási környezet parancssori
+&nbsp;&nbsp;&nbsp;&nbsp;beállításai
+&nbsp;&nbsp;○ Parancssori paraméterek az
+&nbsp;&nbsp;&nbsp;&nbsp;alkalmazáshoz
+&nbsp;&nbsp;○ Környezeti változók
+&nbsp;&nbsp;○ Aktuális munkakatalógus
+● Az alkalmazásprofilok a következők
+&nbsp;&nbsp;szerint csoportosítva:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Az alkalmazások egyetlen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folyamattal osztoznak. Egyszerre
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;csak egy hajtható végre.
+&nbsp;&nbsp;○ "Villa"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mindegyik kérelemnek saját
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folyamata van. Minden egyes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;végrehajtás egy előtérben
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;történik. A társított értesítés
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;megöli a folyamatot.
+● Mentés és visszaállítás:
+&nbsp;&nbsp;○ összes alkalmazásprofil exportálása
+&nbsp;&nbsp;&nbsp;&nbsp;JSON formátumba
+&nbsp;&nbsp;○ új alkalmazásprofilok importálása
+&nbsp;&nbsp;&nbsp;&nbsp;JSON-ból
+
+Beágyazott futási környezet:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

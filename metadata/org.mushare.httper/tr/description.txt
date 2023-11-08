@@ -1,0 +1,19 @@
+Yapılandırılır HTTP isteği öznitelikleri:
+
+● yöntem
+● iletişim kuralı
+● URL Adresi
+● üstbilgiler
+● querystring parametreleri
+● gövde
+
+Özellikler aşağıdakileri yapabilme yeteneğini içerir:
+
+● bir kez istek gönder
+● Belirli bir zaman aralığında sürekli
+&nbsp;&nbsp;olarak bir istek gönderir
+● Geçmiş günlüğünden önceki bir isteğin
+&nbsp;&nbsp;yapılandırmasını yeniden yükle
+● JSON yanıtı verileri oldukça
+&nbsp;&nbsp;yazdırılacak
+● HTML yanıt verilerini önizleme

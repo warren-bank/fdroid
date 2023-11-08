@@ -1,0 +1,1 @@
+Aktiverer / deaktiverer Android Debug Bridge dæmon (adbd) mellem USB-og WiFi-tilstand.

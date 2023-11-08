@@ -1,0 +1,1 @@
+Neinteraktívny pomocný program na poskytnutie spätnej väzby pre užívateľa z príkazového riadka.

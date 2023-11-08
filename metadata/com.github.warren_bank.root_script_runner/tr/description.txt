@@ -1,0 +1,9 @@
+Kök gerektirir!
+
+Bir kabuk komut dosyasının yürütülmesi iki şekilde çağrılabilir:
+
+1. etkileşimli
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kullanıcı tarafından el ile bir
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dosya seçilerek.
+2. otomatik
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bir Çadırda.

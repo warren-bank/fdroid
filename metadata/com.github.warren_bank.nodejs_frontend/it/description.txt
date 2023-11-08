@@ -1,0 +1,37 @@
+Le funzioni includono la possibilità di:
+
+● configurare e salvare qualsiasi numero
+&nbsp;&nbsp;di profili applicativi
+● ogni profilo di applicazione può
+&nbsp;&nbsp;specificare:
+&nbsp;&nbsp;○ titolo
+&nbsp;&nbsp;○ percorso file su principale file
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript
+&nbsp;&nbsp;○ opzioni di riga di comando per il
+&nbsp;&nbsp;&nbsp;&nbsp;runtime Node.js
+&nbsp;&nbsp;○ opzioni di riga di comando per
+&nbsp;&nbsp;&nbsp;&nbsp;l'applicazione
+&nbsp;&nbsp;○ variabili di ambiente
+&nbsp;&nbsp;○ directory di lavoro corrente
+● i profili delle applicazioni sono
+&nbsp;&nbsp;raggruppati da:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le applicazioni condividono un
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;singolo processo. Solo uno può
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eseguire alla volta.
+&nbsp;&nbsp;○ "fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ad ogni applicazione viene dato il
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proprio processo. Ogni esecutore
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in un servizio di foreground. Una
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notifica associata uccide il
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;processo.
+● backup e ripristino:
+&nbsp;&nbsp;○ esportare tutti i profili di
+&nbsp;&nbsp;&nbsp;&nbsp;applicazione su JSON
+&nbsp;&nbsp;○ importare nuovi profili di
+&nbsp;&nbsp;&nbsp;&nbsp;applicazione da JSON
+
+Ambiente di runtime incorporato:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

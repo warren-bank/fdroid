@@ -1,0 +1,7 @@
+Types de commentaires des utilisateurs:
+
+● Afficher un Toast
+● Afficher une notification
+● Jouer à l'audio Ringtone
+
+Tous les types de commentaires des utilisateurs sont démarrés par Intention. Cet utilitaire peut être utilisé à la fois par d'autres applications et directement par l'utilisateur à partir d'un émulateur de terminal de ligne de commande.

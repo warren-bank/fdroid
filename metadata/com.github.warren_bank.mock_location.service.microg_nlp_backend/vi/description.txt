@@ -1,0 +1,19 @@
+Cho phép "Mock my GPS" hoạt động như một nhà cung cấp địa điểm giả cho "UnifiedNlp".
+
+"UnifiedNlp" là:
+
+● thường được cài đặt là thành phần
+&nbsp;&nbsp;của "microG"
+● dùng để sử dụng trên Android
+&nbsp;&nbsp;ROM-Googled
+● Thay thế drop-in cho "Google Location
+&nbsp;&nbsp;Services"
+
+"UnifiedNlp" tích hợp dữ liệu vị trí giả:
+
+● Chỉ được bật trong khi "Mck GPS" còn
+&nbsp;&nbsp;hoạt động.
+● được ưu tiên trên các plug-in
+&nbsp;&nbsp;"UnifiedNlp" khác bằng cách thúc nhãn
+&nbsp;&nbsp;thời gian 45 giây, vì vậy nó có vẻ
+&nbsp;&nbsp;là gần đây nhất

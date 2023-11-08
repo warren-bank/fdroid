@@ -1,0 +1,8 @@
+Angen gwraidd!
+
+Gellir galw am weithredu sgript plisgyn mewn dwy ffordd:
+
+1. rhyngweithiol
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gan y defnyddiwr â dewis ffeil.
+2. awtomatig
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gan Gbell.

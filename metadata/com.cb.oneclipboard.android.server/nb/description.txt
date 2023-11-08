@@ -1,0 +1,5 @@
+Klienter er tilgjengelige for en rekke ulike plattformer, inkludert Android.
+
+Alle klienter som kobler seg til denne serveren og autentiserer ved hjelp av samme brukernavn og passordkombinasjon, vil dele en felles skriveplate. Når enhver klient kopierer nye data inn på sitt utklippstavle, sendes disse dataene til serveren og deretter kringkaster til alle autentiserte klienter.
+
+Alle utklippstavledata er kryptert slutt-til-slutt.

@@ -1,0 +1,22 @@
+Omadused on järgmised:
+
+● Automaatne avastus AirPlay vastuvõtjad
+&nbsp;&nbsp;samas võrgus
+● Kiirte fotod oma seadmest AirPlay
+● Stream videod ja muusika oma seadme
+&nbsp;&nbsp;AirPlay
+● Peegelda ekraani oma seadmelt
+&nbsp;&nbsp;AirPlaysse
+
+Autorid:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Selle rakenduse algne versioon.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Stsenaarium
+&nbsp;&nbsp;&nbsp;&nbsp;Andis palju koodi rakendada ekraani
+&nbsp;&nbsp;&nbsp;&nbsp;peegeldamine Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (versioon 1) protokoll
+&nbsp;&nbsp;&nbsp;&nbsp;Mitteametlik dokumentatsioon.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

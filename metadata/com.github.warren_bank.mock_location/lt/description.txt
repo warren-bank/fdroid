@@ -1,0 +1,32 @@
+Funkcijos apima galimybę:
+
+● mock fiksuota pozicija
+● imituoti kelionę
+● naudoti joystick judėti, palyginti su
+&nbsp;&nbsp;mock fiksuota pozicija
+● Priimti platumos ir ilgumos
+&nbsp;&nbsp;geo-koordinuoti poras iš "Intents"
+● išsaugoti platumą ir ilguma
+&nbsp;&nbsp;geo-koordinuoti poras, kaip pavadintus
+&nbsp;&nbsp;žymeles
+
+Variacijos:
+
+1. AOSP
+2. AOSP + "Google Play" paslaugos
+3. AOSP + Huawei Mobile Paslaugos
+
+Android integracija:
+
+1. įjungti Programavimo parinktys
+&nbsp;&nbsp;&nbsp;● atvira:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nustatymai > Sistema > Apie
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;telefoną
+&nbsp;&nbsp;&nbsp;● dukart spustelėkite 7 kartus:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sukurti numerį
+2. konfigūruoti:
+&nbsp;&nbsp;&nbsp;● atvira:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nustatymai > Sistema >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programavimo parinktys
+&nbsp;&nbsp;&nbsp;● Išsaugoti vertybes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock vietos app: "Mock mano GPS"

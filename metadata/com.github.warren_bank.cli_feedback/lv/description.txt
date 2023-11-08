@@ -1,0 +1,7 @@
+Lietotāju atsauksmju veidi:
+
+● Rādīt
+● uzrāda paziņojumu
+● atskaņo audio Ringtone
+
+Visa veida lietotāju atsauksmes tiek aizsāktas ar Intent. Šo utilītsistēmu var izmantot gan citas aplikācijas, gan tieši lietotājam no komandrindas termināla emulatora.

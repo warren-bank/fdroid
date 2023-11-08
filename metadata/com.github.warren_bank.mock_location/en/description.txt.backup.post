@@ -1,0 +1,26 @@
+Features include the ability to:
+
+mock a fixed position
+simulate a trip
+use a joystick to move relative to a mock fixed position
+accept latitude and longitude geo-coordinate pairs from Intents
+save latitude and longitude geo-coordinate pairs as named bookmarks
+
+Variations:
+
+AOSP
+AOSP + Google Play Services
+AOSP + Huawei Mobile Services
+
+Android integration:
+
+enable Developer Options
+open:
+Settings > System > About phone
+repeatedly click 7 times:
+Build number
+configure:
+open:
+Settings > System > Developer Options
+save values:
+Mock location app: "Mock my GPS"

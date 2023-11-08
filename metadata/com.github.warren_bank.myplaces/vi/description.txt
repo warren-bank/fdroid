@@ -1,0 +1,19 @@
+Tính năng bao gồm khả năng:
+
+● Sắp xếp danh sách tọa độ địa lý:
+&nbsp;&nbsp;○ tuần tự
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Đặt hàng là các địa điểm xảy ra
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trong tập tin đầu vào.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: quán tính du lịch chính xác
+&nbsp;&nbsp;○ khoảng cách
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Được đặt hàng theo khoảng cách từ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vị trí hiện tại.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hoc thăm POI
+&nbsp;&nbsp;○ Chữ cái
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Đặt hàng theo các tên mô tả liên
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quan đến các địa điểm.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: Đánh dấu tập sách các nơi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yêu thích
+● nhấp vào mục danh sách để mở vị trí
+&nbsp;&nbsp;tương ứng trong ứng dụng bên ngoài,
+&nbsp;&nbsp;như ánh xạ hoặc điều hướng.

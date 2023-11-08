@@ -1,0 +1,5 @@
+Luettelee Wi-Fi-sovittimen (Wi-Fi) -sovittimen käyttämällä valtiottomien HTTP-API-sovellusohjelmaliittymää (AirPlay v1). Lisää sen käytettävyyttä mDNS: n (Bonjour) avulla.
+
+Tukee kaikkien näyttökokojen laitteita; kalliit geneeriset SET-laatikot, joissa HDMI-tuloste on suuri, ovat kohdealustan, mutta toimivat yhtä hyvin hyvin vanhoilla käsipinnoilla, joissa on hyvin pienet vähäpäästöiset näytöt.
+
+API-liittymä on laaja ja dokumentoitu. Staattinen Web-sivu SPA, jonka avulla tämä toiminto on erittäin helppokäyttöinen. Tämän API-liittymän perustasolla tämä sovellusohjelmaliittymä tarjoaa mahdollisuuden "cast" - tallenteen URL-osoitteisiin soittolistalle ja kontrolloida kaikkia pelinappuloita.

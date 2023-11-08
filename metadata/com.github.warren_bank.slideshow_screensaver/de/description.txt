@@ -1,0 +1,14 @@
+Slideshow-Einstellungen:
+
+● Zeitdauer (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Die Zeit, in der jedes Bild
+&nbsp;&nbsp;&nbsp;&nbsp;angezeigt wird.
+● MediaStore-Provider verwenden
+&nbsp;&nbsp;&nbsp;&nbsp;Ruft Bilddateien aus dem
+&nbsp;&nbsp;&nbsp;&nbsp;Android-Index ab.
+● Verzeichnispfad
+&nbsp;&nbsp;&nbsp;&nbsp;Rufen Sie Bilder aus einem
+&nbsp;&nbsp;&nbsp;&nbsp;bestimmten Verzeichnis im
+&nbsp;&nbsp;&nbsp;&nbsp;Dateisystem ab.
+● In Unterverzeichnissen rekursiv
+● Zufällige Reihenfolge

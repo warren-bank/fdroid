@@ -1,0 +1,15 @@
+"Mock my GPS" 가 "UnifiedNlp" 에 대한 가짜 위치 제공자 역할을 하도록 허용한다.
+
+"UnifiedNlp" 는 다음과 같다.
+
+● "마이크로G" 는 일반적으로 "마이크로G" 의 컴포넌트로서 설치된다.
+● Android ROM을 검색하는 데 사용하기 위한 의도
+● "Google Location Services" 에 대한 드롭-인
+&nbsp;&nbsp;대체
+
+"UnifiedNlp" 모의 위치 데이터 통합:
+
+● "Mock my GPS" 가 활성 상태인 동안에만 가능하다.
+● 는 타임스탬프를 45초로 진행함으로써 다른 "UnifiedNlp"
+&nbsp;&nbsp;백엔드 플러그인보다 우선 순위가 매겨지기 때문에 가장 최근의 것으로
+&nbsp;&nbsp;나타난다.

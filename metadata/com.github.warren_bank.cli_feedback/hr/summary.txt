@@ -1,0 +1,1 @@
+Neinteraktivni pomoćni program koji osigurava povratne informacije korisnika iz reda za naredbe.

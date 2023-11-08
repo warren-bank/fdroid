@@ -1,0 +1,24 @@
+Las características incluyen la capacidad de:
+
+● ordenar la lista de coordenadas
+&nbsp;&nbsp;geográficas:
+&nbsp;&nbsp;○ Secuencial
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordenado como las ubicaciones se
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;producen en el archivo de entrada.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: un itinerario de viaje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;preciso
+&nbsp;&nbsp;○ distancia
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordenado por distancia desde la
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ubicación actual.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: exploración ad hoc del POI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cercano
+&nbsp;&nbsp;○ Alfabético
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordenado por los nombres
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;descriptivos asociados con
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ubicaciones.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: marcadores de lugares
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;favoritos
+● pulse en un elemento de lista para
+&nbsp;&nbsp;abrir la ubicación correspondiente en
+&nbsp;&nbsp;una aplicación externa, como la
+&nbsp;&nbsp;correlación o la navegación.

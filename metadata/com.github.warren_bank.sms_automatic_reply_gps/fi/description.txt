@@ -1,0 +1,13 @@
+Ehdollisiin perusteisiin kuuluvat:
+
+● Lähettäjän puhelinnumeroiden,
+● Alimerkkijono, joka on toteutettava
+&nbsp;&nbsp;vastaanotetun SMS-sanoman alussa
+
+GPS-sijainnin tiedot ovat seuraavat:
+
+● Leveys-ja pituuskoordinaatit
+● Tarkkuus (metriä)
+● Nopeus (meters/sec)
+● Suunta (kardinaali tai asetus)
+● URL-osoite Google Maps

@@ -1,0 +1,30 @@
+Disse formatene er typiske av udyre IP-overvåkningskameraer.
+
+Funksjoner omfatter muligheten til å:
+
+● konfigurere et ubegrenset antall
+&nbsp;&nbsp;videostrømmer
+● importere videostrømmer fra en
+&nbsp;&nbsp;JSON-fil
+● hver strøm kan omfatte URLer for to
+&nbsp;&nbsp;kilder:
+&nbsp;&nbsp;○ lav oppløsning
+&nbsp;&nbsp;○ høy oppløsning
+● selektivt aktivere og deaktivere
+&nbsp;&nbsp;strømmer i listen
+● vis de aktiverte strømmer i enten en
+&nbsp;&nbsp;liste eller rutenettlayout
+&nbsp;&nbsp;○ bruker lav oppløsning (når
+&nbsp;&nbsp;&nbsp;&nbsp;tilgjengelig)
+● velg en enkelt strøm fra listen eller
+&nbsp;&nbsp;rutenettoppsett
+&nbsp;&nbsp;○ vises i fullskjerm
+&nbsp;&nbsp;○ bruker høy oppløsning (når
+&nbsp;&nbsp;&nbsp;&nbsp;tilgjengelig)
+
+Historie:
+
+Denne søknaden ble opprinnelig skrevet for å teste en eksperimentell gren av ExoPlayer. På den tiden hadde denne grenen en åpen pull-forespørsel som ikke hadde blitt slått sammen etter flere år:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Etter hvert ble denne grenen slått sammen. Nå bruker denne søknaden en stabil oppbygging av ExoPlayer. Hvilket, imho, gjør det mindre interessant. Men det kan likevel være nyttig.

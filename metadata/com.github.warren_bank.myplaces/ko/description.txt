@@ -1,0 +1,14 @@
+기능에는 다음 기능이 포함됩니다.
+
+● 다음과 같은 지리적 좌표의 목록을 정렬합니다.
+&nbsp;&nbsp;○ 순차적인
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;입력 파일에서 위치가 발생할 때 정렬됩니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 전남편: 정확한 여행 일정
+&nbsp;&nbsp;○ 거리
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;현재 위치에서 거리로 정렬됩니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 전직: 인근 POI의 애드혹 탐색
+&nbsp;&nbsp;○ 알파벳
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;위치와 연관된 구체적인 이름으로 정렬됩니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: 즐겨찾기 장소의 북마크
+● 맵핑 또는 탐색과 같은 외부 애플리케이션에서 해당 위치를 열려면 목록
+&nbsp;&nbsp;항목을 클릭하십시오.

@@ -1,0 +1,19 @@
+Beží v poprednej službe:
+
+● nie je viditeľné užívateľské rozhranie
+● Umožňuje, aby bol adaptér Bluetooth
+&nbsp;&nbsp;objaviteľný
+● spustí Bluetooth Socket server
+● načúvať zoznamu pre pripojenie od
+&nbsp;&nbsp;odosielateľa
+
+Keď sa pripája odosielateľ:
+
+● zastaví počúvanie pre pripojenie
+&nbsp;&nbsp;odosielateľa
+● hrá zvukový prúd z pripojenej zásuvky
+
+Keď sa odosielateľ odpojí:
+
+● pokračuje v počúvaní pre nové
+&nbsp;&nbsp;pripojenie odosielateľa

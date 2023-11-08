@@ -1,0 +1,7 @@
+Memerlukan akar!
+
+Mod USB adalah lalai. Ia memerlukan pemacu kabel USB dan USB untuk menyambungkan peranti Android ke komputer.
+
+Mod WiFi adalah tanpa wayar dan tidak memerlukan sebarang pemacu tambahan. Mana-mana komputer boleh menggunakan klien "adb" untuk meminta sambungan ke peranti Android.
+
+Bila mod WiFi dibenarkan, aplikasi ini memaparkan perintah "adb" yang diperlukan untuk meminta sambungan ke atas LAN.

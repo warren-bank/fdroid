@@ -1,0 +1,1 @@
+Klijent će sinkronizirati podatke iz memorije za isječke kroz server.

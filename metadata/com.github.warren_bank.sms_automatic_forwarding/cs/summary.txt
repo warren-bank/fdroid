@@ -1,0 +1,1 @@
+Zkontrolujte přijaté SMS zprávy a podmíněně je přesměrovával.

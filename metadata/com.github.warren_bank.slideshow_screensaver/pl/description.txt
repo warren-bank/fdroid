@@ -1,0 +1,13 @@
+Ustawienia pokazu slajdów:
+
+● Czas trwania (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Przedział czasu, w którym
+&nbsp;&nbsp;&nbsp;&nbsp;wyświetlany jest każdy obraz.
+● Użyj dostawcy MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Pobiera pliki obrazów z indeksu
+&nbsp;&nbsp;&nbsp;&nbsp;systemu Android.
+● Ścieżka do katalogu
+&nbsp;&nbsp;&nbsp;&nbsp;Uzyskaj obrazy z określonego
+&nbsp;&nbsp;&nbsp;&nbsp;katalogu w systemie plików.
+● Rekurencja do podkatalogów
+● Kolejność losowa

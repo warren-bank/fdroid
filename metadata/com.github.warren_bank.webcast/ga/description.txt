@@ -1,0 +1,12 @@
+Tá URLanna físeán ar an leathanach gréasáin reatha ar taispeáint i liosta.
+
+@ info: inreo
+● Áirítear an imreoir físe inmheánach le
+&nbsp;&nbsp;seoltóir Chromecast
+● is féidir leis an imreoir físeán
+&nbsp;&nbsp;seachtrach app eile a imirt ar an URL
+&nbsp;&nbsp;físe
+● "ExoAerPlayer" agus "HLS Proxy"
+&nbsp;&nbsp;senders gach luchtú leathanach
+&nbsp;&nbsp;gréasáin static SPA cliant le haghaidh
+&nbsp;&nbsp;an fhreastalaí roghnaithe

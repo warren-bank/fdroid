@@ -1,0 +1,22 @@
+Funkcje obejmują możliwość:
+
+● sortować listę współrzędnych
+&nbsp;&nbsp;geograficznych:
+&nbsp;&nbsp;○ sekwencyjne
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uporządkowane w miarę występowania
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;miejsc w pliku wejściowym.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: dokładna trasa podróży
+&nbsp;&nbsp;○ odległość
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uporządkowane według odległości od
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bieżącej lokalizacji.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: eksploracja ad-hoc
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pobliskiego POI
+&nbsp;&nbsp;○ alfabetyczny
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uporządkowane według nazw
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opisowych powiązanych z
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lokalizacjami.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: zakładki ulubionych miejsc
+● Kliknij element listy, aby otworzyć
+&nbsp;&nbsp;odpowiadające mu położenie w aplikacji
+&nbsp;&nbsp;zewnętrznej, takie jak odwzorowanie
+&nbsp;&nbsp;lub nawigacja.

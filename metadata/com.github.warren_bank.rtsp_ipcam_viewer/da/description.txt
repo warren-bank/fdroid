@@ -1,0 +1,28 @@
+Disse formater er typiske for udyre IP-sikkerhedskameraer.
+
+Funktionerne omfatter muligheden for at:
+
+● konfigurere et ubegrænset antal
+&nbsp;&nbsp;videostreams
+● importér videostrømme fra en JSON-fil
+● Hver strøm kan indeholde URL ' er for
+&nbsp;&nbsp;to kilder:
+&nbsp;&nbsp;○ lav opløsning
+&nbsp;&nbsp;○ høj opløsning
+● Aktivér og deaktivér streams i listen.
+● vis de aktiverede strømme i en
+&nbsp;&nbsp;liste-eller gitterlayout
+&nbsp;&nbsp;○ bruger lav opløsning (når de er
+&nbsp;&nbsp;&nbsp;&nbsp;tilgængelige)
+● vælg en enkelt strøm fra listen eller
+&nbsp;&nbsp;gitterlayoutet
+&nbsp;&nbsp;○ vises på fuld skærm
+&nbsp;&nbsp;○ bruger høj opløsning (når de er
+&nbsp;&nbsp;&nbsp;&nbsp;tilgængelige)
+
+Historie:
+
+Denne ansøgning blev oprindeligt skrevet til at teste en eksperimentel gren af ExoPlayer. På det tidspunkt havde grenen en åben anmodning, der ikke var blevet flettet efter flere år.
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Til sidst blev grenen fusioneret. Denne applikation bruger en stabil bygning af ExoPlayer. Hvilket gør det mindre interessant. Men det kan stadig være nyttigt.

@@ -1,0 +1,19 @@
+විශේෂාංග ඇතුලත් කිරීමේ හැකියාව:
+
+● භූගෝලීය ඛණ්ඩාංක ලැයිස්තුව:
+&nbsp;&nbsp;○ අනුක්රමික
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ආදාන ගොනුව තුළ ඇති ස්ථාන ලෙස
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;සාමාන්ය
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: a precise travel itinerary
+&nbsp;&nbsp;○ දුර
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;වර්ථමාන ස්ථානයෙන් ඈත්වීම මගින්
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;අර්ථ දක්වා ඇත.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: ad-hoc exploration of nearby
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI
+&nbsp;&nbsp;○ ඇලිෆැටික
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ස්ථාන සමග අදාල විස්මිත නාමයන්
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;මගින් අර්ථ දක්වා ඇත.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ප්රියතම ස්ථාන වල පිටු සලකුණු
+● Mapping හෝ navigation වැනි බාහිර
+&nbsp;&nbsp;යෙදුම් වලදී අදාල ස්ථානය විවෘත කිරීමට
+&nbsp;&nbsp;ලැයිස්තුවක් මත ක්ලික් කරන්න.

@@ -1,0 +1,3 @@
+Tampilkan daftar dari semua lokal yang tersedia. Mengeklik pada setiap item daftar mengubah sistem Android lokal ke nilai yang dipilih. Perubahan yang gigih.
+
+Locale yang sedang aktif saat ini selalu diposisikan sebagai item daftar pertama.

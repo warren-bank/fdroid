@@ -1,0 +1,1 @@
+Pregled je primio SMS poruke i uvjetno odgovarala sa podacima GPS lokacije.

@@ -1,0 +1,3 @@
+Il-kundizzjonijiet huma definiti permezz ta 'lista ta' regoli. Kull regola tassoċja n-numru tat-telefown destinatarju tat-trażmissjoni b'mudell li jrid jaqbel mal-mittent ta ' messaġġ SMS riċevut.
+
+Meta jiġi riċevut messaġġ SMS ġdid, din tiġi mgħoddija lil numri tat-telefown riċeventi skont kull regola li jkollha xejra ta ' tqabbil.

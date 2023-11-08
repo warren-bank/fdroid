@@ -1,0 +1,10 @@
+વર્તમાન વેબ પાનાં પર વીડિયો URLs એ યાદીમાં દર્શાવાય છે.
+
+જ્યારે વીડિયો URL પસંદ થયેલ હોય ત્યારે વર્તણૂક નક્કી કરે છે:
+● આંતરિક વિડિયો પ્લેયર નો સમાવેશ થાય છે
+● બાહ્ય વિડિયો પ્લેયર એ વીડિયો URL ને
+&nbsp;&nbsp;વગાડવા માટે અન્ય કાર્યક્રમ પરવાનગી આપે
+&nbsp;&nbsp;છે
+● "ExoAirPlayer" અને "HLS Proxy" senders
+&nbsp;&nbsp;each load a static web page SPA client
+&nbsp;&nbsp;for the chosen server

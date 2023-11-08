@@ -1,0 +1,13 @@
+Indstillinger for glideshow:
+
+● Varighed af tid (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Den periode, hvor hvert billede
+&nbsp;&nbsp;&nbsp;&nbsp;vises.
+● Brug MediaStore-leverandør
+&nbsp;&nbsp;&nbsp;&nbsp;Henter billedfiler fra
+&nbsp;&nbsp;&nbsp;&nbsp;Android-indeks.
+● Katalogsti
+&nbsp;&nbsp;&nbsp;&nbsp;Hent billeder fra et bestemt
+&nbsp;&nbsp;&nbsp;&nbsp;bibliotek i filsystemet.
+● Rekurse i underbiblioteker
+● Tilfældig ordre

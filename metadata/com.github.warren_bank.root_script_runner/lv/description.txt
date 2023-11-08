@@ -1,0 +1,8 @@
+Vajadzīga sakne!
+
+Čaulas skripta izpildi var izmantot divos veidos:
+
+1. interaktīvi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lietotājs manuāli izvēloties failu.
+2. automātiski
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ar intīmu.

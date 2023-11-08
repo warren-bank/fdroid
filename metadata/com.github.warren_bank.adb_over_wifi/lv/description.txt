@@ -1,0 +1,7 @@
+Vajadzīga sakne!
+
+USB režīms ir noklusējuma. Tas prasa USB kabeli un USB draiveri, lai savienotu Android ierīci ar datoru.
+
+WiFi režīms ir bezvadu un neprasa papildus draiverus. Jebkurš dators var izmantot "adb" klientu, lai pieprasītu savienojumu ar Android ierīci.
+
+Kad WiFi režīms ir ieslēgts, šī lietotne parāda "adb" komandu, kas nepieciešama, lai pieprasītu šādu savienojumu virs LAN.

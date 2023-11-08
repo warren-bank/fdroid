@@ -1,0 +1,16 @@
+Tính năng bao gồm:
+
+● phát hiện các URL của người dùng
+● Cập nhật tập lệnh dùng
+● Javascript API mở rộng để lộ khả năng
+&nbsp;&nbsp;cụ thể của Android
+● khả năng bỏ qua lỗi chứng chỉ HTTPS
+
+Giới hạn:
+
+● tập lệnh người dùng chỉ chạy trong cửa
+&nbsp;&nbsp;sổ hàng đầu
+&nbsp;&nbsp;○ Injection into ipframe is possible,
+&nbsp;&nbsp;&nbsp;&nbsp;but requires a complicated
+&nbsp;&nbsp;&nbsp;&nbsp;workaround; đề cập đến REDME để biết
+&nbsp;&nbsp;&nbsp;&nbsp;chi tiết.

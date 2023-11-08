@@ -1,0 +1,30 @@
+Ominaisuuksiin kuuluu kyky:
+
+● Pilkata kiinteää asemaa
+● Simulaatin matkaa
+● Käyttää joystickiä siirtyäkseen
+&nbsp;&nbsp;riippuvaan asentoon
+● Hyväksy leveys-ja pituusaste
+&nbsp;&nbsp;geo-koordinoi pareja sisätelystä
+● Tallenna leveys-ja pituusaste
+&nbsp;&nbsp;geo-koordinoi paria kirjanmerkkinä
+
+Muuttuja:
+
+1. AOSP
+2. AOSP + Google Play -palvelut
+3. AOSP + Huawei -mobiililaitos
+
+Android-integrointi:
+
+1. Mahdollistaa Kehittäjän valinnat
+&nbsp;&nbsp;&nbsp;● Avoinna:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asetukset > Asetukset > Puhelin
+&nbsp;&nbsp;&nbsp;● Valitse toistuvasti 7 kertaa:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kokoa numero
+2. Määrität:
+&nbsp;&nbsp;&nbsp;● Avoinna:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asetukset > System >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kehittämisasetukset
+&nbsp;&nbsp;&nbsp;● Tallenna arvot:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock-sovellus: "Mock minun GPS"

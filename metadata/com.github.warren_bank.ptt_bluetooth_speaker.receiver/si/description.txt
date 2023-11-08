@@ -1,0 +1,17 @@
+පෙරදිග සේවා නියුක්තිකයක ක් රීඩාව:
+
+● පෙනෙන නොපෙනෙන UI
+● The Bluetooth adapter discoverable
+● බ්ලූටූත් සොකට් සර්වරයක් ආරම්භ කරන්න
+● Sender from a connection for a
+&nbsp;&nbsp;connection
+
+Sender සම්බන්ධ කරන විට:
+
+● Sender connection for a sender
+&nbsp;&nbsp;connection
+● සම්බන්ධිත සොකට් එකෙන් ශ්රව්ය ප්රවාහය
+
+Sender විසන්ධියක් කරන විට:
+
+● නව sender සම්බන්ධතාවය සඳහා සවන් දෙන්න

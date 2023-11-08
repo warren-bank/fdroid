@@ -1,0 +1,40 @@
+Karatteristiċi jinkludu l-abbiltà li:
+
+● tfittxija għal serje televiżiva
+&nbsp;&nbsp;bl-isem
+● Żid is-serje televiżiva fit-tfittxija
+&nbsp;&nbsp;għal lista
+● tip u filtru l-lista ta ' serje
+&nbsp;&nbsp;televiżivi miżjuda
+● drill fil-lista biex taqra
+&nbsp;&nbsp;informazzjoni dettaljata dwar kull
+&nbsp;&nbsp;serje u l-episodji disponibbli tiegħu
+● Episodji ta ' marki kif ġew osservati
+● serje ta ' marki bħala b'diżabilità
+● jassoċjaw kull serje ma ' URLs esterni
+&nbsp;&nbsp;○ ex: siti web fejn is-serje tista '
+&nbsp;&nbsp;&nbsp;&nbsp;tiġi segwita
+● taġġorna s-serje televiżiva fil-lista
+&nbsp;&nbsp;○ biex tikseb informazzjoni dwar
+&nbsp;&nbsp;&nbsp;&nbsp;episodji ġodda
+
+Rekwiżiti tan-netwerk:
+
+● il-lista ta 'serje tat-televiżjoni
+&nbsp;&nbsp;miżjuda tista' tintuża waqt li tkun
+&nbsp;&nbsp;kompletament offline
+● konnessjoni mal-Internet hija meħtieġa
+&nbsp;&nbsp;biss biex iżżid jew taġġorna
+&nbsp;&nbsp;manwalment serje televiżiva
+
+Krediti:
+
+● id-data kollha tinkiseb mid-Database
+&nbsp;&nbsp;tal-Films (TDB), bl-użu tal-verżjoni 3
+&nbsp;&nbsp;tal-API ta ' TRADB
+● nisel storiku:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Ċkejkna Televiżjoni Time Tracker

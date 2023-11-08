@@ -1,0 +1,3 @@
+MDNS (Bonjour) käytetään muiden käytettävissä olevien laitteiden löytymiseen lähiverkon yhteydessä. Näin ollen ei tarvita WebRTC-signaalinvälityspalvelinta.
+
+WebRTC :tä käytetään kaikkeen muuhun.

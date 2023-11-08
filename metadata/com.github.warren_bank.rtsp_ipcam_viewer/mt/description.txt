@@ -1,0 +1,30 @@
+Dawn il-formati huma tipiċi ta ' kameras tas-sigurtà IP rħas.
+
+Karatteristiċi jinkludu l-abbiltà li:
+
+● kkonfigurat għadd illimitat ta '
+&nbsp;&nbsp;flussi tal-vidjo
+● flussi vidjo ta ' importazzjoni minn
+&nbsp;&nbsp;fajl JSON
+● kull fluss jista ' jinkludi URLs għal
+&nbsp;&nbsp;żewġ sorsi:
+&nbsp;&nbsp;○ riżoluzzjoni baxxa
+&nbsp;&nbsp;○ riżoluzzjoni għolja
+● jippermetti b'mod selettiv u
+&nbsp;&nbsp;jiddiżattiva l-flussi fil-lista
+● juru l-flussi permessi fi jew lista
+&nbsp;&nbsp;jew tqassim tal-grilja
+&nbsp;&nbsp;○ juża riżoluzzjoni baxxa (meta
+&nbsp;&nbsp;&nbsp;&nbsp;disponibbli)
+● tagħżel fluss wieħed mil-lista jew
+&nbsp;&nbsp;mill-istruttura tal-grilja
+&nbsp;&nbsp;○ displays bi skrin sħiħ
+&nbsp;&nbsp;○ juża riżoluzzjoni għolja (meta
+&nbsp;&nbsp;&nbsp;&nbsp;disponibbli)
+
+Storja:
+
+Din l-applikazzjoni oriġinarjament kienet miktuba biex tittestja fergħa sperimentali ta ' EżoPlayer. Dak iż-żmien, din il-fergħa kellha talba ta ' ġibda miftuħa li ma kinitx ġiet amalgamat wara diversi snin:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Eventwalment, din il-fergħa ġiet magħquda. Issa, din l-applikazzjoni tuża binja stabbli ta ' EżoPlayer. Li, imho, jagħmilha inqas interessanti. Iżda xorta waħda jista ' jkun utli.

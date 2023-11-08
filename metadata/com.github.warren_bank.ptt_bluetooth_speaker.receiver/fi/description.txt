@@ -1,0 +1,16 @@
+Tulostuspalvelun rungot:
+
+● Ei ole näkyvää UI
+● Tekee Bluetooth-sovittimen
+● Aloittaa Bluetooth-Socket-palvelimen
+● Kuuntelee yhteyttä lähettäjältä
+
+Kun lähettäjä yhdistää:
+
+● Lopettaa lähettäjän yhteyden
+● Soittaa yhdistävän Socketin äänivirran
+
+Kun lähettäjä hajoaa:
+
+● Uusitaan uuden lähettäjän yhteyden
+&nbsp;&nbsp;kuuntelu

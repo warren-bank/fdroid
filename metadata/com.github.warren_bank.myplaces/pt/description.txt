@@ -1,0 +1,23 @@
+Os recursos incluem a capacidade de:
+
+● classificar a lista de coordenadas
+&nbsp;&nbsp;geográficas:
+&nbsp;&nbsp;○ sequencial
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordenado como os locais ocorrem no
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arquivo de entrada.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: um itinerário de viagem
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;preciso
+&nbsp;&nbsp;○ distância
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordenado por distância do local
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;atual.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: exploração ad-hoc de POI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;próxima
+&nbsp;&nbsp;○ alfabético
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordenado pelos nomes descritivos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;associados a locais.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: marcadores de lugares
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;favoritos
+● clique em um item de lista para abrir
+&nbsp;&nbsp;o local correspondente em um
+&nbsp;&nbsp;aplicativo externo, como mapeamento ou
+&nbsp;&nbsp;navegação.

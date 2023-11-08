@@ -1,0 +1,25 @@
+Funktioner är:
+
+● Automatisk upptäckt av
+&nbsp;&nbsp;AirPlay-mottagare inom samma nätverk
+● Stråla foton från din enhet till
+&nbsp;&nbsp;AirPlay
+● Strömvideor och musik från din enhet
+&nbsp;&nbsp;till AirPlay
+● Spegla skärmen från din enhet till
+&nbsp;&nbsp;AirPlay
+
+Krediter:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Originalversionen av det här
+&nbsp;&nbsp;&nbsp;&nbsp;programmet.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;Tillhandahåller en stor del av koden
+&nbsp;&nbsp;&nbsp;&nbsp;för att implementera spegling på
+&nbsp;&nbsp;&nbsp;&nbsp;Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay-protokoll (version 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Unofficiell dokumentation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

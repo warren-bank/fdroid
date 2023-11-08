@@ -1,0 +1,32 @@
+Vyžaduje kořen!
+
+Vlastnosti zahrnují:
+
+● podpora pro protokoly serveru proxy:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● podpora pro metody ověření:
+&nbsp;&nbsp;○ Základní
+&nbsp;&nbsp;○ NLTL.
+&nbsp;&nbsp;○ NTLMv2
+● podpora pro povolení serveru proxy:
+&nbsp;&nbsp;○ globálně, pro všechny aplikace
+&nbsp;&nbsp;○ pouze pro specifické aplikace
+● podpora černé listiny:
+&nbsp;&nbsp;○ Adresy IP pro vynechání serveru
+&nbsp;&nbsp;&nbsp;&nbsp;proxy
+● podpora pro server proxy DNS
+● podpora více profilů
+● basic support for a proxy
+&nbsp;&nbsp;auto-configuration (PAC) file,
+&nbsp;&nbsp;základní podpora pro soubor
+● schopnost přidružit určitý profil k:
+&nbsp;&nbsp;○ SSID Wi-Fi
+&nbsp;&nbsp;○ Mobilní síť
+● modul widget pro přepnutí zástupce
+&nbsp;&nbsp;zap/vyp
+● efektivita běhového prostředí:
+&nbsp;&nbsp;○ spotřebuje malou baterii
+&nbsp;&nbsp;○ používá malou paměť RAM

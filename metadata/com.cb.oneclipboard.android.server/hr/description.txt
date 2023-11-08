@@ -1,0 +1,5 @@
+Klijenti su dostupni za različite platforme, uključujući Android.
+
+Svi klijenti koji se povezuju na ovaj poslužitelj i provjeru autentičnosti koriste istu kombinaciju imena korisnika i lozinke će dijeliti zajednički clipboard. Kad god bilo koji klijent kopira nove podatke u svoju memoriju za isječak, ovaj se podaci šalju poslužitelju i zatim emitirati na svim ovlaštenim klijentima.
+
+Svi clipboard podaci su šifrirani kraj-do-end.

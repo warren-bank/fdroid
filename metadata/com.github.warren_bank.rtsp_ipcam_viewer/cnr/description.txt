@@ -1,0 +1,29 @@
+Ovi formati su tipični za neskupe IP sigurnosne kamere.
+
+Karakteristike uključuju sposobnost da:
+
+● Ne mogu da vjerujem da će se sve to
+&nbsp;&nbsp;promijeniti.
+● Uvezi video tokove iz JSON datoteke.
+● Svaki potok može uključivati URL-ove
+&nbsp;&nbsp;za dva izvora:
+&nbsp;&nbsp;○ Mala rezolucija
+&nbsp;&nbsp;○ Rezolucija
+● Selektivno omogućava i onesposobi
+&nbsp;&nbsp;potoke na listi.
+● Prikaži potoke s omogućenim tokovima
+&nbsp;&nbsp;ili u obliku liste.
+&nbsp;&nbsp;○ Koristi niske rezolucije (kada je
+&nbsp;&nbsp;&nbsp;&nbsp;dostupno)
+● Izaberite jedan potok sa popisa ili
+&nbsp;&nbsp;mreže.
+&nbsp;&nbsp;○ prikazi na svim ekranima.
+&nbsp;&nbsp;○ Koristi visoku rezoluciju (kada je
+&nbsp;&nbsp;&nbsp;&nbsp;dostupna)
+
+Istorija:
+
+Ova molba je prvobitno napisana da testira eksperimentalnu granu ExoPlayera. U to vrijeme, ovaj ogranak je imao otvoren zahtjev koji nije bio spojen nakon nekoliko godina:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Na kraju, ova grana je spojena. Sada, ova aplikacija koristi stabilnu izgradnju ExoPlayera. Što ga čini manje zanimljivim. Ali možda će i dalje biti korisno.

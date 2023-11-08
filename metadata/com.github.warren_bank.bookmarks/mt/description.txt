@@ -1,0 +1,31 @@
+Sfond:
+
+● Intenzjoni Android tista 'tintuża biex
+&nbsp;&nbsp;tiftaħ parti preċiża ta' kwalunkwe
+&nbsp;&nbsp;applikazzjoni installata, u jgħaddu
+&nbsp;&nbsp;lilha kwalunkwe tip jew kwantità ta '
+&nbsp;&nbsp;data
+● bħala tali, Intenzjoni hija bħal
+&nbsp;&nbsp;bookmark Android
+
+Karatteristiċi jinkludu l-abbiltà li:
+
+● kkonfigurat u jiffrankaw Inenti kif
+&nbsp;&nbsp;imsemmi bookmarks
+● tuża l-bookmarks biex:
+&nbsp;&nbsp;○ tibda Attività
+&nbsp;&nbsp;○ tibda Servizz
+&nbsp;&nbsp;○ tibgħat Broadcast
+● skeda bookmarks li għandhom jintużaw
+&nbsp;&nbsp;aktar tard:
+&nbsp;&nbsp;○ żmien wieħed
+&nbsp;&nbsp;○ f'intervall
+● interċettati mibdija mibdija minn
+&nbsp;&nbsp;applikazzjonijiet oħra:
+&nbsp;&nbsp;○ li timmodifika
+&nbsp;&nbsp;○ biex isalva
+● backup u jirrestawraw:
+&nbsp;&nbsp;○ l-database KOLLHA SQLite
+&nbsp;&nbsp;○ Fajl tad-dejta JSON
+&nbsp;&nbsp;○ NetsCape Bookmark l-fajl tad-dejta
+&nbsp;&nbsp;&nbsp;&nbsp;HTML

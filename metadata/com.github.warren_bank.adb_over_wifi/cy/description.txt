@@ -1,0 +1,7 @@
+Angen gwraidd!
+
+Modd USB yw'r rhagosodiad. Mae'n gofyn am gebl USB a gyrwyr USB i gysylltu dyfais Android â chyfrifiadur.
+
+Mae modd wia Fi yn ddi-wifr ac nid oes angen unrhyw yrwyr ychwanegol. Gall unrhyw gyfrifiadur ddefnyddio'r cleient "adb" i ofyn cysylltiad i ddyfais Android.
+
+Pan fo modd Wir yn cael ei alluogi, mae'r ap hwn yn dangos y gorchymyn "adb" i ofyn am gysylltiad o'r fath dros LAN.

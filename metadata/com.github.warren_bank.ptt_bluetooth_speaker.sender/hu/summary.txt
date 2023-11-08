@@ -1,0 +1,1 @@
+Rögzíti a mikrofont a mikrofonból, és elküldi a vevőnek.

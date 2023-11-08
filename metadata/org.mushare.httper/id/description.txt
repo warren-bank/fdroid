@@ -1,0 +1,18 @@
+Atribut permintaan HTTP yang dapat dikonfigurasikan:
+
+● metode
+● protokol
+● URL
+● headers
+● parameter querystring
+● tubuh
+
+Fitur-fitur mencakup kemampuan untuk:
+
+● kirim permintaan sekali
+● kirim permintaan berulang kali pada
+&nbsp;&nbsp;interval waktu yang ditentukan
+● reload konfigurasi dari permintaan
+&nbsp;&nbsp;sebelumnya dari log sejarah
+● cukup cetak data respon JSON
+● pratilik data tanggapan HTML

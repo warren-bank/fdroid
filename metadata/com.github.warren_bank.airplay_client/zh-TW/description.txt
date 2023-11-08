@@ -1,0 +1,18 @@
+特性包括：
+
+● 在相同網路內自動探索 AirPlay 接收端
+● 從您的裝置到 AirPlay 的 Beam 照片
+● 串流影片和音樂從您的裝置到 AirPlay
+● 將螢幕從您的裝置鏡映至 AirPlay
+
+Credits ：
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;此應用程式的原始版本。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● 螢幕串流
+&nbsp;&nbsp;&nbsp;&nbsp;在 Android 5.0+ 上提供許多用來實作螢幕鏡映的程式碼
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay （第 1 版）通訊協定
+&nbsp;&nbsp;&nbsp;&nbsp;非官方文件。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

@@ -1,0 +1,22 @@
+વિશિષ્ટતાનો સમાવેશ થાય છે:
+
+● એક જ નેટવર્કની અંદર એરપ્લે મેળવનારાઓની
+&nbsp;&nbsp;આપોઆપ શોધ
+● તમારા ઉપકરણમાંથી AirPlay માં બેમ ફોટાઓ
+● સ્ટ્રીમ વીડિયો અને સંગીત તમારા ઉપકરણ
+&nbsp;&nbsp;માંથી AirPlay
+● તમારા ઉપકરણમાંથી સ્ક્રીનને એરપ્લે કરવા
+&nbsp;&nbsp;માટે મિરર કરો
+
+Credits:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;આ કાર્યક્રમનું મૂળ આવૃત્તિ.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● સ્ક્રીનસ્ટ્રીમ
+&nbsp;&nbsp;&nbsp;&nbsp;એન્ક્રોઇડ 5.0+ પર સ્ક્રીન પરીક્ષણ
+&nbsp;&nbsp;&nbsp;&nbsp;અમલમાં મૂકવા માટે કોડ ઓછુ છે
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (version 1) પ્રોટોકોલ
+&nbsp;&nbsp;&nbsp;&nbsp;Unofficial documentation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

@@ -1,0 +1,19 @@
+Memungkinkan "Mock my GPS" untuk berperilaku sebagai penyedia lokasi tiruan untuk "UnifiedNlp".
+
+"UnifiedNlp" adalah:
+
+● biasanya dipasang sebagai komponen
+&nbsp;&nbsp;dari "microG"
+● dimaksudkan untuk digunakan pada ROMs
+&nbsp;&nbsp;Android de-Googled
+● pengganti drop-in untuk "Layanan
+&nbsp;&nbsp;Lokasi Google"
+
+"UnifiedNlp" integrasi data lokasi tiruan:
+
+● hanya diaktifkan sementara "Mock GPS
+&nbsp;&nbsp;saya" aktif
+● Diprioritaskan di atas plugin backend
+&nbsp;&nbsp;"UnifiedNlp" lainnya dengan memajukan
+&nbsp;&nbsp;timestamp 45 detik, sehingga tampak
+&nbsp;&nbsp;paling baru.

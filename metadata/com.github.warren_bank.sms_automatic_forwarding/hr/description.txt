@@ -1,0 +1,3 @@
+Uvjeti se definiraju po listi pravila. Svako pravilo pridružuje primatelju telefonski broj za prosljeđivanje s uzorkom koji se mora podudašču sa pošiljatelju primljene SMS poruke.
+
+Kada se primi nova SMS poruka, ona se prosljeđuje primateljemu telefonske brojeve prema svakom pravilu koje ima odgovarajući uzorak.

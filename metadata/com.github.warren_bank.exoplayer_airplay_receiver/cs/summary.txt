@@ -1,0 +1,1 @@
+ExoPlayer na bázi media player s rozhraním API pro vzdálenou správu.

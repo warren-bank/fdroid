@@ -1,0 +1,17 @@
+Omadused on järgmised:
+
+● kasutaja skripti URL-ide tuvastamine
+● automaatne kasutaja skripti
+&nbsp;&nbsp;värskendused
+● extended Javascript API paljastada
+&nbsp;&nbsp;Android erivõime
+● oskus ignoreerida HTTPS
+&nbsp;&nbsp;sertifikaadivigu
+
+Piirangud:
+
+● userscrits käivitatakse ainult
+&nbsp;&nbsp;ülaaknas
+&nbsp;&nbsp;○ skripti sissepritsemine ikaadritesse
+&nbsp;&nbsp;&nbsp;&nbsp;on võimalik, kuid nõuab keerulist
+&nbsp;&nbsp;&nbsp;&nbsp;tööd; viidake üksikasjadele.

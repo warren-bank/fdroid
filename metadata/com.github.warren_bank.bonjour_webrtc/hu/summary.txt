@@ -1,0 +1,1 @@
+Készítsen videohívásokat a LAN eszközök között.

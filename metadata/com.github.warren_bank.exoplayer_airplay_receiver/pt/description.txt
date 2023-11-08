@@ -1,0 +1,5 @@
+Atende o adaptador LAN Wi-Fi usando uma API HTTP stateless (baseada no AirPlay v1). Divulga sua disponibilidade para descoberta usando mDNS (Bonjour).
+
+Suporta dispositivos de todos os tamanhos de exibição; caixas de set-top genéricos baratos com saída HDMI de alta resolução são a plataforma de destino, mas funciona igualmente bem em aparelhos muito antigos com telas de baixa resolução muito pequenas.
+
+A API é extensa e totalmente documentada. Uma implementação de cliente SPA de página web estática torna esta funcionalidade altamente acessível. Em seu nível mais básico, esta API fornece a capacidade de "escalar" URLs de mídia em uma playlist e controlar todos os aspectos da reprodução.

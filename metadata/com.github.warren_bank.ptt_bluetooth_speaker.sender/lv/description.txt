@@ -1,0 +1,20 @@
+Lietošana:
+
+● parāda visu pārī Bluetooth ierīču
+&nbsp;&nbsp;sarakstu
+&nbsp;&nbsp;○ noklikšķiniet uz tā, kas identificē
+&nbsp;&nbsp;&nbsp;&nbsp;vēlamo uztvērēju
+&nbsp;&nbsp;○ gaidiet savienojumu
+
+● pārslēgt PTT pogu
+&nbsp;&nbsp;○ zaļš norāda, ka audio šobrīd tiek
+&nbsp;&nbsp;&nbsp;&nbsp;notverti
+&nbsp;&nbsp;&nbsp;&nbsp;no mikrofona un straumēta caur
+&nbsp;&nbsp;&nbsp;&nbsp;savienoto ligzdu
+&nbsp;&nbsp;○ sarkans norāda, ka audio plūsma
+&nbsp;&nbsp;&nbsp;&nbsp;šobrīd ir pauzēts
+
+● pārvietot slīdni, lai pielāgotu
+&nbsp;&nbsp;skaļumu audio
+&nbsp;&nbsp;○ noklusējums: 25%
+&nbsp;&nbsp;○ maksimums: 200%

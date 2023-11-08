@@ -1,0 +1,3 @@
+Các điều kiện được xác định bởi một danh sách các quy tắc. Mỗi quy tắc liên kết sô ́ điện thoại nhận chuyển tiếp với mẫu phải khớp với người gửi thông điệp SMS nhận được.
+
+Khi nhận được một tin nhắn SMS mới, nó được chuyển tiếp đến số điện thoại nhận theo mỗi quy tắc có một mô hình phù hợp.

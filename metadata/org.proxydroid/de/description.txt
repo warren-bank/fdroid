@@ -1,0 +1,34 @@
+Erfordert Root!
+
+Zu den Features gehören:
+
+● Unterstützung für
+&nbsp;&nbsp;Proxy-Server-Protokolle:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● Unterstützung für
+&nbsp;&nbsp;Authentifizierungsmethoden:
+&nbsp;&nbsp;○ Basis
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● Unterstützung für die Aktivierung des
+&nbsp;&nbsp;Proxy-Servers:
+&nbsp;&nbsp;○ global, für alle Apps
+&nbsp;&nbsp;○ nur für bestimmte Apps
+● Unterstützung für eine Blacklist:
+&nbsp;&nbsp;○ IP-Adressen, um den Proxy zu umgehen
+● Unterstützung für einen DNS-Proxy
+● Unterstützung für mehrere Profile
+● Basisunterstützung für eine PAC-Datei
+&nbsp;&nbsp;(Proxy-Auto-Configuration)
+● Fähigkeit, ein bestimmtes Profil
+&nbsp;&nbsp;zuzuordnen:
+&nbsp;&nbsp;○ WiFi-SSID
+&nbsp;&nbsp;○ Mobiles Netz
+● Widget zum Ein-/Ausschalten des
+&nbsp;&nbsp;Proxy-Servers
+● Laufzeiteffizienz:
+&nbsp;&nbsp;○ Verbraucht wenig Batterie
+&nbsp;&nbsp;○ verwendet wenig RAM

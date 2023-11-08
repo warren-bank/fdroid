@@ -1,0 +1,7 @@
+Servere er tilgængelige for en række forskellige platforme, herunder Android.
+
+Alle klienter, der opretter forbindelse til en fælles server, og som valideres ved hjælp af samme brugernavn og kodeord, vil dele et fælles udklipsholder. Når en klient kopierer nye data i sit udklipsholder, sendes disse data til serveren og derefter rundsendes til alle validerede klienter.
+
+Alle udklipsholdedata er krypterede slutmål.
+
+Integrering af tasker understøttes.

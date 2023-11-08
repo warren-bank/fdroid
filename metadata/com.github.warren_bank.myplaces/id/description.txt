@@ -1,0 +1,21 @@
+Fitur-fitur mencakup kemampuan untuk:
+
+● Urutkan daftar koordinat geografis:
+&nbsp;&nbsp;○ sequential
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dipesan sebagai lokasi yang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;terdapat pada berkas masukan.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: sebuah perjalanan perjalanan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yang tepat
+&nbsp;&nbsp;○ jarak
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dipesan oleh jarak dari lokasi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;saat ini.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hoc eksplorasi dari dekat
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI
+&nbsp;&nbsp;○ alfabetis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diperintahkan oleh nama deskriptif
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yang terkait dengan lokasi.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: bookmark tempat favorit
+● klik pada item daftar untuk membuka
+&nbsp;&nbsp;lokasi yang sesuai di dalam aplikasi
+&nbsp;&nbsp;eksternal, seperti pemetaan atau
+&nbsp;&nbsp;navigasi.

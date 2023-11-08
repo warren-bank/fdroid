@@ -1,0 +1,5 @@
+Naslouchá na adaptéru Wi-Fi LAN pomocí rozhraní HTTP API bez stavu (založeno na AirPlay v1). Oznamuje svou dostupnost pro zjišťování pomocí systému mDNS (Bonjour).
+
+Podporuje zařízení všech velikostí displeje; levná generická setní-horní pole s výstupem HDMI s vysokým rozlišením jsou cílovou platformou, ale funguje stejně dobře na velmi starých kabelkách s velmi malými obrazovkami s nízkou rozlišením.
+
+Rozhraní API je rozsáhlé a plně zdokumentované. Díky statické implementaci klienta webové stránky SPA je tato funkčnost vysoce přístupná. Toto rozhraní API na své nejzákladnější úrovni poskytuje možnost "přetypovat" adresy URL médií do seznamu stop a řídit všechny aspekty přehrávání.

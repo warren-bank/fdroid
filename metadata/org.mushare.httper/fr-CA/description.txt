@@ -1,0 +1,19 @@
+Attributs de requête HTTP configurables:
+
+● méthode
+● protocole
+● URL
+● en-têtes
+● paramètres querystring
+● corps
+
+Les fonctions comprennent la capacité:
+
+● envoyer une demande une fois
+● envoyer une demande plusieurs fois à
+&nbsp;&nbsp;un intervalle de temps spécifié
+● recharger la configuration d'une
+&nbsp;&nbsp;demande précédente à partir d'un
+&nbsp;&nbsp;historique d'historique
+● impression des données de réponse JSON
+● aperçu des données de réponse HTML

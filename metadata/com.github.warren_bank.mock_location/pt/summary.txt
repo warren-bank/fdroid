@@ -1,0 +1,1 @@
+Provedores de localização do Mock Android: GPS, Rede, Fusado.

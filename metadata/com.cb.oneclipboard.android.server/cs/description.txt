@@ -1,0 +1,5 @@
+Klienti jsou k dispozici pro různé platformy, včetně systému Android.
+
+Všichni klienti, kteří se připojují k tomuto serveru a ověřují identitu pomocí stejné kombinace jména uživatele a hesla, budou sdílet společnou schránku. Kdykoli každý klient zkopíruje nová data do své schránky, tato data se odešlou na server a pak se vysílají všem ověřeným klientům.
+
+Veškerá data schránky jsou šifrována mezi koncovými body.

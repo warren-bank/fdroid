@@ -1,0 +1,9 @@
+Gyökér kell!
+
+A héj parancsfájl végrehajtása két módon hívható meg:
+
+1. Interaktív
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A felhasználó kézzel választott
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fájlt.
+2. Automatikus
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Egy Intent.

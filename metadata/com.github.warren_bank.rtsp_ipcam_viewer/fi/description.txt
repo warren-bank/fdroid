@@ -1,0 +1,29 @@
+Nämä muodot ovat tyypillisiä edullisia IP-turvakameroita.
+
+Ominaisuuksiin kuuluu kyky:
+
+● Määrittää rajoittamattoman määrän
+&nbsp;&nbsp;videovirtoja
+● Tuoda videovirtoja JSON-tiedostosta
+● Kukin virta voi sisältää URL-osoitteet
+&nbsp;&nbsp;kahdesta lähteestä:
+&nbsp;&nbsp;○ Matala tarkkuus
+&nbsp;&nbsp;○ Suuri päätöslauselma
+● Ottaa käyttöön ja poistaa käytöstä
+&nbsp;&nbsp;poistettuja tietoja valikoivasti
+● Näytä käytössä olevat virrat joko
+&nbsp;&nbsp;luettelossa tai ruudukon asettelussa
+&nbsp;&nbsp;○ Käyttää pientä resoluutio (jos
+&nbsp;&nbsp;&nbsp;&nbsp;saatavilla)
+● Valitse yksi virta luettelosta tai
+&nbsp;&nbsp;ruuduston asettelusta
+&nbsp;&nbsp;○ Näytöt ruudulla
+&nbsp;&nbsp;○ Käyttää suurta resoluutio (jos
+&nbsp;&nbsp;&nbsp;&nbsp;saatavilla)
+
+Historia:
+
+Tämä hakemus on alun perin kirjoitettu testaamaan kokeellista ExoPlayer-haaraa. Tällä oksalla oli avoin veto-pyyntö, jota ei ollut yhdistetty vuosiin.
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Lopulta tämä oksa yhdistyi. Tämä sovellus käyttää ExoPlayerin vakaata rakennetta. Se tekee siitä vähemmän kiinnostavaa. Siitä voi silti olla hyötyä.

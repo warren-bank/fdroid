@@ -1,0 +1,1 @@
+Ändra standard för Android-systemets språkmiljö.

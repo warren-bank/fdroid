@@ -1,0 +1,7 @@
+Jenis umpan balik pengguna:
+
+● tampilkan sebuah Toast
+● tampilkan notifikasi
+● putar Ringtone audio
+
+Semua jenis umpan balik pengguna dimulai oleh Intent. Utilitas ini dapat digunakan baik oleh aplikasi lain, juga secara langsung oleh pengguna dari emulator terminal baris perintah.

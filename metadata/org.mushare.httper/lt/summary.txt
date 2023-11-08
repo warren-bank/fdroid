@@ -1,0 +1,1 @@
+Konfigūruoti ir siųsti HTTP užklausas.

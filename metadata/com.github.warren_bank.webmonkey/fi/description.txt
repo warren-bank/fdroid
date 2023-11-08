@@ -1,0 +1,19 @@
+Ominaisuuksiin kuuluu:
+
+● Käyttäjäkomentosarjan URL-osoitteiden
+&nbsp;&nbsp;havaitseminen
+● Automaattinen käyttäjäkomentosarja
+● Laajennettu
+&nbsp;&nbsp;Javascript-ohjelmointirajapinta
+&nbsp;&nbsp;Android-erityisominaisuuksien
+&nbsp;&nbsp;paljastamiseksi
+● Kyky ohittaa HTTPS-varmenteen virheet
+
+Rajoitukset:
+
+● Käyttäjäkomentosarjat ajetaan vain
+&nbsp;&nbsp;yläikkunassa
+&nbsp;&nbsp;○ Komentosarjan ruiskutus ikehyksiin
+&nbsp;&nbsp;&nbsp;&nbsp;on mahdollista, mutta se edellyttää
+&nbsp;&nbsp;&nbsp;&nbsp;monimutkaista työnhakua. Lisätietoja
+&nbsp;&nbsp;&nbsp;&nbsp;on README :ssä.

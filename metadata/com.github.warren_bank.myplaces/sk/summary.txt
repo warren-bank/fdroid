@@ -1,0 +1,1 @@
+Číta súbory GPX a KML ako zoznamy geografických súradnicových záložiek.

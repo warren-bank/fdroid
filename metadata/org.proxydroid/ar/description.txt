@@ -1,0 +1,30 @@
+يتطلب جذر !
+
+تتضمن الخصائص :
+
+● الدعم لبروتوكولات وحدة خدمة proxy :
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● دعم طرق التوثيق :
+&nbsp;&nbsp;○ أساسي
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● دعم لاتاحة وحدة خدمة proxy :
+&nbsp;&nbsp;○ على مستوى العالم ، لكل التطبيقات
+&nbsp;&nbsp;○ فقط لتطبيقات معينة
+● دعم وضع القائمة السوداء :
+&nbsp;&nbsp;○ عناوين IP لتخطي proxy
+● دعم الى proxy proxy
+● دعم لملفات مواصفات متعددة
+● دعم أساسي لملف
+&nbsp;&nbsp;proxy-auto-configuration (PAC)
+● امكانية ارفاق ملف مواصفات معين مع :
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ شبكة موبايل
+● عنصر واجهة التعامل للتبديل الى proxy
+&nbsp;&nbsp;فعال / غير فعال
+● كفاءة وقت التشغيل :
+&nbsp;&nbsp;○ يستهلك بطارية صغيرة
+&nbsp;&nbsp;○ يستخدم RAM الصغير

@@ -1,0 +1,19 @@
+S'exécute dans un service d'avant-plan Service:
+
+● Il n'y a pas d'interface utilisateur
+&nbsp;&nbsp;visible
+● Rend la carte Bluetooth reconnaissable
+● Démarre un serveur socket Bluetooth
+● écoute une connexion d'un expéditeur
+
+Lorsqu'un expéditeur se connecte:
+
+● Arrête l'écoute pour une connexion de
+&nbsp;&nbsp;l'expéditeur
+● Joue le flux audio à partir du socket
+&nbsp;&nbsp;connecté
+
+Lorsqu'un expéditeur se déconnecte:
+
+● Reprend l'écoute d'une nouvelle
+&nbsp;&nbsp;connexion de l'expéditeur

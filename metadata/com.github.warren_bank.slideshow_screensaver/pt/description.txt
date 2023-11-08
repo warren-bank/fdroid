@@ -1,0 +1,13 @@
+Configurações de Slideshow:
+
+● Tempo De Duração (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;O período de tempo em que cada
+&nbsp;&nbsp;&nbsp;&nbsp;imagem é exibida.
+● Usar provedor MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Obtém arquivos de imagem do índice
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Caminho do diretório
+&nbsp;&nbsp;&nbsp;&nbsp;Obtenha imagens de um diretório
+&nbsp;&nbsp;&nbsp;&nbsp;particular no sistema de filesystem.
+● Recursar em subdiretórios
+● Ordem aleatória

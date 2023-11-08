@@ -1,0 +1,7 @@
+Servery sú k dispozícii pre rôzne platformy, vrátane Android.
+
+Všetci klienti, ktorí sa pripájajú k spoločnému serveru a autentifikujú sa pomocou kombinácie mena užívateľa a hesla, budú zdieľať spoločnú schránku. Vždy, keď ľubovoľný klient skopíruje nové údaje do schránky, tieto údaje budú odoslané na server a potom sa budú vysielať všetkým autentifikovaným klientom.
+
+Všetky údaje z odkladacej schránky sú šifrované na konci konca.
+
+Podporuje sa integrácia tasker.

@@ -1,0 +1,1 @@
+Thực hiện các cuộc gọi video giữa các thiết bị trong mạng LAN.

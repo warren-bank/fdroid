@@ -1,0 +1,34 @@
+Fitur-fitur mencakup kemampuan untuk:
+
+● mengonfigurasi dan menyimpan setiap
+&nbsp;&nbsp;jumlah profil aplikasi
+● setiap profil aplikasi dapat
+&nbsp;&nbsp;menentukan:
+&nbsp;&nbsp;○ judul
+&nbsp;&nbsp;○ path berkas ke berkas Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;utama
+&nbsp;&nbsp;○ pilihan baris perintah untuk runtime
+&nbsp;&nbsp;&nbsp;&nbsp;Node.js
+&nbsp;&nbsp;○ pilihan baris perintah untuk
+&nbsp;&nbsp;&nbsp;&nbsp;aplikasi
+&nbsp;&nbsp;○ variabel lingkungan
+&nbsp;&nbsp;○ direktori kerja saat ini
+● profil aplikasi dikelompokkan oleh:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikasi berbagi satu proses
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tunggal. Hanya satu yang bisa
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mengeksekusi pada satu waktu.
+&nbsp;&nbsp;○ "garpu"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setiap aplikasi diberi proses
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sendiri. Masing-masing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mengeksekusi dalam layanan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foreground. Sebuah notifikasi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;terkait membunuh proses.
+● backup dan restore:
+&nbsp;&nbsp;○ ekspor semua profil aplikasi ke JSON
+&nbsp;&nbsp;○ impor profil aplikasi baru dari JSON
+
+Lingkungan runtime yang melekat:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

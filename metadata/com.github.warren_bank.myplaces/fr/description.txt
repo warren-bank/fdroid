@@ -1,0 +1,23 @@
+Les fonctions incluent la capacité:
+
+● Trier la liste des coordonnées
+&nbsp;&nbsp;géographiques:
+&nbsp;&nbsp;○ Séquentielle
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordonné lorsque les emplacements
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se trouvent dans le fichier
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d'entrée.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: un itinéraire de voyage
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;précis
+&nbsp;&nbsp;○ Distance
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordonné par la distance de
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l'emplacement actuel.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: exploration ad hoc de la POI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;voisine
+&nbsp;&nbsp;○ Alphabétique
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commandé par les noms descriptifs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;associés aux emplacements.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: signets des espaces favoris
+● Cliquez sur un élément de liste pour
+&nbsp;&nbsp;ouvrir l'emplacement correspondant
+&nbsp;&nbsp;dans une application externe, telle
+&nbsp;&nbsp;que le mappage ou la navigation.

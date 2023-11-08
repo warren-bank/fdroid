@@ -1,0 +1,14 @@
+શરતી માપદંડ નો સમાવેશ થાય છે:
+
+● મોકલનાર ફોન નંબરો
+● ઉપશબ્દમાળા કે જે મેળવેલ SMS સંદેશાની
+&nbsp;&nbsp;શરૂઆતમાં થવું જ જોઈએ
+
+GPS સ્થાન માહિતીનો સમાવેશ થાય છે:
+
+● Latitude and longitude coordinates
+● ચોક્કસ (મીટર)
+● ઝડપ (meters/sec)
+● દિશા (cardinal or ordinal, and
+&nbsp;&nbsp;degrees)
+● Google Maps માં URL

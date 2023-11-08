@@ -1,0 +1,19 @@
+อนุญาตให้ "Mock my GPS" ทำงานเป็นตัวให้บริการตำแหน่งเชิงล้อเลียนสำหรับ "Unified Nlp"
+
+"Unified Nlp" คือ:
+
+● โดยทั่วไปจะติดตั้งเป็นคอมโพเนนต์ของ
+&nbsp;&nbsp;"micro G"
+● ที่ต้องการใช้ในการ de-Googled Android
+&nbsp;&nbsp;ROMs
+● สำหรับ "Google Location Services" ที่
+&nbsp;&nbsp;drop-in แทน
+
+การรวม "Unified Nlp" ของข้อมูลตำแหน่งการเขียน:
+
+● ถูกเปิดใช้งานขณะที่ "Mock my GPS"
+&nbsp;&nbsp;แอ็คทีฟเท่านั้น
+● ถูกจัดลำดับความสำคัญบนปลั๊กอินส่วนแบ็คเอนด์
+&nbsp;&nbsp;"Unified Nlp"
+&nbsp;&nbsp;อื่นโดยการเลื่อนเวลาประทับ 45
+&nbsp;&nbsp;วินาทีดังนั้นจึงแสดงเป็นข้อมูลล่าสุด

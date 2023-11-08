@@ -1,0 +1,20 @@
+Atributos de solicitud HTTP configurables:
+
+● método
+● protocolo
+● URL
+● Cabeceras
+● parámetros querystring
+● cuerpo
+
+Las características incluyen la capacidad de:
+
+● enviar una solicitud una vez
+● enviar una solicitud repetidamente en
+&nbsp;&nbsp;un intervalo de tiempo especificado
+● volver a cargar la configuración de
+&nbsp;&nbsp;una solicitud anterior de un registro
+&nbsp;&nbsp;histórico
+● datos de respuesta JSON de impresión
+&nbsp;&nbsp;bastante
+● vista previa de datos de respuesta

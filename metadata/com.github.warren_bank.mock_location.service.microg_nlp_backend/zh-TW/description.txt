@@ -1,0 +1,13 @@
+允許 "Mock my GPS" 作為 "UnifiedNlp" 的模擬定位提供者。
+
+" UnifiedNlp" 是：
+
+● 通常安裝為 "microG" 的元件
+● 打算用在谷歌上的 Android ROMs 上
+● 「 Google 位置服務」的退位
+
+" UnifiedNlp" 整合模擬位置資料：
+
+● 只在 "Maock my GPS" 作用中時才啟用
+● 透過提前時間戳記 45 秒來設定其他 "UnifiedNlp"
+&nbsp;&nbsp;後端外掛程式的優先順序，因此，它似乎是最近

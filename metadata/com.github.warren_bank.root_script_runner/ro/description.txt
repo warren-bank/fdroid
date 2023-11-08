@@ -1,0 +1,9 @@
+Necesită rădăcină!
+
+Executarea unui script shell poate fi invocata in doua moduri:
+
+1. interactiv
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prin alegerea manuală a unui
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fișier.
+2. automată
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De un cort.

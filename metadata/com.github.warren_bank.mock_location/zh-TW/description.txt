@@ -1,0 +1,26 @@
+特性包括下列功能：
+
+● 模擬固定位置
+● 模擬行程
+● 使用操縱桿移動相對於模擬固定位置的移動
+● 接受 Intent 中的緯度和經度地理座標配對
+● 將緯度和經度地理座標配對儲存為具名書籤
+
+變異數：
+
+1. 奧斯普
+2. AOSP + Google Play 服務
+3. AOSP + 華為移動服務
+
+Android 整合：
+
+1. 啟用開發人員選項
+&nbsp;&nbsp;&nbsp;● open：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;設定 > 系統 > 關於電話
+&nbsp;&nbsp;&nbsp;● 重複按一下 7 次：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;建置號碼
+2. 配置：
+&nbsp;&nbsp;&nbsp;● open：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;設定 > 系統 > 開發人員選項
+&nbsp;&nbsp;&nbsp;● 儲存值：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模擬定位應用程式：「模擬我的 GPS」

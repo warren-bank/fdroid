@@ -1,0 +1,3 @@
+Parāda visu pieejamo locales sarakstu. Noklikšķinot uz jebkura saraksta vienumu maina Android sistēmas lokāles uz izvēlēto vērtību. Pārmaiņas ir noturīgas.
+
+Šobrīd aktīvais locale vienmēr ir novietots kā pirmā saraksta pozīcija.

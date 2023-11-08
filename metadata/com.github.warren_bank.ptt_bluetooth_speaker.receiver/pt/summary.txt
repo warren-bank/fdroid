@@ -1,0 +1,1 @@
+Recebe áudio do remetente e toca através do alto-falante.

@@ -1,0 +1,23 @@
+Οι λειτουργίες περιλαμβάνουν την ικανότητα:
+
+● ταξινόμηση των γεωγραφικών
+&nbsp;&nbsp;συντεταγμένων:
+&nbsp;&nbsp;○ διαδοχική.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ταξινομημένη όπως οι θέσεις
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;εμφανίζονται στο αρχείο εισόδου.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: ακριβή διαδρομή ταξιδιού
+&nbsp;&nbsp;○ ' απόσταση
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Παραγγέλθηκε από απόσταση από την
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;τρέχουσα τοποθεσία.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: ad-hoc εξερεύνηση του
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;κοντινού POI
+&nbsp;&nbsp;○ -αλφαβητικά
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Παραγγέλθηκε από τα περιγραφικά
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ονόματα που σχετίζονται με τις
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;θέσεις.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: σελιδοδείκτες αγαπημένων
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;χώρων
+● πατήστε σε ένα στοιχείο λίστας για να
+&nbsp;&nbsp;ανοίξετε την αντίστοιχη θέση σε μια
+&nbsp;&nbsp;εξωτερική εφαρμογή, όπως η
+&nbsp;&nbsp;αντιστοίχιση ή η πλοήγηση.

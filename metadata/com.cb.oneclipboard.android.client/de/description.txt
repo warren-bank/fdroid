@@ -1,0 +1,7 @@
+Server sind für eine Vielzahl von Plattformen verfügbar, einschließlich Android.
+
+Alle Clients, die eine Verbindung zu einem allgemeinen Server herstellen und sich mit derselben Kombination aus Benutzername und Kennwort authentifizieren, teilen sich eine gemeinsame Zwischenablage. Wenn ein Client neue Daten in die Zwischenablage kopiert, werden diese Daten an den Server gesendet und anschließend an alle authentifizierten Clients gesendet.
+
+Alle Daten über die Zwischenablage werden Ende-zu-Ende verschlüsselt.
+
+Die Integration von Taskern wird unterstützt.

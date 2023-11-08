@@ -1,0 +1,1 @@
+내 위성위치확인시스템 (Mock my GPS). "UnifiedNlp" 용 백엔드 플러그인.

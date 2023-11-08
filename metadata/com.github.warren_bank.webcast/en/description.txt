@@ -1,0 +1,10 @@
+Video URLs on the current web page are displayed in a list.
+
+Settings determine the behavior when a video URL is selected:
+● the internal video player includes a
+&nbsp;&nbsp;Chromecast sender
+● the external video player allows
+&nbsp;&nbsp;another app to play the video URL
+● the "ExoAirPlayer" and "HLS Proxy"
+&nbsp;&nbsp;senders each load a static web page
+&nbsp;&nbsp;SPA client for the chosen server

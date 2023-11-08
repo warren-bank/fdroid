@@ -1,0 +1,7 @@
+Máy chủ có sẵn cho một loạt các nền tảng, bao gồm cả Android.
+
+Tất cả máy khách kết nối với máy chủ chung và xác thực sử dụng cùng tên người dùng và kết hợp mật khẩu sẽ chia sẻ một bảng tạm chung. Bất cứ khi nào khách hàng sao chép dữ liệu mới vào clipboard của nó, dữ liệu này sẽ được gửi đến máy chủ và sau đó phát sóng cho tất cả khách hàng được xác thực.
+
+Toàn bộ dữ liệu bảng tạm được mã hóa cho đến cuối.
+
+Tích hợp Tasker được hô ̃ trợ.

@@ -1,0 +1,34 @@
+Necesită rădăcină!
+
+Caracteristicile includ:
+
+● suport pentru protocoalele proxy
+&nbsp;&nbsp;server:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● suport pentru metodele de
+&nbsp;&nbsp;autentificare:
+&nbsp;&nbsp;○ Bază
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● suport pentru activarea serverului
+&nbsp;&nbsp;proxy:
+&nbsp;&nbsp;○ la nivel global, pentru toate
+&nbsp;&nbsp;&nbsp;&nbsp;aplicațiile
+&nbsp;&nbsp;○ numai pentru aplicații specifice
+● sprijin pentru o listă neagră:
+&nbsp;&nbsp;○ Adrese IP pentru a ocoli proxy-ul
+● suport pentru un proxy DNS
+● suport pentru mai multe profile
+● suport de bază pentru un fișier proxy
+&nbsp;&nbsp;auto-configurare (PAC)
+● capacitatea de a asocia un anumit
+&nbsp;&nbsp;profil cu:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Rețea mobilă
+● widget to toggle proxy on/off
+● eficiența runtime:
+&nbsp;&nbsp;○ consumă puțin baterie
+&nbsp;&nbsp;○ utilizează puțin RAM

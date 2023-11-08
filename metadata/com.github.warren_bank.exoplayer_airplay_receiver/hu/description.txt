@@ -1,0 +1,5 @@
+Lista a Wi-Fi LAN csatolón stateless HTTP API használatával (az AirPlay v1 alapján). A rendszer az MDNS (Bonjour) segítségével reklámozza a feltérképezés elérhetőségét.
+
+A nagyfelbontású HDMI kimenettel rendelkező, nagyfelbontású, nagyfelbontású, nagyfelbontású, nagyfelbontású, nagyfelbontású, nagyfelbontású, nagyfelbontású, nagyon kicsi, alacsony felbontású képernyős készülékeken is működő, drága, generikus méretű, generikus set-top boxok.
+
+Az API átfogó és teljes körűen dokumentált. A statikus weboldalak SPA ügyfél megvalósítása ezt a funkcionalitást nagymértékben elérhetővé teszi. A legalapvetőbb szinten ez az API lehetővé teszi a "cast" adathordozó URL címek lejátszási listáját és a visszajátszás minden aspektusát.

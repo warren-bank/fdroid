@@ -1,0 +1,24 @@
+सुविधाओं में शामिल हैं:
+
+● एक ही नेटवर्क के भीतर एयरप्ले रिसीवर्स
+&nbsp;&nbsp;की स्वचालित खोज
+● अपने उपकरण से Airplay करने के लिए बीम
+&nbsp;&nbsp;फ़ोटो
+● स्ट्रीम वीडियो और संगीत आपके उपकरण से
+&nbsp;&nbsp;Airplay करने के लिए
+● अपने उपकरण से एयरप्ले में स्क्रीन को
+&nbsp;&nbsp;मिरर करें
+
+क्रेडिट:
+
+● ड्राइडप्ले
+&nbsp;&nbsp;&nbsp;&nbsp;इस अनुप्रयोग का मूल संस्करण है.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● स्क्रीनस्ट्रीम
+&nbsp;&nbsp;&nbsp;&nbsp;एंड्रॉयड 5.0+ पर स्क्रीन मिरर पर
+&nbsp;&nbsp;&nbsp;&nbsp;लागू करने के लिए कोड का अधिक प्रदान
+&nbsp;&nbsp;&nbsp;&nbsp;किया गया
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● एयरप्ले (संस्करण 1) प्रोटोकॉल
+&nbsp;&nbsp;&nbsp;&nbsp;गैर-सरकारी दस्तावेज ।
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

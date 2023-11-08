@@ -1,0 +1,1 @@
+Konfigurovať a posielať požiadavky HTTP.

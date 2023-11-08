@@ -1,0 +1,40 @@
+Funkcije uključuju mogućnost:
+
+● traženje televizijski serije po imenu
+● dodati televizijski niz u rezultatima
+&nbsp;&nbsp;pretraživanja na listu
+● sortiraj i filtriraj listu dodanih
+&nbsp;&nbsp;televizijski serija
+● bušenje u listu za čitanje detaljnih
+&nbsp;&nbsp;informacija o svakoj seriji i njegovim
+&nbsp;&nbsp;dostupnim epizisima
+● označi kao da su bili promatvi
+● serije oznaka kao onemogućeno
+● pridruživanje svake serije s vanjskim
+&nbsp;&nbsp;URL-ovima
+&nbsp;&nbsp;○ ex: web stranice gdje se serija može
+&nbsp;&nbsp;&nbsp;&nbsp;gledati
+● ažurirati televizijski niz u listi
+&nbsp;&nbsp;○ za dobivanje informacija o novim
+&nbsp;&nbsp;&nbsp;&nbsp;epizima
+
+Mrežni zahtjevi:
+
+● popis dodanih televizijski serija može
+&nbsp;&nbsp;se koristiti za vrijeme potpuno
+&nbsp;&nbsp;offline
+● veza s internetom je potrebna samo za
+&nbsp;&nbsp;ručno dodavanje ili ažuriranje
+&nbsp;&nbsp;televizijske serije
+
+Odobrenja:
+
+● svi podaci su dobiveni iz Filmske baze
+&nbsp;&nbsp;podataka (TMDB), koristeći verziju 3
+&nbsp;&nbsp;od TMDB API-ja
+● povijesna loza:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidPokazuje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Maleni Televizijski Tragač

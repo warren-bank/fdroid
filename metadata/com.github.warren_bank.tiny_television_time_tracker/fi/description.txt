@@ -1,0 +1,39 @@
+Ominaisuuksiin kuuluu kyky:
+
+● Televisiosarjojen etsintä nimeltä
+● Lisää televisiosarja hakutuloksissa
+&nbsp;&nbsp;luetteloon
+● Lajittele ja suodattaa lisättyjen
+&nbsp;&nbsp;televisiosarjojen luettelo
+● Poraa luetteloon yksityiskohtaisia
+&nbsp;&nbsp;tietoja kustakin sarjasta ja sen
+&nbsp;&nbsp;käytettävissä olevista jaksoista
+● Merkkijaksot, kun niitä on katsottu
+● Mark-sarja on poistettu käytöstä
+● Liittää kaikki sarjat ulkoisten
+&nbsp;&nbsp;URL-osoitteiden kanssa
+&nbsp;&nbsp;○ Ex: verkkosivuilla, joissa sarjaa
+&nbsp;&nbsp;&nbsp;&nbsp;voidaan katsoa
+● Päivitä luettelon televisiosarja
+&nbsp;&nbsp;○ Saada tietoa uusista jaksoista
+
+Verkkovaatimukset:
+
+● Luettelo lisätyistä televisiosarjoista
+&nbsp;&nbsp;voidaan käyttää täysin offline-tilassa
+● Internet-yhteyttä tarvitaan vain,
+&nbsp;&nbsp;jotta voidaan lisätä tai päivittää
+&nbsp;&nbsp;televisiosarjoja
+
+Valtuustiedot:
+
+● Kaikki tiedot on saatu Movie
+&nbsp;&nbsp;tietokannasta (TMDB)
+&nbsp;&nbsp;TMDB-ohjelmointirajapinnan version 3
+&nbsp;&nbsp;avulla.
+● Historiallinen sukulinja:
+&nbsp;&nbsp;1. DroidSeries-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShow
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Pienen televisioajan jäljitin

@@ -1,0 +1,5 @@
+Müşteriler, Android de dahil olmak üzere çeşitli platformlarda kullanılabilir.
+
+Bu sunucuya bağlanan ve kimliği doğrulayan tüm istemciler aynı kullanıcı adı ve parola bileşimini kullanarak ortak bir pano paylaşır. Her istemci yeni verileri panoya kopyaladığında, bu veriler sunucuya gönderilir ve sonra kimliği doğrulanmış tüm istemcilere yayınlanır.
+
+Tüm pano verileri, şifrelenmiş uçtan uca olarak şifrelenir.

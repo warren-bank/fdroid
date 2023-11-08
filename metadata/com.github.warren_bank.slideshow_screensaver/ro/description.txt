@@ -1,0 +1,13 @@
+Setari de slideshow:
+
+● Durata de timp (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Perioada de timp în care fiecare
+&nbsp;&nbsp;&nbsp;&nbsp;imagine este afișată.
+● Utilizați furnizorul MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Obține fișiere imagine din indexul
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Calea directoare
+&nbsp;&nbsp;&nbsp;&nbsp;Obțineți imagini dintr-un anumit
+&nbsp;&nbsp;&nbsp;&nbsp;director din sistemul de fișiere.
+● Reportofonul în subdirectoare
+● Ordine aleatoare

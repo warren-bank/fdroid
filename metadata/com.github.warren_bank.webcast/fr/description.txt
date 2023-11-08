@@ -1,0 +1,12 @@
+Les URL de la page Web en cours sont affichées dans une liste.
+
+Les paramètres déterminent le comportement lorsqu'une URL vidéo est sélectionnée:
+● Le lecteur vidéo interne comprend un
+&nbsp;&nbsp;expéditeur Chromecast
+● Le lecteur vidéo externe permet à une
+&nbsp;&nbsp;autre application de lire l'URL de la
+&nbsp;&nbsp;vidéo
+● Les expéditeurs "ExoAirPlayer" et "HLS
+&nbsp;&nbsp;Proxy" chargent chaque chargement une
+&nbsp;&nbsp;page Web statique client SPA pour le
+&nbsp;&nbsp;serveur choisi

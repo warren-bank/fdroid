@@ -1,0 +1,1 @@
+Ispeziona gli SMS ricevuti e li inoltra condizionatamente.

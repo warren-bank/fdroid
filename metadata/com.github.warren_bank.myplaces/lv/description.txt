@@ -1,0 +1,21 @@
+Funkcijas ietver spēju:
+
+● kārtot ģeogrāfisko koordinātu
+&nbsp;&nbsp;sarakstu:
+&nbsp;&nbsp;○ Kārtas numurs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pasūtīts kā vietas, kas notiek
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ievades failā.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: precīzu ceļojuma maršrutu
+&nbsp;&nbsp;○ Attālums
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pasūtīts ar attālumu no
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pašreizējās atrašanās vietas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: netālo POI ad-hoc izpēte
+&nbsp;&nbsp;○ alfabētiskais
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pasūtīts ar aprakstošiem
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nosaukumiem, kas saistīti ar
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vietām.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: mīļāko vietu grāmatzīmes
+● noklikšķiniet uz saraksta posteņa, lai
+&nbsp;&nbsp;atvērtu attiecīgo atrašanās vietu
+&nbsp;&nbsp;ārējā pieteikumā, piemēram, kartēšana
+&nbsp;&nbsp;vai navigācija.

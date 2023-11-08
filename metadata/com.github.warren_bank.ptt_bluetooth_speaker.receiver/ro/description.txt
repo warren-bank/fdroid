@@ -1,0 +1,20 @@
+Rulează într-un prim serviciu:
+
+● nu există UI vizibil
+● face ca adaptorul Bluetooth să fie
+&nbsp;&nbsp;descoperit
+● începe un server Bluetooth Socket
+● asculta pentru o conexiune de la un
+&nbsp;&nbsp;expeditor
+
+Când un expeditor se conectează:
+
+● oprește ascultarea pentru o conexiune
+&nbsp;&nbsp;la expeditor
+● reda fluxul audio de la Socket
+&nbsp;&nbsp;conectat
+
+Când un expeditor se deconectează:
+
+● CV-uri de ascultare pentru o conexiune
+&nbsp;&nbsp;nouă expeditor

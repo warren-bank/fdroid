@@ -1,0 +1,11 @@
+Videowebbadresser på den aktuella webbsidan visas i en lista.
+
+Inställningar bestämmer beteendet när en video-URL är vald:
+● den interna videospelaren innehåller
+&nbsp;&nbsp;en kromecast-avsändare
+● den externa videospelaren tillåter en
+&nbsp;&nbsp;annan app för att spela upp video-URL
+● Avsändarna "ExoAirPlayer" och "HLS
+&nbsp;&nbsp;Proxy" var och en läser in en statisk
+&nbsp;&nbsp;webbsidig SPA-klient för den valda
+&nbsp;&nbsp;servern

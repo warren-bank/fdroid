@@ -1,0 +1,20 @@
+Upotreba:
+
+● prikazuje popis svih uparenih
+&nbsp;&nbsp;Bluetooth uređaja
+&nbsp;&nbsp;○ kliknite na onaj koji identificira
+&nbsp;&nbsp;&nbsp;&nbsp;željeni primatelj
+&nbsp;&nbsp;○ wait for connection
+
+● prebacivanje tipke PTT
+&nbsp;&nbsp;○ zeleni označava da je audio trenutno
+&nbsp;&nbsp;&nbsp;&nbsp;dohvaćena
+&nbsp;&nbsp;&nbsp;&nbsp;iz mikrofona i streamed kroz spojene
+&nbsp;&nbsp;&nbsp;&nbsp;utičnice
+&nbsp;&nbsp;○ red označava da je audio tok
+&nbsp;&nbsp;&nbsp;&nbsp;trenutno paukorišten
+
+● premjesti klizač da podesili volumen
+&nbsp;&nbsp;zvuka
+&nbsp;&nbsp;○ default: 25%
+&nbsp;&nbsp;○ maksimum: 200%

@@ -1,0 +1,1 @@
+Skontrolovať prijaté správy SMS a podmienene ich poslať ďalej.

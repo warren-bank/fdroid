@@ -1,0 +1,20 @@
+Anvendelse:
+
+● Viser en liste med alle parrede
+&nbsp;&nbsp;Bluetooth-enheder
+&nbsp;&nbsp;○ klik på den, der identificerer den
+&nbsp;&nbsp;&nbsp;&nbsp;ønskede modtager
+&nbsp;&nbsp;○ vent på forbindelse
+
+● skift PTT-knappen
+&nbsp;&nbsp;○ grøn angiver, at lyden i øjeblikket
+&nbsp;&nbsp;&nbsp;&nbsp;er ved at blive fanget
+&nbsp;&nbsp;&nbsp;&nbsp;fra mikrofonen og streamede gennem
+&nbsp;&nbsp;&nbsp;&nbsp;den tilsluttede sokkel
+&nbsp;&nbsp;○ rød angiver, at audiostrømmen er
+&nbsp;&nbsp;&nbsp;&nbsp;midlertidigt stoppet
+
+● Flyt skyderen for at justere
+&nbsp;&nbsp;lydstyrken på lyden
+&nbsp;&nbsp;○ standard: 25%
+&nbsp;&nbsp;○ maksimum: 200%

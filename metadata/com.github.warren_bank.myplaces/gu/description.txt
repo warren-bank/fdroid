@@ -1,0 +1,19 @@
+લાક્ષણિકતાનો સમાવેશ થાય છે:
+
+● ભૌગોલિક સંકલનની યાદી ક્રમમાં ગોઠવો:
+&nbsp;&nbsp;○ ક્રિયાશીલ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ઇનપુટ ફાઇલમાં જગ્યા તરીકે ઓર્ડર
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;થયેલ છે.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● X: a precise travel itinerary
+&nbsp;&nbsp;○ અંતર
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;હાલની જગ્યામાંથી અંતર દ્વારા ઓર્ડર
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;થયેલ છે.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● અગાઉના POI નું એડ-હોક
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;એક્સ્યુલેશન
+&nbsp;&nbsp;○ આલ્ફાબેટિક
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;સ્થાનોની સાથે સંકળાયેલી વર્ણનશીલ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;નામો દ્વારા.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● વર્તમાન જગ્યાઓની બુકમાર્કો
+● બહારનાં કાર્યક્રમમાં સંકળાયેલ સ્થાન
+&nbsp;&nbsp;ખોલવા માટે યાદી વસ્તુ પર ક્લિક કરો,
+&nbsp;&nbsp;જેમ કે મેપીંગ અથવા નેવિગેશન.

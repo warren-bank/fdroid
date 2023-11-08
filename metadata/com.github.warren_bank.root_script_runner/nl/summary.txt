@@ -1,0 +1,1 @@
+Voert shell-scripts uit als rootgebruiker.

@@ -1,0 +1,1 @@
+Client pour synchroniser les données du presse-papiers via un serveur.

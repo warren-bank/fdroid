@@ -1,0 +1,19 @@
+Funktioner är:
+
+● Upptäckt av användarskriptwebbadresser
+● automatiska
+&nbsp;&nbsp;användarskriptuppdateringar
+● Ett utökat Javascript API för att
+&nbsp;&nbsp;exponera Android-specifika funktioner
+● Möjligheten att ignorera
+&nbsp;&nbsp;HTTPS-certifikatfel
+
+Begränsningar:
+
+● userskript körs bara i det översta
+&nbsp;&nbsp;fönstret
+&nbsp;&nbsp;○ Det går att använda
+&nbsp;&nbsp;&nbsp;&nbsp;skriptinsprutning i iframe, men
+&nbsp;&nbsp;&nbsp;&nbsp;kräver en komplicerad
+&nbsp;&nbsp;&nbsp;&nbsp;arbetsuppsättning. Läs mer om README
+&nbsp;&nbsp;&nbsp;&nbsp;för mer information.

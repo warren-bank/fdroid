@@ -1,0 +1,30 @@
+Dessa format är typiska för indyra IP-övervakningskameror.
+
+Funktioner inkluderar förmågan att:
+
+● konfigurera ett obegränsat antal
+&nbsp;&nbsp;videoströmmar
+● importera videoströmmar från en
+&nbsp;&nbsp;JSON-fil
+● Varje ström kan innehålla URL-adresser
+&nbsp;&nbsp;för två källor:
+&nbsp;&nbsp;○ Låg upplösning
+&nbsp;&nbsp;○ hög upplösning
+● Selektivt aktivera och avaktivera
+&nbsp;&nbsp;strömmar i listan
+● visa de aktiverade strömmarna i en
+&nbsp;&nbsp;lista eller rutnätslayout
+&nbsp;&nbsp;○ använder låg upplösning (om
+&nbsp;&nbsp;&nbsp;&nbsp;tillgänglig)
+● välj en enstaka ström från listan
+&nbsp;&nbsp;eller rutnätslayouten
+&nbsp;&nbsp;○ visas i helskärm
+&nbsp;&nbsp;○ använder hög upplösning (om
+&nbsp;&nbsp;&nbsp;&nbsp;tillgänglig)
+
+Historik:
+
+Den här applikationen skrevs ursprungligen för att testa en experimentell gren av ExoPlayer. Vid den tidpunkten hade denna filial en öppen dragningsbegäran som inte hade sammanfogats efter flera år:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Till slut slogs den här grenen samman. Den här tillämpningen använder ett stabilt bygge av ExoPlayer. Vilket, imho, gör det mindre intressant. Men det kan fortfarande vara användbart.

@@ -1,0 +1,32 @@
+Requer raiz!
+
+Os recursos incluem:
+
+● suporte para protocolos do servidor
+&nbsp;&nbsp;proxy:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● suporte para métodos de autenticação:
+&nbsp;&nbsp;○ Básico
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● suporte para habilitação do servidor
+&nbsp;&nbsp;proxy:
+&nbsp;&nbsp;○ globalmente, para todos os apps
+&nbsp;&nbsp;○ apenas para apps específicos
+● suporte para uma lista negra:
+&nbsp;&nbsp;○ Endereços IP para ignorar o proxy
+● suporte para um proxy DNS
+● suporte para vários perfis
+● suporte básico para um arquivo de
+&nbsp;&nbsp;auto-configuração de proxy (PAC)
+● capacidade de associar um perfil
+&nbsp;&nbsp;particular a:
+&nbsp;&nbsp;○ SSID WiFi
+&nbsp;&nbsp;○ Rede móvel
+● widget para alternar proxy on / off
+● eficiência de execução:
+&nbsp;&nbsp;○ consome pouca bateria
+&nbsp;&nbsp;○ usa pouca RAM

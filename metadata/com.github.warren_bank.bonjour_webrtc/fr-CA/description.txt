@@ -1,0 +1,3 @@
+mDNS (Bonjour) est utilisé pour la reconnaissance d'autres unités disponibles dans un réseau local. Par conséquent, aucun serveur de signalisation WebRTC n'est nécessaire.
+
+WebRTC est utilisé pour tout le reste.

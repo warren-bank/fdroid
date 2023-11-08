@@ -1,0 +1,37 @@
+@ info: info
+
+Gnéithe:
+
+● tacaíocht le haghaidh prótacail
+&nbsp;&nbsp;freastalaí seachfhreastalaí:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● tacaíocht do mhodhanna
+&nbsp;&nbsp;fíordheimhnithe:
+&nbsp;&nbsp;○ Bunúsach
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● tacaíocht le haghaidh a chumasú do
+&nbsp;&nbsp;fhreastalaí seachfhreastalaí:
+&nbsp;&nbsp;○ gluais, do gach apps
+&nbsp;&nbsp;○ ach amháin le haghaidh apps sonracha
+● tacaíocht le haghaidh blacklist:
+&nbsp;&nbsp;○ Seoladh IP chun an seachfhreastalaí
+&nbsp;&nbsp;&nbsp;&nbsp;a fháil
+● tacaíocht le haghaidh seachfhreastalaí
+&nbsp;&nbsp;DNS
+● tacaíocht do phróifílí il
+● tacaíocht bhunúsach do
+&nbsp;&nbsp;sheachfhreastalaí a-chumraíocht (PAC)
+&nbsp;&nbsp;comhad
+● cumas a chomhlachú le próifíl áirithe
+&nbsp;&nbsp;le:
+&nbsp;&nbsp;○ KWMComment
+&nbsp;&nbsp;○ Líonra Soghluaiste
+● Faigh giuirléid chun an
+&nbsp;&nbsp;seachfhreastalaí/as
+● éifeachtúlacht ama ama:
+&nbsp;&nbsp;○ consumes beag baisc
+&nbsp;&nbsp;○ Úsáideann beag RAM

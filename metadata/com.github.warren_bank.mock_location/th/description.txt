@@ -1,0 +1,30 @@
+คุณลักษณะรวมถึงความสามารถในการ:
+
+● การล้อเลียนตำแหน่งคงที่
+● จำลองการเดินทาง
+● ใช้จอยสติ๊กในการย้ายสัมพันธ์ไปยังตำแหน่งคงที่ล้อเลียน
+● ยอมรับเส้นละติจูดและลองจิจูดภูมิศาสตร์ที่ตั้งทางภูมิศาสตร์จาก
+&nbsp;&nbsp;Intents
+● บันทึกคู่ละติจูดและลองจิจูดภูมิศาสตร์ภูมิศาสตร์เป็นบุ๊กมาร์กที่มีชื่อ
+
+การแปรผัน:
+
+1. อ. ส
+2. AOSP + บริการ Google Play
+3. บริการ Mobile AOSP + Huawei Mobile
+
+การรวม Android:
+
+1. เปิดใช้งานอ็อพชันผู้พัฒนา
+&nbsp;&nbsp;&nbsp;● เปิด:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;การตั้งค่า > ระบบ >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เกี่ยวกับโทรศัพท์
+&nbsp;&nbsp;&nbsp;● คลิก 7 ครั้ง:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;หมายเลขบิลด์
+2. ตั้งค่าคอนฟิก:
+&nbsp;&nbsp;&nbsp;● เปิด:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;การตั้งค่า > ระบบ >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;อ็อพชันนักพัฒนา
+&nbsp;&nbsp;&nbsp;● ค่าบันทึก:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;แอพพลิเคชันตำแหน่งจำลอง: "GPS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ของฉัน"

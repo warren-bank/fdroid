@@ -1,0 +1,1 @@
+Protector de pantalla que muestra una presentación de imágenes locales.

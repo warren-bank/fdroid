@@ -1,0 +1,5 @@
+Os clientes estão disponíveis para uma variedade de plataformas, incluindo o Android.
+
+Todos os clientes que se conectarem a este servidor e autenticarem usando a mesma combinação de nome de usuário e senha compartilharão uma prancheta comum. Sempre que qualquer cliente copia novos dados em sua prancheta, esses dados são enviados para o servidor e, em seguida, transmitidos para todos os clientes autenticados.
+
+Todos os dados do clipboard são criptografados ponta a ponta.

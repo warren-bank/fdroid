@@ -1,0 +1,19 @@
+Tillader "Mock my GPS" til at fungere som en flydeplaceringsudbyder for "UnifiedNlp".
+
+"UnifiedNlp" er:
+
+● typisk installeret som komponent i
+&nbsp;&nbsp;"microG"
+● er beregnet til brug på de-googlede
+&nbsp;&nbsp;Android-ROM-moduler
+● en udskiftning af typen "Google
+&nbsp;&nbsp;Location Services"
+
+"UnifiedNlp" integration af flyttemusplaceringsdata:
+
+● er kun aktiveret, mens "Mock my GPS"
+&nbsp;&nbsp;er aktiv
+● er prioriteret i forhold til andre
+&nbsp;&nbsp;"UnifiedNlp" backend plugins ved at
+&nbsp;&nbsp;fremme tidsstempel 45 sekunder, så det
+&nbsp;&nbsp;ser ud til at være den seneste

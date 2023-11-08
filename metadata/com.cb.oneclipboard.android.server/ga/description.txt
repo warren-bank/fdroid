@@ -1,0 +1,5 @@
+Tá cliaint ar fáil le haghaidh éagsúlacht ardáin, lena n-áirítear Android.
+
+Beidh gach cliant a nascadh leis an bhfreastalaí seo agus fíordheimhniú ag baint úsáide as an t-ainm céanna agus teaglaim focal faire beidh an comhrá comhghearrthaisce. Aon uair a dhéanfaidh aon chliaint cóipeanna nua sonraí isteach ina ghearrthaisce, tá na sonraí a sheoladh chuig an bhfreastalaí agus ansin craoladh ar gach cliant fíordheimhnithe.
+
+Tá na sonraí gearrthaisce criptithe deiridh-go-deireadh.

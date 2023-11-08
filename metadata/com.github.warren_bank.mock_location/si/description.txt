@@ -1,0 +1,29 @@
+විශේෂාංග ඇතුලත් කිරීමේ හැකියාව:
+
+● නියම ස්ථානයක් මොක් කරන්න
+● චාරිකාවක් නිරූපණය කරන්න
+● Mock ස්ථිර ස්ථානයකට සාපේක්ෂව චලනය වීමට
+&nbsp;&nbsp;ජොයිස්ටික් භාවිතා කරන්න
+● අක්ෂාංශ සහ දිලීර භූ-ඛණ්ඩාංක ජෝඩුවක්
+&nbsp;&nbsp;පිළිගන්න
+● Latitude and longitude geo-coordinate
+&nbsp;&nbsp;जोड़े ලෙස නම් කරන ලද පිටු සලකුණු ලෙස
+
+විචල්ය:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei ජංගම සේවා
+
+ඇන්ඩ්රොයිඩ් එකමුතුකම:
+
+1. සංවර්ධක විකල්ප සක්රීය කරන්න
+&nbsp;&nbsp;&nbsp;● විවෘත කරන්න:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;සැකසුම් > පද්ධතිය > දුරකතන ගැන
+&nbsp;&nbsp;&nbsp;● දිගින් දිගටම 7 වතාවක් ක්ලික් කරන්න:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;බිල්පත් අංකය
+2. Configure:
+&nbsp;&nbsp;&nbsp;● විවෘත කරන්න:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;සැකසුම් > පද්ධති > සංවර්ධක විකල්ප
+&nbsp;&nbsp;&nbsp;● අගයන් සුරැකීම:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location app: "Mock my GPS"

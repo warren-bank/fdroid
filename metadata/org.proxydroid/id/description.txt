@@ -1,0 +1,32 @@
+Membutuhkan akar!
+
+Fitur-fitur mencakup:
+
+● dukungan untuk protokol server proksi:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● dukungan untuk metode otentikasi:
+&nbsp;&nbsp;○ Dasar
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● dukungan untuk mengaktifkan server
+&nbsp;&nbsp;proksi:
+&nbsp;&nbsp;○ secara global, untuk semua aplikasi
+&nbsp;&nbsp;○ hanya untuk aplikasi spesifik
+● dukungan untuk sebuah daftar hitam:
+&nbsp;&nbsp;○ Alamat IP untuk memotong proksi
+● dukungan untuk sebuah proksi DNS
+● dukungan untuk beberapa profil
+● dukungan dasar untuk berkas
+&nbsp;&nbsp;konfigurasi auto auto-konfigurasi
+&nbsp;&nbsp;(PAC)
+● kemampuan untuk menghubungkan profil
+&nbsp;&nbsp;tertentu dengan:
+&nbsp;&nbsp;○ SSID WiFi
+&nbsp;&nbsp;○ Jaringan Mobile
+● widget untuk mentoggle proxy on/off
+● Efisiensi runtime:
+&nbsp;&nbsp;○ mengkonsumsi baterai kecil
+&nbsp;&nbsp;○ gunakan RAM kecil

@@ -1,0 +1,31 @@
+Arka plan:
+
+● Android Intent, kurulu herhangi bir
+&nbsp;&nbsp;uygulamanın kesin bir bölümünü açmak
+&nbsp;&nbsp;ve herhangi bir veri tipine ya da
+&nbsp;&nbsp;miktarına geçebilmek için
+&nbsp;&nbsp;kullanılabilir
+● Örneğin, bir Intent bir Android yer
+&nbsp;&nbsp;işareti gibi
+
+Özellikler aşağıdakileri yapabilme yeteneğini içerir:
+
+● Inçadırları yapılandır ve adlandırılan
+&nbsp;&nbsp;yer işaretleri olarak kaydet
+● yer imlerini kullanmak için:
+&nbsp;&nbsp;○ Etkinlik başlatma
+&nbsp;&nbsp;○ Hizmet başlatma
+&nbsp;&nbsp;○ bir yayın gönder
+● daha sonra kullanılacak yer
+&nbsp;&nbsp;işaretlerini zamanlama:
+&nbsp;&nbsp;○ bir kez
+&nbsp;&nbsp;○ bir aralıkta
+● Diğer uygulamalar tarafından
+&nbsp;&nbsp;başlatılmış olan Çadırları engelleme:
+&nbsp;&nbsp;○ değiştirmek için
+&nbsp;&nbsp;○ saklamak için
+● yedekleme ve geri yükleme:
+&nbsp;&nbsp;○ SQLite veritabanının tamamı
+&nbsp;&nbsp;○ JSON veri dosyası
+&nbsp;&nbsp;○ Netscape Yer İşareti HTML veri
+&nbsp;&nbsp;&nbsp;&nbsp;dosyası

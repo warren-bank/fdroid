@@ -1,0 +1,29 @@
+Taust:
+
+● Android Intent võib kasutada, et avada
+&nbsp;&nbsp;täpne osa mis tahes installitud
+&nbsp;&nbsp;taotluse, ja edasi seda tüüpi või
+&nbsp;&nbsp;kogus andmeid
+● selline, Intent on nagu Android
+&nbsp;&nbsp;järjehoidja
+
+Funktsioonide hulka kuuluvad võime:
+
+● konfigureerida ja salvestada Intelgid
+&nbsp;&nbsp;nimega järjehoidjad
+● Järjehoidjate kasutamine:
+&nbsp;&nbsp;○ alustada tegevust
+&nbsp;&nbsp;○ käivita teenus
+&nbsp;&nbsp;○ Saatke Broadcast
+● ajakava järjehoidjad, mida kasutatakse
+&nbsp;&nbsp;hiljem:
+&nbsp;&nbsp;○ üks kord
+&nbsp;&nbsp;○ intervalliga
+● Vaheltlõikuvad Intelgid, mis on
+&nbsp;&nbsp;käivitatud
+&nbsp;&nbsp;○ Muuda
+&nbsp;&nbsp;○ salvestamiseks
+● varundamine ja taastamine:
+&nbsp;&nbsp;○ kogu SQLite ' i andmebaas
+&nbsp;&nbsp;○ JSONi andmefail
+&nbsp;&nbsp;○ Netscape järjehoidja HTML-andmefail

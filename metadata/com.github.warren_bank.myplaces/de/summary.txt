@@ -1,0 +1,1 @@
+Liest GPX-und KML-Dateien als Listen mit geographischen Koordinatenlesezeichen.

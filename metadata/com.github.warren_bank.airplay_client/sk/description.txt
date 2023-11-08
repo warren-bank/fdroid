@@ -1,0 +1,24 @@
+K funkciám patrí:
+
+● Automatické objavovanie prijímačov
+&nbsp;&nbsp;AirPlay v rámci tej istej siete
+● Fotografie z vášho zariadenia na
+&nbsp;&nbsp;AirPlay
+● Streamovanie videa a hudby z vášho
+&nbsp;&nbsp;zariadenia do AirPlay
+● Zrkadliť obrazovku z vášho zariadenia
+&nbsp;&nbsp;do AirPlay
+
+Kredity
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Pôvodná verzia tejto aplikácie.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;Poskytnutý veľký kód na
+&nbsp;&nbsp;&nbsp;&nbsp;implementáciu zrkadlenia obrazovky
+&nbsp;&nbsp;&nbsp;&nbsp;na Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protokol AirPlay (verzia 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Neoficiálna dokumentácia.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

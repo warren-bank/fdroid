@@ -1,0 +1,11 @@
+Adresy URL wideo na bieżącej stronie WWW są wyświetlane na liście.
+
+Ustawienia określają zachowanie, gdy wybrany jest adres URL filmu wideo:
+● wewnętrzny odtwarzacz wideo zawiera
+&nbsp;&nbsp;nadawcę Chromecast
+● zewnętrzny odtwarzacz wideo pozwala
+&nbsp;&nbsp;innej aplikacji na odtwarzanie adresu
+&nbsp;&nbsp;URL wideo
+● Nadawca "ExoAirPlayer" i "HLS Proxy"
+&nbsp;&nbsp;ładuje statyczną stronę WWW SPA dla
+&nbsp;&nbsp;wybranego serwera

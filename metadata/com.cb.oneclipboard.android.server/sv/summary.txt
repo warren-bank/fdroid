@@ -1,0 +1,1 @@
+Server för att synkronisera klippbordets data över klienterna.

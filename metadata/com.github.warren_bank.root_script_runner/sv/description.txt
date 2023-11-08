@@ -1,0 +1,8 @@
+Kräver roten!
+
+Körning av ett skalskript kan anropas på två sätt:
+
+1. interaktiv
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Genom att välja en fil manuellt.
+2. automatisk
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Av ett tält.

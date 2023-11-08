@@ -1,0 +1,3 @@
+Zeigt eine Liste aller verfügbaren Locales an. Durch Klicken auf ein beliebiges Listenelement wird die Ländereinstellung des Android-Systems auf den ausgewählten Wert geändert. Änderungen sind persistent.
+
+Die aktuell aktive Ländereinstellung wird immer als erstes Listenelement positioniert.

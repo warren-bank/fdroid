@@ -1,0 +1,1 @@
+Kabuk komut dosyalarını kök kullanıcı olarak yürütür.

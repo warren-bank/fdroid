@@ -1,0 +1,37 @@
+Karatteristiċi jinkludu l-abbiltà li:
+
+● kkonfigurat u jiffranka kull numru ta
+&nbsp;&nbsp;'profili ta' applikazzjoni
+● kull profil ta 'applikazzjoni jista'
+&nbsp;&nbsp;jispeċifika:
+&nbsp;&nbsp;○ titolu
+&nbsp;&nbsp;○ mogħdija tal-fajl li prinċipali
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript fajl
+&nbsp;&nbsp;○ Għażliet ta 'linja ta' kmand
+&nbsp;&nbsp;&nbsp;&nbsp;għan-Node.js runtime
+&nbsp;&nbsp;○ Għażliet ta 'linja ta' kmand
+&nbsp;&nbsp;&nbsp;&nbsp;għall-applikazzjoni
+&nbsp;&nbsp;○ varjabbli ambjentali
+&nbsp;&nbsp;○ direttorju tal-ħidma kurrenti
+● profili ta ' applikazzjoni huma
+&nbsp;&nbsp;miġbura minn:
+&nbsp;&nbsp;○ "exke"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L-applikazzjonijiet jaqsmu proċess
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wieħed. Wieħed biss jista '
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jwettaq fi żmien.
+&nbsp;&nbsp;○ "furketta"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kull applikazzjoni tingħata
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l-proċess tagħha stess. Kull
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;executes f ' servizz miksub.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Notifika assoċjata toqtol
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il-proċess.
+● backup u jirrestawraw:
+&nbsp;&nbsp;○ esportazzjoni tal-profili ta '
+&nbsp;&nbsp;&nbsp;&nbsp;applikazzjoni kollha lil JSON
+&nbsp;&nbsp;○ importazzjoni profili ta '
+&nbsp;&nbsp;&nbsp;&nbsp;applikazzjoni ġodda minn JSON
+
+Ambjent ta ' rrunħin integrat:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

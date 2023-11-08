@@ -1,0 +1,21 @@
+Úsáid:
+
+● Taispeánann liosta de na feistí
+&nbsp;&nbsp;Bluetooth paideName
+&nbsp;&nbsp;○ cliceáil an ceann a shainaithníonn
+&nbsp;&nbsp;&nbsp;&nbsp;an glacadóir desired
+&nbsp;&nbsp;○ Fanacht le ceangal
+
+● scoránaigh an cnaipe PTT
+&nbsp;&nbsp;○ Léiríonn glas go bhfuil na fuaime
+&nbsp;&nbsp;&nbsp;&nbsp;atá á ghabháil faoi láthair
+&nbsp;&nbsp;&nbsp;&nbsp;ó na micreafón agus shruthaithe tríd
+&nbsp;&nbsp;&nbsp;&nbsp;an soicéad nasctha
+&nbsp;&nbsp;○ Léiríonn sé go bhfuil an sruth
+&nbsp;&nbsp;&nbsp;&nbsp;fuaime faoi láthair ag an sruth
+&nbsp;&nbsp;&nbsp;&nbsp;fuaime
+
+● Bog an sleamhnán chun an méid na
+&nbsp;&nbsp;fuaime a choigeartú
+&nbsp;&nbsp;○ Réamhshocrú: 25%
+&nbsp;&nbsp;○ uasmhéid: 200%

@@ -1,0 +1,3 @@
+Prikazuje listu svih dostupnih lokalizacija. Klik na bilo koju stavku liste mijenja lokalizaciju sa sustavom Android na odabranu vrijednost. Promjene su uporne.
+
+Trenutno aktivna lokalizacija je uvijek pozicionirana kao prva stavka na listi.

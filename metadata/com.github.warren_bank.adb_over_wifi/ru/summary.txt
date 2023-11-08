@@ -1,0 +1,1 @@
+Переключится с помощью демона Android Debug Bridge (adbd) между USB и режимом WiFi.

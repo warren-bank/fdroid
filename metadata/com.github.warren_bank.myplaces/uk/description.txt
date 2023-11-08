@@ -1,0 +1,22 @@
+Особливості включають в себе можливість:
+
+● впорядкувати список географічних
+&nbsp;&nbsp;координат:
+&nbsp;&nbsp;○ послідовний
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Впорядковано як місця події
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;відбуваються у вхідному файлі.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: точний маршрут подорожі
+&nbsp;&nbsp;○ відстань
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Впорядкований за відстанню від
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;поточної адреси.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hoc дослідження
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;сусіднього POI
+&nbsp;&nbsp;○ алфавітний
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Впорядкований за описом,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;пов'язаним з локаціями.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● x: закладки улюблених місць
+● Наведіть вказівник миші на пункт
+&nbsp;&nbsp;списку, клацніть лівою кнопкою миші,
+&nbsp;&nbsp;щоб відкрити відповідне місце у
+&nbsp;&nbsp;зовнішньому програмі, наприклад,
+&nbsp;&nbsp;відображення або навігацію.

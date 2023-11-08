@@ -1,0 +1,8 @@
+Vajab root!
+
+Shelliskripti täitmist saab kasutada kahel viisil:
+
+1. interaktiivne
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kasutaja käsitsi valides fail.
+2. automaatne
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Intent.

@@ -1,0 +1,35 @@
+Mae nodweddion yn cynnwys y gallu i:
+
+● ffurfweddu ac arbed unrhyw nifer o
+&nbsp;&nbsp;broffiliau cymhwyso
+● gall pob proffil cais bennu:
+&nbsp;&nbsp;○ teitl
+&nbsp;&nbsp;○ llwybr ffeil i brif ffeil Javascript
+&nbsp;&nbsp;○ Opsiynau llinell orchymyn ar gyfer
+&nbsp;&nbsp;&nbsp;&nbsp;amser rhedeg Nde.js
+&nbsp;&nbsp;○ dewisiadau llinell orchymyn ar gyfer
+&nbsp;&nbsp;&nbsp;&nbsp;y rhaglen
+&nbsp;&nbsp;○ amrywiolion amgylchedd
+&nbsp;&nbsp;○ cyfeiriadur gwaith cyfredol
+● mae proffiliau ceisiadau wedi eu
+&nbsp;&nbsp;grwpio drwy:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mae ceisiadau yn rhannu un broses.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dim ond un y gellir ei wneud ar y
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tro.
+&nbsp;&nbsp;○ "fforc"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mae pob cais yn cael ei wneud ei
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;broses ei hun. Mae pob un yn
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gweithredu mewn gwasanaeth
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blaendir. Mae hysbysiad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cysylltiedig yn lladd y broses.
+● copi wrth gefn ac adfer:
+&nbsp;&nbsp;○ allforio holl broffiliau cymhwyso i
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ mewnforio proffiliau rhaglenni
+&nbsp;&nbsp;&nbsp;&nbsp;newydd o JSON
+
+Amgylchedd rhedeg mewnol:
+
+● Node.js 12.19.0
+● SSL 1. 1. 1g

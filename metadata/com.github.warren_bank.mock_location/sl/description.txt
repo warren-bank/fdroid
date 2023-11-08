@@ -1,0 +1,32 @@
+Funkcije vključujejo zmožnost za:
+
+● se zasmeji fikro
+● simuliranje potovanja
+● uporabi igralno palico, ki se premika
+&nbsp;&nbsp;glede na stalno pritreno lego
+● sprejemne in zemljepisne dolžine
+&nbsp;&nbsp;geo-koordinatne pare iz šotorov
+● shrani pare zemljepisne širine in
+&nbsp;&nbsp;dolžine geo-koordinatni pari kot
+&nbsp;&nbsp;poimenovam zaznamki
+
+Spremembe:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + mobilne storitve za Huawei
+
+Integracija Android:
+
+1. omogoči možnosti za razvijalce
+&nbsp;&nbsp;&nbsp;● odprto:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nastavitve> Sistem> O telefonu
+&nbsp;&nbsp;&nbsp;● večkrat klikne 7-krat:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Številka gradnje
+2. konfigurikonfigurirati:
+&nbsp;&nbsp;&nbsp;● odprto:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nastavitve> Sistem> Možnosti
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;razvijalca
+&nbsp;&nbsp;&nbsp;● shrani vrednosti:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikacija za lažne lokacije:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mock moj GPS"

@@ -1,0 +1,9 @@
+Requiert root !
+
+L'exécution d'un script de shell peut être appelée de deux manières:
+
+1. Interactif
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par l'utilisateur, en choisissant
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;un fichier manuellement.
+2. Automatique
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par intention.

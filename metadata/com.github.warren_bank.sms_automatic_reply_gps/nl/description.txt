@@ -1,0 +1,17 @@
+Voorwaardelijke criteria zijn onder meer:
+
+● een whitelist van de telefoonnummers
+&nbsp;&nbsp;van de afzender
+● een subreeks die moet voorkomen aan
+&nbsp;&nbsp;het begin van het ontvangen
+&nbsp;&nbsp;SMS-bericht
+
+GPS-locatiegegevens omvatten:
+
+● breedtegraad en coördinaten
+&nbsp;&nbsp;lengtegraad
+● nauwkeurigheid (meters)
+● snelheid (meters/sec)
+● richting (kardinaal of ordinal, en
+&nbsp;&nbsp;graden)
+● URL naar Google Maps

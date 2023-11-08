@@ -1,0 +1,27 @@
+המאפיינים כוללים את היכולת:
+
+● הגדרה ושמירה של מספר פרופילי יישום.
+● כל פרופיל יישום יכול לציין:
+&nbsp;&nbsp;○ כותרת
+&nbsp;&nbsp;○ נתיב קובץ לקובץ Javascript הראשי
+&nbsp;&nbsp;○ אפשרויות שורת הפקודה עבור זמן הריצה
+&nbsp;&nbsp;&nbsp;&nbsp;של Node.js
+&nbsp;&nbsp;○ אפשרויות שורת הפקודה עבור היישום
+&nbsp;&nbsp;○ משתני סביבה
+&nbsp;&nbsp;○ מדריך עבודה נוכחי
+● פרופילי יישום מקובצים לפי:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יישומים חולקים תהליך יחיד. רק אחד
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יכול לבצע בכל פעם.
+&nbsp;&nbsp;○ "מזלג"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;לכל יישום יש תהליך משלו. כל הוצאות
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;להורג בשרות קדמיות. דיווח משויך
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הורג את התהליך.
+● גיבוי ושחזור:
+&nbsp;&nbsp;○ יצוא כל פרופילי היישום אל JSON
+&nbsp;&nbsp;○ יבוא פרופילי יישום חדשים מתוך JSON
+
+סביבת זמן ריצה מוטבעת:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

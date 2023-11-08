@@ -1,0 +1,1 @@
+Pelayan untuk segerakkan data papan keratan di seluruh klien.

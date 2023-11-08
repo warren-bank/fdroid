@@ -1,0 +1,7 @@
+Vajab root!
+
+USB režiim on vaikimisi. See nõuab USB-kaabli ja USB draiverid ühendada Android seade arvuti.
+
+WiFi režiim on traadita ja ei nõua lisadraivereid. Iga arvuti saab kasutada "adb" klient taotleda ühendus Android seade.
+
+Kui WiFi režiim on sisse lülitatud, näitab see rakendus "adb" käsku, mis on vajalik selleks, et nõuda sellist ühendust LAN-i üle.

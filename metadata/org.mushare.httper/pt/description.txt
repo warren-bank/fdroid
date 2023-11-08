@@ -1,0 +1,18 @@
+Atributos de solicitação HTTP configuráveis:
+
+● método
+● protocolo
+● URL
+● cabeçalhos
+● parâmetros querystring
+● corpo
+
+Os recursos incluem a capacidade de:
+
+● enviar um pedido uma vez
+● enviar uma solicitação repetidamente
+&nbsp;&nbsp;em um intervalo de tempo especificado
+● recarregar a configuração de um pedido
+&nbsp;&nbsp;prévio de um log histórico
+● linbem imprimir dados de resposta JSON
+● preview dados de resposta HTML

@@ -1,0 +1,17 @@
+Među značajkama su:
+
+● otkrivanje URL-ova korisničkih skripta
+● automatska korisnička ažuriranja
+● Prošireni Javascript API za otkrivanje
+&nbsp;&nbsp;Android specifičnih mogućnosti
+● Mogućnost zanemarivanja grešaka HTTPS
+&nbsp;&nbsp;certifikata
+
+Ograničenja:
+
+● Korisničke skripte se izvode samo u
+&nbsp;&nbsp;gornjem prozoru
+&nbsp;&nbsp;○ Injekcija skripte u iframes je
+&nbsp;&nbsp;&nbsp;&nbsp;moguća, ali zahtijeva komplikovan
+&nbsp;&nbsp;&nbsp;&nbsp;zaobilazak; pogledajte README za
+&nbsp;&nbsp;&nbsp;&nbsp;detalje.

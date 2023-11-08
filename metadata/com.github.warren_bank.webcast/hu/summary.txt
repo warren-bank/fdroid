@@ -1,0 +1,1 @@
+Könnyűsúlyú webböngésző a videó URL címek kinyeréséhez a webhelyről.

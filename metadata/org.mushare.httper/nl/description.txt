@@ -1,0 +1,20 @@
+Configureerbare HTTP-aanvraagkenmerken:
+
+● methode
+● protocol
+● URL
+● kopteksten
+● querystring-parameters
+● Corpus
+
+Kenmerken omvatten de mogelijkheid om:
+
+● eenmaal een aanvraag verzenden
+● een verzoek herhaaldelijk verzenden
+&nbsp;&nbsp;binnen een opgegeven tijdsinterval
+● herlaad de configuratie van een
+&nbsp;&nbsp;eerdere aanvraag uit een
+&nbsp;&nbsp;historielogboek
+● mooie gegevens van JSON-respons
+&nbsp;&nbsp;afdrukken
+● preview van HTML-responsgegevens

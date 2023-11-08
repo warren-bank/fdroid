@@ -1,0 +1,18 @@
+Konfigurálható HTTP kérés attribútumok:
+
+● Módszer
+● Protokoll
+● URL
+● Fejlécek
+● Querystring paraméterek
+● Test
+
+A szolgáltatások a következők:
+
+● Egyszer küldjön egy kérést
+● Ismételt kérés küldése egy megadott
+&nbsp;&nbsp;időintervallumban
+● Egy korábbi kérés konfigurációjának
+&nbsp;&nbsp;újrabetöltése a történetnaplóból
+● Szép nyomtatott JSON válaszadatok
+● HTML válaszadatok előképe

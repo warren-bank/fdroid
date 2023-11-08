@@ -1,0 +1,18 @@
+Thuộc tính yêu cầu HTTP có thể cấu hình
+
+● phương thức
+● giao thức
+● URL
+● Header
+● Tham sô ́ truy vấn
+● cơ thể
+
+Tính năng bao gồm khả năng:
+
+● gửi yêu cầu một lần
+● gửi yêu cầu liên tục ở khoảng thời
+&nbsp;&nbsp;gian đã định
+● tải lại cấu hình yêu cầu trước từ nhật
+&nbsp;&nbsp;ký lịch sử
+● Dư ̃ liệu phản hồi JSON
+● dư ̃ liệu phản hồi HTML

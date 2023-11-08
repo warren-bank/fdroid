@@ -1,0 +1,5 @@
+Yn gwrando ar yr addasydd Diwyfr gan ddefnyddio API HTTP statiaidd (yn seiliedig ar AirPlay v1). Yn hysbysebu ei fod ar gael i'w ddarganfod gan ddefnyddio mDNS (Bonjur).
+
+Yn cefnogi dyfeisiau o bob maint dangosydd; blychau generig sy'n cael eu gosod ar raddfa fawr gyda allbwn uchel HDMI yw'r platfform targed, ond mae gwaith yr un mor dda ar hen setiau dwylo gyda sgriniau datrys isel iawn.
+
+Mae'r API wedi ei nodi'n llawn ac yn llawn. Mae tudalen gwe sefydlog y cleient yn gwneud y swyddogaeth hon yn hygyrch iawn. Ar ei lefel fwyaf sylfaenol, mae'r API hwn yn darparu'r gallu i "cast" yn y cyfryngau i chwarae chwarae a rheoli pob agwedd ar chwarae.

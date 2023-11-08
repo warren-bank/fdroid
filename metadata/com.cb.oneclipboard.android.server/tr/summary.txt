@@ -1,0 +1,1 @@
+İstemciler arasında pano verilerini eşitlemek için kullanılan sunucu.

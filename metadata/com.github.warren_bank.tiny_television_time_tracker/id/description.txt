@@ -1,0 +1,42 @@
+Fitur-fitur mencakup kemampuan untuk:
+
+● cari serial televisi berdasarkan nama
+● tambahkan serial televisi dalam hasil
+&nbsp;&nbsp;pencarian ke sebuah daftar
+● urutkan dan filter daftar dari serial
+&nbsp;&nbsp;televisi yang ditambahkan
+● Mengebor ke dalam daftar untuk membaca
+&nbsp;&nbsp;informasi rinci tentang setiap seri
+&nbsp;&nbsp;dan episoitnya yang tersedia
+● menandai episode sebagai telah
+&nbsp;&nbsp;ditonton
+● menandai seri sebagai dinonaktifkan
+● menghubungkan setiap seri dengan URL
+&nbsp;&nbsp;eksternal
+&nbsp;&nbsp;○ ex: situs web dimana serial ini
+&nbsp;&nbsp;&nbsp;&nbsp;dapat ditonton
+● Mutakhirkan serial televisi dalam
+&nbsp;&nbsp;daftar
+&nbsp;&nbsp;○ untuk mendapatkan informasi tentang
+&nbsp;&nbsp;&nbsp;&nbsp;episoal baru
+
+Persyaratan jaringan:
+
+● daftar dari serial televisi yang
+&nbsp;&nbsp;ditambahkan dapat digunakan sementara
+&nbsp;&nbsp;secara penuh luring
+● koneksi internet hanya dibutuhkan
+&nbsp;&nbsp;untuk menambahkan atau memperbarui
+&nbsp;&nbsp;serial televisi secara manual
+
+Kredit:
+
+● semua data diperoleh dari The Movie
+&nbsp;&nbsp;Database (TMDB), menggunakan versi 3
+&nbsp;&nbsp;dari API TMDB.
+● garis keturunan bersejarah:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Pelacak Waktu Televisi Kecil

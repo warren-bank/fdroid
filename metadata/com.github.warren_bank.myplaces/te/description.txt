@@ -1,0 +1,19 @@
+విశేషాలు:
+
+● భౌగోళిక అక్షాంశాలను జాబితా చేయండి:
+&nbsp;&nbsp;○ సికన్షియల్
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ప్రదేశాలు ఇన్పుట్ ఫైల్ లో వస్తాయి.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● పూర్వము: a precise travel
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;itinerary
+&nbsp;&nbsp;○ దూరము
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ప్రస్తుత స్థానం నుండి దూరం
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;చేయబడింది.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● మాజీ: అదనపు ఎక్స్పోర్టేషన్
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;దగ్గరలోని POI.
+&nbsp;&nbsp;○ అక్షరమాల
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;స్థానాలతో సంభందించిన వర్ణన పేర్లు.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● మాజీ: ఇష్టమైన ప్రదేశాల పుస్తకం
+● ఒక జాబితా అంశంపై నొక్కుము to open the
+&nbsp;&nbsp;संगत location in an external
+&nbsp;&nbsp;application, such as mapping or
+&nbsp;&nbsp;navigation.

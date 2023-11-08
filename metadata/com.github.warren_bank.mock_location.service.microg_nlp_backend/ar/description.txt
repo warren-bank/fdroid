@@ -1,0 +1,17 @@
+يسمح باستخدام "Mock Mer GPS" للتصرف على أنه جهة اتاحة موقع محاكاة ل ـ "UnifiedNlp".
+
+"UnifiedNlp" هو :
+
+● مركب نموذجيا كمكون من "microG"
+● مخصص للاستخدام على ROMs drdroid Andrid
+● انخفاض في عملية استبدال "Google
+&nbsp;&nbsp;Location Services"
+
+تكامل "UnifiedNlp" لبيانات المكان الوهمية :
+
+● يتم اتاحته فقط في حين أن "Mock Mly
+&nbsp;&nbsp;GPS" فعال
+● يتم تحديد أولوية لها على البرامج
+&nbsp;&nbsp;المساعدة "UnifiedNlp" الأخرى الخلفية
+&nbsp;&nbsp;بواسطة تقدم خاتم الوقت 45 ثانية ، لذلك
+&nbsp;&nbsp;يبدو أنه أحدث

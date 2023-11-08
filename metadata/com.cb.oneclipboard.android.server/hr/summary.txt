@@ -1,0 +1,1 @@
+Poslužitelj za sinkroniziranje clipboard podataka preko klijenata.

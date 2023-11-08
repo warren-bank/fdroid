@@ -1,0 +1,20 @@
+Se ejecuta en un servicio de primer plano:
+
+● no hay ninguna interfaz de usuario
+&nbsp;&nbsp;visible
+● hace que el adaptador Bluetooth se
+&nbsp;&nbsp;pueda descubrir
+● inicia un servidor de socket Bluetooth
+● escucha una conexión de un remitente
+
+Cuando un remitente se conecta:
+
+● detiene la escucha de una conexión de
+&nbsp;&nbsp;remitente
+● reproduce la corriente de audio desde
+&nbsp;&nbsp;el socket conectado
+
+Cuando un remitente se desconecta:
+
+● reanuda la escucha de una nueva
+&nbsp;&nbsp;conexión de remitente

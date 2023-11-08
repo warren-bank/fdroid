@@ -1,0 +1,3 @@
+Rodo visų turimų locales sąrašą. Spustelėdami bet kokį sąrašą elementą keičia "Android" sistema lokalės į pasirinktą vertę. Pokyčiai yra nuolatiniai.
+
+Šiuo metu aktyvus locale yra visada pastatytas kaip pirmojo sąrašo elementą.

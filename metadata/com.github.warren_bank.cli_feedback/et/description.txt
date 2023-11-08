@@ -1,0 +1,7 @@
+Kasutajate tagasiside liigid:
+
+● Näita teed
+● Märguanne
+● esita audio Ringtone
+
+Kõik kasutaja tagasiside on algamas Intent. See utiliit saab kasutada nii teiste rakenduste kui ka otse kasutaja käsurealt terminaliemulaator.

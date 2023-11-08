@@ -1,0 +1,1 @@
+Odczytuje pliki GPX i KML jako listy zakładek współrzędnych geograficznych.

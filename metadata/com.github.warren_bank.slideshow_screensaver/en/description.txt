@@ -1,0 +1,13 @@
+Slideshow Settings:
+
+● Time Duration (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;The period of time each image is
+&nbsp;&nbsp;&nbsp;&nbsp;displayed.
+● Use MediaStore provider
+&nbsp;&nbsp;&nbsp;&nbsp;Obtains image files from Android
+&nbsp;&nbsp;&nbsp;&nbsp;index.
+● Directory path
+&nbsp;&nbsp;&nbsp;&nbsp;Obtain images from a particular
+&nbsp;&nbsp;&nbsp;&nbsp;directory in the filesystem.
+● Recurse into subdirectories
+● Random order

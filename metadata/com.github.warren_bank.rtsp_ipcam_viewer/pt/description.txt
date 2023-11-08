@@ -1,0 +1,31 @@
+Estes formatos são típicos de câmeras de segurança IP baratos.
+
+Os recursos incluem a capacidade de:
+
+● configurar um número ilimitado de
+&nbsp;&nbsp;fluxos de vídeo
+● importar fluxos de vídeo a partir de
+&nbsp;&nbsp;um arquivo JSON
+● cada fluxo pode incluir URLs para duas
+&nbsp;&nbsp;fontes:
+&nbsp;&nbsp;○ baixa resolução
+&nbsp;&nbsp;○ alta resolução
+● ativar seletivamente e desativar
+&nbsp;&nbsp;fluxos na lista
+● exibir os fluxos habilitados em um
+&nbsp;&nbsp;layout de lista ou grade
+&nbsp;&nbsp;○ usa baixa resolução (quando
+&nbsp;&nbsp;&nbsp;&nbsp;disponível)
+● selecione um único fluxo a partir da
+&nbsp;&nbsp;lista ou layout de grade
+&nbsp;&nbsp;○ exibe em tela cheia
+&nbsp;&nbsp;○ usa alta resolução (quando
+&nbsp;&nbsp;&nbsp;&nbsp;disponível)
+
+Histórico:
+
+Este aplicativo foi originalmente escrito para testar um ramo experimental do ExoPlayer. Na época, esse galho tinha um pedido de retirada aberta que não tinha sido mesclado após vários anos:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/
+&nbsp;&nbsp;3854
+
+Eventualmente, esse ramo foi mesclado. Agora, este aplicativo usa uma construção estável do ExoPlayer. O que, imho, torna-o menos interessante. Mas ainda pode ser útil.

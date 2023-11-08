@@ -1,0 +1,1 @@
+Mainīt noklusējuma Android sistēmas locale.

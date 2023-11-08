@@ -1,0 +1,3 @@
+Kondisi yang ditentukan oleh daftar aturan. Setiap aturan mengaitkan nomor telepon penerima yang bermanfaat dengan pola yang harus sesuai dengan pengirim dari pesan SMS yang diterima.
+
+Ketika pesan SMS baru diterima, ponsel ini diteruskan ke nomor telepon penerima sesuai dengan setiap aturan memiliki pola yang cocok.

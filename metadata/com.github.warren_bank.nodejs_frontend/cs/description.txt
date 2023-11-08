@@ -1,0 +1,34 @@
+Funkce zahrnují schopnost:
+
+● konfigurovat a uložit libovolný počet
+&nbsp;&nbsp;profilů aplikací
+● každý profil aplikace může uvádět:
+&nbsp;&nbsp;○ nadpis
+&nbsp;&nbsp;○ cesta k souboru hlavního souboru
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript
+&nbsp;&nbsp;○ volby příkazového řádku pro běhové
+&nbsp;&nbsp;&nbsp;&nbsp;prostředí Node.js
+&nbsp;&nbsp;○ volby příkazového řádku pro aplikaci
+&nbsp;&nbsp;○ proměnné prostředí
+&nbsp;&nbsp;○ aktuální pracovní adresář
+● Profily aplikací jsou seskupeny podle:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikace sdílejí jeden proces. V
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;daném okamžiku může být proveden
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pouze jeden.
+&nbsp;&nbsp;○ "fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Každá aplikace má svůj vlastní
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. Každý proces se provádí v
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rámci služby na popředí.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Přidružené oznámení tento proces
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ukončí.
+● zálohování a obnova:
+&nbsp;&nbsp;○ exportovat všechny profily aplikací
+&nbsp;&nbsp;&nbsp;&nbsp;do JSON
+&nbsp;&nbsp;○ importovat nové profily aplikací z
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Vložené běhové prostředí:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g.

@@ -1,0 +1,32 @@
+Tính năng bao gồm khả năng:
+
+● và lưu bất kỳ thông tin ứng dụng nào
+● mỗi hồ sơ ứng dụng có thể xác định
+&nbsp;&nbsp;○ tiêu đê ̀
+&nbsp;&nbsp;○ đường dẫn tập tin vào tập tin
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript chính
+&nbsp;&nbsp;○ tùy chọn dòng lệnh cho thời gian
+&nbsp;&nbsp;&nbsp;&nbsp;chạy Node.js
+&nbsp;&nbsp;○ tùy chọn dòng lệnh cho ứng dụng
+&nbsp;&nbsp;○ biến môi trường
+&nbsp;&nbsp;○ thư mục hoạt động
+● cấu hình ứng dụng được nhóm bởi:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ứng dụng chia sẻ một quy trình
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;đơn. Chỉ có một người có thể thực
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thi một thời điểm.
+&nbsp;&nbsp;○ "nĩa"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mỗi ứng dụng được đưa ra quy trình
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;riêng của mình. Mỗi người đều thực
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hiện nghĩa vụ quân sự. Một thông
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;báo liên kết sẽ giết người.
+● sao lưu và khôi phục:
+&nbsp;&nbsp;○ xuất tất cả lược sử ứng dụng
+&nbsp;&nbsp;&nbsp;&nbsp;cho JSON
+&nbsp;&nbsp;○ nhập cấu hình ứng dụng mới tư ̀
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Môi trường chạy nhúng:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

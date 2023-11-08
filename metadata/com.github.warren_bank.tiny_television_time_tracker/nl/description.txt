@@ -1,0 +1,40 @@
+Kenmerken omvatten de mogelijkheid om:
+
+● zoeken naar televisieseries op naam
+● Televisieserie toevoegen in
+&nbsp;&nbsp;zoekresultaten aan een lijst
+● sorteren en filteren van de lijst met
+&nbsp;&nbsp;toegevoegde televisieseries
+● boor in de lijst om gedetailleerde
+&nbsp;&nbsp;informatie over elke serie en de
+&nbsp;&nbsp;beschikbare afleveringen te lezen
+● Afleveringen markeren als bekeken
+● Markeren als uitgeschakeld
+● elke serie koppelen aan externe URL's
+&nbsp;&nbsp;○ ex: websites waar de serie kan
+&nbsp;&nbsp;&nbsp;&nbsp;worden bekeken
+● de televisieserie in de lijst bij te
+&nbsp;&nbsp;werken
+&nbsp;&nbsp;○ om informatie over nieuwe
+&nbsp;&nbsp;&nbsp;&nbsp;afleveringen te verkrijgen
+
+Netwerkvereisten:
+
+● de lijst met toegevoegde
+&nbsp;&nbsp;televisieseries kan worden gebruikt
+&nbsp;&nbsp;terwijl volledig offline
+● een internetverbinding is alleen nodig
+&nbsp;&nbsp;voor het handmatig toevoegen of
+&nbsp;&nbsp;bijwerken van televisieseries
+
+Kredieten:
+
+● alle gegevens worden verkregen uit de
+&nbsp;&nbsp;Movie Database (TMDB), met behulp van
+&nbsp;&nbsp;versie 3 van de TMDB-API.
+● historische lijn:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. Droidshows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Kleine TV-tijdtracker

@@ -1,0 +1,18 @@
+Funktionerne omfatter:
+
+● afsløring af brugerscript-URL
+● automatiske opdateringer af
+&nbsp;&nbsp;brugerscript
+● et udvidet Javascript-API til at vise
+&nbsp;&nbsp;Android-specifikke funktioner
+● Mulighed for at ignorere
+&nbsp;&nbsp;HTTPS-certifikatfejl
+
+Begrænsninger:
+
+● brugerscripts kører kun i det øverste
+&nbsp;&nbsp;vindue
+&nbsp;&nbsp;○ Indsprøjtningsindsprøjtningen i
+&nbsp;&nbsp;&nbsp;&nbsp;iframes er mulig, men kræver en
+&nbsp;&nbsp;&nbsp;&nbsp;kompliceret workaround. Der er flere
+&nbsp;&nbsp;&nbsp;&nbsp;oplysninger i README-filen.

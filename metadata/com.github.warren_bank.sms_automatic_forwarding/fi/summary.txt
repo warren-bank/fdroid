@@ -1,0 +1,1 @@
+Tarkastaja sai SMS-viestit ja toimittaa ne ehdollisesti eteenpäin.

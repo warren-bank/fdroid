@@ -1,0 +1,15 @@
+විශේෂාංග ඇතුලත් කිරීම:
+
+● Userscript URLs හඳුනාගැනීම
+● ස්වයංක්රීය පරිශීලක ස්ක්රිප්ට්
+● ඇන්ඩ්රොයිඩ් විශේෂ හැකියාවන් එළිපෙහෙළි
+&nbsp;&nbsp;කිරීමට දිගු JavaScript API
+● HTTPS සහතිකය දෝෂ නොසලකා හැරිමට ඇති
+&nbsp;&nbsp;හැකියාව
+
+සීමා:
+
+● Userscripts only run in the top window
+&nbsp;&nbsp;○ Iframes තුළ ස්ක්රිප්ට් එන්නත් කිරීම,
+&nbsp;&nbsp;&nbsp;&nbsp;නමුත් සංකීර්ණ වැඩවර්ගයක් අවශ්යයි;
+&nbsp;&nbsp;&nbsp;&nbsp;විස්තර සඳහා README වෙත යොමු කරන්න.

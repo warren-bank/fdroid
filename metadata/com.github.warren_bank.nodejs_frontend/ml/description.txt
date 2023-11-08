@@ -1,0 +1,38 @@
+പ്രത്യേകതകൾ ഉൾപ്പെടുത്താനുള്ള കഴിവ്:
+
+● ആപ്ലിക്കേഷന് പ്രൊഫൈലുകള്
+&nbsp;&nbsp;ക്രമീകരിയ്ക്കുകയും സൂക്ഷിയ്ക്കുകയും
+&nbsp;&nbsp;ചെയ്യുക
+● ഓരോ പ്രയോഗത്തിന്റെ പ്രൊഫൈല്
+&nbsp;&nbsp;വ്യക്തമാക്കാം:
+&nbsp;&nbsp;○ തലക്കെട്ട്
+&nbsp;&nbsp;○ പ്രധാന ജാവാസ്ക്രിപ്റ്റ് ഫയലിലേക്ക്
+&nbsp;&nbsp;&nbsp;&nbsp;ഫയല് പാത
+&nbsp;&nbsp;○ Node.js runtime සඳහා കമാന്ഡ് ലൈന്
+&nbsp;&nbsp;&nbsp;&nbsp;ഐച്ഛികങ്ങള്
+&nbsp;&nbsp;○ പ്രയോഗത്തിനുള്ള കമാന്ഡ് ലൈന്
+&nbsp;&nbsp;&nbsp;&nbsp;ഐച്ഛികങ്ങള്
+&nbsp;&nbsp;○ പരിസ്ഥിതി വേരിയബിളുകള്
+&nbsp;&nbsp;○ നിലവിലുള്ള പ്രവർത്തന ഡയറക്ടറി
+● പ്രയോഗം പ്രൊഫൈലുകള്:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ആപ്ലിക്കേഷനുകൾ ഒരൊറ്റ പ്രക്രിയയും
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;പങ്കുവയ്ക്കുന്നു. ഒരു സമയത്ത്
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ഒരാള്ക്ക് മാത്രമേ നടപ്പിലാക്കാന്
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;കഴിയൂ.
+&nbsp;&nbsp;○ "ഫോർക്ക്"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ഓരോ പ്രയോഗവും സ്വന്തം പ്രക്രിയയാണ്
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;നൽകുന്നത്. ഓരോ അധിനിവേശവും ഒരു
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;മുന്പുള്ള സേവനത്തില്. ഒരു
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ബന്ധപ്പെട്ട അറിയിപ്പ് പ്രക്രിയക്ക്
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;കൊല്ലുന്നു.
+● ബാക്കപ്പ്, വീണ്ടെടുക്കല്:
+&nbsp;&nbsp;○ എല്ലാ പ്രയോഗങ്ങള്ക്കുള്ള പ്രൊഫൈലുകള്
+&nbsp;&nbsp;&nbsp;&nbsp;JSON-ലേക്ക് കയറ്റുക
+&nbsp;&nbsp;○ JSON-ല് നിന്നും പുതിയ പ്രയോഗങ്ങള്
+&nbsp;&nbsp;&nbsp;&nbsp;ഇംപോര്ട്ട് ചെയ്യുക
+
+എംബഡഡ് റൺടേം പരിസ്ഥിതി:
+
+● Node.js 12.19.0
+● ഓപ്പണ്എസ്എല് 1. 1. 1g

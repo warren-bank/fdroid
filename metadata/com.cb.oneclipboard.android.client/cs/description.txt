@@ -1,0 +1,7 @@
+Servery jsou k dispozici pro různé platformy, včetně systému Android.
+
+Všichni klienti, kteří se připojují k běžnému serveru a ověření pomocí stejné kombinace jména uživatele a hesla, budou sdílet společnou schránku. Kdykoli každý klient zkopíruje nová data do své schránky, tato data se odešlou na server a pak se vysílají všem ověřeným klientům.
+
+Veškerá data schránky jsou šifrována mezi koncovými body.
+
+Integrace modulu Tacker je podporována.

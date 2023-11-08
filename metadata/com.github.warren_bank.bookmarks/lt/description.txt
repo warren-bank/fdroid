@@ -1,0 +1,29 @@
+Fono spalva:
+
+● "Android" "Intent" gali būti naudojama
+&nbsp;&nbsp;siekiant atidaryti tikslią bet kokios
+&nbsp;&nbsp;įdiegtos programos dalį, ir perduoti
+&nbsp;&nbsp;jai bet kokio tipo ar kiekio duomenų
+● kaip tokia, Intent yra kaip "Android"
+&nbsp;&nbsp;žymelių
+
+Funkcijos apima galimybę:
+
+● Konfigūruoti ir išsaugoti "Intents"
+&nbsp;&nbsp;kaip pavadintus
+● naudoti žymeles į:
+&nbsp;&nbsp;○ pradėti veiklą
+&nbsp;&nbsp;○ Pradėti tarnybą
+&nbsp;&nbsp;○ siųsti Brodcast
+● grafikas žymelių, kurie turi būti
+&nbsp;&nbsp;naudojami vėliau:
+&nbsp;&nbsp;○ vieną kartą
+&nbsp;&nbsp;○ per intervalą
+● "Intercept Intents" pradėjo kitų
+&nbsp;&nbsp;programų:
+&nbsp;&nbsp;○ keisti
+&nbsp;&nbsp;○ išsaugoti
+● atsarginė kopija ir atkūrimas:
+&nbsp;&nbsp;○ visa "SQLite" duomenų bazė
+&nbsp;&nbsp;○ JSON duomenų failas
+&nbsp;&nbsp;○ Netscape žymelių HTML duomenų failas

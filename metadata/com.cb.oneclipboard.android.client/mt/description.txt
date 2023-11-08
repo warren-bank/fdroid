@@ -1,0 +1,7 @@
+Servers huma disponibbli għal varjetà ta ' pjattaformi, inkluż Android.
+
+Il-klijenti kollha li jgħaqqdu ma ' server komuni u jawtentikaw jużaw l-istess username u l-kombinazzjoni password se jaqsmu clipboard komuni. Kull meta l-klijent kopja data ġdida fil-clipboard tagħha, din id-data tintbagħat lis-server u mbagħad mxandra lill-klijenti awtentikati kollha.
+
+Id-data kollha tal-lipboard hija encrypted end-to-end.
+
+L-integrazzjoni tasker hija appoġġjata.

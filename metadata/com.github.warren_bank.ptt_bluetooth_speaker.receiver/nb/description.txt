@@ -1,0 +1,19 @@
+Ligger i en forgrunnstjeneste:
+
+● det er ingen synlig UI
+● gjør Bluetooth-adapteren diskoverat
+● starter en Bluetooth Socket-server
+● lytter etter en tilkobling fra en
+&nbsp;&nbsp;avsender
+
+Når en avsender knytter seg:
+
+● slutter å lytte etter en
+&nbsp;&nbsp;avsender-tilkobling
+● spiller lydstrømmen fra tilkoblede
+&nbsp;&nbsp;socket
+
+Når en avsender avkobler:
+
+● gjenopptar lytting etter en ny
+&nbsp;&nbsp;avsenderforbindelse

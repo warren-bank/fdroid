@@ -1,0 +1,42 @@
+Os recursos incluem a capacidade de:
+
+● busca por séries de televisão por nome
+● adicionar séries de televisão em
+&nbsp;&nbsp;resultados de pesquisa a uma lista
+● classificar e filtrar a lista de
+&nbsp;&nbsp;séries de televisão adicionados
+● simule entrar na lista para ler
+&nbsp;&nbsp;informações detalhadas sobre cada
+&nbsp;&nbsp;série e seus episódios disponíveis
+● marcar episódios como tendo sido
+&nbsp;&nbsp;assistido
+● séries de marcas como deficientes
+● associar cada série com URLs externas
+&nbsp;&nbsp;○ ex: web sites onde a série pode ser
+&nbsp;&nbsp;&nbsp;&nbsp;assistida
+● atualizar a série de televisão na
+&nbsp;&nbsp;lista
+&nbsp;&nbsp;○ para obter informações sobre novos
+&nbsp;&nbsp;&nbsp;&nbsp;episódios
+
+Requisitos de rede:
+
+● a lista de séries de televisão
+&nbsp;&nbsp;adicionados pode ser usada enquanto
+&nbsp;&nbsp;estiver totalmente offline
+● uma conexão de internet só é
+&nbsp;&nbsp;necessária para adicionar ou atualizar
+&nbsp;&nbsp;manualmente séries de televisão
+
+Créditos:
+
+● todos os dados são obtidos a partir do
+&nbsp;&nbsp;The Movie Database (TMDB), usando a
+&nbsp;&nbsp;versão 3 da API TMDB
+● linhagem histórica:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Pequeno Tracker de Tempo de
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Televisão

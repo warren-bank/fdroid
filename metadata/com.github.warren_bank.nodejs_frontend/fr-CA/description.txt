@@ -1,0 +1,37 @@
+Les fonctions comprennent la capacité:
+
+● configurer et sauvegarder un nombre
+&nbsp;&nbsp;quelconque de profils d'application
+● chaque profil d'application peut
+&nbsp;&nbsp;spécifier:
+&nbsp;&nbsp;○ titre
+&nbsp;&nbsp;○ chemin d'accès au fichier Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;principal
+&nbsp;&nbsp;○ options de ligne de commande pour
+&nbsp;&nbsp;&nbsp;&nbsp;l'environnement d'exécution Node.js
+&nbsp;&nbsp;○ options de ligne de commande pour
+&nbsp;&nbsp;&nbsp;&nbsp;l'application
+&nbsp;&nbsp;○ variables d'environnement
+&nbsp;&nbsp;○ répertoire de travail courant
+● les profils d'application sont
+&nbsp;&nbsp;regroupés par:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les applications partagent un même
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;processus. Un seul peut s'exécuter
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;à la fois.
+&nbsp;&nbsp;○ "fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chaque application reçoit son
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;propre processus. Chacun s'exécute
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dans un service de premier plan.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une notification associée tue le
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;processus.
+● sauvegarde et restauration:
+&nbsp;&nbsp;○ exporter tous les profils
+&nbsp;&nbsp;&nbsp;&nbsp;d'application vers JSON
+&nbsp;&nbsp;○ importer de nouveaux profils
+&nbsp;&nbsp;&nbsp;&nbsp;d'application depuis JSON
+
+Environnement d'exécution intégré:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

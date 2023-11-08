@@ -1,0 +1,19 @@
+Tillåter "Mock min GPS" för att uppföra sig som en lokalisering för "UnifiedNlp".
+
+"UnifiedNlp" är:
+
+● brukar installeras som en komponent i
+&nbsp;&nbsp;"mikroG"
+● Avsedd för användning på degoogled
+&nbsp;&nbsp;Android ROM
+● en ersättare för "Google Location
+&nbsp;&nbsp;Services"
+
+"UnifiedNlp" integreringen av flyttningsdata:
+
+● är bara aktiverad medan "Mock min GPS"
+&nbsp;&nbsp;är aktiv
+● är prioriterad över andra
+&nbsp;&nbsp;"UnifiedNlp"-insticksprogram genom att
+&nbsp;&nbsp;avancerar tidsstämpeln 45 sekunder, så
+&nbsp;&nbsp;det verkar vara senaste

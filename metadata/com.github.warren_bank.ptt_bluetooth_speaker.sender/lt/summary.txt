@@ -1,0 +1,1 @@
+Fiksuoja audio garsą iš mikrofono ir siunčia jį į imtuvą.

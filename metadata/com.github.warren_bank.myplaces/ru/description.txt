@@ -1,0 +1,23 @@
+Функции включают в себя:
+
+● сортировать список географических
+&nbsp;&nbsp;координат:
+&nbsp;&nbsp;○ последовательный
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Упорядочится по мере того, как в
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;файле ввода будут находиться
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;положения.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: точный маршрут поездки
+&nbsp;&nbsp;○ расстояние
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Упорядоченный по расстоянием от
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;текущего расположения.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: специальная разведка
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;близлежащих POI
+&nbsp;&nbsp;○ алфавитный
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Упорядочены по описательным
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;именам, связанным с положениями.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: закладки избранных сайтов
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;групп
+● Щелкните по элементу списка, чтобы
+&nbsp;&nbsp;открыть соответствующее расположение
+&nbsp;&nbsp;во внешнем приложении, например,
+&nbsp;&nbsp;отображение или навигация.

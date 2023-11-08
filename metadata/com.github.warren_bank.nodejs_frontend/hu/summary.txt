@@ -1,0 +1,1 @@
+A Fronhajlamos végrehajtja a Node.js alkalmazást az Android fájlrendszerből.

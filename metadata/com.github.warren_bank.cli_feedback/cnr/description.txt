@@ -1,0 +1,7 @@
+Vrste povratnih informacija korisnika:
+
+● Pokažimo zdravicu.
+● Pokažite mi poruku.
+● Sviraj zvučni zvuk.
+
+Sve vrste povratnih informacija korisnika su pokrenute od strane Inšatora. Ovaj pomoćni program može biti korišten i od strane drugih aplikacija, kao i direktno od strane korisnika iz emulatora terminala komandne linije.

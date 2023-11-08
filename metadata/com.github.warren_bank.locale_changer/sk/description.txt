@@ -1,0 +1,3 @@
+Zobrazí zoznam všetkých dostupných miestnych nastavení. Kliknutím na ľubovoľnú položku zoznamu sa zmení miestne nastavenie systému Android na vybratú hodnotu. Zmeny sú trvalé.
+
+Aktuálne aktívne miestne nastavenie je vždy umiestnené ako prvá položka zoznamu.

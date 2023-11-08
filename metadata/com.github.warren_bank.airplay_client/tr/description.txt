@@ -1,0 +1,23 @@
+Özellikler şunları içerir:
+
+● Aynı ağ içinde AirPlay alıcılarının
+&nbsp;&nbsp;otomatik keşfi
+● Aygıtınızdan AirPlay 'e fotoğraflar
+&nbsp;&nbsp;ışın
+● Cihazınızdan AirPlay 'e akış videoları
+&nbsp;&nbsp;ve müzik
+● Aygıtı aygıtınızdan AirPlay 'e ikizle
+
+Alacaklar:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Bu uygulamanın özgün sürümü.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Ekran Akışı
+&nbsp;&nbsp;&nbsp;&nbsp;Android 5.0+ üzerinde ekran
+&nbsp;&nbsp;&nbsp;&nbsp;ikizlemesini uygulamak için kodların
+&nbsp;&nbsp;&nbsp;&nbsp;büyük bölümü
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (sürüm 1) iletişim kuralı
+&nbsp;&nbsp;&nbsp;&nbsp;Resmi olmayan belgeler.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

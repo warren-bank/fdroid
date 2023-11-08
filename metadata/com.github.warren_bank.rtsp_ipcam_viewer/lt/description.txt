@@ -1,0 +1,30 @@
+Šie formatai yra būdingi nebrangių IP saugumo kamerų.
+
+Funkcijos apima galimybę:
+
+● Konfigūruoti neribotą skaičių video
+&nbsp;&nbsp;srautų
+● importuoti vaizdo srautus iš JSON
+&nbsp;&nbsp;failo
+● kiekvienas srautas gali apimti URL,
+&nbsp;&nbsp;skirtus dviem šaltiniams:
+&nbsp;&nbsp;○ Žema
+&nbsp;&nbsp;○ aukšta raiška
+● selektyviai įjungti ir išjungti
+&nbsp;&nbsp;srautus sąraše
+● rodyti įjungtus upelius sąrašo arba
+&nbsp;&nbsp;tinklelio maketo
+&nbsp;&nbsp;○ naudoja mažą skiriamąją gebą (jei
+&nbsp;&nbsp;&nbsp;&nbsp;yra)
+● Pasirinkite vieną srautą iš sąrašo
+&nbsp;&nbsp;arba tinklelio išdėstymo
+&nbsp;&nbsp;○ monitoriai per visą ekraną
+&nbsp;&nbsp;○ naudoja didelę skiriamąją gebą (jei
+&nbsp;&nbsp;&nbsp;&nbsp;yra)
+
+Istorija:
+
+Ši paraiška iš pradžių buvo parašyta išbandyti ExoPlayer eksperimentinį atšaką. Tuo metu šis filialas turėjo atvirojo traukimo prašymą, kuris nebuvo sujungtas po kelerių metų:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Galiausiai šis filialas buvo susijungęs. Dabar ši programa naudoja stabilų ExoPlayer. Kuris, imho, daro tai mažiau įdomus. Bet tai vis dar gali būti naudinga.

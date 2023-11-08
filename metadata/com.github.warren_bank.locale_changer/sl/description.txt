@@ -1,0 +1,3 @@
+Prikaže seznam vseh razpoložljivih področnih nastavitev. Če kliknete katerokoli postavko seznama, spremenite področne nastavitve sistema Android v izbrano vrednost. Spremembe so trajne.
+
+Trenutno aktivne področne nastavitve so vedno postavljene kot prva postavka seznama.

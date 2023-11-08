@@ -1,0 +1,1 @@
+Šetrič obrazovky, ktorý zobrazí prezentáciu lokálnych obrázkov.

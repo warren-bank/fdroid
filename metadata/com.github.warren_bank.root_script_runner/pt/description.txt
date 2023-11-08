@@ -1,0 +1,9 @@
+Requer raiz!
+
+A execução de um script shell pode ser invocada de duas maneiras:
+
+1. interativo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pelo usuário escolher manualmente
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;um arquivo.
+2. automático
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Por um Intento.

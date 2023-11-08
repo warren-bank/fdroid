@@ -1,0 +1,7 @@
+Nécessite root!
+
+Le mode USB est la valeur par défaut. Il nécessite un câble USB et des pilotes USB pour connecter l'appareil Android à un ordinateur.
+
+Le mode WiFi est sans fil et n'exige aucun pilote supplémentaire. Tout ordinateur peut utiliser le client "adb" pour demander une connexion à l'appareil Android.
+
+Lorsque le mode WiFi est activé, cette application affiche la commande "adb" nécessaire pour demander une connexion sur un réseau local.

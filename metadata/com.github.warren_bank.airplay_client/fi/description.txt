@@ -1,0 +1,23 @@
+Ominaisuuksiin kuuluu:
+
+● AirPlay-vastaanottimien automaattinen
+&nbsp;&nbsp;löytö samassa verkossa
+● Beam-valokuvat laitteestasi
+&nbsp;&nbsp;Airplay-laitteelle
+● Käynnistä videot ja musiikki
+&nbsp;&nbsp;laitteestasi AirPlaceen
+● Peitä näyttö laitteestasi Airplayn
+
+Valtuustiedot:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Tämän sovelluksen alkuperäinen
+&nbsp;&nbsp;&nbsp;&nbsp;versio.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Screenstreamin
+&nbsp;&nbsp;&nbsp;&nbsp;Jos suuri osa koodista on käytössä
+&nbsp;&nbsp;&nbsp;&nbsp;Android-laitteissa 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Lentokoneen (versio 1) protokolla
+&nbsp;&nbsp;&nbsp;&nbsp;Epävirallinen dokumentaatio.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

@@ -1,0 +1,37 @@
+લાક્ષણિકતાનો સમાવેશ થાય છે:
+
+● નામ દ્વારા ટેલિવિઝન શ્રેણીઓ માટે શોધો
+● શોધ પરિણામોમાં ટેલિવિઝન શ્રેણીઓને
+&nbsp;&nbsp;યાદીમાં ઉમેરો
+● ઉમેરાયેલ ટેલિવિઝન શ્રેણીની યાદી અને
+&nbsp;&nbsp;ફિલ્ટર કરો
+● દરેક શ્રેણી અને તેની ઉપલબ્ધ ભાગો વિશે
+&nbsp;&nbsp;વિસ્તૃત માહિતી વાંચવા માટે યાદીમાં
+&nbsp;&nbsp;ડ્રાઇલ કરો
+● ચિહ્નિત થયેલ છે એમ ચિહ્નિત થયેલ છે
+● અપંગ તરીકે ચિહ્નિત શ્રેણી
+● બાહ્ય URLs સાથે દરેક શ્રેણીનો સાંકડો
+&nbsp;&nbsp;○ અક્ષર: વેબ સાઈટો કે જેમાં શ્રેણીઓ
+&nbsp;&nbsp;&nbsp;&nbsp;જોઇ શકાય છે
+● યાદીમાં ટેલિવિઝન શ્રેણીઓને સુધારો
+&nbsp;&nbsp;○ નવા ભાગો વિશે જાણકારી મેળવવી
+
+નેટવર્ક જરૂરિયાતો:
+
+● ઉમેરાયેલ ટેલિવિઝન શ્રેણીની યાદી જ્યારે
+&nbsp;&nbsp;સંપૂર્ણ ઓફલાઈન હોય ત્યારે વાપરી શકાય
+&nbsp;&nbsp;છે
+● ઇન્ટરનેટ જોડાણ ફક્ત જાતે જ ટેલિવિઝન
+&nbsp;&nbsp;શ્રેણી ઉમેરવા માટે જરૂરી છે.
+
+Credits:
+
+● The Movie Database (TMDB) માંથી બધી
+&nbsp;&nbsp;માહિતી મેળવેલ છે, TMDB API ની આવૃત્તિ
+&nbsp;&nbsp;3 વાપરી રહ્યા છે
+● ઐતિહાસિક તાલીમ:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

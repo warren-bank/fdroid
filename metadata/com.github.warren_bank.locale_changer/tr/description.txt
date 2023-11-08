@@ -1,0 +1,3 @@
+Kullanılabilir tüm yerel ayarların bir listesini görüntüler. Herhangi bir liste öğesinin tıklatılması, Android sistem ülke değerini seçilen değerle değiştirir. Değişiklikler kalıcı.
+
+Şu anda etkin olan ülke değeri her zaman ilk liste öğesi olarak konumlandırılır.

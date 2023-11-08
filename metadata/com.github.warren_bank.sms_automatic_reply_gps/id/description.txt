@@ -1,0 +1,15 @@
+Kriteria kondisional meliputi:
+
+● A whitelist of sender phone numbers
+● sebuah substring yang harus terjadi
+&nbsp;&nbsp;pada awal dari pesan SMS yang diterima
+
+Data lokasi GPS meliputi:
+
+● koordinat garis lintang dan garis
+&nbsp;&nbsp;bujur
+● akurasi (meter)
+● kecepatan (meters/detik)
+● arah (kardinal atau ordinal, dan
+&nbsp;&nbsp;derajat)
+● URL ke Peta Google

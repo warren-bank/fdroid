@@ -1,0 +1,30 @@
+Format-format ini khas dari kamera keamanan IP murah.
+
+Fitur-fitur mencakup kemampuan untuk:
+
+● atur jumlah stream video yang tidak
+&nbsp;&nbsp;terbatas
+● impor stream video dari sebuah berkas
+&nbsp;&nbsp;JSON
+● setiap aliran dapat mencakup URL untuk
+&nbsp;&nbsp;dua sumber:
+&nbsp;&nbsp;○ resolusi rendah
+&nbsp;&nbsp;○ resolusi tinggi
+● secara selektif mengaktifkan dan
+&nbsp;&nbsp;menonaktifkan stream dalam daftar
+● tampilkan stream yang diaktifkan dalam
+&nbsp;&nbsp;sebuah daftar atau tata letak kisi
+&nbsp;&nbsp;○ gunakan resolusi rendah (bila
+&nbsp;&nbsp;&nbsp;&nbsp;tersedia)
+● pilih stream tunggal dari daftar atau
+&nbsp;&nbsp;tata letak grid
+&nbsp;&nbsp;○ tampilkan dalam layar penuh
+&nbsp;&nbsp;○ menggunakan resolusi tinggi (ketika
+&nbsp;&nbsp;&nbsp;&nbsp;tersedia)
+
+Riwayat:
+
+Aplikasi ini pada awalnya ditulis untuk menguji sebuah cabang eksperimental dari ExoPlayer. Pada saat itu, cabang ini memiliki permintaan tarik terbuka yang belum digabungkan setelah beberapa tahun:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Pada akhirnya, cabang ini digabung. Sekarang, aplikasi ini menggunakan build yang stabil dari ExoPlayer. Yang mana, imho, membuatnya kurang menarik. Tapi itu mungkin masih berguna.

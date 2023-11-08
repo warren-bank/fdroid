@@ -1,0 +1,41 @@
+Tính năng bao gồm khả năng:
+
+● tìm kiếm hàng loạt truyền hình theo
+&nbsp;&nbsp;tên
+● thêm sê-ri truyền hình vào kết quả tìm
+&nbsp;&nbsp;kiếm vào danh sách
+● Sắp xếp và lọc danh sách tập tin
+&nbsp;&nbsp;truyền hình bổ sung
+● Hãy khoan vào danh sách để đọc thông
+&nbsp;&nbsp;tin chi tiết về mỗi series và các tập
+&nbsp;&nbsp;có sẵn của nó
+● Đánh dấu các tập phim đã được xem
+● loạt đánh dấu bị tắt
+● liên kết từng sêri với URL bên
+&nbsp;&nbsp;ngoài
+&nbsp;&nbsp;○ ex: các trang web nơi hàng loạt có
+&nbsp;&nbsp;&nbsp;&nbsp;thể được xem
+● Cập nhật loạt phim truyền hình trong
+&nbsp;&nbsp;danh sách
+&nbsp;&nbsp;○ để có được thông tin về các tập mới
+
+Yêu cầu mạng:
+
+● Danh sách truyền hình bổ sung có thể
+&nbsp;&nbsp;được sử dụng trong khi hoàn toàn ngoại
+&nbsp;&nbsp;tuyến
+● Kết nối internet chỉ cần thiết để thêm
+&nbsp;&nbsp;hoặc cập nhật loạt phim truyền hình
+
+Ghi chú:
+
+● Tất cả dữ liệu thu được từ Cơ sở dữ
+&nbsp;&nbsp;liệu phim (TMDB), sử dụng phiên bản 3
+&nbsp;&nbsp;của API TMDB
+● dòng lịch sử:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Trình theo dõi thời gian truyền
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hình nhỏ

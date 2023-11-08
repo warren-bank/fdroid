@@ -1,0 +1,15 @@
+Los criterios condicionales incluyen:
+
+● una lista blanca de números de
+&nbsp;&nbsp;teléfono del remitente
+● una subserie que debe producirse al
+&nbsp;&nbsp;principio del mensaje SMS recibido
+
+Los datos de ubicación GPS incluyen:
+
+● coordenadas de latitud y longitud
+● precisión (metros)
+● velocidad (meters/seg)
+● dirección (cardinal o ordinal, y
+&nbsp;&nbsp;grados)
+● URL a Google Maps

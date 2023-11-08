@@ -1,0 +1,1 @@
+Configurar e enviar solicitações HTTP.

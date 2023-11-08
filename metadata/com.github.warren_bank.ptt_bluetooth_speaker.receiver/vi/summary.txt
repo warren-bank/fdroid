@@ -1,0 +1,1 @@
+Nhận được âm thanh từ người gửi và chơi qua loa.

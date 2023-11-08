@@ -1,0 +1,3 @@
+mDNS (Bonjour) é usado para a descoberta de outros dispositivos disponíveis em uma LAN. Como tal, nenhum servidor de sinalização WebRTC é necessário.
+
+O WebRTC é usado para tudo o mais.

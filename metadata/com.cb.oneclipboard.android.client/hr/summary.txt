@@ -1,0 +1,1 @@
+Klijent za sinkronizaciju podataka clipboarda preko poslužitelja.

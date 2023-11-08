@@ -1,0 +1,33 @@
+Οι λειτουργίες περιλαμβάνουν την ικανότητα:
+
+● εικονας σταθερής θέσης.
+● προσομοίωση ενός ταξιδιού:
+● χρησιμοποιήστε ένα joystick για να
+&nbsp;&nbsp;κινηθεί σε σχέση με μια εικονική
+&nbsp;&nbsp;σταθερή θέση
+● να δέχονται το γεωγραφικό πλάτος και
+&nbsp;&nbsp;το γεωγραφικό μήκος ζεύγη
+&nbsp;&nbsp;συντεταγμένων από Intents
+● αποθηκεύστε τα ζεύγη γεωγραφικού
+&nbsp;&nbsp;πλάτους και μήκους, ως σελιδοδείκτες
+
+Μεταβολές:
+
+1. " AOSP
+2. AOSP + Google Play Υπηρεσίες
+3. AOSP + Huawei Mobile Services
+
+Ενοποίηση Android:
+
+1. Επιλογές του προγραμματιστή
+&nbsp;&nbsp;&nbsp;● ανοιχτά:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ρυθμίσεις > Σύστημα > Πληροφορίες
+&nbsp;&nbsp;&nbsp;● επανειλημμένα κλικ 7 φορές:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Αριθμός δόμησης:
+2. ρύθμιση:
+&nbsp;&nbsp;&nbsp;● ανοιχτά:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ρυθμίσεις > Σύστημα > Επιλογές
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ανάπτυξης
+&nbsp;&nbsp;&nbsp;● τιμές αποθήκευσης:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Εφαρμογή τοποθεσίας Mock: "Mock
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPS μου"

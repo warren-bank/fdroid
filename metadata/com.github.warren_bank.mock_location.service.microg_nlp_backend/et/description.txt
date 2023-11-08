@@ -1,0 +1,18 @@
+Võimaldab "Mock my GPS" käituda pilkav asukoha pakkuja "UnifiedNlp".
+
+"UnifiedNp" on:
+
+● Tavaliselt paigaldatakse "mikroG"
+&nbsp;&nbsp;komponendina
+● ette nähtud kasutamiseks
+&nbsp;&nbsp;Google-Android-ROMil
+● "Google'i asukohateenuste" rippmenüüst
+
+"UnifiedNlp" integratsiooni kiige asukoha andmed:
+
+● on lubatud ainult siis, kui "Mock my
+&nbsp;&nbsp;GPS" on aktiivne
+● on prioritiseeritud üle teiste
+&nbsp;&nbsp;"UnifiedNp" taustaprogrammi pluginad,
+&nbsp;&nbsp;edendades ajatempel 45 sekundit, nii
+&nbsp;&nbsp;et see tundub olevat kõige uuemad

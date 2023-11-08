@@ -1,0 +1,23 @@
+Među značajkama su:
+
+● Automatsko otkrivanje AirPlay primaoca
+&nbsp;&nbsp;unutar iste mreže
+● Fotografije sa svog uređaja u AirPlay
+● Stream video i muzika iz vašeg uređaja
+&nbsp;&nbsp;u AirPlay
+● Reproduciraj ekran sa svog uređaja u
+&nbsp;&nbsp;AirPlay
+
+Krediti:
+
+● Ispušta igru
+&nbsp;&nbsp;&nbsp;&nbsp;Originalna verzija ove aplikacije.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Ekrani
+&nbsp;&nbsp;&nbsp;&nbsp;Obezbijeđeni veliki broj koda za
+&nbsp;&nbsp;&nbsp;&nbsp;implementaciju zrcaljenja ekrana na
+&nbsp;&nbsp;&nbsp;&nbsp;Androidu 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (verzija 1) protokol
+&nbsp;&nbsp;&nbsp;&nbsp;Neslužbena dokumentacija.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

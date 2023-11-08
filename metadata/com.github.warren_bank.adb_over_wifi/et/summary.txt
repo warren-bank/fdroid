@@ -1,0 +1,1 @@
+Lülitab sisse USB ja WiFi režiimi vahel Android Debug Bridge daemon (adbd).

@@ -1,0 +1,3 @@
+Viser en liste over alle tilgængelige sprogkonventioner. Hvis du klikker på alle listeelementer, ændres Android-systemsprogkonventionen til den valgte værdi. Ændringer er vedvarende.
+
+Den aktuelt aktive sprogkonvention er altid placeret som det første listeelement.

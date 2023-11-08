@@ -1,0 +1,19 @@
+Tréithe iarratais HTTP á chumrú:
+
+● modh
+● prótacal
+● URL
+● ceanntásca
+● paraiméadair queryteaghrán
+● % 1
+
+Gnéithe a áirítear ar an gcumas chun:
+
+● Seol iarraidh uair amháin
+● [EN] Seol iarraidh arís agus arís eile
+&nbsp;&nbsp;ag eatramh ama sonraithe
+● athluchtaigh an chumraíocht ar
+&nbsp;&nbsp;iarratas roimh logchomhad staire a
+&nbsp;&nbsp;athluchtú
+● Pretty Priontáil JSON sonraí freagra
+● réamhamharc réamhamhairc HTML

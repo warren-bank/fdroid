@@ -1,0 +1,20 @@
+Zu den Features gehören:
+
+● Erkennung von Userscript-URLs
+● automatische
+&nbsp;&nbsp;Benutzerscriptaktualisierungen
+● eine erweiterte Javascript-API für die
+&nbsp;&nbsp;Bereitstellung von
+&nbsp;&nbsp;Android-spezifischen Funktionen
+● Die Möglichkeit,
+&nbsp;&nbsp;HTTPS-Zertifikatsfehler zu ignorieren
+
+Einschränkungen:
+
+● Userscripts werden nur im oberen
+&nbsp;&nbsp;Fenster ausgeführt
+&nbsp;&nbsp;○ Script-Injektion in iFrames ist
+&nbsp;&nbsp;&nbsp;&nbsp;möglich, erfordert aber eine
+&nbsp;&nbsp;&nbsp;&nbsp;komplizierte Problemumgehung;
+&nbsp;&nbsp;&nbsp;&nbsp;weitere Details finden Sie in der
+&nbsp;&nbsp;&nbsp;&nbsp;Readme-Datei.

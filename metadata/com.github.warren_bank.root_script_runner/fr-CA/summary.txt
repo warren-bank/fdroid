@@ -1,0 +1,1 @@
+Exécute les scripts de shell en tant que superutilisateur.

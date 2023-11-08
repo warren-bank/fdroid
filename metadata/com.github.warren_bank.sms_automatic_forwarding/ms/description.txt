@@ -1,0 +1,3 @@
+Syarat ditakrifkan berdasarkan senarai peraturan. Setiap peraturan yang mempunyai nombor telefon penerima yang mesti sepadan dengan corak yang mesti sepadan dengan pengirim mesej SMS yang diterima.
+
+Apabila mesej SMS baru diterima, ia dimajukan ke nombor telefon penerima menurut setiap peraturan mempunyai corak yang sepadan.

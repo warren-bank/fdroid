@@ -1,0 +1,16 @@
+คุณลักษณะรวมถึงความสามารถในการ:
+
+● เรียงลำดับรายการพิกัดทางภูมิศาสตร์:
+&nbsp;&nbsp;○ ตามลำดับ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ถูกเรียงลำดับตามตำแหน่งที่เกิดขึ้นในไฟล์อินพุต
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ภรรยาเก่า:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เส้นทางการเดินทางที่แม่นยำ
+&nbsp;&nbsp;○ ระยะห่าง
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เรียงลำดับตามระยะจากตำแหน่งปัจจุบัน
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: การสำรวจเฉพาะกิจของ POI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;แบบใกล้เคียง
+&nbsp;&nbsp;○ ตัวอักษร
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เรียงลำดับตามชื่อที่ใช้อธิบายที่เชื่อมโยงกับตำแหน่ง
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: บุ๊กมาร์กของ places
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;รายการโปรด
+● คลิกบนไอเท็มรายการเพื่อเปิดตำแหน่งที่สอดคล้องกันในแอ็พพลิเคชันภายนอกเช่นการแม็พหรือการนำทาง

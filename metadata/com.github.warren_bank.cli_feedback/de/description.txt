@@ -1,0 +1,7 @@
+Arten von Benutzerrückmeldungen:
+
+● Ein Toast anzeigen
+● Benachrichtigung anzeigen
+● Audio-Ringtone spielen
+
+Alle Arten von Benutzerrückmeldungen werden von Intent gestartet. Dieses Dienstprogramm kann sowohl von anderen Anwendungen als auch von dem Benutzer direkt von einem Befehlszeilenterminal-Emulator verwendet werden.

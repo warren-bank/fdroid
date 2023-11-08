@@ -1,0 +1,35 @@
+Funkcijas ietver spēju:
+
+● izsmiet fiksētu stāvokli
+● simulē ceļojumu
+● izmantot kursorsviru, lai pārvietotos
+&nbsp;&nbsp;attiecībā pret nomocošam fiksētam
+&nbsp;&nbsp;stāvoklim
+● pieņemt ģeogrāfisko platumu un
+&nbsp;&nbsp;ģeogrāfisko garumu-koordinātu pārus no
+&nbsp;&nbsp;teltīm
+● saglabāt platuma un garuma
+&nbsp;&nbsp;geo-koordinātu pārus, kas nosaukti
+&nbsp;&nbsp;grāmatzīmes
+
+Variācijas:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+Android integrācija:
+
+1. iespējot Developer iespējas
+&nbsp;&nbsp;&nbsp;● atvērta:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iestatījumi > Sistēma > Par
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tālruni
+&nbsp;&nbsp;&nbsp;● atkārtoti noklikšķiniet 7 reizes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uzbūvēt skaitli
+2. konfigurēt:
+&nbsp;&nbsp;&nbsp;● atvērta:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iestatījumi > Sistēma >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Izstrādātāju opcijas
+&nbsp;&nbsp;&nbsp;● saglabāt vērtības:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock atrašanās vieta app: "Mock
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manu GPS"

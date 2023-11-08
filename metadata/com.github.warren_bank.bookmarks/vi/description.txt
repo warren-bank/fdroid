@@ -1,0 +1,28 @@
+Nền:
+
+● Android Intent có thể được sử dụng để
+&nbsp;&nbsp;mở một phần chính xác của bất kỳ ứng
+&nbsp;&nbsp;dụng đã cài đặt nào, và chuyển cho nó
+&nbsp;&nbsp;bất kỳ loại hoặc số lượng dữ liệu nào
+● như vậy, một Intent giống như một đánh
+&nbsp;&nbsp;dấu Android
+
+Tính năng bao gồm khả năng:
+
+● và lưu cấu hình và lưu các mục như là
+&nbsp;&nbsp;dấu trang
+● dùng dấu trang để:
+&nbsp;&nbsp;○ bắt đầu Hoạt động
+&nbsp;&nbsp;○ bắt đầu Dịch vụ
+&nbsp;&nbsp;○ gửi Broadcast
+● đánh dấu trang lịch để được sử
+&nbsp;&nbsp;dụng sau:
+&nbsp;&nbsp;○ một lần
+&nbsp;&nbsp;○ Khoảng thời gian
+● Các ứng dụng khác:
+&nbsp;&nbsp;○ điều chỉnh
+&nbsp;&nbsp;○ để lưu
+● sao lưu và khôi phục:
+&nbsp;&nbsp;○ cả cơ sở dữ liệu SQLite
+&nbsp;&nbsp;○ Tập tin dữ liệu JSON
+&nbsp;&nbsp;○ Tập tin dữ liệu HTML Bookmark

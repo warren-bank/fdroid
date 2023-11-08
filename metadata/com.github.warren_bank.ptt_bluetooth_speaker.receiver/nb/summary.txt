@@ -1,0 +1,1 @@
+Mottar lyd fra avsenderen og spiller det gjennom høyttaleren.

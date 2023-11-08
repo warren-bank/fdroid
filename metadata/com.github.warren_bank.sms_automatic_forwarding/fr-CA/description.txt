@@ -1,0 +1,3 @@
+Les conditions sont définies par une liste de règles. Chaque règle associe un numéro de téléphone de destinataire de transfert à un modèle qui doit correspondre à l'expéditeur d'un message SMS reçu.
+
+Lorsqu'un nouveau message SMS est reçu, il est transmis aux numéros de téléphone du destinataire en fonction de chaque règle ayant un modèle correspondant.

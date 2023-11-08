@@ -1,0 +1,13 @@
+Thiết lập trình chiếu:
+
+● Khoảng thời gian (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Khoảng thời gian mỗi hình ảnh
+&nbsp;&nbsp;&nbsp;&nbsp;được hiển thị.
+● Dùng nhà cung cấp MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Thu thập các tập tin hình ảnh từ chỉ
+&nbsp;&nbsp;&nbsp;&nbsp;số Android.
+● đường dẫn thư mục
+&nbsp;&nbsp;&nbsp;&nbsp;Thu được hình từ một thư mục cụ thể
+&nbsp;&nbsp;&nbsp;&nbsp;trong hệ thống tập tin.
+● Đệ quy vào các thư mục con
+● Lệnh ngẫu nhiên

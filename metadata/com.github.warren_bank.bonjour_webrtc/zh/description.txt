@@ -1,0 +1,3 @@
+mDNS (Bonjour) 用于发现 LAN中的其他可用设备。 因此，不需要 WebRTC 信号服务器。
+
+WebRTC 用于其他所有内容。

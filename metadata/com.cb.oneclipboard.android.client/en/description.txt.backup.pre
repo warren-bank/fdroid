@@ -1,0 +1,7 @@
+Servers are available for a variety of platforms, including Android.
+
+All clients that connect to a common server and authenticate using the same username and password combination will share a common clipboard. Whenever any client copies new data into its clipboard, this data is sent to the server and then broadcast to all authenticated clients.
+
+All clipboard data is encrypted end-to-end.
+
+Tasker integration is supported.

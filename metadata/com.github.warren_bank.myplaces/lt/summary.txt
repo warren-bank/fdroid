@@ -1,0 +1,1 @@
+Skaito GPX ir KML failus kaip geografinės koordinačių žymeles sąrašus.

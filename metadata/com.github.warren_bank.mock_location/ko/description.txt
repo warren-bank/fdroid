@@ -1,0 +1,26 @@
+기능에는 다음 기능이 포함됩니다.
+
+● 고정된 위치를 조롱하다.
+● 여행을 시뮬레이션하다.
+● 조이스틱을 사용하여 모조 고정 위치에 상대적으로 움직이다.
+● Intents 로부터 위도 및 경도 좌표 쌍을 허용한다.
+● 이름 지정된 책갈피로 위도 및 경도 좌표 쌍을 저장합니다.
+
+변형:
+
+1. 아오프
+2. AOSP+Google Play 서비스
+3. AOSP+화웨이 모바일 서비스
+
+Android 통합:
+
+1. 개발자 옵션 사용
+&nbsp;&nbsp;&nbsp;● 개방:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;설정 > 시스템 > 전화 정보
+&nbsp;&nbsp;&nbsp;● 반복적으로 7번 클릭:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;빌드 번호
+2. 구성:
+&nbsp;&nbsp;&nbsp;● 개방:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;설정 > 시스템 > 개발자 옵션
+&nbsp;&nbsp;&nbsp;● 값을 저장합니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock 위치 애플리케이션: "Mock my GPS"

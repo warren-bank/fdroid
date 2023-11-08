@@ -1,0 +1,20 @@
+Funkcije uključuju:
+
+● otkrivanje URL-ova skripti korisnika
+● automatska ažuriranja korisničkog
+&nbsp;&nbsp;skripta
+● prošireni Javascript API za otkrivanje
+&nbsp;&nbsp;Android specifičnih mogućnosti
+● mogućnost zanemarivosti HTTPS grešaka
+&nbsp;&nbsp;certifikata
+
+Ograničenja:
+
+● korisnička skripta se izvodi samo u
+&nbsp;&nbsp;gornjem prozoru
+&nbsp;&nbsp;○ ubrizgavanje skripta u iokvire je
+&nbsp;&nbsp;&nbsp;&nbsp;moguće, ali zahtijeva komplicirano
+&nbsp;&nbsp;&nbsp;&nbsp;zaobilaženo zaobilaženo zaobilaženo
+&nbsp;&nbsp;&nbsp;&nbsp;zaobilaženo zaobilaženo zaobilaženo
+&nbsp;&nbsp;&nbsp;&nbsp;zaobilaženo zaobilaženo zaobilaženo
+&nbsp;&nbsp;&nbsp;&nbsp;rješenje ;

@@ -1,0 +1,3 @@
+Hiermee beeldt u een lijst af van alle beschikbare locales. Als u op een lijstitem klikt, wordt de locale van het Android-systeem gewijzigd in de geselecteerde waarde. Wijzigingen zijn persistent.
+
+De actieve locale wordt altijd gepositioneerdals eerste lijstitem.

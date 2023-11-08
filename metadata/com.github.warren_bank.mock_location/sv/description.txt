@@ -1,0 +1,32 @@
+Funktioner inkluderar förmågan att:
+
+● mocka en fast position
+● simulera en resa
+● använda en joystick för att flytta i
+&nbsp;&nbsp;förhållande till en fast fast position
+● Acceptera latitud-och
+&nbsp;&nbsp;longitudgeo-koordinatpar från Intents
+● spara latitud-och
+&nbsp;&nbsp;longitudgeo-koordinatpar som namngivna
+&nbsp;&nbsp;bokmärken
+
+Variationer:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+Android-integrering:
+
+1. aktivera utvecklaralternativ
+&nbsp;&nbsp;&nbsp;● öppna:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inställningar > System > Om
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;telefon
+&nbsp;&nbsp;&nbsp;● upprepade gånger klick 7 gånger:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Byggnummer
+2. konfigurera:
+&nbsp;&nbsp;&nbsp;● öppna:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inställningar > System >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utvecklaralternativ
+&nbsp;&nbsp;&nbsp;● säkerhetsvärden:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location app: "Mock min GPS"

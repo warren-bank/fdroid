@@ -1,0 +1,1 @@
+Guardar Intentos como una colección organizada de marcadores.

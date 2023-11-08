@@ -1,0 +1,19 @@
+Functies zijn onder andere:
+
+● detectie van userscript-URL's
+● automatische updates van het
+&nbsp;&nbsp;userscript
+● een uitgebreide Javascript-API voor
+&nbsp;&nbsp;het weergeven van specifieke
+&nbsp;&nbsp;Android-mogelijkheden
+● de mogelijkheid om te negeren
+&nbsp;&nbsp;HTTPS-certificaat fouten
+
+Beperkingen:
+
+● Userscripts draaien alleen in het
+&nbsp;&nbsp;bovenste venster
+&nbsp;&nbsp;○ script injectie in iframes is
+&nbsp;&nbsp;&nbsp;&nbsp;mogelijk, maar vereist een
+&nbsp;&nbsp;&nbsp;&nbsp;ingewikkelde workaround; zie de
+&nbsp;&nbsp;&nbsp;&nbsp;README voor meer informatie.

@@ -1,0 +1,37 @@
+Nécessite root!
+
+Les fonctions comprennent:
+
+● prise en charge des protocoles de
+&nbsp;&nbsp;serveur proxy:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● support pour les méthodes
+&nbsp;&nbsp;d'authentification:
+&nbsp;&nbsp;○ Base
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● prise en charge de l'activation du
+&nbsp;&nbsp;serveur proxy:
+&nbsp;&nbsp;○ globalement, pour toutes les
+&nbsp;&nbsp;&nbsp;&nbsp;applications
+&nbsp;&nbsp;○ uniquement pour des applications
+&nbsp;&nbsp;&nbsp;&nbsp;spécifiques
+● support pour une liste noire:
+&nbsp;&nbsp;○ Adresses IP pour ignorer le proxy
+● prise en charge d'un proxy DNS
+● prise en charge de plusieurs profils
+● support de base pour un fichier de
+&nbsp;&nbsp;configuration automatique de proxy
+&nbsp;&nbsp;(PAC)
+● capacité d'associer un profil
+&nbsp;&nbsp;particulier à:
+&nbsp;&nbsp;○ SSID WiFi
+&nbsp;&nbsp;○ Réseau mobile
+● widget pour activer/désactiver le
+&nbsp;&nbsp;proxy
+● efficacité d'exécution:
+&nbsp;&nbsp;○ consomme peu de batterie
+&nbsp;&nbsp;○ utilise peu de RAM

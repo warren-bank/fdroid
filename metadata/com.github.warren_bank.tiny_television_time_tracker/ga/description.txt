@@ -1,0 +1,44 @@
+Gnéithe a áirítear ar an gcumas chun:
+
+● cuardaigh le haghaidh sraith teilifíse
+&nbsp;&nbsp;de réir ainm
+● Cuir sraith teilifíse i dtorthaí
+&nbsp;&nbsp;cuardaigh ar liosta
+● sórtáil agus scagaire an liosta de
+&nbsp;&nbsp;shraith teilifíse breise
+● drill isteach sa liosta a léamh eolas
+&nbsp;&nbsp;mionsonraithe faoi gach sraith agus a
+&nbsp;&nbsp;episodes ar fáil
+● amount in aisce, mar atá ag faire
+● @ info: info
+● comhlach gach sraith le URLanna
+&nbsp;&nbsp;seachtracha
+&nbsp;&nbsp;○ Ex: Suíomh gréasáin nuair is féidir
+&nbsp;&nbsp;&nbsp;&nbsp;leis an tsraith a fheiceáil
+● nuashonrú ar an tsraith teilifíse sa
+&nbsp;&nbsp;liosta
+&nbsp;&nbsp;○ chun faisnéis a fháil faoi episodes
+&nbsp;&nbsp;&nbsp;&nbsp;nua
+
+Riachtanais líonra:
+
+● Is féidir leis an liosta na
+&nbsp;&nbsp;sraitheanna teilifíse breise a úsáid
+&nbsp;&nbsp;agus as líne go hiomlán
+● Tá ceangal idirlín ag teastáil ach
+&nbsp;&nbsp;amháin chun an tsraith teilifíse a
+&nbsp;&nbsp;chur leis nó a thabhairt cothrom le
+&nbsp;&nbsp;dáta
+
+Creidiúintí:
+
+● Tá na sonraí go léir a fhaightear ó
+&nbsp;&nbsp;Bhunachar Sonraí Movie (TMDB), ag
+&nbsp;&nbsp;baint úsáide as leagan 3 ar an TMDB
+&nbsp;&nbsp;API
+● líníocht stairiúil:
+&nbsp;&nbsp;1. Cuir Sraith
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. Scálaigh
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Rianóir Ama an Teilifíse Beag

@@ -1,0 +1,33 @@
+Features include the ability to:
+
+● configure and save any number of
+&nbsp;&nbsp;application profiles
+● each application profile can specify:
+&nbsp;&nbsp;○ title
+&nbsp;&nbsp;○ file path to main Javascript file
+&nbsp;&nbsp;○ command line options for the Node.js
+&nbsp;&nbsp;&nbsp;&nbsp;runtime
+&nbsp;&nbsp;○ command line options for the
+&nbsp;&nbsp;&nbsp;&nbsp;application
+&nbsp;&nbsp;○ environment variables
+&nbsp;&nbsp;○ current working directory
+● application profiles are grouped by:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applications share a single
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;process. Only one can execute at a
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;time.
+&nbsp;&nbsp;○ "fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each application is given its own
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;process. Each executes in a
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foreground service. An associated
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notification kills the process.
+● backup and restore:
+&nbsp;&nbsp;○ export all application profiles to
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ import new application profiles from
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Embedded runtime environment:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

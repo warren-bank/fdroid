@@ -1,0 +1,19 @@
+Upotreba:
+
+● prikazuje listu svih uparenih
+&nbsp;&nbsp;Bluetooth uređaja
+&nbsp;&nbsp;○ Kliknite na onaj koji identificira
+&nbsp;&nbsp;&nbsp;&nbsp;željeni prijemnik
+&nbsp;&nbsp;○ Čekanje na vezu
+
+● promijeni PTT gumb
+&nbsp;&nbsp;○ Zelena označava da je audio je
+&nbsp;&nbsp;&nbsp;&nbsp;trenutno zarobljen
+&nbsp;&nbsp;&nbsp;&nbsp;od mikrofona i kroz spojenu utičnicu
+&nbsp;&nbsp;○ crvena pokazuje da je audio stream
+&nbsp;&nbsp;&nbsp;&nbsp;trenutno pauziran
+
+● pomaknite klizač da podesite volumen
+&nbsp;&nbsp;zvuka
+&nbsp;&nbsp;○ default: 25%
+&nbsp;&nbsp;○ maksimum: 200%

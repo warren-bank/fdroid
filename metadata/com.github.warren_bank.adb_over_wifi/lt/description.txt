@@ -1,0 +1,7 @@
+Reikia šaknų!
+
+USB režimas yra numatytasis. Jis reikalauja, kad USB kabelis ir USB tvarkyklės prisijungti Android įrenginį į kompiuterį.
+
+WiFi režimas yra belaidis ir nereikalauja jokių papildomų vairuotojų. Bet kuris kompiuteris gali naudoti "adb" kliento prašyti prisijungimo prie "Android" įrenginį.
+
+Kai įjungta "WiFi" režimas, ši programa rodo "adb" komandą, reikalingą tokiam prijungimui prie LAN.

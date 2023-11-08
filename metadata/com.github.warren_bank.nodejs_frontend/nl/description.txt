@@ -1,0 +1,37 @@
+Kenmerken omvatten de mogelijkheid om:
+
+● configureren en opslaan van een
+&nbsp;&nbsp;willekeurig aantal
+&nbsp;&nbsp;toepassingsprofielen
+● in elk toepassingsprofiel kan worden
+&nbsp;&nbsp;opgegeven:
+&nbsp;&nbsp;○ titel
+&nbsp;&nbsp;○ bestandspad naar hoofd
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript-bestand
+&nbsp;&nbsp;○ opdrachtregelopties voor de
+&nbsp;&nbsp;&nbsp;&nbsp;Node.js-runtime
+&nbsp;&nbsp;○ opdrachtregelopties voor de
+&nbsp;&nbsp;&nbsp;&nbsp;toepassing
+&nbsp;&nbsp;○ omgevingsvariabelen
+&nbsp;&nbsp;○ huidige werkdirectory
+● toepassingsprofielen zijn gegroepeerd
+&nbsp;&nbsp;op:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toepassingen delen een enkel
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. Er kan slechts één
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tegelijk worden uitgevoerd.
+&nbsp;&nbsp;○ "vork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elke aanvraag krijgt een eigen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. Elke executes in een
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;voorgronddienst. Een bijbehorende
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;melding doodt het proces.
+● backup en herstel:
+&nbsp;&nbsp;○ alle toepassingsprofielen naar JSON
+&nbsp;&nbsp;&nbsp;&nbsp;exporteren
+&nbsp;&nbsp;○ nieuwe toepassingsprofielen
+&nbsp;&nbsp;&nbsp;&nbsp;importeren uit JSON
+
+Ingesloten runtime-omgeving:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

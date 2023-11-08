@@ -1,0 +1,1 @@
+Pendamping untuk "Mock GPS saya". Backend plugin untuk "UnifiedNlp".

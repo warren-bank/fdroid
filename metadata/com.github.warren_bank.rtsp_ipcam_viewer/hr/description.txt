@@ -1,0 +1,30 @@
+Ovi formati su tipični za neskupe IP sigurnosne kamere.
+
+Funkcije uključuju mogućnost:
+
+● konfiguriranje neograničenih topova
+&nbsp;&nbsp;video protoka
+● import video topova videa iz JSON
+&nbsp;&nbsp;datoteke
+● svaki tok može uključivati URL-ove za
+&nbsp;&nbsp;dva izvora:
+&nbsp;&nbsp;○ niska rezolucija
+&nbsp;&nbsp;○ visoka rezolucija
+● selektivno omogućavanje i
+&nbsp;&nbsp;onemogućavanje točnih topova na listi
+● prikaz omogućenih topova u listi ili
+&nbsp;&nbsp;izgledu mreže
+&nbsp;&nbsp;○ koristi nisku rezoluciju (kada je
+&nbsp;&nbsp;&nbsp;&nbsp;dostupno)
+● izaberite pojedinačni tok iz liste ili
+&nbsp;&nbsp;izgleda mreže
+&nbsp;&nbsp;○ prikazuje se u punom ekranu
+&nbsp;&nbsp;○ koristi visoku rezoluciju (kada je
+&nbsp;&nbsp;&nbsp;&nbsp;dostupna)
+
+Povijest:
+
+Ova aplikacija je izvorno napisana za testiranje eksperimentalne grane ExoPlayera. U to vrijeme, ova podružnica je imala otvoren zahtjev za potezanje koji nije bio spojen nakon nekoliko godina:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Na kraju, ova grana je bila spojena. Sada, ova aplikacija koristi stabilne izgradnje ExoPlayera. Što je, imho, manje zanimljivo. No, to još uvijek može biti korisno.

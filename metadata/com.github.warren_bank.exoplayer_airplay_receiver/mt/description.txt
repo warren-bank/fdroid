@@ -1,0 +1,5 @@
+Jisma 'l-adapter LAN Wi-Fi bl-użu ta' API HTTP mingħajr stat (ibbażat fuq AirPlay v1). Tirriklama d-disponibbiltà tagħha għall-iskoperta bl-użu mDNS (Bonjour).
+
+Jappoġġja l-apparat tad-daqsijiet kollha tal-wiri; kaxxi ta 'l-ewwel sett ġeneriċi mhux għaljin b'output HDMI b'riżoluzzjoni għolja huma l-pjattaforma fil-mira, iżda jaħdem ugwalment tajjeb fuq handsets antiki ħafna bi skrins żgħar ħafna ta' riżoluzzjoni baxxa.
+
+L-API hija estensiva u dokumentata b'mod sħiħ. A statiku web page SPA implimentazzjoni klijent jagħmel din il-funzjonalità aċċessibbli ħafna. Fuq il-livell l-aktar bażiku tagħha, dan l-API jipprovdi l-abbiltà li "mitfugħa" URLS fi playlist u jikkontrollaw l-aspetti kollha ta 'kif wieħed jista' jkollu.

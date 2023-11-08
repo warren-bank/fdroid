@@ -1,0 +1,24 @@
+Fitur termasuk:
+
+● Penemuan automatik revers AirPlay
+&nbsp;&nbsp;dalam rangkaian yang sama
+● Pancaran foto dari peranti anda ke
+&nbsp;&nbsp;AirPlay
+● Video strim dan muzik dari peranti
+&nbsp;&nbsp;anda ke AirPlay
+● Cermin skrin dari peranti anda ke
+&nbsp;&nbsp;AirPlay
+
+Credits:
+
+● BoidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Versi asal aplikasi ini.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Strim Skrin
+&nbsp;&nbsp;&nbsp;&nbsp;Disediakan banyak kod untuk
+&nbsp;&nbsp;&nbsp;&nbsp;melaksanakan cerminan skrin
+&nbsp;&nbsp;&nbsp;&nbsp;melaksanakan pada Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protokol AirPlay (versi 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Dokumentasi tidak rasmi.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

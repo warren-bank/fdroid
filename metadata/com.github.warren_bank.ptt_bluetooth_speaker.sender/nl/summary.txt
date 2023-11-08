@@ -1,0 +1,1 @@
+Hiermee wordt audio van de microfoon vastgelegd en naar de ontvanger gestuurd.

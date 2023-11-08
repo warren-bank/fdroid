@@ -1,0 +1,1 @@
+Cliente para sincronizar datos del portapapeles a través de un servidor.

@@ -1,0 +1,29 @@
+Sfondo:
+
+● un Intent Android può essere
+&nbsp;&nbsp;utilizzato per aprire una parte
+&nbsp;&nbsp;precisa di qualsiasi applicazione
+&nbsp;&nbsp;installata e trasmetterla a qualsiasi
+&nbsp;&nbsp;tipo o quantità di dati
+● come tale, un Intent è come un
+&nbsp;&nbsp;segnalibro Android
+
+Le funzioni includono la possibilità di:
+
+● configurare e salvare Intents come
+&nbsp;&nbsp;segnalibri denominati
+● utilizzare i segnalibri a:
+&nbsp;&nbsp;○ avviare un'Attività
+&nbsp;&nbsp;○ avviare un servizio
+&nbsp;&nbsp;○ inviare un Broadcast
+● segnalibri da utilizzare in seguito:
+&nbsp;&nbsp;○ una volta
+&nbsp;&nbsp;○ ad un intervallo
+● intercettare gli Intenti avviati da
+&nbsp;&nbsp;altre applicazioni:
+&nbsp;&nbsp;○ per modificare
+&nbsp;&nbsp;○ per salvare
+● backup e ripristino:
+&nbsp;&nbsp;○ l'intero database SQLite
+&nbsp;&nbsp;○ File dati JSON
+&nbsp;&nbsp;○ file di dati HTML Netscape bookmark

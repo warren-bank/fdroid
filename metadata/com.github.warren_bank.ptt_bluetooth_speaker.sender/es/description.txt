@@ -1,0 +1,20 @@
+Uso:
+
+● muestra una lista de todos los
+&nbsp;&nbsp;dispositivos Bluetooth emparejados
+&nbsp;&nbsp;○ haga clic en el que identifica el
+&nbsp;&nbsp;&nbsp;&nbsp;receptor deseado
+&nbsp;&nbsp;○ esperar a la conexión
+
+● conmutar el botón PTT
+&nbsp;&nbsp;○ verde indica que se está capturando
+&nbsp;&nbsp;&nbsp;&nbsp;actualmente el audio
+&nbsp;&nbsp;&nbsp;&nbsp;desde el micrófono y retransmitido a
+&nbsp;&nbsp;&nbsp;&nbsp;través del socket conectado
+&nbsp;&nbsp;○ red indica que la corriente de audio
+&nbsp;&nbsp;&nbsp;&nbsp;está actualmente en pausa
+
+● mover el deslizador para ajustar el
+&nbsp;&nbsp;volumen del audio
+&nbsp;&nbsp;○ Valor predeterminado: 25%
+&nbsp;&nbsp;○ máximo: 200%

@@ -1,0 +1,15 @@
+Betingede kriterier inkluderer:
+
+● en hviteliste av avsender telefonnumre
+● en delstreng som må forekomme i
+&nbsp;&nbsp;begynnelsen av den mottatte
+&nbsp;&nbsp;SMS-meldingen
+
+GPS-stedsdata omfatter:
+
+● breddegrader og lengdegrad koordinerer
+● nøyaktighet (målere)
+● hastighet (meters/sek)
+● retning (kardinal eller ordenstall, og
+&nbsp;&nbsp;grader)
+● URL til Google Maps

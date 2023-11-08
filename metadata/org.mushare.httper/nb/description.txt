@@ -1,0 +1,19 @@
+Konfigurerbare HTTP-forespørselsattributter:
+
+● metode
+● protokoll
+● URL
+● topptekster
+● querystrengparametere
+● hoveddel
+
+Funksjoner omfatter muligheten til å:
+
+● send en forespørsel en gang
+● sende en forespørsel gjentatte ganger
+&nbsp;&nbsp;på et oppgitt tidsintervall
+● last inn konfigurasjonen av en
+&nbsp;&nbsp;tidligere forespørsel fra en
+&nbsp;&nbsp;historielogg
+● pene print JSON-svardata
+● forhåndsvise HTML-svardata

@@ -1,0 +1,3 @@
+Betingelserne er defineret på en liste over regler. Hver regel tilknytter et modtagende modtagertelefonnummer med et mønster, der skal svare til afsenderen af en modtagne SMS-besked.
+
+Når der modtages en ny SMS-meddelelse, videresendes det til modtagerens telefonnumre i henhold til de enkelte regler, der har et matchende mønster.

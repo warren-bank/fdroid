@@ -1,0 +1,12 @@
+Slayt Gösterisi Ayarları:
+
+● Zaman Süresi (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Her resmin görüntülenme süresi.
+● MediaStore sağlayıcısını kullan
+&nbsp;&nbsp;&nbsp;&nbsp;Android indeksli görüntü dosyalarını
+&nbsp;&nbsp;&nbsp;&nbsp;alır.
+● Dizin yolu
+&nbsp;&nbsp;&nbsp;&nbsp;Dosya sistemindeki belirli bir
+&nbsp;&nbsp;&nbsp;&nbsp;dizinden görüntüler elde edin.
+● Alt dizinlere özyinelemeli
+● Rasgele sipariş

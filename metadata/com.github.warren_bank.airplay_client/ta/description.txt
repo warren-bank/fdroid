@@ -1,0 +1,25 @@
+மேற்கோள்கள்:
+
+● ஒரே வலைப்பதிவுகளுக்குள் AirPlay
+&nbsp;&nbsp;ரிபீவுகளின் தானாகவே
+&nbsp;&nbsp;கண்டுபிடிக்கப்பட்டது
+● உங்கள் சாதனத்தில் இருந்து AirPlay-க்கு
+&nbsp;&nbsp;பீம் புகைப்படங்கள்
+● உங்கள் சாதனத்தில் இருந்து ஏறக்குறைய
+&nbsp;&nbsp;விடியோக்கள் மற்றும் இசை
+● உங்கள் சாதனத்தில் இருந்து AirPlay to
+&nbsp;&nbsp;AirPlay
+
+உருவாக்குபவர்:
+
+● விடுதலை
+&nbsp;&nbsp;&nbsp;&nbsp;இந்த பயன்பாட்டின் மூல பதிப்பு.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● திரைமேடை
+&nbsp;&nbsp;&nbsp;&nbsp;ஆன்ட்ரான்டு 5.0+ இல் திரைக் கண்ணாடி
+&nbsp;&nbsp;&nbsp;&nbsp;செயற்படுத்துவதற்கு பெரும்பாலான
+&nbsp;&nbsp;&nbsp;&nbsp;குறியீடு
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (version 1) நெறிமுறை
+&nbsp;&nbsp;&nbsp;&nbsp;உதாரண ஆவணங்கள்
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

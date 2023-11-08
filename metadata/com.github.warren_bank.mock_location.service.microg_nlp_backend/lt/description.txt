@@ -1,0 +1,19 @@
+Leidžia "Mock mano GPS" elgtis kaip mock vietos paslaugų teikėjas "UnifiedNlL".
+
+"UnifiedNlp" yra:
+
+● paprastai įdiegta kaip komponentas
+&nbsp;&nbsp;"mikroG"
+● skirtas naudoti ant de-Googled Android
+&nbsp;&nbsp;ROM
+● a drop-in pakeitimas "Google Location
+&nbsp;&nbsp;Services"
+
+"UnifiedNlp" mock vietos duomenų integravimas:
+
+● yra įjungtas tik tuo metu, kai "Mock
+&nbsp;&nbsp;mano GPS" yra aktyvus
+● Pirmenybę teikti kitų "UnifiedNlp"
+&nbsp;&nbsp;programinė sąsaja įskiepių plečiant
+&nbsp;&nbsp;timestamp 45 sekundžių, todėl atrodo,
+&nbsp;&nbsp;kad labiausiai neseniai

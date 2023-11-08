@@ -1,0 +1,1 @@
+Servidor para sincronizar dados de área de transferência entre clientes.

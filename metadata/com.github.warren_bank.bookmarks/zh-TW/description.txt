@@ -1,0 +1,23 @@
+背景：
+
+● Android Intent
+&nbsp;&nbsp;可用來開啟任何已安裝之應用程式的精確組件，並傳遞給它任何類型或數量的資料
+● 因此， Intent 就像 Android 書籤一樣
+
+特性包括下列功能：
+
+● 配置並將 Intent 儲存為具名書籤
+● 使用書籤至：
+&nbsp;&nbsp;○ 開始活動
+&nbsp;&nbsp;○ 啟動服務
+&nbsp;&nbsp;○ 發送廣播
+● 排程書籤，稍後將使用：
+&nbsp;&nbsp;○ 一次
+&nbsp;&nbsp;○ 間隔
+● 截取由其他應用程式啟動的 Intent ：
+&nbsp;&nbsp;○ 改
+&nbsp;&nbsp;○ 省
+● 備份及還原：
+&nbsp;&nbsp;○ 整個 SQLite 資料庫
+&nbsp;&nbsp;○ JSON 資料檔案
+&nbsp;&nbsp;○ Netscape Bookmark HTML data file

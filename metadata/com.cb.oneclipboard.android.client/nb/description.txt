@@ -1,0 +1,7 @@
+Tjenere er tilgjengelig for en rekke ulike plattformer, inkludert Android.
+
+Alle klienter som kobler seg til en felles server og autentiserer ved hjelp av samme brukernavn og passordkombinasjon, vil dele en felles skriveplate. Når enhver klient kopierer nye data inn på sitt utklippstavle, sendes disse dataene til serveren og deretter kringkaster til alle autentiserte klienter.
+
+Alle utklippstavledata er kryptert slutt-til-slutt.
+
+Tasker-integrering støttes.

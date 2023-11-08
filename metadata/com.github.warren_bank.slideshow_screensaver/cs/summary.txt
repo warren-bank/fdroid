@@ -1,0 +1,1 @@
+Screensaver, který zobrazuje slideshow lokálních obrázků.

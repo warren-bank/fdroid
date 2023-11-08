@@ -1,0 +1,10 @@
+幻灯片设置:
+
+● 持续时间 (毫秒)
+&nbsp;&nbsp;&nbsp;&nbsp;显示每个图像的时间段。
+● 使用 MediaStore 提供程序
+&nbsp;&nbsp;&nbsp;&nbsp;从 Android 索引获取图像文件。
+● 目录路径
+&nbsp;&nbsp;&nbsp;&nbsp;从文件系统中的特定目录获取图像。
+● 递归至子目录
+● 随机顺序

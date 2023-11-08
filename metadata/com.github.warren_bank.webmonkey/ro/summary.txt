@@ -1,0 +1,1 @@
+Browser-ul web cu greutate redusă, cu suport pentru Greasemonkey userscripts.

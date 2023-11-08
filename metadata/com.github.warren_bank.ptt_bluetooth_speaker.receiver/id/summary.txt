@@ -1,0 +1,1 @@
+Menerima audio dari pengirim dan memutar melalui speaker.

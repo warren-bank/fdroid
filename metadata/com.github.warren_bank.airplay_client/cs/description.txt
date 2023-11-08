@@ -1,0 +1,24 @@
+Vlastnosti zahrnují:
+
+● Automatické zjišťování přijímačů
+&nbsp;&nbsp;AirPlay v rámci stejné sítě
+● Beam fotky z vašeho zařízení do
+&nbsp;&nbsp;AirPlay
+● Proudové videa a hudba z vašeho
+&nbsp;&nbsp;zařízení do AirPlay
+● Zrcadlete obrazovku ze zařízení na
+&nbsp;&nbsp;AirPlay
+
+Poděkování:
+
+● Zrušit přehrávání
+&nbsp;&nbsp;&nbsp;&nbsp;Původní verze této aplikace.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Proud obrazovky
+&nbsp;&nbsp;&nbsp;&nbsp;Poskytuje většinu kódu k
+&nbsp;&nbsp;&nbsp;&nbsp;implementaci zrcadlení obrazovky v
+&nbsp;&nbsp;&nbsp;&nbsp;systému Android 5.0+.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protokol AirPlay (verze 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Neoficiální dokumentace.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

@@ -1,0 +1,19 @@
+Omogoča "Mock my GPS", da se obnaša kot ponudnik ležeče lokacije za "UnifiedNlp".
+
+'UnifiedNlp' je:
+
+● običajno nameščena kot komponenta
+&nbsp;&nbsp;"mikroG"
+● namenjeni za uporabo pri
+&nbsp;&nbsp;odstranivanjih gl-Google Android
+● spustni zamenjavi za "storitve Google
+&nbsp;&nbsp;Location"
+
+"UnifiedNlp" integracija podatkov o lokaciji, ki se nanašajo na lokacijo:
+
+● je omogočena samo med tem, ko je "Mock
+&nbsp;&nbsp;my GPS" aktiven
+● je prednost pred drugimi vtičniki
+&nbsp;&nbsp;"UnifiedNlp" z napredovanju časovnega
+&nbsp;&nbsp;žiga 45 sekund, tako da se zdi, da je
+&nbsp;&nbsp;najnovejši

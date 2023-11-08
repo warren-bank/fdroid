@@ -1,0 +1,35 @@
+విశేషాలు:
+
+● @ application/rich
+● ప్రతి అప్లికేషన్ ప్రొఫైలు
+&nbsp;&nbsp;తెలుపుకోవచ్చు:
+&nbsp;&nbsp;○ టైటిల్
+&nbsp;&nbsp;○ ప్రధాన జావాస్క్రిప్ట్ ఫైల్ కు ఫైల్
+&nbsp;&nbsp;&nbsp;&nbsp;దారి
+&nbsp;&nbsp;○ Node.js runtime కొరకు ఆదేశపు వరుసల
+&nbsp;&nbsp;&nbsp;&nbsp;ఐచ్ఛికములు
+&nbsp;&nbsp;○ అనువర్తనము కొరకు ఆదేశము వరుసల
+&nbsp;&nbsp;&nbsp;&nbsp;ఐచ్ఛికములు
+&nbsp;&nbsp;○ పర్యావరణ వేరియబుల్
+&nbsp;&nbsp;○ ప్రస్తుత పని డైరెక్టరీ
+● అనువర్తనము ప్రొఫైలు సమూహము:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;అప్లికేషన్లు ఒక్క ప్రక్రియను
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;పంచుకుంటారు. ఒక సమయంలో మాత్రమే
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;నిర్వచించవచ్చు.
+&nbsp;&nbsp;○ "Fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ప్రతి అనువర్తనం దాని స్వంత
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ప్రక్రియ ఇవ్వబడుతుంది. ఒక
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ఫోర్గ్రౌండ్ సర్వీసులో ప్రతి
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;నిర్వచనం. ఒక సంప్రదాయ నోటీసు
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ప్రక్రియ చంపుతుంది.
+● బ్యాకప్ మరియు పునర్మరణం:
+&nbsp;&nbsp;○ అన్ని అనువర్తనాల ప్రొఫైల్లను JSON
+&nbsp;&nbsp;&nbsp;&nbsp;కొరకు ఎగుమతి చేయుము
+&nbsp;&nbsp;○ JSON నుండి కొత్త అనువర్తనము
+&nbsp;&nbsp;&nbsp;&nbsp;ప్రొఫైల్లను దిగుమతిచేయి
+
+ఎంబెడెడ్ పరుపు పర్యావరణం:
+
+● Node.js 12.19.0
+● ఓపెన్ ఎస్ ఎస్ ఎల్ 1.1.1g

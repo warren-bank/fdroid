@@ -1,0 +1,26 @@
+以下の機能があります。
+
+● 固定された位置を固定する
+● 旅行をシミュレートする
+● ジョイスティックを使用して、固定された固定位置に相対的に移動する
+● インテントからの緯度と経度の地理座標ペアを受け入れる
+● 指定されたブックマークとしての緯度と経度の地理座標のペアを保存する
+
+種類:
+
+1. アオSP
+2. AOSP + Google Play サービス
+3. AOSP + Huawei モバイル・サービス
+
+Android の統合:
+
+1. 開発者のオプション
+&nbsp;&nbsp;&nbsp;● オープン:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;設定 > システム > 電話について
+&nbsp;&nbsp;&nbsp;● 7 回繰り返しクリックします。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ビルド番号
+2. 構成:
+&nbsp;&nbsp;&nbsp;● オープン:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;設定 > システム > 開発者オプション
+&nbsp;&nbsp;&nbsp;● 保管値:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;モックの位置アプリ: 「Mock my GPS」

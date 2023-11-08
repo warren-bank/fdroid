@@ -1,0 +1,5 @@
+Posluša na vmesniku LAN-Fi LAN s pomočjo API-ja HTTP brez stanja (na osnovi AirPlay v1). Objame svojo razpoložljivost za odkrivanje s pomočjo mDNS (Bonjour).
+
+Podpira naprave vseh velikosti zaslonov ; predrage generične set-zgornje škatle z visoko ločljivostjo izhodnih podatkov HDMI so ciljna platforma, vendar enako dobro deluje na zelo starih ročajih z zelo majhnimi zasloni z nizko ločljivostjo.
+
+API je obsežen in v celoti dokumentiran. Implementiza statične spletne strani SPA omogoča, da je ta funkcionalnost visoko dostopna. Ta API na najbolj osnovni ravni nudi zmožnost "pretvorbe" medijskih URL-jev v seznam predvajanje in nadzor vseh vidikov predvaja.

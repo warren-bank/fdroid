@@ -1,0 +1,1 @@
+Lysvekt nettnettleser for å hente ut video-URLer fra nettsider.

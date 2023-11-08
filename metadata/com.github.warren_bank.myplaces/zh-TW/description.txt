@@ -1,0 +1,13 @@
+特性包括下列功能：
+
+● 排序地理座標的清單：
+&nbsp;&nbsp;○ 循序
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因為位置發生在輸入檔中。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex：精確的旅遊行程
+&nbsp;&nbsp;○ 距離
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;依距離現行位置的距離排序。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex：特定探索附近的 POI
+&nbsp;&nbsp;○ 英文字母
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由與位置相關聯的敘述性名稱排序。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex：我的最愛位置書籤
+● 按一下清單項目，以在外部應用程式（例如對映或導覽）中開啟對應的位置。

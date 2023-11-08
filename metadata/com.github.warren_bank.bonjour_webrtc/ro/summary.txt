@@ -1,0 +1,1 @@
+Face apeluri video între dispozitive într-un LAN.

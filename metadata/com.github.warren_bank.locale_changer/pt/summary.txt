@@ -1,0 +1,1 @@
+Alterar o locale padrão do sistema Android.

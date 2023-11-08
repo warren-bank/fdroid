@@ -1,0 +1,37 @@
+Las características incluyen la capacidad de:
+
+● configurar y guardar cualquier número
+&nbsp;&nbsp;de perfiles de aplicación
+● cada perfil de aplicación puede
+&nbsp;&nbsp;especificar:
+&nbsp;&nbsp;○ Título
+&nbsp;&nbsp;○ vía de acceso de archivo al archivo
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript principal
+&nbsp;&nbsp;○ opciones de línea de mandatos para
+&nbsp;&nbsp;&nbsp;&nbsp;el tiempo de ejecución Node.js
+&nbsp;&nbsp;○ opciones de línea de mandatos para
+&nbsp;&nbsp;&nbsp;&nbsp;la aplicación
+&nbsp;&nbsp;○ variables de entorno
+&nbsp;&nbsp;○ directorio de trabajo actual
+● Los perfiles de aplicación se agrupan
+&nbsp;&nbsp;por:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Las aplicaciones comparten un
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;único proceso. Sólo se puede
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ejecutar a la vez.
+&nbsp;&nbsp;○ "fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada aplicación tiene su propio
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proceso. Cada uno se ejecuta en un
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;servicio de primer plano. Una
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notificación asociada mata el
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proceso.
+● copia de seguridad y restauración:
+&nbsp;&nbsp;○ exportar todos los perfiles de
+&nbsp;&nbsp;&nbsp;&nbsp;aplicación a JSON
+&nbsp;&nbsp;○ importar nuevos perfiles de
+&nbsp;&nbsp;&nbsp;&nbsp;aplicación desde JSON
+
+Entorno de ejecución incorporado:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

@@ -1,0 +1,10 @@
+Slideshow 설정:
+
+● 시간 지속 기간 (밀리초)
+&nbsp;&nbsp;&nbsp;&nbsp;각 이미지가 표시되는 기간입니다.
+● MediaStore 제공자 사용하기
+&nbsp;&nbsp;&nbsp;&nbsp;Android 색인에서 이미지 파일을 얻는다.
+● 디렉토리 경로
+&nbsp;&nbsp;&nbsp;&nbsp;파일 시스템의 특정 디렉토리에서 이미지를 확보하십시오.
+● 서브디렉토리로의 반복
+● 무작위 순서

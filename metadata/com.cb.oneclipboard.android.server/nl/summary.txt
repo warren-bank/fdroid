@@ -1,0 +1,1 @@
+Server voor het synchroniseren van klembordgegevens voor alle clients.

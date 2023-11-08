@@ -1,0 +1,32 @@
+Memerlukan akar!
+
+Fitur termasuk:
+
+● sokongan untuk protokol pelayan
+&nbsp;&nbsp;proksi:
+&nbsp;&nbsp;○ & HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● sokongan untuk kaedah pengesahihan:
+&nbsp;&nbsp;○ Asas
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● sokongan untuk membenarkan pelayan
+&nbsp;&nbsp;proksi:
+&nbsp;&nbsp;○ globally, untuk semua apps
+&nbsp;&nbsp;○ hanya untuk apps khusus
+● sokongan untuk blacklist:
+&nbsp;&nbsp;○ Alamat IP untuk bypass proksi
+● sokongan untuk proksi DNS
+● sokongan untuk pemprofail berbilang
+● sokongan asas untuk fail proksi
+&nbsp;&nbsp;auto-konfigurasi (PAC)
+● keupayaan untuk rakan profil tertentu
+&nbsp;&nbsp;dengan:
+&nbsp;&nbsp;○ SSID WiFi
+&nbsp;&nbsp;○ Rangkaian Mudah Alih
+● widget untuk togol proksi pada/off
+● Kecekapan masa jalan:
+&nbsp;&nbsp;○ menggunakan bateri kecil
+&nbsp;&nbsp;○ guna RAM kecil

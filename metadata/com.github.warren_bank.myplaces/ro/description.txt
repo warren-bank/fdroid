@@ -1,0 +1,24 @@
+Caracteristicile includ capacitatea de a:
+
+● sortează lista coordonatelor
+&nbsp;&nbsp;geografice:
+&nbsp;&nbsp;○ secvențial
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comandat ca locațiile au loc în
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fișierul de intrare.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: un itinerariu de călătorie
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;precis
+&nbsp;&nbsp;○ distanța
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comandat la distanță de locația
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;curentă.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: explorarea ad-hoc a POI din
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apropiere
+&nbsp;&nbsp;○ alfabetică
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comandat de numele descriptive
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asociate cu locațiile.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: semne de carte de locuri
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;preferate
+● faceți clic pe un element de listă
+&nbsp;&nbsp;pentru a deschide locația
+&nbsp;&nbsp;corespunzătoare într-o aplicație
+&nbsp;&nbsp;externă, cum ar fi cartografierea sau
+&nbsp;&nbsp;navigarea.

@@ -1,0 +1,1 @@
+Asiakas voi synkronoida leikepöydälle tiedot palvelimen kautta.

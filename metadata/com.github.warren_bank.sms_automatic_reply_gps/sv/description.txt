@@ -1,0 +1,15 @@
+Villkorliga kriterier är:
+
+● en whitelist över avsändarens
+&nbsp;&nbsp;telefonnummer
+● en delsträng som måste inträffa i
+&nbsp;&nbsp;början av det mottagna SMS-meddelandet
+
+GPS-placeringsdata inkluderar:
+
+● latitud-och longitudkoordinater
+● noggrannhet (meter)
+● hastighet (meters/sek)
+● riktning (kardinal eller ordningstal,
+&nbsp;&nbsp;och grader)
+● URL till Google Maps

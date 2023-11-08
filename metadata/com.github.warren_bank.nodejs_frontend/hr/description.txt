@@ -1,0 +1,34 @@
+Funkcije uključuju mogućnost:
+
+● konfiguriranje i spremanje bilo kojeg
+&nbsp;&nbsp;broja profila aplikacije
+● svaki profil aplikacije može
+&nbsp;&nbsp;specificirati:
+&nbsp;&nbsp;○ naslov
+&nbsp;&nbsp;○ staza datoteke na glavnu Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;datoteku
+&nbsp;&nbsp;○ opcije reda za naredbe za vrijeme
+&nbsp;&nbsp;&nbsp;&nbsp;izvođenja Node.js
+&nbsp;&nbsp;○ opcije reda za naredbe za aplikaciju
+&nbsp;&nbsp;○ varijable okoline
+&nbsp;&nbsp;○ trenutni radni direktorij
+● profili aplikacije su grupirani po:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikacije dijele jedan proces.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samo se jedan može pogubiti
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;odjednom.
+&nbsp;&nbsp;○ "vilica"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Svaka aplikacija daje svoj
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vlastiti proces. Svaka se izvršava
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u podzemlju. Pridružena obavijest
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ubija proces.
+● sigurnosno kopiranje i vraćanje:
+&nbsp;&nbsp;○ eksportirati sve profile aplikacija
+&nbsp;&nbsp;&nbsp;&nbsp;na JSON
+&nbsp;&nbsp;○ import novih aplikacijskih profila
+&nbsp;&nbsp;&nbsp;&nbsp;iz JSON-a
+
+Umetnuta runtime okolina:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

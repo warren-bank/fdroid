@@ -1,0 +1,20 @@
+Funkcije vključujejo:
+
+● odkrivanje URL-jih uporabniškega
+&nbsp;&nbsp;skripta
+● samodejne posodobitve uporabniškega
+&nbsp;&nbsp;skripta
+● razširjen API Javascript, ki prikaže
+&nbsp;&nbsp;zmožnosti, specifične za Android
+● možnost, da prezrete napake
+&nbsp;&nbsp;certifikata HTTPS
+
+Omejitve:
+
+● uporabniški skripti se izvajajo samo v
+&nbsp;&nbsp;zgornjem oknu
+&nbsp;&nbsp;○ možnost skripta za injiciranje v
+&nbsp;&nbsp;&nbsp;&nbsp;okvirje iframe je možna, vendar
+&nbsp;&nbsp;&nbsp;&nbsp;zahteva zapleteno zaobitje ; za
+&nbsp;&nbsp;&nbsp;&nbsp;podrobnosti preglejte datoteko
+&nbsp;&nbsp;&nbsp;&nbsp;README.

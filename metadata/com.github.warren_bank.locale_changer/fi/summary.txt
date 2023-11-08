@@ -1,0 +1,1 @@
+Vaihda Android-järjestelmän oletuspaikallistunnus.

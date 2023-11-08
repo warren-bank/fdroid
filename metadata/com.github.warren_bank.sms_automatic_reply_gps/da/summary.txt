@@ -1,0 +1,1 @@
+Undersøg, om der er modtaget SMS-meddelelser og betingelsesløst svar med GPS-placeringsdata.

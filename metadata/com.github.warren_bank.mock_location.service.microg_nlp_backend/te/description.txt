@@ -1,0 +1,20 @@
+"UnifiedNlp" కొరకు "Mock my GPS" ఒక మోక్ స్థానం ప్రొవైడర్ గా వ్యవహరిస్తుంది.
+
+"UnifiedNlp" is:
+
+● ప్రత్యేకంగా "మైక్రోజి" యొక్క అంశంగా
+&nbsp;&nbsp;స్థాపించబడింది.
+● De-Googled Android ROMలో ఉపయోగం కోసం
+&nbsp;&nbsp;ఉద్దేశించబడింది
+● "Google Location Services" కొరకు ఒక
+&nbsp;&nbsp;drop-in replacement
+
+"UnifiedNlp" తో మోక్ స్థానం దత్తాంశం:
+
+● "Mock my GPS" క్రియాశీలముగా ఉన్నప్పుడు
+&nbsp;&nbsp;మాత్రమే క్రియాశీలమైంది
+● ఇతర "UnifiedNlp" బ్యాకెండ్
+&nbsp;&nbsp;ప్లగ్యిన్లను సమర్ధించడం ద్వారా
+&nbsp;&nbsp;టైమ్స్టాంప్ 45 సెకన్లను ప్రాప్తి
+&nbsp;&nbsp;చేస్తోంది, అందువలన ఇది ఇటీవల
+&nbsp;&nbsp;కనిపిస్తుంది.

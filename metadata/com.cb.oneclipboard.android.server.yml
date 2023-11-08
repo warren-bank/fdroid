@@ -1,0 +1,25 @@
+# https://github.com/warren-bank/fork-Java-OneClipboard/blob/improvements/v3.1.3/android-studio-project/gradle.properties
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Connectivity
+- System
+License: LGPL-3.0
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/fork-Java-OneClipboard.git
+SourceCode: https://github.com/warren-bank/fork-Java-OneClipboard/tree/improvements
+IssueTracker: https://github.com/warren-bank/fork-Java-OneClipboard/issues
+
+AutoName: OneClipboard Server
+Name: OneClipboard Server
+WebSite: ''
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 3.01.03
+CurrentVersionCode: 30103
+UpdateCheckMode: None
+AutoUpdateMode: None

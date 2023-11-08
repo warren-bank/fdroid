@@ -1,0 +1,1 @@
+L'inspection a reçu des messages SMS et les a transmis sous condition.

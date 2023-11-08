@@ -1,0 +1,7 @@
+Yêu cầu root!
+
+Chế độ USB là mặc định. Nó yêu cầu một cáp USB và các trình điều khiển USB để kết nối thiết bị Android với máy tính.
+
+Chế độ WiFi là không dây và không yêu cầu các trình điều khiển bổ sung. Bất kỳ máy tính nào cũng có thể sử dụng máy khách "adb" để yêu cầu kết nối với thiết bị Android.
+
+Khi bật chế độ WiFi, ứng dụng này hiển thị lệnh "adb" cần thiết để yêu cầu kết nối như vậy qua mạng LAN.

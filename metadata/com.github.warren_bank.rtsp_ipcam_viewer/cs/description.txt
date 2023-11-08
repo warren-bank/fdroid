@@ -1,0 +1,30 @@
+Tyto formáty jsou typické pro levné bezpečnostní kamery IP.
+
+Funkce zahrnují schopnost:
+
+● konfigurovat neomezený počet video
+&nbsp;&nbsp;proudů
+● import video proudů ze souboru JSON
+● Každý proud může zahrnovat adresy URL
+&nbsp;&nbsp;pro dva zdroje:
+&nbsp;&nbsp;○ nízké rozlišení
+&nbsp;&nbsp;○ vysoké rozlišení
+● selektivně povolit a zakázat proudy v
+&nbsp;&nbsp;seznamu
+● zobrazení povolených proudů v
+&nbsp;&nbsp;rozvržení seznamu nebo mřížky
+&nbsp;&nbsp;○ používá nízké rozlišení (je-li k
+&nbsp;&nbsp;&nbsp;&nbsp;dispozici)
+● výběr jednoho proudu ze seznamu nebo
+&nbsp;&nbsp;rozvržení mřížky
+&nbsp;&nbsp;○ se zobrazí na celé obrazovce
+&nbsp;&nbsp;○ používá vysoké rozlišení (je-li k
+&nbsp;&nbsp;&nbsp;&nbsp;dispozici)
+
+Historie:
+
+Tato aplikace byla původně sepsána pro testování experimentální větve ExoPlayer. V té době tato pobočka měla otevřený požadavek na stažení, který nebyl sloučen po několika letech:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/
+&nbsp;&nbsp;3854
+
+Nakonec byla tato větev sloučena. Nyní tato aplikace používá stabilní sestavení ExoPlayer. Což je méně zajímavé. Ale pořád to může být užitečné.

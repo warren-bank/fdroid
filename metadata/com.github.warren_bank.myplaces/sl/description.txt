@@ -1,0 +1,22 @@
+Funkcije vključujejo zmožnost za:
+
+● razvrstitev seznama geografskih
+&nbsp;&nbsp;koordinat:
+&nbsp;&nbsp;○ zaporedno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naročeno, ko se lokacije pojavijo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v vhodni datoteki.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: natančen potovalni načrt
+&nbsp;&nbsp;○ razdalja
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Razvrščeno po razdalji od trenutne
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lokacije.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hoc raziskovanje v
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bližini POI
+&nbsp;&nbsp;○ abecedni
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Razvrščeno po opisnih imenih,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;povezanih z lokacijami.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: zaznamki za priljubljena
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mesta
+● kliknite na postavko seznama, če
+&nbsp;&nbsp;želite odpreti ustrezno lokacijo v
+&nbsp;&nbsp;zunanji aplikaciji, kot je na primer
+&nbsp;&nbsp;preslikava ali navigacija.

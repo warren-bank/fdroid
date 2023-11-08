@@ -1,0 +1,1 @@
+Cambiare il locale del sistema Android predefinito.

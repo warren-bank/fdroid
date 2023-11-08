@@ -1,0 +1,33 @@
+Gyökér kell!
+
+A szolgáltatások a következők:
+
+● Proxy kiszolgáló protokollok
+&nbsp;&nbsp;támogatása:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● Hitelesítési módszerek támogatása:
+&nbsp;&nbsp;○ Alapszintű
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLH2
+● A proxykiszolgáló engedélyezésének
+&nbsp;&nbsp;támogatása:
+&nbsp;&nbsp;○ Globálisan, minden alkalmazás esetén
+&nbsp;&nbsp;○ Csak adott alkalmazások esetében
+● Feketelista támogatása:
+&nbsp;&nbsp;○ IP címek a proxy kihagyásához
+● DNS proxy támogatása
+● Több profil támogatása
+● Proxy automatikus konfiguráció (PAC)
+&nbsp;&nbsp;fájl alaptámogatása
+● Egy adott profil társításának
+&nbsp;&nbsp;képessége:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobil hálózat
+● Felületi elem a proxy továbbító
+&nbsp;&nbsp;bekapcsolásához
+● Futási hatékonyság:
+&nbsp;&nbsp;○ Kis akkumulátort fogyaszt
+&nbsp;&nbsp;○ Kis RAM-ot használ

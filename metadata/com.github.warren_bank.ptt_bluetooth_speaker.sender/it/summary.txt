@@ -1,0 +1,1 @@
+Cattura l'audio dal microfono e lo invia al ricevitore.

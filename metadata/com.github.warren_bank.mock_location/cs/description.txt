@@ -1,0 +1,32 @@
+Funkce zahrnují schopnost:
+
+● simulovaná pozice
+● simulovat cestu
+● use a joystick to move relative to a
+&nbsp;&nbsp;mock fixed position
+● přijmout zeměpisné souřadnice
+&nbsp;&nbsp;zeměpisné šířky a zeměpisné délky z
+&nbsp;&nbsp;různých záměrů
+● uložit zeměpisnou šířku a zeměpisnou
+&nbsp;&nbsp;délku dvojic geo-souřadnicových dvojic
+&nbsp;&nbsp;jako pojmenované záložky
+
+Variace:
+
+1. SPOLEČNOST
+2. AOSP + služby Google Play
+3. Služby AOSP + Huawei Mobile
+
+Integrace Android:
+
+1. povolit volby vývojáře
+&nbsp;&nbsp;&nbsp;● otevřený:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nastavení > Systém > O telefonu
+&nbsp;&nbsp;&nbsp;● opakovaně klepněte na 7krát:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Číslo sestavení
+2. konfigurovat:
+&nbsp;&nbsp;&nbsp;● otevřený:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nastavení > Systém > Volby
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vývojáře
+&nbsp;&nbsp;&nbsp;● Uložit hodnoty:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock app app: "Mock my GPS"

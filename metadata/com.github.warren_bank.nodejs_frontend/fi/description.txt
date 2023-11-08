@@ -1,0 +1,34 @@
+Ominaisuuksiin kuuluu kyky:
+
+● Määritä ja tallenna kaikki
+&nbsp;&nbsp;sovellusprofiilit
+● Jokainen sovellusprofiili voi
+&nbsp;&nbsp;määrittää:
+&nbsp;&nbsp;○ Otsikko
+&nbsp;&nbsp;○ Tiedoston polku
+&nbsp;&nbsp;&nbsp;&nbsp;pääJavascript-tiedostoon
+&nbsp;&nbsp;○ Node.js-ajon komentoriviasetukset
+&nbsp;&nbsp;○ Sovelluksen komentoriviasetukset
+&nbsp;&nbsp;○ Ympäristömuuttujat
+&nbsp;&nbsp;○ Nykyinen työhakemisto
+● Sovellusprofiilit ryhmitellään
+&nbsp;&nbsp;seuraavasti:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sovellukset jakavat yhden
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prosessin. Vain yksi voi suorittaa
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kerrallaan.
+&nbsp;&nbsp;○ "Haarukka"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jokainen hakemus saa oman
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prosessinsa. Jokainen suorittaa
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tulosaineiston. Liittyvä ilmoitus
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tappaa prosessin.
+● Varmistuskopiointi ja palautus:
+&nbsp;&nbsp;○ Kaikkien sovellusprofiilien vienti
+&nbsp;&nbsp;&nbsp;&nbsp;JSONiin
+&nbsp;&nbsp;○ Uusien sovellusprofiilien tuonti
+&nbsp;&nbsp;&nbsp;&nbsp;JSONista
+
+Sisällytetty ajonaikainen ympäristö:
+
+● Node.js 12.19,0
+● OpenSSL 1.1.1g

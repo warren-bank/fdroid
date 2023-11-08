@@ -1,0 +1,19 @@
+Konfigurierbare Attribute für HTTP-Anforderungen:
+
+● Methode
+● Protokoll
+● URL
+● Kopfzeilen
+● Querystring-Parameter
+● Körper
+
+Zu den Features gehören die folgenden Funktionen:
+
+● Senden einer Anforderung einmal
+● Senden einer Anforderung wiederholt in
+&nbsp;&nbsp;einem angegebenen Zeitintervall
+● die Konfiguration einer vorherigen
+&nbsp;&nbsp;Anforderung aus einem Systemprotokoll
+&nbsp;&nbsp;erneut laden
+● hübsche JSON-Antwortdaten drucken
+● HTML-Antwortdaten voranzeigen

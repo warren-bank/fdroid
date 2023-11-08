@@ -1,0 +1,22 @@
+Dostępne są następujące funkcje:
+
+● wykrywanie adresów URL skryptów
+&nbsp;&nbsp;użytkownika
+● automatyczne aktualizacje skryptu
+&nbsp;&nbsp;userscript
+● rozszerzony interfejs API języka
+&nbsp;&nbsp;Javascript, który udostępnia
+&nbsp;&nbsp;możliwości specyficzne dla systemu
+&nbsp;&nbsp;Android
+● możliwość ignorowania błędów
+&nbsp;&nbsp;certyfikatów HTTPS
+
+Ograniczenia:
+
+● Skrypty użytkownika działają tylko w
+&nbsp;&nbsp;górnym oknie
+&nbsp;&nbsp;○ Skrypt wstrzykiwania do iframe jest
+&nbsp;&nbsp;&nbsp;&nbsp;możliwy, ale wymaga skomplikowanego
+&nbsp;&nbsp;&nbsp;&nbsp;obejścia; należy zapoznać się z
+&nbsp;&nbsp;&nbsp;&nbsp;plikiem README, aby uzyskać
+&nbsp;&nbsp;&nbsp;&nbsp;szczegółowe informacje.

@@ -1,0 +1,3 @@
+Näitab kõigi saadaolevate lokaatide nimekirja. Klõps suvalises nimekirjas muudab Android-süsteemi lokaati valitud väärtusele. Muutused on püsivad.
+
+Aktiivne lokaat on alati asetatud esimeseks nimekirjaks.

@@ -1,0 +1,19 @@
+Rhedeg mewn Gwasanaeth blaendir:
+
+● nid oes rhyngwyneb gweledol
+● a yw ' r addasydd Bluetooth wedi ei
+&nbsp;&nbsp;addasu
+● yn cychwyn gweinydd soced Bluetooth
+● yn gwrando ar gysylltiad o anfonwr
+
+Pan mae anfonwr yn cysylltu:
+
+● peidio â gwrando ar gysylltiad yr
+&nbsp;&nbsp;anfonwr
+● chwarae'r llif sain o'r soced
+&nbsp;&nbsp;cysylltiedig
+
+Pan mae anfonwr yn datgysylltu:
+
+● ailgychwyn gwrando ar gyfer cysylltiad
+&nbsp;&nbsp;anfonwr newydd

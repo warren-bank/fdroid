@@ -1,0 +1,7 @@
+Tipos de feedback do usuário:
+
+● mostrar um Toast
+● mostrar uma Notificação
+● tocar um Ringtone de áudio
+
+Todos os tipos de feedback do usuário são iniciados por Intenção. Este utilitário pode ser usado tanto por outros aplicativos, como também diretamente pelo usuário a partir de um emulador de terminal de linha de comando.

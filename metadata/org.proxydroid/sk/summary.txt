@@ -1,0 +1,1 @@
+Konfigurovať a riadiť sieťové proxy servery.

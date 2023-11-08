@@ -1,0 +1,44 @@
+Les fonctions comprennent la capacité:
+
+● recherche de séries télévisées par nom
+● ajouter des séries télévisées dans les
+&nbsp;&nbsp;résultats de recherche à une liste
+● trier et filtrer la liste des séries
+&nbsp;&nbsp;télévisées ajoutées
+● accéder à la liste pour lire des
+&nbsp;&nbsp;informations détaillées sur chaque
+&nbsp;&nbsp;série et ses épisodes disponibles
+● Les épisodes de la marque ont été
+&nbsp;&nbsp;observés
+● série de marques comme désactivée
+● associer chaque série à des URL
+&nbsp;&nbsp;externes
+&nbsp;&nbsp;○ ex: sites Web où les séries peuvent
+&nbsp;&nbsp;&nbsp;&nbsp;être surveillées
+● mettre à jour la série télévisée dans
+&nbsp;&nbsp;la liste
+&nbsp;&nbsp;○ pour obtenir des renseignements sur
+&nbsp;&nbsp;&nbsp;&nbsp;les nouveaux épisodes;
+
+Exigences du réseau:
+
+● la liste des séries télévisées
+&nbsp;&nbsp;ajoutées peut être utilisée tout en
+&nbsp;&nbsp;étant complètement hors ligne;
+● une connexion Internet n'est
+&nbsp;&nbsp;nécessaire que pour ajouter ou mettre
+&nbsp;&nbsp;à jour manuellement des séries
+&nbsp;&nbsp;télévisées
+
+Crédits:
+
+● toutes les données sont obtenues à
+&nbsp;&nbsp;partir de la base de données Movie
+&nbsp;&nbsp;Database (TMDB), à l'aide de la
+&nbsp;&nbsp;version 3 de l'API TMDB
+● lignage historique:
+&nbsp;&nbsp;1. Séries droidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

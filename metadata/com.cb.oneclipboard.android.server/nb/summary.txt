@@ -1,0 +1,1 @@
+Tjener for å synkronisere utklippstavledata på tvers av klienter.

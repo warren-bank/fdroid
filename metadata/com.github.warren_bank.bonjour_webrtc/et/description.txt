@@ -1,0 +1,3 @@
+mDNS (Bonjour) kasutatakse avastamisel teiste kättesaadavate seadmete LAN. Seega ei ole WebRTC signalisatsiooniserverit vaja.
+
+WebRTC kasutatakse kõike muud.

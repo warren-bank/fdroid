@@ -1,0 +1,7 @@
+Membutuhkan akar!
+
+Mode USB adalah default. Hal ini membutuhkan kabel USB dan driver USB untuk menghubungkan perangkat Android ke komputer.
+
+Mode WiFi bersifat nirkabel dan tidak memerlukan driver tambahan apapun. Setiap komputer dapat menggunakan klien "adb" untuk meminta koneksi ke perangkat Android.
+
+Ketika mode WiFi diaktifkan, aplikasi ini menampilkan perintah "adb" yang diperlukan untuk meminta koneksi seperti itu di atas LAN.

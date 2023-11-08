@@ -1,0 +1,44 @@
+Las características incluyen la capacidad de:
+
+● búsqueda de series de televisión por
+&nbsp;&nbsp;nombre
+● añadir series de televisión en
+&nbsp;&nbsp;resultados de búsqueda a una lista
+● ordenar y filtrar la lista de series
+&nbsp;&nbsp;de televisión añadidas
+● profundizar en la lista para leer
+&nbsp;&nbsp;información detallada sobre cada serie
+&nbsp;&nbsp;y sus episodios disponibles
+● Los episodios de la marca han sido
+&nbsp;&nbsp;observados
+● marcas de marca como inhabilitadas
+● asociar cada serie con los URL
+&nbsp;&nbsp;externos
+&nbsp;&nbsp;○ ex: sitios web donde se puede ver la
+&nbsp;&nbsp;&nbsp;&nbsp;serie
+● actualizar la serie de televisión en
+&nbsp;&nbsp;la lista
+&nbsp;&nbsp;○ para obtener información sobre
+&nbsp;&nbsp;&nbsp;&nbsp;nuevos episodios
+
+Requisitos de red:
+
+● la lista de series de televisión
+&nbsp;&nbsp;añadidas se puede utilizar estando
+&nbsp;&nbsp;totalmente fuera de línea
+● una conexión a Internet sólo es
+&nbsp;&nbsp;necesaria para añadir o actualizar
+&nbsp;&nbsp;manualmente series de televisión
+
+Créditos:
+
+● todos los datos se obtienen de la base
+&nbsp;&nbsp;de datos de película (TMDB),
+&nbsp;&nbsp;utilizando la versión 3 de la API de
+&nbsp;&nbsp;TMDB
+● linaje histórico:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Diminuta Televisión Time Tracker

@@ -1,0 +1,1 @@
+Pratilac za "Mock moj GPS". Pomoćni plugin za "UnifiedNlp".

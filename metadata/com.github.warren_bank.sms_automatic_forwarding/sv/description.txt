@@ -1,0 +1,3 @@
+Villkoren definieras i en lista med regler. Varje regel kopplar ett faxnummer till ett mottagarnummer med ett mönster som måste matcha avsändaren av ett mottaget SMS-meddelande.
+
+När ett nytt SMS-meddelande tas emot vidarebefordras det till mottagartelefonnummer enligt varje regel som har ett matchande mönster.

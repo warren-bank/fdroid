@@ -1,0 +1,1 @@
+Licht-gewicht webbrowser met ondersteuning voor Greasemonkey userscripts.

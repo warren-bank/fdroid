@@ -1,0 +1,1 @@
+Konfigurera och skicka HTTP-begäran.

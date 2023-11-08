@@ -1,0 +1,18 @@
+Priodweddau cais HTTP ffurfweddadwy:
+
+● dull
+● protocol
+● URL
+● penynnau
+● Paramedrau
+● corff
+
+Mae nodweddion yn cynnwys y gallu i:
+
+● anfon cais unwaith
+● anfon cais dro ar ôl tro ar gyfnod
+&nbsp;&nbsp;penodol
+● ail-lwytho ffurfweddiad cais ymlaen
+&nbsp;&nbsp;llaw o gofnod hanes
+● data ymateb JSON eithaf argraffu
+● rhagolygu data ymateb HTML

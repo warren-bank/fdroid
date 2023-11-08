@@ -1,0 +1,35 @@
+Funkcijos apima galimybę:
+
+● sukonfigūruoti ir įrašyti bet kokį
+&nbsp;&nbsp;taikymo profilių skaičių
+● kiekviename paraiškos apraše gali būti
+&nbsp;&nbsp;nurodyta:
+&nbsp;&nbsp;○ pavadinimas
+&nbsp;&nbsp;○ failo kelias į pagrindinį Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;failą
+&nbsp;&nbsp;○ komandų eilutės parinktis Node.js
+&nbsp;&nbsp;&nbsp;&nbsp;runtime
+&nbsp;&nbsp;○ Komandų eilutės parinktys
+&nbsp;&nbsp;○ Aplinkos kintamieji
+&nbsp;&nbsp;○ dabartinis darbo aplankas
+● Taikymo profiliai sugrupuoti pagal:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paraiškos turi vieną bendrą
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;procesą. Tik vienas gali įvykdyti
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vienu metu.
+&nbsp;&nbsp;○ "šakutė"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kiekviena paraiška yra susijusi su
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jos pačios procesu. Kiekvienas
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vykdo įgytos informacijos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paslaugą. Susijęs pranešimas žudo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;procesą.
+● atsarginė kopija ir atkūrimas:
+&nbsp;&nbsp;○ eksportuoti visus paraiškos
+&nbsp;&nbsp;&nbsp;&nbsp;profiliai į JSON
+&nbsp;&nbsp;○ importuoti naujus paraiškos
+&nbsp;&nbsp;&nbsp;&nbsp;profilius iš JSON
+
+Įterptoji kilimo ir tūpimo aplinka:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

@@ -1,0 +1,23 @@
+背景 :
+
+● Android Intent
+&nbsp;&nbsp;可用于打开任何已安装应用程序的精确部分，并将其传递至任何类型或数量的数据
+● 这样， Intent 就像安卓书签
+
+功能包括 :
+
+● 将 Intent 配置并保存为指定书签
+● 使用书签 :
+&nbsp;&nbsp;○ 启动活动
+&nbsp;&nbsp;○ 启动服务
+&nbsp;&nbsp;○ 发送广播
+● 安排稍后使用的书签 :
+&nbsp;&nbsp;○ 一次
+&nbsp;&nbsp;○ 间隔
+● 拦截其他应用程序启动的 Intent :
+&nbsp;&nbsp;○ 修改
+&nbsp;&nbsp;○ 救
+● 备份和复原:
+&nbsp;&nbsp;○ 整个 SQLite 数据库
+&nbsp;&nbsp;○ JSON 数据文件
+&nbsp;&nbsp;○ Netscape 书签 HTML 数据文件

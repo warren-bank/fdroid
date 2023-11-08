@@ -1,0 +1,17 @@
+Kuvaa "Mock GPS" -toiminnon "UnifiedNlp" :n pilkuksi.
+
+UnifiedNlp on:
+
+● Tyypillisesti asennettu osana "mikrog"
+● Googlen Android-rom-levyjen käyttöön
+&nbsp;&nbsp;tarkoitettu
+● "Googlen sijaintipalvelut"
+
+"UnifiedNlp" -integrointitietojen integrointi:
+
+● On käytössä vain, kun "Mock my GPS" on
+&nbsp;&nbsp;käytössä
+● On priorisoitu muiden "UnifiedNlp"
+&nbsp;&nbsp;backend plugins etenevän aikaleima 45
+&nbsp;&nbsp;sekuntia, joten se näyttää olevan
+&nbsp;&nbsp;viimeisin

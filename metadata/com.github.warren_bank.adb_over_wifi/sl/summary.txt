@@ -1,0 +1,1 @@
+Preklopi Demona Razhroščevanja (adbd) med USB-jem in WiFi-načinu.

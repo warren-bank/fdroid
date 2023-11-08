@@ -1,0 +1,24 @@
+Zu den Features gehören die folgenden Funktionen:
+
+● Sortieren Sie die Liste der
+&nbsp;&nbsp;geographischen Koordinaten:
+&nbsp;&nbsp;○ Sequenziell
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wird in der Eingabedatei
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;angeordnet, da die Positionen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;auftreten.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: eine genaue Reiseroute
+&nbsp;&nbsp;○ Abstand
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sortiert nach Entfernung vom
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aktuellen Standort.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: Ad-hoc-Erkundung des nahen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI
+&nbsp;&nbsp;○ alphabetisch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sortiert nach den beschreibenden
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Namen, die den Positionen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zugeordnet sind.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: Lesezeichen von
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lieblingsplätzen
+● Klicken Sie auf ein Listenelement, um
+&nbsp;&nbsp;die entsprechende Position in einer
+&nbsp;&nbsp;externen Anwendung, wie z. B.
+&nbsp;&nbsp;Zuordnung oder Navigation, zu öffnen.

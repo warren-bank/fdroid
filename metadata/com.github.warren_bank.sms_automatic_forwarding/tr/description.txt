@@ -1,0 +1,3 @@
+Koşullar, kurallar listesi tarafından tanımlanır. Her kural, bir iletme alıcısı telefon numarasını, alınan bir SMS iletisinin göndericiyle eşleşmesi gereken bir kalıpla ilişkilendirir.
+
+Yeni bir SMS iletisi alındığında, her kuralın eşleşen bir kalıba sahip olmasına göre alıcı telefon numaralarına iletilir.

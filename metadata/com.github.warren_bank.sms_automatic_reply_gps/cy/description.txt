@@ -1,0 +1,14 @@
+Cynnwys meini prawf amodol:
+
+● gwelydd rhifau ffôn yr anfonwr
+● is-linyn a ddylai ddigwydd ar
+&nbsp;&nbsp;ddechrau'r neges SMS
+
+Mae data lleoliad GPS yn cynnwys:
+
+● cyfesurynnau hydred a hydred
+● cywirdeb (mesuryddion)
+● cyflymder (meters/eil)
+● cyfeiriad (cardal neu ordinal, a
+&nbsp;&nbsp;graddau)
+● URL i Google Mapiau

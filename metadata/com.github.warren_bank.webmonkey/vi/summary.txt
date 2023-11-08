@@ -1,0 +1,1 @@
+Trình duyệt web trọng lượng nhẹ hỗ trợ cho người dùng Greasemonkey.

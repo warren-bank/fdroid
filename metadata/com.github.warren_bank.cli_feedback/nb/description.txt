@@ -1,0 +1,7 @@
+Typer av brukertilbakemelding:
+
+● vis en Toast
+● vis et varsel
+● spille en lyd-Ringtone
+
+Alle typer av brukertilbakemeldinger er startet av Intent. Denne funksjonen kan brukes både av andre applikasjoner, samt direkte av brukeren fra en kommandolinje terminalemulator.

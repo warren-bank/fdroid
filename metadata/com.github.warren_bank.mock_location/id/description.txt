@@ -1,0 +1,33 @@
+Fitur-fitur mencakup kemampuan untuk:
+
+● Mock posisi tetap
+● simulasikan perjalanan
+● gunakan joystick untuk pindah relatif
+&nbsp;&nbsp;ke posisi tetap tiruan
+● menerima garis lintang dan garis bujur
+&nbsp;&nbsp;geo-koordinat pasangan dari Intent
+● simpan garis lintang dan garis bujur
+&nbsp;&nbsp;dari pasangan koordinat geo sebagai
+&nbsp;&nbsp;penanda bernama
+
+Variasi:
+
+1. AOSP
+2. Layanan Play AOSP + Google Play
+3. Layanan Mobile AOSP + Huawei
+
+Integrasi Android:
+
+1. aktifkan opsi pengembang
+&nbsp;&nbsp;&nbsp;● Buka:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pengaturan > Sistem > Tentang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ponsel
+&nbsp;&nbsp;&nbsp;● berulang kali klik 7 kali:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build nomor
+2. konfigurasi:
+&nbsp;&nbsp;&nbsp;● Buka:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pengaturan > Sistem > Pilihan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pengembang
+&nbsp;&nbsp;&nbsp;● simpan nilai:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikasi lokasi tiruan: "Mock GPS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;saya"

@@ -1,0 +1,24 @@
+# https://github.com/warren-bank/Android-NodeJS-Frontend/blob/v1.0.2/android-studio-project/constants.gradle
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Development
+License: GPL-2.0
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/Android-NodeJS-Frontend.git
+SourceCode: https://github.com/warren-bank/Android-NodeJS-Frontend
+IssueTracker: https://github.com/warren-bank/Android-NodeJS-Frontend/issues
+
+AutoName: Node.js Frontend
+Name: Node.js Frontend
+WebSite: ''
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 001.00.02-19API
+CurrentVersionCode: 1000219
+UpdateCheckMode: None
+AutoUpdateMode: None

@@ -1,0 +1,9 @@
+Vyžaduje koreň!
+
+Vykonanie skriptu prostredia shell je možné vyvolať dvomi spôsobmi:
+
+1. interaktívny
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Užívateľ manuálne, keď si zvolil
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;súbor.
+2. automatický
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V Intent.

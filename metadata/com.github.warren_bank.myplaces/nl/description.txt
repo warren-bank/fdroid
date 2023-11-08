@@ -1,0 +1,22 @@
+Kenmerken omvatten de mogelijkheid om:
+
+● de lijst van geografische coördinaten
+&nbsp;&nbsp;sorteren:
+&nbsp;&nbsp;○ sequentieel
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opdracht gegeven als de locaties
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;voorkomen in het invoerbestand.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: een precieze reisroute
+&nbsp;&nbsp;○ afstand
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Besteld op afstand van de huidige
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;locatie.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hocverkenning van het
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nabijgelegen POI
+&nbsp;&nbsp;○ alfabetisch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gesorteerd op beschrijvende namen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;die zijn gekoppeld aan locaties.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: bladwijzers van favoriete
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plaatsen
+● klik op een lijstitem om de
+&nbsp;&nbsp;bijbehorende locatie te openen in een
+&nbsp;&nbsp;externe toepassing, zoals toewijzing
+&nbsp;&nbsp;of navigatie.

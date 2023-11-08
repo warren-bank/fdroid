@@ -1,0 +1,1 @@
+Utilità non interattiva per fornire un feedback dell'utente dalla riga di comando.

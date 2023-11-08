@@ -1,0 +1,26 @@
+以下の機能があります。
+
+● 任意の数のアプリケーション・プロファイルを構成し、保存する
+● それぞれのアプリケーション・プロファイルで以下を指定
+&nbsp;&nbsp;○ タイトル
+&nbsp;&nbsp;○ メイン Javascript ファイルへのファイル・パス
+&nbsp;&nbsp;○ コマンド行オプション、 Node.js ランタイムの
+&nbsp;&nbsp;○ コマンド行オプション、アプリケーションの
+&nbsp;&nbsp;○ 環境変数
+&nbsp;&nbsp;○ 現行作業ディレクトリー
+● アプリケーション・プロファイルは、以下でグループ化
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アプリケーションは単一プロセスを共有します。 一度に実行できるのは
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 つのみです。
+&nbsp;&nbsp;○ "フォーク"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;各アプリケーションには、独自のプロセスが与えられます。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;フォアグラウンド・サービスでは、それぞれが実行
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;関連する通知がプロセスを強制終了します
+● バックアップおよびリストア:
+&nbsp;&nbsp;○ すべてのアプリケーション・プロファイルを JSON にエクスポート
+&nbsp;&nbsp;○ JSON からの新規アプリケーション・プロファイルのインポート
+
+組み込みランタイム環境:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

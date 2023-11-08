@@ -1,0 +1,1 @@
+Screensaver qui affiche un diaporama d'images locales.

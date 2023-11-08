@@ -1,0 +1,1 @@
+Preglejte prejeta sporočila SMS in pogojno odgovarja s podatki o lokaciji GPS.

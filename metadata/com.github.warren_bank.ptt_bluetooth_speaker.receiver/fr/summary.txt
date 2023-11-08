@@ -1,0 +1,1 @@
+Reçoit le son de l'expéditeur et le joue par l'intermédiaire de l'orateur.

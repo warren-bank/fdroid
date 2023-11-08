@@ -1,0 +1,35 @@
+Kök gerektirir!
+
+Özellikler şunları içerir:
+
+● yetkili sunucu protokollerine ilişkin
+&nbsp;&nbsp;destek:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● kimlik doğrulama yöntemleri için
+&nbsp;&nbsp;destek:
+&nbsp;&nbsp;○ Temel
+&nbsp;&nbsp;○ NTL
+&nbsp;&nbsp;○ NTLMv2
+● Yetkili sunucunun geçerli kılınmasına
+&nbsp;&nbsp;ilişkin destek:
+&nbsp;&nbsp;○ genel olarak, tüm uygulamalar için
+&nbsp;&nbsp;○ yalnızca belirli uygulamalar için
+● kara liste için destek:
+&nbsp;&nbsp;○ Yetkili sunucuyu atlamaya ilişkin IP
+&nbsp;&nbsp;&nbsp;&nbsp;adresleri
+● DNS yetkili sunucusu için destek
+● birden çok profil için destek
+● Yedek sunucu otomatik yapılandırma
+&nbsp;&nbsp;(PAC) dosyası için temel destek
+● Belirli bir tanıtımı bununla
+&nbsp;&nbsp;ilişkilendirebilme yeteneği:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobil Ağ
+● yetkili sunucuyu açıp kapamak için
+&nbsp;&nbsp;pencere bileşeni
+● yürütme ortamı verimliliği:
+&nbsp;&nbsp;○ küçük pil tüketir
+&nbsp;&nbsp;○ küçük RAM kullanır

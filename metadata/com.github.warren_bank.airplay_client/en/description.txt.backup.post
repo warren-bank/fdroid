@@ -1,0 +1,18 @@
+Features include:
+
+Automatic discovery of AirPlay receivers within the same network
+Beam photos from your device to AirPlay
+Stream videos and music from your device to AirPlay
+Mirror the screen from your device to AirPlay
+
+Credits:
+
+DroidPlay
+The original version of this application.
+https://github.com/tutikka/DroidPlay
+ScreenStream
+Provided much of the code to implement screen mirroring on Android 5.0+
+https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+AirPlay (version 1) protocol
+Unofficial documentation.
+http://nto.github.io/AirPlay.html

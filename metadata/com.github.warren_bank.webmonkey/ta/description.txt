@@ -1,0 +1,16 @@
+மேற்கோள்கள்:
+
+● பயனர்ஸ்கிரிப்ட் URL கண்டுபிடித்தல்
+● தானியங்கி பயனர் புதுப்பித்தல்
+● ஒரு விரிவான JavaScript API to expose
+&nbsp;&nbsp;Android specific capabilities
+● HTTPS சான்றிதழ்களை புறக்கணிக்கவும்
+
+வரம்புகள்:
+
+● மேல் சாளரத்தில் மட்டும் பயனர்கள்
+&nbsp;&nbsp;இயங்கும்
+&nbsp;&nbsp;○ Iframes in iframes to script
+&nbsp;&nbsp;&nbsp;&nbsp;injection is possible, but requires
+&nbsp;&nbsp;&nbsp;&nbsp;a जटिल workaround; to refer to the
+&nbsp;&nbsp;&nbsp;&nbsp;README for details.

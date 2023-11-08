@@ -1,0 +1,43 @@
+A szolgáltatások a következők:
+
+● Televíziós sorozat keresése név
+&nbsp;&nbsp;szerint
+● Televíziós sorozat hozzáadása keresési
+&nbsp;&nbsp;eredményekben a listához
+● Rendezés és a hozzáadott televíziós
+&nbsp;&nbsp;sorozatok listájának szűrése
+● átfúrás a listába az egyes
+&nbsp;&nbsp;sorozatokról és a rendelkezésre álló
+&nbsp;&nbsp;epizódokról szóló részletes
+&nbsp;&nbsp;információk olvasásához
+● Mark epizódok figyelése
+● Jelöléssorozat letiltva
+● Minden sorozat társítása külső URL
+&nbsp;&nbsp;címekkel
+&nbsp;&nbsp;○ Ex: weboldalak, ahol a sorozat
+&nbsp;&nbsp;&nbsp;&nbsp;figyelhető
+● A listán szereplő televíziós sorozatok
+&nbsp;&nbsp;frissítése
+&nbsp;&nbsp;○ új epizódok információinak
+&nbsp;&nbsp;&nbsp;&nbsp;lekérdezése
+
+Hálózati követelmények:
+
+● A hozzáadott televíziós adatsorok
+&nbsp;&nbsp;listája teljes offline módban
+&nbsp;&nbsp;használható
+● Internetkapcsolat csak a televíziós
+&nbsp;&nbsp;sorozat kézi felvételére vagy
+&nbsp;&nbsp;frissítésére van szükség
+
+Hitelesítési adatok:
+
+● Minden adat a Movie Database (TMDB)
+&nbsp;&nbsp;adatbázisból származik, a TMDB API 3.
+&nbsp;&nbsp;Változatának használatával
+● Történelmi származás:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidMegjeleníti
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Pici Television Time Tracker

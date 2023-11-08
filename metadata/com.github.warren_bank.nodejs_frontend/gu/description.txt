@@ -1,0 +1,33 @@
+લાક્ષણિકતાનો સમાવેશ થાય છે:
+
+● કાર્યક્રમ રૂપરેખાઓની કોઇપણ સંખ્યાને
+&nbsp;&nbsp;રૂપરેખાંકિત કરો અને સંગ્રહો
+● દરેક કાર્યક્રમ રૂપરેખા સ્પષ્ટ કરી શકે
+&nbsp;&nbsp;છે:
+&nbsp;&nbsp;○ શીર્ષક
+&nbsp;&nbsp;○ મુખ્ય જાવાસ્ક્રિપ્ટ ફાઇલમાં ફાઇલ પાથ
+&nbsp;&nbsp;○ Node.js રનટાઇમ માટે આદેશ વાક્ય
+&nbsp;&nbsp;&nbsp;&nbsp;વિકલ્પો
+&nbsp;&nbsp;○ કાર્યક્રમ માટે આદેશ વાક્ય વિકલ્પો
+&nbsp;&nbsp;○ પર્યાવરણ ચલ
+&nbsp;&nbsp;○ હાલની કામ કરતી ડિરેક્ટરી
+● કાર્યક્રમ રૂપરેખાઓ દ્વારા જૂથ થયેલ છે:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;કાર્યક્રમો એક પ્રક્રિયાને ભાગ આપે
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;છે. ફક્ત એક સમયે ચલાવી શકાય છે.
+&nbsp;&nbsp;○ "Fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;દરેક એપ્લિકેશન તેની પોતાની
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;પ્રક્રિયા આપવામાં આવેલ છે. દરેક
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;એક્ઝેક્યુટ એ અગ્ર ભાગના સેવામાં.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;સંકળાયેલ સૂચના પ્રક્રિયાને મારી
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;નાંખે છે.
+● બેકઅપ અને પુનઃસંગ્રહો:
+&nbsp;&nbsp;○ JSON માટે બધા કાર્યક્રમ રૂપરેખાઓ
+&nbsp;&nbsp;&nbsp;&nbsp;નિકાસ કરો
+&nbsp;&nbsp;○ JSON માંથી નવા કાર્યક્રમ રૂપરેખાઓ
+&nbsp;&nbsp;&nbsp;&nbsp;આયાત કરો
+
+જડિત રનટાઇમ પર્યાવરણ:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

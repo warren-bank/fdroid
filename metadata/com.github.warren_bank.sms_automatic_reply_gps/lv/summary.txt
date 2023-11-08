@@ -1,0 +1,1 @@
+Pārbaudiet saņemtos SMS ziņojumus un nosacīti atbildēt ar GPS atrašanās vietas datiem.

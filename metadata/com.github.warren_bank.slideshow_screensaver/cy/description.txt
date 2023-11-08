@@ -1,0 +1,13 @@
+Gosodiadau Tryloywder:
+
+● Hyd Amser (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Mae'r cyfnod amser pob delwedd yn
+&nbsp;&nbsp;&nbsp;&nbsp;cael ei ddangos.
+● Defnyddiwch ddarparwr MediaStar
+&nbsp;&nbsp;&nbsp;&nbsp;Cadw ffeiliau delwedd o fynegai
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Llwybr cyfeiriadur
+&nbsp;&nbsp;&nbsp;&nbsp;Cael delweddau o gyfeiriadur penodol
+&nbsp;&nbsp;&nbsp;&nbsp;yn y cysawd ffeiliau.
+● Mynd yn ôl i isgyfeiriaduron
+● Hap

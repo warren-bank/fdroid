@@ -1,0 +1,24 @@
+Серед можливостей:
+
+● Автоматичне відкриття приймачів
+&nbsp;&nbsp;AirPlay у одній мережі
+● Променеві фото з вашого пристрою до
+&nbsp;&nbsp;AirPlay
+● Кліп і музика з вашого пристрою до
+&nbsp;&nbsp;AirPlay
+● Віддзеркалити екран від вашого
+&nbsp;&nbsp;пристрою до AirPlay
+
+Подяки:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Оригінальна версія цієї програми.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStre
+&nbsp;&nbsp;&nbsp;&nbsp;Передбачена значна частина коду для
+&nbsp;&nbsp;&nbsp;&nbsp;створення дзеркального відображення
+&nbsp;&nbsp;&nbsp;&nbsp;на Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Протокол AirPlay (версія 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Неофіційна документація.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

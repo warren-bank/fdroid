@@ -1,0 +1,20 @@
+Bruk:
+
+● viser en liste over alle sammensatte
+&nbsp;&nbsp;Bluetooth-enheter
+&nbsp;&nbsp;○ klikk på den som identifiserer den
+&nbsp;&nbsp;&nbsp;&nbsp;ønskede mottakeren
+&nbsp;&nbsp;○ vente på tilkobling
+
+● veksle PTT-knappen
+&nbsp;&nbsp;○ grønn viser at lyd for øyeblikket
+&nbsp;&nbsp;&nbsp;&nbsp;blir registrert
+&nbsp;&nbsp;&nbsp;&nbsp;fra mikrofonen og strekket gjennom
+&nbsp;&nbsp;&nbsp;&nbsp;den tilkoblede socket
+&nbsp;&nbsp;○ rød viser at lydstrømmen er i
+&nbsp;&nbsp;&nbsp;&nbsp;øyeblikket midlertidig stoppet
+
+● flytte glidebryteren for å justere
+&nbsp;&nbsp;volumet av lyden
+&nbsp;&nbsp;○ standard: 25%
+&nbsp;&nbsp;○ maksimum: 200%

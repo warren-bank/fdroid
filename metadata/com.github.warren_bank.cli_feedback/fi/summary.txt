@@ -1,0 +1,1 @@
+Ei-vuorovaikutteinen apuohjelma, joka antaa käyttäjälle palautetta komentoriviltä.

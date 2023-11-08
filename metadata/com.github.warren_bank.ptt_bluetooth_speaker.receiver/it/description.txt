@@ -1,0 +1,20 @@
+Esegue in un servizio di foreground:
+
+● non esiste UI visibile
+● rende l'adattatore Bluetooth
+&nbsp;&nbsp;rilevabile
+● avvia un server Bluetooth Socket
+● ascolta per una connessione da un
+&nbsp;&nbsp;mittente
+
+Quando un mittente si connette:
+
+● arresta l'ascolto per una connessione
+&nbsp;&nbsp;mittente
+● suona il flusso audio dal Socket
+&nbsp;&nbsp;connesso
+
+Quando un mittente si disconnette:
+
+● riprende l'ascolto per una nuova
+&nbsp;&nbsp;connessione sender

@@ -1,0 +1,12 @@
+Nykyisen Web-sivun URL-osoitteet näkyvät luettelossa.
+
+Asetukset määrittävät käytöksen, kun videon URL-osoite on valittu:
+● Sisäisellä videolla on
+&nbsp;&nbsp;Chromecast-lähettäjä
+● Ulkoinen videonpelaaja antaa toisen
+&nbsp;&nbsp;sovelluksen käyttää videon
+&nbsp;&nbsp;URL-osoitetta
+● "ExoAirPlayer" ja "HLS Proxy"
+&nbsp;&nbsp;-lähettäjät lataamaan staattisen
+&nbsp;&nbsp;Web-sivun SPA-työaseman valitulle
+&nbsp;&nbsp;palvelimelle

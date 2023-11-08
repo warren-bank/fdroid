@@ -1,0 +1,21 @@
+Funkce zahrnují schopnost:
+
+● setřídit seznam geografických
+&nbsp;&nbsp;souřadnic:
+&nbsp;&nbsp;○ sekvenční
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ve vstupním souboru se nastav
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lokalit vyskytují se jako
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;umístění.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: přesný cestovní itinerář
+&nbsp;&nbsp;○ vzdálenost
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Řazeno podle vzdálenosti od
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aktuálního umístění.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hoc průzkum blízkého POI
+&nbsp;&nbsp;○ abecední
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Objednáno popisnými názvy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;přidruženými k lokalitám.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: záložky oblíbených míst
+● klepnutím na položku seznamu otevřete
+&nbsp;&nbsp;odpovídající umístění v externí
+&nbsp;&nbsp;aplikaci, jako je mapování nebo
+&nbsp;&nbsp;navigace.

@@ -1,0 +1,11 @@
+URL video pada halaman web saat ini ditampilkan dalam sebuah daftar.
+
+Pengaturan menentukan perilaku ketika sebuah URL video dipilih:
+● pemutar video internal termasuk
+&nbsp;&nbsp;pengirim Chromecast
+● pemutar video eksternal memungkinkan
+&nbsp;&nbsp;aplikasi lain untuk memutar URL video
+● Pengirim "ExoAirPlayer" dan "HLS
+&nbsp;&nbsp;Proxy" masing-masing memuat klien SPA
+&nbsp;&nbsp;halaman web statis untuk server yang
+&nbsp;&nbsp;dipilih.

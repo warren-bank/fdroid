@@ -1,0 +1,18 @@
+Konfigurabilni atributi HTTP zahtjeva:
+
+● metoda.
+● G.
+● URL
+● Zaglavlja
+● Querystring.
+● tijelo
+
+Karakteristike uključuju sposobnost da:
+
+● Pošalji zahtjev jednom.
+● Pošaljite zahtjev više puta u
+&nbsp;&nbsp;određenom vremenskom intervalu.
+● reload konfiguracija prethodnog
+&nbsp;&nbsp;zahtjeva iz povijesnog dnevnika
+● -Ispis podataka o JSON odgovoru.
+● Pregled podataka u HTML-u

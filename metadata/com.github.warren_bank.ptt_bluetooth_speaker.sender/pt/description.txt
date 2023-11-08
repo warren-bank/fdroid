@@ -1,0 +1,20 @@
+Uso:
+
+● exibe uma lista de todos os
+&nbsp;&nbsp;dispositivos Bluetooth pados
+&nbsp;&nbsp;○ clique na que identifica o receptor
+&nbsp;&nbsp;&nbsp;&nbsp;desejado
+&nbsp;&nbsp;○ esperar por conexão
+
+● toggle o botão PTT
+&nbsp;&nbsp;○ verde indica que o áudio está
+&nbsp;&nbsp;&nbsp;&nbsp;atualmente sendo capturado
+&nbsp;&nbsp;&nbsp;&nbsp;do microfone e streamed através do
+&nbsp;&nbsp;&nbsp;&nbsp;soquete conectado
+&nbsp;&nbsp;○ vermelho indica que o fluxo de áudio
+&nbsp;&nbsp;&nbsp;&nbsp;está atualmente pausado
+
+● mover a régua para ajustar o volume do
+&nbsp;&nbsp;áudio
+&nbsp;&nbsp;○ padrão: 25%
+&nbsp;&nbsp;○ máximo: 200%

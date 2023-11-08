@@ -1,0 +1,1 @@
+Prima zvuk od pošiljaoca i igra ga preko zvučnika.

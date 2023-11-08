@@ -1,0 +1,1 @@
+Reproductor multimedia basado en exoPlayer con API para control remoto.

@@ -1,0 +1,14 @@
+Configuración de diapositivas:
+
+● Duración (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;El periodo de tiempo que se
+&nbsp;&nbsp;&nbsp;&nbsp;visualiza cada imagen.
+● Utilizar proveedor de MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Obtiene archivos de imagen del
+&nbsp;&nbsp;&nbsp;&nbsp;índice de Android.
+● Ruta de directorio
+&nbsp;&nbsp;&nbsp;&nbsp;Obtenga imágenes de un directorio en
+&nbsp;&nbsp;&nbsp;&nbsp;particular en el sistema de
+&nbsp;&nbsp;&nbsp;&nbsp;archivos.
+● Recurse a los subdirectorios
+● Orden aleatorio

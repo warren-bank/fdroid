@@ -1,0 +1,19 @@
+Tippermetti "Mock GPS tiegħi" biex iġibu ruħhom bħala fornitur ta ' lokazzjoni finta għal "UnifiedNp".
+
+"UnifiedNp" huwa:
+
+● tipikament installat bħala komponent
+&nbsp;&nbsp;ta ' "mikroG"
+● maħsuba għall-użu fuq ROMs ta '
+&nbsp;&nbsp;de-Googled Android
+● sostitut tat-tluq minn qabel għal
+&nbsp;&nbsp;"Google Location Services"
+
+Integrazzjoni "UnifikatNp" ta 'data ta' lokazzjoni finta:
+
+● hija ppermettiet biss filwaqt li "Mack
+&nbsp;&nbsp;GPS tiegħi" hija attiva
+● huwa prijoritizzata fuq oħra
+&nbsp;&nbsp;"UnifikatNp" backend plugins billi
+&nbsp;&nbsp;javvanza l timebolt 45 sekonda, hekk
+&nbsp;&nbsp;jidher li jkun l-aktar riċenti

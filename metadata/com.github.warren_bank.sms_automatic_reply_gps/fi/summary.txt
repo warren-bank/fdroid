@@ -1,0 +1,1 @@
+Tarkista SMS-sanomat ja vastaa ehdollisesti GPS-sijaintitietojen kanssa.

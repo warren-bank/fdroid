@@ -1,0 +1,1 @@
+Lit les fichiers GPX et KML comme listes de signets de coordonnées géographiques.

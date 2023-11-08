@@ -1,0 +1,1 @@
+Komut satırından kullanıcı geribildirimi sağlamak için etkileşimli olmayan yardımcı program.

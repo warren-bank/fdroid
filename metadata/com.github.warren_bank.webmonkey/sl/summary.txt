@@ -1,0 +1,1 @@
+Lahek spletni brskalnik s podporo za uporabniške skripte Greaseopic.

@@ -1,0 +1,33 @@
+Особливості включають в себе можливість:
+
+● налаштувати і зберегти будь-яку
+&nbsp;&nbsp;кількість профілів програм
+● кожен профіль програми може вказати:
+&nbsp;&nbsp;○ title
+&nbsp;&nbsp;○ шлях до головного файла Javascript
+&nbsp;&nbsp;○ параметри командного рядка для
+&nbsp;&nbsp;&nbsp;&nbsp;виконання програми Node.js
+&nbsp;&nbsp;○ параметри командного рядка для
+&nbsp;&nbsp;&nbsp;&nbsp;програми
+&nbsp;&nbsp;○ змінні середовища
+&nbsp;&nbsp;○ поточний робочий каталог
+● профілі програм, згруповані за:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Додатки поділяють один процес.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Тільки один може виконувати за
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;раз.
+&nbsp;&nbsp;○ "fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Кожен додаток отримує свій власний
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;процес. Кожен виконується за
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;допомогою переднього плану.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Повідомлення вбиває процес.
+● резервування і відновлення:
+&nbsp;&nbsp;○ експорт всіх профілів програм до
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ Імпортувати нові профілі програм з
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Вбудоване середовище виконання:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

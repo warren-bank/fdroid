@@ -1,0 +1,7 @@
+Tipovi povratnih informacija korisnika:
+
+● pokaži Toast
+● pokaži obavijest
+● sviće audio Ringtone
+
+Svi tipovi povratnih informacija korisnika su pokrenuti od strane Inatora. Ovaj pomoćni program može koristiti i od strane drugih aplikacija, kao i izravno od strane korisnika iz emulatora terminala u redu za naredbe.

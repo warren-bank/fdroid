@@ -1,0 +1,13 @@
+Postavke slideshow-a:
+
+● Vrijeme Trajanja (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Period vremena svake slike je
+&nbsp;&nbsp;&nbsp;&nbsp;prikazan.
+● Koristi MediaStore dobavljača
+&nbsp;&nbsp;&nbsp;&nbsp;Dohvaće datoteke slika iz Android
+&nbsp;&nbsp;&nbsp;&nbsp;indeksa.
+● Staza direktorija
+&nbsp;&nbsp;&nbsp;&nbsp;Dobavi slike iz određenog
+&nbsp;&nbsp;&nbsp;&nbsp;direktorija u sistemu datoteka.
+● Rekurse u poddirektorije
+● Slučajna naredba

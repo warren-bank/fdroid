@@ -1,0 +1,18 @@
+Pokreće se u prvom planu:
+
+● Nema vidljivog korisničkog sučelja
+● čini da Bluetooth adapter može otkriti
+● pokreće Bluetooth Socket server
+● osluškuje vezu sa pošiljateljem
+
+Kada se pošiljatelj poveže:
+
+● zaustavlja se slušanje za vezu
+&nbsp;&nbsp;pošiljatelja
+● Reproducirali su zvučni tok od
+&nbsp;&nbsp;spojenih utičnica
+
+Kada se pošiljatelj odspoji:
+
+● nastavlja slušati za novu vezu
+&nbsp;&nbsp;pošiljatelja

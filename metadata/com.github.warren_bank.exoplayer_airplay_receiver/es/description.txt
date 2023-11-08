@@ -1,0 +1,5 @@
+Escucha en el adaptador LAN Wi-Fi utilizando una API HTTP sin estado (basada en AirPlay v1). Anuncia su disponibilidad para el descubrimiento mediante mDNS (Bonjour).
+
+Soporta dispositivos de todos los tamaños de pantalla; cajas codificadoras genéricas de bajo costo con salida HDMI de alta resolución son la plataforma de destino, pero funciona igualmente bien en conjuntos de mano muy antiguos con pantallas muy pequeñas de baja resolución.
+
+La API es extensa y está totalmente documentada. Una implementación de cliente SPA de página web estática hace que esta funcionalidad sea altamente accesible. En su nivel más básico, esta API proporciona la posibilidad de "convertir" URL de medios en una lista de reproducción y controlar todos los aspectos de la reproducción.

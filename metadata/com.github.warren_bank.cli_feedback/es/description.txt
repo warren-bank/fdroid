@@ -1,0 +1,7 @@
+Tipos de comentarios del usuario:
+
+● mostrar un Toast
+● mostrar una notificación
+● reproducir un tono Ringtone de audio
+
+Todos los tipos de comentarios de usuario se inician por Intent. Este programa de utilidad puede ser utilizado por otras aplicaciones, así como directamente por el usuario desde un emulador de terminal de línea de mandatos.

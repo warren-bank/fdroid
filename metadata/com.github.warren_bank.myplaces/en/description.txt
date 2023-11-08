@@ -1,0 +1,21 @@
+Features include the ability to:
+
+● sort the list of geographic
+&nbsp;&nbsp;coordinates:
+&nbsp;&nbsp;○ sequential
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordered as the locations occur in
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the input file.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: a precise travel itinerary
+&nbsp;&nbsp;○ distance
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordered by distance from the
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;current location.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hoc exploration of nearby
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI
+&nbsp;&nbsp;○ alphabetic
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordered by the descriptive names
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;associated with locations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: bookmarks of favorite places
+● click on a list item to open the
+&nbsp;&nbsp;corresponding location in an external
+&nbsp;&nbsp;application, such as mapping or
+&nbsp;&nbsp;navigation.

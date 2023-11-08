@@ -1,0 +1,3 @@
+Megjeleníti az összes elérhető területi beállítást. A listaelemre kattintva az Android rendszer területi beállítása a kiválasztott értékre változik. A módosítások állandóak.
+
+A jelenleg aktív területi beállítás mindig az első listaelem.

@@ -1,0 +1,19 @@
+Udføres i en forgrundsservice:
+
+● der er ingen synlig UI
+● får Bluetooth-adapteren til at opdage
+● starter en Bluetooth Socket-server
+● lytter efter en forbindelse fra en
+&nbsp;&nbsp;afsender
+
+Når en afsender opretter forbindelse:
+
+● stopper med at lytte efter en
+&nbsp;&nbsp;afsenderforbindelse
+● spiller lydstrømmen fra den
+&nbsp;&nbsp;tilsluttede sokkel
+
+Når en afsender afmonterer:
+
+● CV'er, der lytter efter en ny
+&nbsp;&nbsp;afsenderforbindelse

@@ -1,0 +1,9 @@
+Membutuhkan akar!
+
+Eksekusi skrip shell dapat dijalankan dalam dua cara:
+
+1. Interaktif
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oleh pengguna secara manual memilih
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sebuah berkas.
+2. Otomatis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dengan Intent.

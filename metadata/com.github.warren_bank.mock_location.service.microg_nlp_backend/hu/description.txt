@@ -1,0 +1,20 @@
+Lehetővé teszi a "Mock my GPS" - t, hogy a "UnifiedNlp" modellként viselkedjen.
+
+"UnifiedNlp":
+
+● Jellemzően a "mikroG" összetevőjeként
+&nbsp;&nbsp;kerül telepítésre
+● Nem guglizott Android ROM-on történő
+&nbsp;&nbsp;felhasználásra szánva
+● "Google Location Services"
+&nbsp;&nbsp;helyettesítése
+
+"UnifiedNlp" a csúszóhely-adatok integrációja:
+
+● Csak akkor engedélyezett, ha a "Mock a
+&nbsp;&nbsp;GPS-em" aktív
+● Az előnyben részesíti a többi
+&nbsp;&nbsp;"UnifiedNlp" háttérbedolgozót a 45
+&nbsp;&nbsp;másodperces időbélyeg
+&nbsp;&nbsp;előrehaladásával, így úgy tűnik, hogy
+&nbsp;&nbsp;a legutóbbi

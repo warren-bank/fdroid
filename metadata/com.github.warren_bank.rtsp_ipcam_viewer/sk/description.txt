@@ -1,0 +1,30 @@
+Tieto formáty sú typické pre nedrahé bezpečnostné kamery IP.
+
+Medzi funkcie patrí schopnosť:
+
+● konfigurovať neobmedzený počet video
+&nbsp;&nbsp;tokov
+● importovať video toky zo súboru JSON
+● každý tok môže zahŕňať adresy URL pre
+&nbsp;&nbsp;dva zdroje:
+&nbsp;&nbsp;○ nízka rozlíšenie
+&nbsp;&nbsp;○ Vysoké rozlíšenie
+● selektívne povoliť a zakázať toky v
+&nbsp;&nbsp;zozname
+● zobraziť povolené toky v rozložení
+&nbsp;&nbsp;zoznamu alebo mriežky
+&nbsp;&nbsp;○ používa nízke rozlíšenie (ak je k
+&nbsp;&nbsp;&nbsp;&nbsp;dispozícii)
+● vybrať jeden tok zo zoznamu alebo
+&nbsp;&nbsp;rozloženia mriežky
+&nbsp;&nbsp;○ sa zobrazí na celej obrazovke
+&nbsp;&nbsp;○ používa vysoké rozlíšenie (ak je k
+&nbsp;&nbsp;&nbsp;&nbsp;dispozícii)
+
+História:
+
+Táto aplikácia bola pôvodne napísaný na testovanie experimentálnej vetvy ExoPlayer. V tom čase mala táto pobočka otvorenú požiadavku, ktorá sa po niekoľkých rokoch nespojila:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/
+&nbsp;&nbsp;3854
+
+Nakoniec, táto vetva bola zlúčená. Teraz táto aplikácia používa stabilnú stavbu ExoPlayer. Čo, imho, robí to menej zaujímavé. Ale môže to byť aj tak užitočné.

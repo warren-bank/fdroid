@@ -1,0 +1,10 @@
+Il-video URLs fuq il-web page attwali huma murija f'lista.
+
+Settings jiddeterminaw l-imġiba meta URL URL hija magħżula:
+● l-attur vidjo intern jinkludi mittent
+&nbsp;&nbsp;ta ' Chromeast
+● l-attur video estern jippermetti app
+&nbsp;&nbsp;oħra li jilagħbu l-video URL
+● il-"EżoAirPlayer" u "HLS Proxy"
+&nbsp;&nbsp;sinders kull tagħbija ta ' web statiku
+&nbsp;&nbsp;page SPA klijent għall-server magħżul

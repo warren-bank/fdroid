@@ -1,0 +1,20 @@
+Özellikler şunları içerir:
+
+● userscript URL ' lerinin saptanması
+● otomatik kullanıcı komut dosyası
+&nbsp;&nbsp;güncellemeleri
+● Android 'e özgü yetenekleri açığa
+&nbsp;&nbsp;çıkarmak için genişletilmiş Javascript
+&nbsp;&nbsp;API
+● HTTPS sertifika hatalarını yoksayma
+&nbsp;&nbsp;yeteneği
+
+Sınırlamalar:
+
+● kullanıcı komut dosyaları yalnızca üst
+&nbsp;&nbsp;pencerede çalışır
+&nbsp;&nbsp;○ Iframe 'ye komut dosyası salma
+&nbsp;&nbsp;&nbsp;&nbsp;olanağı olabilir, ancak karmaşık bir
+&nbsp;&nbsp;&nbsp;&nbsp;geçici çözüm gerektirir; ayrıntılar
+&nbsp;&nbsp;&nbsp;&nbsp;için README (Beni Oku) belgesine
+&nbsp;&nbsp;&nbsp;&nbsp;bakın.

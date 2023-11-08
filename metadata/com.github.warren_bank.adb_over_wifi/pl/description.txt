@@ -1,0 +1,7 @@
+Wymaga elementu głównego!
+
+Domyślnym trybem USB jest tryb USB. Do podłączenia urządzenia z systemem Android do komputera wymaga się kabla USB i sterowników USB.
+
+Tryb WiFi jest bezprzewodowy i nie wymaga żadnych dodatkowych sterowników. Każdy komputer może użyć klienta "adb", aby zażądać połączenia z urządzeniem z systemem Android.
+
+Gdy włączony jest tryb WiFi, ta aplikacja wyświetla komendę "adb", która jest niezbędna do żądania takiego połączenia przez sieć LAN.

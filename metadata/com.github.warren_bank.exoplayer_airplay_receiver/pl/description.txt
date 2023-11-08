@@ -1,0 +1,5 @@
+Nasłuchuje na adapterze sieci LAN Wi-Fi przy użyciu bezstanowego interfejsu HTTP API (na podstawie AirPlay v1). Reklamuje swoją dostępność do wykrywania za pomocą mDNS (Bonjour).
+
+Obsługuje urządzenia wszystkich rozmiarów wyświetlaczy; niedrogie ogólne set-top skrzynki z wyjściem HDMI o wysokiej rozdzielczości są platformą docelową, ale działają równie dobrze na bardzo starych słuchawkach z bardzo małych ekranów o niskiej rozdzielczości.
+
+Interfejs API jest obszerny i w pełni udokumentowany. Statyczna implementacja klienta SPA strony WWW sprawia, że ta funkcjonalność jest wysoce dostępna. Ten interfejs API na najbardziej podstawowym poziomie pozwala na "rzutowanie" adresów URL nośników na listę odtwarzania i sterowanie wszystkimi aspektami odtwarzania.

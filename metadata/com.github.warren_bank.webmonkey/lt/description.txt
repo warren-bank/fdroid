@@ -1,0 +1,18 @@
+Funkcijos apima:
+
+● Userscript URLs nustatymas
+● Automatinis userraštis atnaujinimai
+● pratęstas JavaScript API, kad
+&nbsp;&nbsp;atskleisti "Android" konkrečius
+&nbsp;&nbsp;pajėgumus
+● galimybė ignoruoti HTTPS pažymėjimo
+&nbsp;&nbsp;klaidas
+
+Apribojimai:
+
+● userscript paleisti tik viršutiniame
+&nbsp;&nbsp;lange
+&nbsp;&nbsp;○ scenarijų įdėjimas į iframes yra
+&nbsp;&nbsp;&nbsp;&nbsp;įmanoma, bet reikalauja sudėtingos
+&nbsp;&nbsp;&nbsp;&nbsp;darbo aplink; kreiptis į README už
+&nbsp;&nbsp;&nbsp;&nbsp;detales.

@@ -1,0 +1,31 @@
+வலைப்பதிவுகளின் படி:
+
+● ஒரு நிலையான நிலையை மாற்று
+● ஒரு பயணத்தை பார்த்து
+● ஒரு மோக் நிலையான நிலைக்கு அருகில்
+&nbsp;&nbsp;நகர்த்துவதற்கு ஒரு joystick
+&nbsp;&nbsp;பயன்படுத்தவும்
+● அலங்காரம் மற்றும் நீள்சதுர
+&nbsp;&nbsp;ஜாயோ-ஒருங்கிணைப்பு ஜோடி அடையாளங்கள்
+● Latitude and longitude geo-coordinate
+&nbsp;&nbsp;pairs as named bookmarks
+
+மாறிகள்:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+Android ஒருங்கிணைப்பு:
+
+1. உருவாக்கியோர் விருப்பங்கள்
+&nbsp;&nbsp;&nbsp;● திறந்த:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;அமைப்புகள் > அமைப்பு > தொலைபேசி
+&nbsp;&nbsp;&nbsp;● தொடர் 7 முறை க்ளிக் செய்யவும்:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;எண்
+2. வடிவமை:
+&nbsp;&nbsp;&nbsp;● திறந்த:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;அமைப்புகள் > அமைப்பு >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;உருவாக்குபவர் விருப்பங்கள்
+&nbsp;&nbsp;&nbsp;● மதிப்பை சேமிக்க:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location app: "Mock my GPS"

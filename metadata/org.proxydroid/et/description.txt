@@ -1,0 +1,32 @@
+Vajab root!
+
+Omadused on järgmised:
+
+● Puhverserveri protokollide toetamine:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● autentimismeetodite toetamine:
+&nbsp;&nbsp;○ Põhiline
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● Puhverserveri lubamine:
+&nbsp;&nbsp;○ kogu maailmas, kõigi rakenduste
+&nbsp;&nbsp;&nbsp;&nbsp;jaoks
+&nbsp;&nbsp;○ Ainult konkreetsete rakenduste puhul
+● toetus mustale nimekirjale:
+&nbsp;&nbsp;○ IP-aadressid puhverserveri
+&nbsp;&nbsp;&nbsp;&nbsp;ümbersõiduks
+● toetus DNS proxy
+● Mitme profiili toetus
+● põhitoetus puhverserveri
+&nbsp;&nbsp;automaatkonfiguratsiooni (PAC) faili
+● võime seostada konkreetse profiili
+&nbsp;&nbsp;järgmiste omadustega:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobiilne võrk
+● vidin proxy sisse/välja lülitamiseks
+● tööaeg:
+&nbsp;&nbsp;○ tarbib vähe akusid
+&nbsp;&nbsp;○ kasutab vähe RAM

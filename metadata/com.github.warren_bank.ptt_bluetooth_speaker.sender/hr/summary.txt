@@ -1,0 +1,1 @@
+Hvata audio iz mikrofona i šalje ga prijamniku.

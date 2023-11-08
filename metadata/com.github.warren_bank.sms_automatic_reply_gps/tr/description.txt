@@ -1,0 +1,15 @@
+Koşullu ölçütler şunlardır:
+
+● gönderen telefon numaralarının beyaz
+&nbsp;&nbsp;listesi
+● alınan SMS iletisinin başlangıcındaki
+&nbsp;&nbsp;bir alt dizgi olmalıdır
+
+GPS konum verileri arasında şunlar yer alır:
+
+● Enlem ve boylam
+● doğruluk (metre)
+● hız (ölçü/saniye)
+● yön (kardinal ya da ordinal, ve
+&nbsp;&nbsp;derece)
+● Google Maps URL 'si

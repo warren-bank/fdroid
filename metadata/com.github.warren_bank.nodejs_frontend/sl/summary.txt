@@ -1,0 +1,1 @@
+Frontend za izvajanje aplikacije Node.js iz datotečnega sistema Android.

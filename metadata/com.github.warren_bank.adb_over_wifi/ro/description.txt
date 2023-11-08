@@ -1,0 +1,7 @@
+Necesită rădăcină!
+
+Modul USB este implicit. Este nevoie de un cablu USB și drivere USB pentru a conecta dispozitivul Android la un computer.
+
+Modul WiFi este fără fir și nu necesită drivere suplimentare. Orice calculator poate folosi "adb" client pentru a solicita o conexiune la dispozitivul Android.
+
+Când modul WiFi este activat, această aplicație afișează comanda "adb" necesară pentru a solicita o astfel de conexiune pe un LAN.

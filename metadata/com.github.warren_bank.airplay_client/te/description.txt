@@ -1,0 +1,23 @@
+విశేషాలు:
+
+● అదే నెట్వర్క్ లోపల ఎయిర్ ప్లేస్
+&nbsp;&nbsp;రిసీవర్ల యొక్క స్వయంచాలక కనుగొనడం
+● ఎయిర్ ప్లేకు మీ పరికరం నుండి బీమ్
+&nbsp;&nbsp;ఫొటోలు
+● మీ పరికరం నుండి ఎయిర్ ప్లేకు వీడియోలు
+&nbsp;&nbsp;మరియు సంగీతం
+● ఎయిర్ ప్లేకు మీ పరికరం నుండి తెర
+&nbsp;&nbsp;మిర్రర్
+
+క్రిడ్స్:
+
+● డ్రాజు ప్లేచేయుము
+&nbsp;&nbsp;&nbsp;&nbsp;ఈ అనువర్తన యొక్క అసలు వెర్షన్.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● స్క్రీన్ స్ట్రీమ్
+&nbsp;&nbsp;&nbsp;&nbsp;ఆండ్రాయిడ్ 5.0+ పై స్క్రీన్
+&nbsp;&nbsp;&nbsp;&nbsp;మిర్టరింగ్ అమలు చేయడానికి చాలా కోడ్
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (వెర్షన్ 1) ప్రోటోకాల్
+&nbsp;&nbsp;&nbsp;&nbsp;Unofficial documentation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

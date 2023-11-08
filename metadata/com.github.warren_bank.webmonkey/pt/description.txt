@@ -1,0 +1,18 @@
+Os recursos incluem:
+
+● detecção de URLs do userscript
+● atualizações automáticas do userscript
+● uma API Javascript estendida para
+&nbsp;&nbsp;expor as capacidades específicas do
+&nbsp;&nbsp;Android
+● a capacidade de ignorar erros de
+&nbsp;&nbsp;certificado HTTPS
+
+Limitações:
+
+● userscripts só são executados na
+&nbsp;&nbsp;janela superior
+&nbsp;&nbsp;○ injeção de script em iframes é
+&nbsp;&nbsp;&nbsp;&nbsp;possível, mas requer uma solução
+&nbsp;&nbsp;&nbsp;&nbsp;alternativa complicada; consulte o
+&nbsp;&nbsp;&nbsp;&nbsp;README para obter detalhes.

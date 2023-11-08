@@ -1,0 +1,1 @@
+Inspektera SMS-meddelanden och villkorligt svar med GPS-placeringsdata.

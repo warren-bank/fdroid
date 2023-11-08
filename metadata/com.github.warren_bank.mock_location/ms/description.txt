@@ -1,0 +1,32 @@
+Ciri-ciri termasuk keupayaan untuk:
+
+● kock kedudukan tetap
+● Simulasikan perjalanan
+● guna kayu joystick untuk alih relatif
+&nbsp;&nbsp;ke kedudukan tetap mock
+● Terima pasangan latitud dan longitud
+&nbsp;&nbsp;geo-kordinat dari Inkhemah
+● simpan pasangan latitud dan longitud
+&nbsp;&nbsp;geo-kordinat sebagai tanda buku yang
+&nbsp;&nbsp;bernama
+
+Variasi:
+
+1. AOSP
+2. Pasukan Main-C-C
+3. AOSP + Huawei Perkhidmatan Mudah Alih
+
+Integrasi Android:
+
+1. benarkan pilihan pembangun
+&nbsp;&nbsp;&nbsp;● buka:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tetapan > Sistem > Mengenai
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;telefon
+&nbsp;&nbsp;&nbsp;● berulang kali klik 7 kali:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nombor binaan
+2. konfigur:
+&nbsp;&nbsp;&nbsp;● buka:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tetapan > Sistem > Sistem
+&nbsp;&nbsp;&nbsp;● Nilai simpan:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikasi lokasi Mock: "Mock GPS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;saya"

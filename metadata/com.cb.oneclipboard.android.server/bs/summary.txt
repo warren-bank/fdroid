@@ -1,0 +1,1 @@
+Server za sinkronizaciju podataka iz clipboarda preko klijenata.

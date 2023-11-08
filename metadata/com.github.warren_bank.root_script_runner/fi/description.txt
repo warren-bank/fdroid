@@ -1,0 +1,9 @@
+Requires juurta!
+
+Kuori-komentosarjan teloitusta voidaan käyttää kahdella tavalla:
+
+1. Interaktiivinen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Käyttäjä valitsee tiedoston
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manuaalisesti.
+2. Automaattinen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Intelissä.

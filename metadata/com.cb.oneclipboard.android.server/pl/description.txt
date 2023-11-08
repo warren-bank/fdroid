@@ -1,0 +1,5 @@
+Klienci są dostępni dla różnych platform, w tym Android.
+
+Wszyscy klienci, którzy łączą się z tym serwerem i uwierzytelniają się przy użyciu tej samej kombinacji nazwy użytkownika i hasła, współużytkną wspólny schowek. Za każdym razem, gdy dowolny klient kopiuje nowe dane do schowka, dane te są wysyłane do serwera, a następnie rozgłaszane do wszystkich uwierzytelnionych klientów.
+
+Wszystkie dane ze schowka są szyfrowane na koniec.

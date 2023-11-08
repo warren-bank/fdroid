@@ -1,0 +1,7 @@
+Serveri su dostupni za različite platforme, uključujući i Android.
+
+Svi klijenti koji se povežu na zajednički server i autentificiraju koristeći isto korisničko ime i šifru lozinke, dijelit će zajedničku tablu za pisanje. Kad god bilo koji klijent kopira nove podatke u svoju memoriju, ovi podaci se šalju na server i onda emitiraju sve provjerene klijente.
+
+Svi podaci o odlagalištu su šifrirani.
+
+Integracija sa zadacima je podržana.

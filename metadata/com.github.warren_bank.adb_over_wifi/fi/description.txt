@@ -1,0 +1,7 @@
+Requires juurta!
+
+USB-tila on oletusarvo. Se edellyttää, että USB-kaapelit ja USB-kuljettajat yhdistävät Android-laitteen tietokoneeseen.
+
+WiFi-tila on langaton, eikä se edellytä muita kuljettajia. Jokainen tietokone voi käyttää "adb" - työasemaohjelmaa, joka pyytää yhteyden Android-laitteeseen.
+
+Kun WiFi-tila on käytössä, tämä sovellus näyttää tarvittavan adb-komennon, joka edellyttää yhteyden muodostusta lähiverkon yläpuolella.

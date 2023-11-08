@@ -1,0 +1,3 @@
+Forholdene er definert av en liste over regler. Hver regel knytter et videresendingsmottaker-telefonnummer med et mønster som må matche avsenderen av en mottatt SMS-melding.
+
+Når en ny SMS-melding mottas, blir det videresendt til mottakertelefontall i henhold til hvert enkelt regelrett som har et matchende mønster.

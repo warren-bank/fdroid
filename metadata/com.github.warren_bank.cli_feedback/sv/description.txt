@@ -1,0 +1,7 @@
+Typer av feedback från användare:
+
+● visa en skål
+● visa en avisering
+● spela upp en ljudringsignal
+
+Alla typer av feedback startas av Intent. Verktyget kan användas både i andra applikationer och direkt av användaren från en terminalemulator för kommandoraden.

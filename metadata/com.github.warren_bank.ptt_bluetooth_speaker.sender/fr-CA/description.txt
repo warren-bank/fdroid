@@ -1,0 +1,20 @@
+Utilisation:
+
+● affiche une liste de tous les
+&nbsp;&nbsp;périphériques Bluetooth associés
+&nbsp;&nbsp;○ cliquez sur celui qui identifie le
+&nbsp;&nbsp;&nbsp;&nbsp;récepteur souhaité
+&nbsp;&nbsp;○ attente de connexion
+
+● basculer le bouton PTT
+&nbsp;&nbsp;○ vert indique que l'audio est
+&nbsp;&nbsp;&nbsp;&nbsp;actuellement capturé
+&nbsp;&nbsp;&nbsp;&nbsp;à partir du microphone et en passant
+&nbsp;&nbsp;&nbsp;&nbsp;par le connecteur connecté
+&nbsp;&nbsp;○ rouge indique que le flux audio est
+&nbsp;&nbsp;&nbsp;&nbsp;actuellement en pause
+
+● déplacer le curseur pour ajuster le
+&nbsp;&nbsp;volume de l'audio
+&nbsp;&nbsp;○ Par défaut: 25%
+&nbsp;&nbsp;○ maximum: 200%

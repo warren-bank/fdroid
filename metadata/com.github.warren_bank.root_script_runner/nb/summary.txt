@@ -1,0 +1,1 @@
+Utfører skallskript som rotbruker.

@@ -1,0 +1,7 @@
+Typen feedback van de gebruiker:
+
+● Toast tonen
+● Melding afbeelden
+● Speel een audio Ringtone
+
+Alle soorten feedback van de gebruiker worden gestart door Intent. Dit hulpprogramma kan zowel worden gebruikt door andere toepassingen, als rechtstreeks door de gebruiker vanaf een opdrachtregelterminalemulator.

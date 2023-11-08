@@ -1,0 +1,18 @@
+Fitur-fitur mencakup:
+
+● deteksi URL userscript
+● pembaruan skrip pengguna otomatis
+● Sebuah API Javascript yang diperluas
+&nbsp;&nbsp;untuk mengekspos kemampuan spesifik
+&nbsp;&nbsp;Android
+● kemampuan untuk mengabaikan kesalahan
+&nbsp;&nbsp;sertifikat HTTPS
+
+Batasan:
+
+● skrip userscript hanya berjalan di
+&nbsp;&nbsp;jendela atas
+&nbsp;&nbsp;○ Injeksi skrip ke dalam iframes
+&nbsp;&nbsp;&nbsp;&nbsp;dimungkinkan, tetapi membutuhkan
+&nbsp;&nbsp;&nbsp;&nbsp;solusi yang rumit; mengacu pada
+&nbsp;&nbsp;&nbsp;&nbsp;README untuk rincian.

@@ -1,0 +1,17 @@
+Le funzioni includono:
+
+● rilevamento degli URL userscript
+● aggiornamenti userscript automatici
+● un'API Javascript estesa per esporre
+&nbsp;&nbsp;le funzionalità specifiche di Android
+● la possibilità di ignorare gli errori
+&nbsp;&nbsp;del certificato HTTPS
+
+Limitazioni:
+
+● userscripts si eseguono solo nella
+&nbsp;&nbsp;finestra superiore
+&nbsp;&nbsp;○ l'iniezione di script in iframe è
+&nbsp;&nbsp;&nbsp;&nbsp;possibile, ma richiede un workaround
+&nbsp;&nbsp;&nbsp;&nbsp;complicato; fare riferimento al
+&nbsp;&nbsp;&nbsp;&nbsp;README per i dettagli.

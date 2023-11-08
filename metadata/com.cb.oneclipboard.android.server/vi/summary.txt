@@ -1,0 +1,1 @@
+Máy chủ để đồng bộ dư ̃ liệu bảng tạm qua máy khách.

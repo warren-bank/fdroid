@@ -1,0 +1,33 @@
+Las características incluyen la capacidad de:
+
+● Simulación de una posición fija
+● simular un viaje
+● utilizar un joystick para moverse en
+&nbsp;&nbsp;relación a una posición fija simulada
+● aceptar pares de geo-coordenada de
+&nbsp;&nbsp;latitud y longitud de Intents
+● guardar pares de geo-coordenadas de
+&nbsp;&nbsp;latitud y longitud como marcadores con
+&nbsp;&nbsp;nombre
+
+Variaciones:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+Integración de Android:
+
+1. habilitar opciones de desarrollador
+&nbsp;&nbsp;&nbsp;● Abierto:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuración > Sistema > Acerca
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de teléfono
+&nbsp;&nbsp;&nbsp;● haga clic en 7 veces:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Número de compilación
+2. configurar:
+&nbsp;&nbsp;&nbsp;● Abierto:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valores > Sistema > Opciones de
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desarrollador
+&nbsp;&nbsp;&nbsp;● guardar valores:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;App de localización simulada:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mock my GPS"

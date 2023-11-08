@@ -1,0 +1,5 @@
+Mae cleientiaid ar gael ar gyfer amryw o blatfformau, gan gynnwys Android.
+
+Bydd pob cleient sy'n cysylltu â'r gweinydd hwn a dilysu gan ddefnyddio'r un enw defnyddiwr a chyfuniad cyfrinair yn rhannu gludfwrdd cyffredin. Pryd bynnag y bydd unrhyw gleient yn copïo data newydd i'w gludfwrdd, anfonir y data yma at y gweinydd ac yna ei ddarlledu i bob cleient a ddilyswyd.
+
+Mae pob data gludfwrdd yn cael ei amgryptio ar y diwedd.

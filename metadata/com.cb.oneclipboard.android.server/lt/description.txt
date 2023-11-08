@@ -1,0 +1,5 @@
+Klientai yra prieinami įvairių platformų, įskaitant "Android".
+
+Visi klientai, kurie prisijungti prie šio serverio ir autentifikuoti naudojant tą patį vartotojo vardą ir slaptažodį derinys bus pasidalinti bendrą laikinąją talpyklę. Kiekvieną kartą, kai klientas kopijuojami nauji duomenys į talpyklę, šie duomenys siunčiami į serverį, o po to transliuojami visi autenti klientai.
+
+Visi talpyklės duomenys yra užšifruotas pabaigos.

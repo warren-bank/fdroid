@@ -1,0 +1,1 @@
+Lettore multimediale basato su ExoPlayer con API per il controllo remoto.

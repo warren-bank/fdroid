@@ -1,0 +1,15 @@
+Kriterji kondizzjonali jinkludu:
+
+● Numru tat-telefown tat-telefown
+&nbsp;&nbsp;tat-telefown
+● sustanza li trid isseħħ fil-bidu
+&nbsp;&nbsp;tal-messaġġ ta ' SMS li jkun irċieva
+
+Data tal-post tal-GPS tinkludi:
+
+● il-koordinati tal-latitudni u l
+● preċiżjoni (metri)
+● veloċità (meters/sec)
+● direzzjoni (kardinal jew ordal, u
+&nbsp;&nbsp;gradi)
+● URL għall Google Maps

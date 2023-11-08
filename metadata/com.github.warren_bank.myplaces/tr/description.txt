@@ -1,0 +1,22 @@
+Özellikler aşağıdakileri yapabilme yeteneğini içerir:
+
+● coğrafi koordinatların listesini
+&nbsp;&nbsp;sıralayın:
+&nbsp;&nbsp;○ sıralı
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Giriş dosyasında yer alan yerler
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;olarak sipariş verildi.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: kesin bir seyahat programı
+&nbsp;&nbsp;○ uzaklık
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geçerli konumdan uzaklığa göre
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sipariş edilen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: yakındaki POI ' ya özel
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;amaçlı keşif
+&nbsp;&nbsp;○ alfabetik
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Konumlar ile ilişkili açıklayıcı
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adlara göre sipariş edilen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● örn: sık kullanılan yerlerin yer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;işaretleri
+● bir dış uygulamada karşılık gelen
+&nbsp;&nbsp;konumu açmak için bir liste öğesini
+&nbsp;&nbsp;tıklatın; örneğin, eşleme ya da
+&nbsp;&nbsp;dolaşma gibi.

@@ -1,0 +1,43 @@
+Zu den Features gehören die folgenden Funktionen:
+
+● Suche nach Fernsehserien nach Namen
+● Hinzufügen von Fernsehserien in
+&nbsp;&nbsp;Suchergebnissen zu einer Liste
+● Sortieren und Filtern der Liste der
+&nbsp;&nbsp;hinzugefügten Fernsehserien
+● Bohren Sie in die Liste, um
+&nbsp;&nbsp;detaillierte Informationen zu jeder
+&nbsp;&nbsp;Serie und zu den verfügbaren Episoden
+&nbsp;&nbsp;zu lesen
+● Episoden als angeschaut markieren
+● Serie als inaktiviert markieren
+● Jede Serie mit externen URLs
+&nbsp;&nbsp;verknüpfen
+&nbsp;&nbsp;○ ex: Websites, auf denen die Serie
+&nbsp;&nbsp;&nbsp;&nbsp;beobachtet werden kann
+● Aktualisierung der Fernsehserie in der
+&nbsp;&nbsp;Liste
+&nbsp;&nbsp;○ um Informationen über neue Episoden
+&nbsp;&nbsp;&nbsp;&nbsp;zu erhalten
+
+Netzanforderungen:
+
+● Die Liste der hinzugefügten
+&nbsp;&nbsp;Fernsehserien kann während der
+&nbsp;&nbsp;Offline-Nutzung verwendet werden
+● Eine Internetverbindung ist nur zum
+&nbsp;&nbsp;manuellen Hinzufügen oder
+&nbsp;&nbsp;Aktualisieren von Fernsehserien
+&nbsp;&nbsp;erforderlich
+
+Gutschriften:
+
+● Alle Daten werden aus der Movie
+&nbsp;&nbsp;Database (TMDB) abgerufen, wobei
+&nbsp;&nbsp;Version 3 der TMDB-API verwendet wird.
+● Historische Abstammung:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. Droidshows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

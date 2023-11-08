@@ -1,0 +1,34 @@
+Özellikler aşağıdakileri yapabilme yeteneğini içerir:
+
+● sabit bir konumla dalga geçme
+● bir seyahat simülasyonu
+● bir sahte sabit pozisyona göre hareket
+&nbsp;&nbsp;etmek için bir joystick kullanma
+● Inçadırlardan enlem ve boylam
+&nbsp;&nbsp;jeo-koordinat çiftlerini kabul et
+● Adlandırılmış yer işaretleri olarak
+&nbsp;&nbsp;enlem ve boylam geo-koordinat
+&nbsp;&nbsp;çiftlerini kaydet
+
+Çeşitler:
+
+1. AOSP
+2. AOSP + Google Play Hizmetleri
+3. AOSP + Huawei Mobil Hizmetleri
+
+Android entegrasyonu:
+
+1. Geliştirici seçeneklerini
+&nbsp;&nbsp;&nbsp;etkinleştirme
+&nbsp;&nbsp;&nbsp;● açık:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ayarlar > Sistem > Telefon
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hakkında
+&nbsp;&nbsp;&nbsp;● sürekli olarak 7 kez tıklayın:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oluşturma numarası
+2. yapılandır:
+&nbsp;&nbsp;&nbsp;● açık:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ayarlar > Sistem > Geliştirici
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seçenekleri
+&nbsp;&nbsp;&nbsp;● Saklama değerleri:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sahte konum uygulaması: "GPS '
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;im"

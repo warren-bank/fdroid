@@ -1,0 +1,32 @@
+Funkcije uključuju mogućnost da:
+
+● Rugati se fiksnom
+● simuliraj put
+● Koristite joystick da se presele u
+&nbsp;&nbsp;odnosu na lažnom fiksnu poziciju
+● Prihvati geografsku širinu i dužinu
+&nbsp;&nbsp;geo-koordinata parova iz Intatora
+● Spremanje parova geografske širine i
+&nbsp;&nbsp;dužine Geo-koordinata u obliku
+&nbsp;&nbsp;imenovanih oznaka
+
+Varijacije:
+
+1. AOSP
+2. AOSP + usluge Google Play-a
+3. AOSP + Huawei mobilne usluge
+
+Android integracija:
+
+1. Omogući opcije razvoja
+&nbsp;&nbsp;&nbsp;● otvori:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postavke > Sustav > O telefonu
+&nbsp;&nbsp;&nbsp;● Više puta kliknite 7 puta:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Broj izgradnje
+2. konfiguriraj:
+&nbsp;&nbsp;&nbsp;● otvori:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postavke > Sistem > Opcije
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;razvoja
+&nbsp;&nbsp;&nbsp;● Vrijednosti spremanja:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikacija za izrugivanje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lokaciji: "Mock moj GPS"

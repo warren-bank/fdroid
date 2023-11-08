@@ -1,0 +1,1 @@
+Screensaver, der viser en glidevisning af lokale billeder.

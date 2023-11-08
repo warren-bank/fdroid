@@ -1,0 +1,18 @@
+K funkciám patrí:
+
+● zisťovanie adries URL userscript
+● automatické aktualizácie userscript
+● Rozšírené rozhranie Javascript API na
+&nbsp;&nbsp;odhalenie špecifických schopností pre
+&nbsp;&nbsp;Android
+● schopnosť ignorovať chyby v
+&nbsp;&nbsp;certifikáte HTTPS
+
+Obmedzenia:
+
+● užívateľské skripty spúšťané len v
+&nbsp;&nbsp;hornom okne
+&nbsp;&nbsp;○ Podanie skriptu do iframe je možné,
+&nbsp;&nbsp;&nbsp;&nbsp;ale vyžaduje si zložité obídenie
+&nbsp;&nbsp;&nbsp;&nbsp;problému; podrobnosti si pozrite v
+&nbsp;&nbsp;&nbsp;&nbsp;README.

@@ -1,0 +1,1 @@
+Zajame zvok iz mikrofona in ga pošlje na sprejemnik.

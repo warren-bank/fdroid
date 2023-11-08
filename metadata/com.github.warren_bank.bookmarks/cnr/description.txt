@@ -1,0 +1,29 @@
+Pozadina:
+
+● Android Intent može se koristiti za
+&nbsp;&nbsp;otvaranje preciznog dijela bilo koje
+&nbsp;&nbsp;instalirane aplikacije, i prosljeđuje
+&nbsp;&nbsp;bilo koji tip ili količinu podataka
+● Kao što je, Intent je kao Android
+&nbsp;&nbsp;knjiška oznaka
+
+Karakteristike uključuju sposobnost da:
+
+● Konfigurirajte i spremite namjere kao
+&nbsp;&nbsp;imenovane knjiške oznake
+● Da, da, da.
+&nbsp;&nbsp;○ Započnite aktivnost.
+&nbsp;&nbsp;○ Započnu službu.
+&nbsp;&nbsp;○ Pošaljite emitovanja.
+● Zabilješke oznake koje će se kasnije
+&nbsp;&nbsp;koristiti:
+&nbsp;&nbsp;○ Jedno vrijeme.
+&nbsp;&nbsp;○ u intervalu
+● Presresti namjere koje su pokrenule
+&nbsp;&nbsp;druge aplikacije:
+&nbsp;&nbsp;○ da modificira
+&nbsp;&nbsp;○ Da uštedim
+● I povrati:
+&nbsp;&nbsp;○ Cijela SQLItna baza podataka.
+&nbsp;&nbsp;○ Datoteka JSON podataka
+&nbsp;&nbsp;○ Netscape Bookmark HTML datoteka

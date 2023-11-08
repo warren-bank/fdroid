@@ -1,0 +1,18 @@
+Määritä HTTP-pyyntömääritteet:
+
+● Menetelmä
+● Pöytäkirja
+● URL
+● Päämiehet
+● Querystring-parametrit
+● Elin
+
+Ominaisuuksiin kuuluu kyky:
+
+● Lähetä pyyntö kerran
+● Lähettää pyynnön toistuvasti
+&nbsp;&nbsp;määrätyllä aikavälillä
+● Lataa aiemman pyynnön konfiguraatio
+&nbsp;&nbsp;historialokista
+● JSON-vastaustiedot
+● Esikatselutiedot

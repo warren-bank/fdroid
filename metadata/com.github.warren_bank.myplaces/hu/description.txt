@@ -1,0 +1,20 @@
+A szolgáltatások a következők:
+
+● A földrajzi koordináták listájának
+&nbsp;&nbsp;rendezése:
+&nbsp;&nbsp;○ Sorozatos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A rendszer a bemeneti fájlban
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jelenik meg.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: egy pontos útiterv
+&nbsp;&nbsp;○ Távolság
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Távolról rendelték el a jelenlegi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helyétől.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: a közeli POI eseti feltárása
+&nbsp;&nbsp;○ Alfabetikus
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A helyekhez tartozó leíró nevek
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rendelték el.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: a kedvenc helyek könyvjelzői
+● Egy listaelemre kattintva megnyithatja
+&nbsp;&nbsp;a megfelelő helyet egy külső
+&nbsp;&nbsp;alkalmazásban (például leképezés vagy
+&nbsp;&nbsp;navigáció).

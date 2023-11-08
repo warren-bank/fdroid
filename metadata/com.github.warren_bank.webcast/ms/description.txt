@@ -1,0 +1,11 @@
+URL Video pada halaman web semasa dipaparkan dalam senarai.
+
+Tetapan menentukan kelakuan bila URL video dipilih:
+● Pemain video dalaman termasuk pengirim
+&nbsp;&nbsp;Chromecast
+● pemain-pemain video luaran membenarkan
+&nbsp;&nbsp;aplikasi lain untuk memainkan URL
+&nbsp;&nbsp;video
+● "ExoAirPlayer" dan "HLS Proxy" senders
+&nbsp;&nbsp;setiap memuatkan laman web statik SPA
+&nbsp;&nbsp;bagi pelayan yang dipilih.

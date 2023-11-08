@@ -1,0 +1,1 @@
+Weight-weight web browser to extract video URLs from web sites.

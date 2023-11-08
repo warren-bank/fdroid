@@ -1,0 +1,1 @@
+Napravite video pozive između uređaja na LAN-u.

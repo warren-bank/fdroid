@@ -1,0 +1,31 @@
+പ്രത്യേകതകൾ ഉൾപ്പെടുത്താനുള്ള കഴിവ്:
+
+● ഒരു നിശ്ചിത സ്ഥാനം വഹിക്കുന്നു.
+● ഒരു യാത്ര സിമുലറ്റ് ചെയ്യുക
+● ഒരു ജോയിസ്റ്റിക്ക് ഉപയോഗിച്ച് ഒരു മോക്
+&nbsp;&nbsp;നിശ്ചിത സ്ഥാനത്തേക്ക് നീങ്ങുക.
+● ഉയർന്ന അക്ഷാംശവും രേഖാംശവും
+&nbsp;&nbsp;സ്വീകരിക്കാവുന്നതാണ്.
+● Latitude and longitude geo-coordinate
+&nbsp;&nbsp;pairs as named bookmarks
+
+വ്യതിയാനങ്ങള്:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+ആൻഡ്രോയിഡ് കൂട്ടം:
+
+1. ഡെവലപ്പര് ഐച്ഛികങ്ങള്
+&nbsp;&nbsp;&nbsp;പ്രാവര്ത്തികമാക്കുന്നു
+&nbsp;&nbsp;&nbsp;● തുറക്കുക:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;സജ്ജീകരണ> സിസ്റ്റം > ഫോണ്
+&nbsp;&nbsp;&nbsp;● 7 തവണ ക്ലിക്ക് ചെയ്യുക:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ബില്ഡ് നംബര്
+2. ക്രമീകരണം:
+&nbsp;&nbsp;&nbsp;● തുറക്കുക:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;സജ്ജീകരണ> സിസ്റ്റം > ഡെവലപ്പര്
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ഐച്ഛികങ്ങള്
+&nbsp;&nbsp;&nbsp;● മൂല്യങ്ങള് സൂക്ഷിയ്ക്കുക:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location app: "Mock my GPS"

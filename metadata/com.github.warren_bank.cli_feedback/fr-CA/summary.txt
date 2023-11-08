@@ -1,0 +1,1 @@
+Utilitaire non interactif pour fournir une rétroaction de l'utilisateur à partir de la ligne de commande.

@@ -1,0 +1,25 @@
+Dostępne są następujące funkcje:
+
+● Automatyczne wykrywanie odbiorników
+&nbsp;&nbsp;AirPlay w ramach tej samej sieci
+● Promień zdjęcia z Twojego urządzenia
+&nbsp;&nbsp;do AirPlay
+● Strumieniowanie filmów i muzyki z
+&nbsp;&nbsp;Twojego urządzenia do AirPlay
+● Utwórz kopię lustrzaną ekranu z
+&nbsp;&nbsp;urządzenia do AirPlay
+
+Kredyty:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Oryginalna wersja tej aplikacji.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Strumień zrzutu ekranu
+&nbsp;&nbsp;&nbsp;&nbsp;Udostępnił wiele kodu do
+&nbsp;&nbsp;&nbsp;&nbsp;zaimplementowania zapisu lustrzanego
+&nbsp;&nbsp;&nbsp;&nbsp;ekranu w systemie Android w wersji
+&nbsp;&nbsp;&nbsp;&nbsp;5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (wersja 1), protokół
+&nbsp;&nbsp;&nbsp;&nbsp;Nieoficjalna dokumentacja.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

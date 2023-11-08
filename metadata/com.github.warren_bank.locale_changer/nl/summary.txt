@@ -1,0 +1,1 @@
+Wijzig de standaardlocale voor Android-systemen.

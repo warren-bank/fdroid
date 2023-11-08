@@ -1,0 +1,7 @@
+Vrste povratnih informacija korisnika:
+
+● pokaži Toastu
+● Pokaži obavijest
+● Reproduciraj zvuk zvučnog signala
+
+Svi tipovi povratnih informacija korisnika su pokrenuti od strane Inšatora. Ovaj pomoćni program može se koristiti i od strane drugih aplikacija, kao i direktno od strane korisnika iz emulatora terminala komandne linije.

@@ -1,0 +1,5 @@
+Počúva na adaptéri Wi-Fi LAN pomocou bezstavového rozhrania HTTP API (založeného na AirPlay v1). Inzeruje svoju dostupnosť pre objavovanie pomocou mDNS (Bonjour).
+
+Podporuje zariadenia všetkých veľkostí displeja; lacné generické set-top boxy s vysokým rozlíšením HDMI výstupu sú cieľová platforma, ale pracuje rovnako dobre na veľmi starých handset s veľmi malými obrazovkami s nízkym rozlíšením.
+
+API je rozsiahle a plne zdokumentované. Implementácia klienta pre statickú webovú stránku poskytuje túto funkčnosť vysoko dostupnou. Toto rozhranie API na svojej najzákladnej úrovni poskytuje schopnosť "pretypovania" adries URL médií do playlistu a riadiť všetky aspekty prehrávania.

@@ -1,0 +1,29 @@
+લાક્ષણિકતાનો સમાવેશ થાય છે:
+
+● ચોક્કસ સ્થિતિને ચલાવો
+● ટ્રીનો સિમ્યુલેટ કરો
+● Mock ચોક્કસ સ્થિતિને સંબંધિત સ્થિતિમાં
+&nbsp;&nbsp;ખસેડવા માટે જોયસ્ટીક વાપરો
+● અક્ષાંશ અને રેખાંશ ભૌતિક સંકળાયેલી
+&nbsp;&nbsp;જોડીઓને સ્વીકારો
+● Latitude and longitude geo-coordinate
+&nbsp;&nbsp;pairs as named bookmarks
+
+ચલ:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei મોબાઇલ સર્વિસીસ
+
+એન્રોડ એકીકરણ:
+
+1. ડેવલપર વિકલ્પો સક્રિય કરો
+&nbsp;&nbsp;&nbsp;● ખોલો:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;સુયોજનો > સિસ્ટમ > ફોન વિશે
+&nbsp;&nbsp;&nbsp;● વારંવાર 7 વખત ક્લિક કરો:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;બિલ્ડ નંબર
+2. રૂપરેખાંકિત કરો:
+&nbsp;&nbsp;&nbsp;● ખોલો:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;સુયોજનો > સિસ્ટમ > ડેવલપર વિકલ્પો
+&nbsp;&nbsp;&nbsp;● કિંમતો સંગ્રહો:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location app: "Mock my GPS"

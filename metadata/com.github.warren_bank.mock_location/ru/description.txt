@@ -1,0 +1,32 @@
+Функции включают в себя:
+
+● фиксация фиксированного положения
+● моделирование поездки
+● использовать джойстик для перемещения
+&nbsp;&nbsp;относительно инсценированного
+&nbsp;&nbsp;фиксированного положения
+● Принимать пары координат широты и
+&nbsp;&nbsp;долготы от объектов Intent
+● сохранить пары координат широты и
+&nbsp;&nbsp;долготы в виде именованных закладок
+
+Вариации:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei
+
+Интеграция Android:
+
+1. включить опции разработчика
+&nbsp;&nbsp;&nbsp;● открыть:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Параметры > Система > О телефоне
+&nbsp;&nbsp;&nbsp;● многократно щелкается 7 раз:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Номер сборки
+2. настроить:
+&nbsp;&nbsp;&nbsp;● открыть:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Параметры > Система > Опции
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;разработчика
+&nbsp;&nbsp;&nbsp;● сохранить значения:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Приложение имитации расположения:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mock my GPS"

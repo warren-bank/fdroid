@@ -1,0 +1,15 @@
+Uvjetni kriteriji uključuju:
+
+● lista dozvoda telefonskih brojeva
+&nbsp;&nbsp;pošiljatelja
+● podniz koji se mora desiti na početku
+&nbsp;&nbsp;primljene SMS poruke
+
+Podaci o GPS lokaciji uključuju:
+
+● koordinate zemljopisne širine i dužine
+● točnost (mjerila)
+● brzina (meter/sek)
+● smjer (kardinala ili ordinal, i
+&nbsp;&nbsp;stupnjeva)
+● URL za Google Maps

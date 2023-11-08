@@ -1,0 +1,1 @@
+Vykoná shell skripty ako užívateľ root.

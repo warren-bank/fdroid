@@ -1,0 +1,1 @@
+Ohranjevalnik zaslona, ki prikazuje prikaz sliv lokalnih slik.

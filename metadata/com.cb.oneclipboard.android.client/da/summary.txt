@@ -1,0 +1,1 @@
+Klient til at synkronisere udklipsholderen data via en server.

@@ -1,0 +1,17 @@
+Među značajkama su:
+
+● Otkrivanje URL-URL-URL-ova
+● Automatska ažuriranja korisničkog
+&nbsp;&nbsp;skripta
+● Prošireni Javascript API za otkrivanje
+&nbsp;&nbsp;Android specifičnih sposobnosti
+● sposobnost da se ignorira greške HTTPS
+&nbsp;&nbsp;certifikata
+
+Ograničenja:
+
+● Samo se koriste u gornjem prozoru.
+&nbsp;&nbsp;○ Injekcija scenarija u iframe je
+&nbsp;&nbsp;&nbsp;&nbsp;moguća, ali zahtijeva komplikovan
+&nbsp;&nbsp;&nbsp;&nbsp;zaobilazak; pogledajte u README za
+&nbsp;&nbsp;&nbsp;&nbsp;detalje.

@@ -1,0 +1,1 @@
+Simulați furnizorii de locații Android: GPS, Network, Fused.

@@ -1,0 +1,7 @@
+Requer raiz!
+
+O modo USB é o padrão. Ele requer um cabo USB e drivers USB para conectar o dispositivo Android a um computador.
+
+O modo WiFi é sem fio e não requer nenhum driver adicional. Qualquer computador pode usar o cliente "adb" para solicitar uma conexão com o dispositivo Android.
+
+Quando o modo WiFi é ativado, este app exibe o comando "adb" necessário para solicitar tal conexão sobre uma LAN.

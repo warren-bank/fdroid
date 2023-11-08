@@ -1,0 +1,1 @@
+Pelayar web berat ringan dengan sokongan untuk skrip pengguna Greasemonkey.

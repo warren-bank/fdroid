@@ -1,0 +1,9 @@
+Krever rot!
+
+Utføring av et skallskript kan aktiveres på to måter:
+
+1. interaktivt
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ved at brukeren manuelt velger en
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fil.
+2. automatisk
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Av et Insteltet.

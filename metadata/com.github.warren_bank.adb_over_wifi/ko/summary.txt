@@ -1,0 +1,1 @@
+USB와 WiFi 모드 사이에서 Android 디버그 브리지 디먼 (adbd) 을 토글한다.

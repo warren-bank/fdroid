@@ -1,0 +1,21 @@
+Ciri-ciri termasuk keupayaan untuk:
+
+● isih senarai koordinat geografik:
+&nbsp;&nbsp;○ & Penting
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diarahkan sebagai lokasi berlaku
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dalam fail input.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Bekas bekas perjalanan yang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tepat.
+&nbsp;&nbsp;○ jarak
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diarahkan oleh jarak dari lokasi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;semasa.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: penjelajahan ad-hoc
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;berdekatan POI
+&nbsp;&nbsp;○ Abjad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diarahkan oleh nama keterangan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yang berkaitan dengan lokasi.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: tanda buku tempat kegemaran
+● klik pada item senarai untuk membuka
+&nbsp;&nbsp;lokasi berkaitan dalam aplikasi
+&nbsp;&nbsp;luaran, seperti pemetaan atau
+&nbsp;&nbsp;navigasi.

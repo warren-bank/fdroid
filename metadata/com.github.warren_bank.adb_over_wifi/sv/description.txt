@@ -1,0 +1,7 @@
+Kräver roten!
+
+USB-läge är standard. Den kräver en USB-kabel och USB-drivrutiner för att ansluta Android-enheten till en dator.
+
+Wi-Fi-läge är trådlöst och kräver inga ytterligare drivrutiner. Alla datorer kan använda "adb"-klienten för att begära en anslutning till Android-enheten.
+
+När WiFi-läge är aktiverat visar den här appen kommandot "adb" som krävs för att begära en sådan anslutning via ett LAN.

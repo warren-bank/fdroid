@@ -1,0 +1,1 @@
+Multimediálny prehrávač na báze exoPlayer s rozhraním API pre diaľkové ovládanie.

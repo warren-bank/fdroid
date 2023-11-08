@@ -1,0 +1,3 @@
+Displays lista ta ' losales disponibbli kollha. Tikklikkja fuq kwalunkwe oġġett lista tbiddel il-Android sistema logale għall-valur magħżul. Bidliet huma persistenti.
+
+Il-loale attiv bħalissa huwa dejjem ippożizzjonat bħala l-partita l-ewwel lista.

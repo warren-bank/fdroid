@@ -1,0 +1,11 @@
+Slaidiseansi seadistused:
+
+● Ajaline kestus (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Ajavahemik iga pilt kuvatakse.
+● Kasuta MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Saab pildifaile Android indeksist.
+● Kataloogitee
+&nbsp;&nbsp;&nbsp;&nbsp;Saada pildid konkreetsest
+&nbsp;&nbsp;&nbsp;&nbsp;kataloogist failisüsteemis.
+● Recurse sisse alamkataloogid
+● Juhuslik järjekord

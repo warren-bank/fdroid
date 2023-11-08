@@ -1,0 +1,1 @@
+Saņem audio no sūtītāja un atskaņo to caur skaļruni.

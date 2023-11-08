@@ -1,0 +1,3 @@
+Afișează o listă cu toate localele disponibile. Făcând clic pe orice element de listă se schimbă sistemul Android local la valoarea selectată. Schimbările sunt persistente.
+
+Localul activ în prezent este întotdeauna poziționat ca primul element de listă.

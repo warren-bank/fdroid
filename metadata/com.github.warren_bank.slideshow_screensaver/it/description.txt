@@ -1,0 +1,13 @@
+Impostazioni slideshow:
+
+● Time Duration (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Il periodo di tempo che ogni
+&nbsp;&nbsp;&nbsp;&nbsp;immagine viene visualizzata.
+● Utilizza provider MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Ottiene file immagine dall'indice
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Percorso di directory
+&nbsp;&nbsp;&nbsp;&nbsp;Ottenere immagini da una determinata
+&nbsp;&nbsp;&nbsp;&nbsp;directory nel filesystem.
+● Ricordiamo nelle sottodirectory
+● Ordine casuale

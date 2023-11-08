@@ -1,0 +1,1 @@
+Baca fail GPX dan KML sebagai senarai tanda buku koordinat geografik.

@@ -1,0 +1,13 @@
+Slideshow સુયોજનો:
+
+● સમય ગાળણ (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;દરેક ઇમેજ પ્રદર્શિત સમયગાળો દર્શાવાય
+&nbsp;&nbsp;&nbsp;&nbsp;છે.
+● MediaStore પોષણકર્તા વાપરો
+&nbsp;&nbsp;&nbsp;&nbsp;Android અનુક્રમણિકામાંથી ઇમેજ
+&nbsp;&nbsp;&nbsp;&nbsp;ફાઇલોને અટકાવે છે.
+● ડિરેક્ટરી પાથ
+&nbsp;&nbsp;&nbsp;&nbsp;ફાઇલસિસ્ટમમાં ચોક્કસ ડિરેક્ટરીમાંથી
+&nbsp;&nbsp;&nbsp;&nbsp;ઇમેજોને અટકાવો.
+● ઉપડિરેક્ટરીઓમાં પાછા મેળવો
+● રેન્ડમ ક્રમ

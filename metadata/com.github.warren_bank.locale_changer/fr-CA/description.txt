@@ -1,0 +1,3 @@
+Affiche la liste de tous les environnements locaux disponibles. Si vous cliquez sur un élément de liste, l'environnement local du système Android est modifié par la valeur sélectionnée. Les modifications sont persistantes.
+
+L'environnement local actif est toujours positionné comme premier élément de liste.

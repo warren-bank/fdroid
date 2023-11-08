@@ -1,0 +1,7 @@
+Kiểu phản hồi người dùng:
+
+● Chương trình Toast
+● Hiển thị một Notification
+● chơi âm thanh Ringtone
+
+Tất cả các loại phản hồi của người dùng được bắt đầu bởi Intent. Tiện ích này có thể được sử dụng cả bởi các ứng dụng khác, cũng như trực tiếp bởi người dùng từ một trình giả lập dòng lệnh.

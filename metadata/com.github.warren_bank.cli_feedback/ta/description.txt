@@ -1,0 +1,7 @@
+பயனர் பின்னணிகளின் வகைகள்:
+
+● ஒரு டோஸ்ட் காட்டுName
+● ஒரு அறிவிப்பு காட்டு
+● ஒலி Ringtone விளையாடுக
+
+அனைத்து வகையான பயனர் பின்புலங்கள் இன்டேர் மூலம் தொடங்கப்படுகின்றன. This utility can be used both by other applications, as well as the user by a command line terminal emulator.

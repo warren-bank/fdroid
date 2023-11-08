@@ -1,0 +1,18 @@
+功能包括 :
+
+● 在同一网络内自动发现 AirPlay 接收器
+● 从设备到 AirPlay 的光束照片
+● 从设备到 AirPlay 的流视频和音乐
+● 将屏幕从设备镜像到 AirPlay
+
+学分 :
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;此应用程序的原始版本。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● 屏幕流
+&nbsp;&nbsp;&nbsp;&nbsp;提供了大量用于在 Android 5.0+ 上实现屏幕镜像的代码
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (版本 1) 协议
+&nbsp;&nbsp;&nbsp;&nbsp;非正式文件。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

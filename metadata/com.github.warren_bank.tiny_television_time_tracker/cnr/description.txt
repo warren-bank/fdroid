@@ -1,0 +1,41 @@
+Karakteristike uključuju sposobnost da:
+
+● Potraga za televizijskim serijama po
+&nbsp;&nbsp;imenu
+● Dodavanje televizijskih serija na
+&nbsp;&nbsp;listu rezultata.
+● I filtriraj listu dodanih
+&nbsp;&nbsp;televizijskih serija.
+● Kako biste pročitali detaljne
+&nbsp;&nbsp;informacije o svakoj seriji i o njenim
+&nbsp;&nbsp;dostupnim epizodama?
+● Epizoda je bila pod prismotrom.
+● Označi seriju kao onesposobljene
+● Pridružite se svakoj seriji s vanjskim
+&nbsp;&nbsp;URL-ovima
+&nbsp;&nbsp;○ Ex: web stranice gdje se serija može
+&nbsp;&nbsp;&nbsp;&nbsp;gledati
+● I da se to ne bi dogodilo.
+&nbsp;&nbsp;○ da dobije informacije o novim
+&nbsp;&nbsp;&nbsp;&nbsp;epizodama.
+
+Mrežni zahtjevi:
+
+● Spisak dodanih televizijskih serija
+&nbsp;&nbsp;može se koristiti dok je potpuno
+&nbsp;&nbsp;odsutan.
+● Internet veza je potrebna samo za
+&nbsp;&nbsp;ručno dodavanje ili ažuriranje
+&nbsp;&nbsp;televizijske serije.
+
+Krediti:
+
+● Svi podaci dobiveni su iz Filmske baze
+&nbsp;&nbsp;podataka (TMDB), koristeći verziju 3
+&nbsp;&nbsp;od TMDB API-ja
+● -Povijesna loza.
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidPokazuje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

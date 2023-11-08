@@ -1,0 +1,13 @@
+Nastavenia prehliadky slideshow:
+
+● Časové trvanie (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Čas, počas ktorého sa zobrazí každý
+&nbsp;&nbsp;&nbsp;&nbsp;obrázok.
+● Použiť poskytovateľa MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Získava obrazové súbory z indexu
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Cesta k adresáru
+&nbsp;&nbsp;&nbsp;&nbsp;Získajte obrazy z konkrétneho
+&nbsp;&nbsp;&nbsp;&nbsp;adresára v súborovom systéme.
+● Rekurovať do podadresárov
+● Náhodný príkaz

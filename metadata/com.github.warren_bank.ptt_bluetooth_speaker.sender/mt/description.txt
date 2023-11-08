@@ -1,0 +1,20 @@
+Użu:
+
+● displays lista ta ' kull apparat
+&nbsp;&nbsp;Bluetooth akkoppat
+&nbsp;&nbsp;○ ikklikkja l-waħda li tidentifika
+&nbsp;&nbsp;&nbsp;&nbsp;l-riċevitur mixtieq
+&nbsp;&nbsp;○ stenna għal konnessjoni
+
+● toggle l-buttuna PTT
+&nbsp;&nbsp;○ aħdar jindika li l-awdjo bħalissa
+&nbsp;&nbsp;&nbsp;&nbsp;qed jinqabad
+&nbsp;&nbsp;&nbsp;&nbsp;mill-mikrofonu u skurjat permezz ta
+&nbsp;&nbsp;&nbsp;&nbsp;' sokit konness
+&nbsp;&nbsp;○ aħmar jindika li l-fluss awdjo huwa
+&nbsp;&nbsp;&nbsp;&nbsp;attwalment paused
+
+● jimxu l-slider biex taġġusta l-volum
+&nbsp;&nbsp;tal-awdjo
+&nbsp;&nbsp;○ default: 25%
+&nbsp;&nbsp;○ massimu: 200%

@@ -1,0 +1,19 @@
+Las características incluyen:
+
+● detección de URL de userscript
+● actualizaciones automáticas del script
+&nbsp;&nbsp;de usuario
+● una API Javascript ampliada para
+&nbsp;&nbsp;exponer las funciones específicas de
+&nbsp;&nbsp;Android
+● La capacidad de ignorar errores de
+&nbsp;&nbsp;certificados HTTPS
+
+Limitaciones:
+
+● Los scripts de usuario sólo se
+&nbsp;&nbsp;ejecutan en la ventana superior
+&nbsp;&nbsp;○ La inyección de scripts en iframes
+&nbsp;&nbsp;&nbsp;&nbsp;es posible, pero requiere un trabajo
+&nbsp;&nbsp;&nbsp;&nbsp;complicado; consulte el README para
+&nbsp;&nbsp;&nbsp;&nbsp;obtener más detalles.

@@ -1,0 +1,31 @@
+Karakteristike uključuju sposobnost da:
+
+● Rugati se fiksnom položaju
+● Simulirajte putovanje.
+● Treba da se preselimo u odnosu na
+&nbsp;&nbsp;fiksnu poziciju.
+● Prihvatite geografsku širinu i dužinu
+&nbsp;&nbsp;Geo-koordinata od Inšatora.
+● Uštedite geografsku širinu i dužinu
+&nbsp;&nbsp;geo-koordinata kao što su imenovane
+&nbsp;&nbsp;oznake
+
+Varijacije:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei mobilne usluge
+
+Android integracija:
+
+1. Mogućnosti za razvoj
+&nbsp;&nbsp;&nbsp;● Otvoreno ...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postavke > Sustav > O telefonu
+&nbsp;&nbsp;&nbsp;● Više puta kliknite 7 puta.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Broj
+2. -Da.
+&nbsp;&nbsp;&nbsp;● Otvoreno ...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postavke > Sistema > Opcije
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;razvijača
+&nbsp;&nbsp;&nbsp;● Sačuvajte sve vrijednosti:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lažna lokacija: "Mock moj GPS"

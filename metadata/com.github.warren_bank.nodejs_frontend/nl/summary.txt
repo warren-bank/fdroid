@@ -1,0 +1,1 @@
+Frontend om Node.js applicatie uit te voeren vanaf het Android-bestandssysteem.

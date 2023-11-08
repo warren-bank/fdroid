@@ -1,0 +1,13 @@
+محددات الشرائح :
+
+● الفترة الزمنية (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;عبارة عن الفترة الزمنية التي يتم
+&nbsp;&nbsp;&nbsp;&nbsp;فيها عرض كل صورة.
+● استخدام جهة اتاحة MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;يتم الحصول على ملفات الصور من فهرس
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● مسار الدليل
+&nbsp;&nbsp;&nbsp;&nbsp;قم بالحصول على صور من دليل معين في
+&nbsp;&nbsp;&nbsp;&nbsp;نظام الملفات.
+● Recurse داخل الأدلة الفرعية
+● ترتيب عشوائي

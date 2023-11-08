@@ -1,0 +1,33 @@
+Funksjoner omfatter muligheten til å:
+
+● konfigurere og lagre et hvilket som
+&nbsp;&nbsp;helst antall applikasjonsprofiler
+● hver enkelt applikasjonsprofil kan
+&nbsp;&nbsp;angi:
+&nbsp;&nbsp;○ tittel
+&nbsp;&nbsp;○ filbane til hovedJavascript-fil
+&nbsp;&nbsp;○ kommandolinje alternativer for
+&nbsp;&nbsp;&nbsp;&nbsp;Node.js Runtime
+&nbsp;&nbsp;○ kommandolinjealternativer for
+&nbsp;&nbsp;&nbsp;&nbsp;applikasjonen
+&nbsp;&nbsp;○ miljøvariabler
+&nbsp;&nbsp;○ gjeldende arbeidskatalog
+● applikasjonsprofiler er gruppert
+&nbsp;&nbsp;etter:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applikasjoner deler en enkelt
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prosess. Kun en kan gjennomføre om
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gangen.
+&nbsp;&nbsp;○ "gaffel"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hver enkelt applikasjon får sin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;egen prosess. Hver henretter i en
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forgrunnstjeneste. En tilknyttet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;varsling dreper prosessen.
+● sikkerhetskopiering og gjenoppretting:
+&nbsp;&nbsp;○ eksporter alle søknader til JSON
+&nbsp;&nbsp;○ importere nye søknader fra JSON
+
+Innebygd kjøretidsmiljø:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

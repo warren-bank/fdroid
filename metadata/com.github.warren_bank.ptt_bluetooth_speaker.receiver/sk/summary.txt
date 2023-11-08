@@ -1,0 +1,1 @@
+Prijíma zvuk od odosielateľa a prehrá ho cez reproduktor.

@@ -1,0 +1,13 @@
+Slideshow beállítások:
+
+● Időtartam (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Az egyes képek megjelenítésének
+&nbsp;&nbsp;&nbsp;&nbsp;időtartama.
+● MediaStore szolgáltató használata
+&nbsp;&nbsp;&nbsp;&nbsp;Képfájlok lekérdezése Android
+&nbsp;&nbsp;&nbsp;&nbsp;indexből.
+● Könyvtár útvonala
+&nbsp;&nbsp;&nbsp;&nbsp;Képek beszerzése egy adott
+&nbsp;&nbsp;&nbsp;&nbsp;könyvtárból a fájlrendszerben.
+● Recurse alkönyvtárakba
+● Véletlen sorrend

@@ -1,0 +1,21 @@
+Funkcijos apima galimybę:
+
+● Rūšiuoti pagal geografines
+&nbsp;&nbsp;koordinates:
+&nbsp;&nbsp;○ Eilės tvarka
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Įsakė, kad vietos įvyktų įvesties
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;failuose.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex-tikslus kelionės maršrutas
+&nbsp;&nbsp;○ atstumas
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Užsakė nuotoliniu būdu iš
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dabartinės vietos.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad hoc žvalgymo vietoje POI
+&nbsp;&nbsp;○ 3-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Užsako aprašomuose pavadinimuose,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;susijusiuose su vietomis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: žymelių mėgstamiausios
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vietos
+● spustelėkite sąrašą elementą atidaryti
+&nbsp;&nbsp;atitinkamą vietą išorinėje paraiškoje,
+&nbsp;&nbsp;pavyzdžiui, kartografavimo arba
+&nbsp;&nbsp;navigacijos.

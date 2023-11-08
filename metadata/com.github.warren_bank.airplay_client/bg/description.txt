@@ -1,0 +1,25 @@
+Характеристиките включват:
+
+● Автоматично откриване на приемници
+&nbsp;&nbsp;AirPlay в рамките на една и съща мрежа
+● Изпрати снимки от устройството си до
+&nbsp;&nbsp;AirPlay
+● Стрийм видеоклипове и музика от вашето
+&nbsp;&nbsp;устройство до AirPlay
+● Огледайте екрана от устройството ви до
+&nbsp;&nbsp;AirPlay
+
+Кредити:
+
+● Droidplay
+&nbsp;&nbsp;&nbsp;&nbsp;Оригиналната версия на това
+&nbsp;&nbsp;&nbsp;&nbsp;приложение.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Сценарий:
+&nbsp;&nbsp;&nbsp;&nbsp;Предоставите много от кода за
+&nbsp;&nbsp;&nbsp;&nbsp;прилагане на екранно огледално
+&nbsp;&nbsp;&nbsp;&nbsp;устройство за Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Протокол за въздушна игра (версия 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Неофициална документация.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

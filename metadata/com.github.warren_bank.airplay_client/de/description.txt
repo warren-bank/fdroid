@@ -1,0 +1,25 @@
+Zu den Features gehören:
+
+● Automatische Erkennung von
+&nbsp;&nbsp;AirPlay-Empfängern im selben Netzwerk
+● Strahlfotos von Ihrem Gerät zum
+&nbsp;&nbsp;AirPlay
+● Streamen Sie Videos und Musik von
+&nbsp;&nbsp;Ihrem Gerät zum AirPlay
+● Spiegeln Sie den Bildschirm von Ihrem
+&nbsp;&nbsp;Gerät zu AirPlay
+
+Gutschriften:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Die ursprüngliche Version dieser
+&nbsp;&nbsp;&nbsp;&nbsp;Anwendung.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;Viel von dem Code zur Umsetzung der
+&nbsp;&nbsp;&nbsp;&nbsp;Bildschirmspiegelung auf Android
+&nbsp;&nbsp;&nbsp;&nbsp;5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (Version 1) Protokoll
+&nbsp;&nbsp;&nbsp;&nbsp;Inoffizielle Dokumentation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

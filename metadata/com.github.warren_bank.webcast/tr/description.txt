@@ -1,0 +1,12 @@
+Geçerli web sayfasındaki video URL ' leri bir listede görüntülenir.
+
+Bir video URL 'si seçildiğinde ayarlar davranışı belirler:
+● dahili video oynatıcı bir chromecast
+&nbsp;&nbsp;göndereni içerir
+● harici video oynatıcı, başka bir
+&nbsp;&nbsp;uygulamanın video URL ' yi oynamasına
+&nbsp;&nbsp;izin veriyor
+● "ExoAirPlayer" ve "HLS Proxy"
+&nbsp;&nbsp;göndericileri, seçilen sunucu için
+&nbsp;&nbsp;statik bir web sayfası SPA istemcisi
+&nbsp;&nbsp;yükler

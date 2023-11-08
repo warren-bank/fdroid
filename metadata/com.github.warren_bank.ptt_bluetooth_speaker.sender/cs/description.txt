@@ -1,0 +1,20 @@
+Využití:
+
+● zobrazí seznam všech spárovaných
+&nbsp;&nbsp;zařízení Bluetooth
+&nbsp;&nbsp;○ klepněte na ten, který identifikuje
+&nbsp;&nbsp;&nbsp;&nbsp;požadovaný zásobník
+&nbsp;&nbsp;○ čekat na připojení
+
+● přepnout tlačítko PTT
+&nbsp;&nbsp;○ zelená označuje, že zvuk je
+&nbsp;&nbsp;&nbsp;&nbsp;momentálně zachycen
+&nbsp;&nbsp;&nbsp;&nbsp;z mikrofonu a proudící přes
+&nbsp;&nbsp;&nbsp;&nbsp;připojený soket
+&nbsp;&nbsp;○ červená barva označuje, že zvukový
+&nbsp;&nbsp;&nbsp;&nbsp;proud je v současné době pozastaven
+
+● přesunout posuvník pro úpravu
+&nbsp;&nbsp;hlasitosti zvuku
+&nbsp;&nbsp;○ výchozí: 25%
+&nbsp;&nbsp;○ maximum: 200%

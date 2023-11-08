@@ -1,0 +1,40 @@
+Features include the ability to:
+
+● search for television series by name
+● add television series in search
+&nbsp;&nbsp;results to a list
+● sort and filter the list of added
+&nbsp;&nbsp;television series
+● drill into the list to read detailed
+&nbsp;&nbsp;information about each series and its
+&nbsp;&nbsp;available episodes
+● mark episodes as having been watched
+● mark series as disabled
+● associate each series with external
+&nbsp;&nbsp;URLs
+&nbsp;&nbsp;○ ex: web sites where the series can
+&nbsp;&nbsp;&nbsp;&nbsp;be watched
+● update the television series in the
+&nbsp;&nbsp;list
+&nbsp;&nbsp;○ to obtain information about new
+&nbsp;&nbsp;&nbsp;&nbsp;episodes
+
+Network requirements:
+
+● the list of added television series
+&nbsp;&nbsp;can be used while fully offline
+● an internet connection is only needed
+&nbsp;&nbsp;to manually add or update television
+&nbsp;&nbsp;series
+
+Credits:
+
+● all data is obtained from The Movie
+&nbsp;&nbsp;Database (TMDB), using version 3 of
+&nbsp;&nbsp;the TMDB API
+● historic lineage:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

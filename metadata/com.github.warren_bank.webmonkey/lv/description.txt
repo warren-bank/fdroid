@@ -1,0 +1,14 @@
+Funkcijas ietver:
+
+● suserscript URL noteikšana
+● automātiskās userscript atjauninājumi
+● pagarināts Javascript API, lai
+&nbsp;&nbsp;atmaskotu Android īpašās iespējas
+● spēja ignorēt HTTPS sertifikātu kļūdas
+
+Ierobežojumi:
+
+● userscripts tikai palaist augšējā logā
+&nbsp;&nbsp;○ skriptu iesmidzināšana ir iespējama,
+&nbsp;&nbsp;&nbsp;&nbsp;bet nepieciešama sarežģīta darba
+&nbsp;&nbsp;&nbsp;&nbsp;vieta; sīkāka informācija ir README.

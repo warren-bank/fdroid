@@ -1,0 +1,7 @@
+Jenis maklum balas pengguna:
+
+● Papar Toast
+● tunjuk Pemberitahuan
+● main Ringtone Audio
+
+Semua jenis maklum balas pengguna dimulakan oleh Inkhemah. Utiliti ini boleh digunakan kedua-duanya dengan aplikasi lain, seperti secara langsung oleh pengguna dari emulator terminal baris perintah.

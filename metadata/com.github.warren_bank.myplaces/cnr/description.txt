@@ -1,0 +1,22 @@
+Karakteristike uključuju sposobnost da:
+
+● Sortiraj po redu geografske
+&nbsp;&nbsp;koordinate:
+&nbsp;&nbsp;○ Sekvencijalno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naređeno je da se lokacije dogode
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u ulaznoj datoteci.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ekser, precizna ruta za
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;putovanje.
+&nbsp;&nbsp;○ udaljenost
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naređeno je da se udalji od
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trenutne lokacije.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex-hoc istraživanje obližnje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI-e
+&nbsp;&nbsp;○ Abeceda
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naređeno je od opisnih imena
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;povezanih sa lokacijama.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Zabilješke o omiljenim mjestima
+● Kliknite na stavku liste da biste
+&nbsp;&nbsp;otvorili odgovarajuću lokaciju u
+&nbsp;&nbsp;vanjskoj aplikaciji, kao što su
+&nbsp;&nbsp;mapiranje ili navigacija.

@@ -1,0 +1,11 @@
+Gli URL video sulla pagina web corrente vengono visualizzati in un elenco.
+
+Le impostazioni determinano il funzionamento quando viene selezionato un URL video:
+● il lettore video interno include un
+&nbsp;&nbsp;mittente Chromecast
+● il lettore video esterno consente ad
+&nbsp;&nbsp;un'altra app di riprodurre l'URL video
+● i mittenti "ExoAirPlayer" e "HLS
+&nbsp;&nbsp;Proxy" ogni caricamento di una pagina
+&nbsp;&nbsp;web statica SPA client per il server
+&nbsp;&nbsp;scelto

@@ -1,0 +1,3 @@
+Sąlygos yra apibrėžtos pagal taisyklių sąrašą. Kiekviena taisyklė bendrininkai siunčia gavėjo telefono numerį su šablone, kuris turi atitikti gautos SMS žinute siuntėją.
+
+Kai gaunamas naujas SMS žinučių pranešimas, jis siunčiamas į gavėjo telefono numerius pagal kiekvienos taisyklės, turinčios atitikimo modelį, numerį.

@@ -1,0 +1,1 @@
+Nieinteraktywny program narzędziowy do przekazywania informacji zwrotnych użytkownika z wiersza komend.

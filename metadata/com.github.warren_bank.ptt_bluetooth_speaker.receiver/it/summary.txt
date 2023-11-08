@@ -1,0 +1,1 @@
+Riceve audio dal mittente e lo suona attraverso l'altoparlante.

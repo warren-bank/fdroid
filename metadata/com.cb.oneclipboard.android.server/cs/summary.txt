@@ -1,0 +1,1 @@
+Server pro synchronizaci dat schránky mezi klienty.

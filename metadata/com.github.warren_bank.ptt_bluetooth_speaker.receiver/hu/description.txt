@@ -1,0 +1,17 @@
+Előtér szolgáltatásban fut:
+
+● Nincs látható felhasználói felület
+● A Bluetooth adapter feltérképezhető
+● Bluetooth Socket kiszolgáló indítása
+● Egy küldő kapcsolatára figyel
+
+Amikor egy küldő csatlakozik:
+
+● Leállítja a küldő kapcsolat figyelését
+● Az audio adatfolyamot játszik a
+&nbsp;&nbsp;csatlakoztatott Socket-ből
+
+Amikor egy küldő szétkapcsa:
+
+● Folytatja az új küldő kapcsolat
+&nbsp;&nbsp;figyelését

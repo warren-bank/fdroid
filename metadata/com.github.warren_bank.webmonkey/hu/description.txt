@@ -1,0 +1,19 @@
+A szolgáltatások a következők:
+
+● Userscript URL címek felismerése
+● Automatikus felhasználói parancsfájl
+&nbsp;&nbsp;frissítések
+● Kiterjesztett Javascript API az
+&nbsp;&nbsp;Android specifikus képességek
+&nbsp;&nbsp;leleplezéséhez
+● A HTTPS tanúsítvány hibák figyelmen
+&nbsp;&nbsp;kívül hagyásának képessége
+
+Korlátozások:
+
+● Userparancsfájlok csak a felső
+&nbsp;&nbsp;ablakban futnak
+&nbsp;&nbsp;○ A parancsfájl beszúrása iframe-re
+&nbsp;&nbsp;&nbsp;&nbsp;lehetséges, de bonyolult áthidalást
+&nbsp;&nbsp;&nbsp;&nbsp;igényel; a részletekért tekintse meg
+&nbsp;&nbsp;&nbsp;&nbsp;a README fájlt.

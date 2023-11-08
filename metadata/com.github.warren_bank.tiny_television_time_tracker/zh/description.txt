@@ -1,0 +1,28 @@
+功能包括 :
+
+● 按名称搜索电视系列
+● 将搜索结果中的电视系列添加到列表
+● 对添加的电视系列列表进行排序和过滤
+● 钻取至列表以阅读有关每个系列及其可用集的详细信息
+● 已经被监视了
+● 标记系列已禁用
+● 将每个系列与外部 URL 相关联
+&nbsp;&nbsp;○ ex: 可以监视系列的 Web 站点
+● 更新列表中的电视系列
+&nbsp;&nbsp;○ 获取有关新剧集的信息
+
+网络需求:
+
+● 可以在完全脱机的情况下使用添加的电视系列列表
+● 仅需要手动添加或更新电视系列的因特网连接
+
+学分 :
+
+● 使用 TMDB API 的版本 3 从 Movie Database
+&nbsp;&nbsp;(TMDB) 获取所有数据
+● 历史传承 :
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. 小型电视时间跟踪器

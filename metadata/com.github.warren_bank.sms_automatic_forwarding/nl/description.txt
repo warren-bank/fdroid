@@ -1,0 +1,3 @@
+De voorwaarden worden gedefinieerd door een lijst van regels. Elke regel koppelt een telefoonnummer aan een ontvanger met een patroon dat overeen moet komen met de afzender van een ontvangen SMS-bericht.
+
+Wanneer een nieuw SMS-bericht wordt ontvangen, wordt het doorgestuurd naar de ontvanger telefoonnummers volgens elke regel met een overeenkomend patroon.

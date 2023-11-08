@@ -1,0 +1,20 @@
+Utilizare:
+
+● afișează o listă a tuturor
+&nbsp;&nbsp;dispozitivelor Bluetooth pereche
+&nbsp;&nbsp;○ faceți clic pe cel care identifică
+&nbsp;&nbsp;&nbsp;&nbsp;receptorul dorit
+&nbsp;&nbsp;○ așteptați pentru conectare
+
+● comutați butonul PTT
+&nbsp;&nbsp;○ verde indică faptul că audio este în
+&nbsp;&nbsp;&nbsp;&nbsp;prezent capturat
+&nbsp;&nbsp;&nbsp;&nbsp;de la microfon și transmise prin
+&nbsp;&nbsp;&nbsp;&nbsp;priza conectată
+&nbsp;&nbsp;○ roșu indică faptul că fluxul audio
+&nbsp;&nbsp;&nbsp;&nbsp;este în prezent oprit
+
+● muta cursorul pentru a regla volumul
+&nbsp;&nbsp;de audio
+&nbsp;&nbsp;○ implicit: 25%
+&nbsp;&nbsp;○ maximum: 200%

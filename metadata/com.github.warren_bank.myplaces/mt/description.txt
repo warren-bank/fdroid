@@ -1,0 +1,23 @@
+Karatteristiċi jinkludu l-abbiltà li:
+
+● issolvi l-lista ta ' koordinati
+&nbsp;&nbsp;ġeografiċi:
+&nbsp;&nbsp;○ sekwenzjali
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordnat bħala l-postijiet jseħħu
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fil-fajl input.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: itinerarju tal-ivvjaġġar
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;preċiż
+&nbsp;&nbsp;○ distanza
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordnat mill-bogħod mill-post
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;attwali.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: esplorazzjoni ad hoc ta '
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI fil-qrib
+&nbsp;&nbsp;○ alfabetika
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordnat mill-ismijiet deskrittivi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;assoċjati ma ' postijiet.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: bookmarks ta ' postijiet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;favoriti
+● ikklikkja fuq oġġett ta ' lista biex
+&nbsp;&nbsp;tiftaħ il-post korrispondenti
+&nbsp;&nbsp;f'applikazzjoni esterna, bħal mapping
+&nbsp;&nbsp;jew navigazzjoni.

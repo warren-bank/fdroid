@@ -1,0 +1,1 @@
+Könnyűsúlyú webböngésző a Greasemonkey felhasználói parancsfájlok támogatásával.

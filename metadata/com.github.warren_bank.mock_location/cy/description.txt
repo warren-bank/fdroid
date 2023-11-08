@@ -1,0 +1,32 @@
+Mae nodweddion yn cynnwys y gallu i:
+
+● ffug safle sefydlog
+● dangos taith
+● defnyddiwch ffon ffon i symud o'i
+&nbsp;&nbsp;gymharu â safle ffug
+● derbyn parau rhyddid hydred a
+&nbsp;&nbsp;hydred-cyfesuryn parau o Inbyll
+● arbed parau rhyddid a hydred
+&nbsp;&nbsp;geo-cyfesuryn parau fel nodau tudalen
+&nbsp;&nbsp;enwyd
+
+Amrywiadau:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Gwasanaethau Symudol
+
+Integreiddio Android:
+
+1. galluogi Dewisiadau Datblygwyr
+&nbsp;&nbsp;&nbsp;● agor:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gosodiadau > Cysawd > Ynghylch y
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ffôn
+&nbsp;&nbsp;&nbsp;● Clic 7 ar ôl tro:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rhif Adeiladu
+2. ffurfweddu:
+&nbsp;&nbsp;&nbsp;● agor:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gosodiadau > Cysawd > Dewisiadau
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Datblygwyr
+&nbsp;&nbsp;&nbsp;● cadw gwerthoedd:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ffug ap lleoliad: "Mock my GPS"

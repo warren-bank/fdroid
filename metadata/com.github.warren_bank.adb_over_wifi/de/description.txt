@@ -1,0 +1,7 @@
+Erfordert Root!
+
+Der USB-Modus ist der Standardwert. Es erfordert ein USB-Kabel und USB-Treiber, um das Android-Gerät mit einem Computer zu verbinden.
+
+WLAN-Modus ist drahtlos und erfordert keine zusätzlichen Treiber. Jeder Computer kann den "adb" -Client verwenden, um eine Verbindung zum Android-Gerät anzufordern.
+
+Wenn der WiFi-Modus aktiviert ist, zeigt diese App den Befehl "adb" an, der erforderlich ist, um eine solche Verbindung über ein LAN anzufordern.

@@ -1,0 +1,38 @@
+විශේෂාංග ඇතුලත් කිරීමේ හැකියාව:
+
+● නමින් රූපවාහිනි ශ්රේණිගත කිරීම සඳහා
+● සෙවුම් ප්රතිඵල ලැයිස්තුවට රූපවාහිනි
+&nbsp;&nbsp;ශ්රේණියක් එක් කරන්න
+● එකතු කරලා එකතු කරලා තියෙන ටෙලිවිෂන්
+&nbsp;&nbsp;එකේ ලැයිස්තුව
+● එක් එක් ශ්රිතය සහ එහි පවතින කොටස්
+&nbsp;&nbsp;පිළිබඳව විස්තරාත්මක තොරතුරු කියවීමට
+&nbsp;&nbsp;ලැයිස්තුවට විදින්න
+● සලකුණු කර ඇති කොටස් ලෙස සළකුණු කිරීම
+● ශ්රිතය අක්රීය ලෙස සළකුණු කරන්න
+● බාහිර URLs සමඟ එක් එක් ශ්රිතය
+&nbsp;&nbsp;○ Ex: web sites where the series can
+&nbsp;&nbsp;&nbsp;&nbsp;be බැලුවේ
+● ලැයිස්තුවේ රූපවාහිනි ශ්රේණිගත කිරීම්
+&nbsp;&nbsp;යාවත්කාලීන කිරීම
+&nbsp;&nbsp;○ නව කොටස් පිළිබඳ තොරතුරු ලබා ගැනීම
+&nbsp;&nbsp;&nbsp;&nbsp;සඳහා
+
+ජාල අවශ්යතාවයන්:
+
+● එකතු කරන ලද රූපවාහිනි ශ්රේණිගත කිරීමේ
+&nbsp;&nbsp;ලැයිස්තුව සම්පූර්ණයෙන්ම නොමිලයේම
+● අන්තර්ජාල සම්බන්ධතාවයකින් පමණක්
+&nbsp;&nbsp;රූපවාහිනි ශ්රිතයක් හෝ යාවත්කාලීන
+&nbsp;&nbsp;කිරීමට අවශ්ය
+
+Credits:
+
+● සියලුම දත්ත ලබාගන්නේ The Movie
+&nbsp;&nbsp;Database (TMDB), TMDB API හි අනුවාදය 3
+● ඓතිහාසික ලෙසින්:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

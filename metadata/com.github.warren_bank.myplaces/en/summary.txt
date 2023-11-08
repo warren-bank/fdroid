@@ -1,0 +1,1 @@
+Reads GPX and KML files as lists of geographic coordinate bookmarks.

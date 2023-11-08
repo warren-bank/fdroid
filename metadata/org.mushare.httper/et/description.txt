@@ -1,0 +1,18 @@
+Seadistatav HTTP päringuomadused:
+
+● Meetod
+● Protokoll
+● URL
+● päised
+● summutusstringide parameetrid
+● Kehakaal
+
+Funktsioonide hulka kuuluvad võime:
+
+● Saatke üks palve.
+● saada taotluse korduvalt määratud aja
+&nbsp;&nbsp;jooksul
+● taaslaaditakse eelnõude seadistus
+&nbsp;&nbsp;ajaloopäevilt
+● Päris trükitud JSONi vastuse andmed
+● HTML-vastuse eelvaatlus

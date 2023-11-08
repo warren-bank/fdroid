@@ -1,0 +1,1 @@
+Neinteraktivni pripomoček za podajanje povratnih informacij o uporabniku iz ukazne vrstice.

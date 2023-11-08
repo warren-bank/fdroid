@@ -1,0 +1,26 @@
+Funktionerne omfatter:
+
+● Automatisk opsporing af
+&nbsp;&nbsp;AirPlay-modtagere inden for samme
+&nbsp;&nbsp;netværk
+● Beam billeder fra din enhed til
+&nbsp;&nbsp;AirPlay
+● Stream-videoer og musik fra din enhed
+&nbsp;&nbsp;til AirPlay
+● Spejl skærmen fra din enhed til
+&nbsp;&nbsp;AirPlay
+
+Kreditering:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Den oprindelige version af denne
+&nbsp;&nbsp;&nbsp;&nbsp;applikation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;Forudsat meget af koden til at
+&nbsp;&nbsp;&nbsp;&nbsp;implementere skærmspejling på
+&nbsp;&nbsp;&nbsp;&nbsp;Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (version 1) protokol
+&nbsp;&nbsp;&nbsp;&nbsp;Uofficielt dokumentation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

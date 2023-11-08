@@ -1,0 +1,7 @@
+Zahtijeva korijen!
+
+USB način je default. To zahtijeva USB kabel i USB drivere za spajanje Android uređaja na računalo.
+
+WiFi način rada je bežični i ne zahtijeva nikakve dodatne vozače. Bilo koji kompjuter može koristiti "adb" klijent da zatraži vezu sa Android uređajem.
+
+Kada je omogućen WiFi, ova aplikacija prikazuje "adb" komandu neophodnu za zahtijevanje takve veze preko LAN-a.

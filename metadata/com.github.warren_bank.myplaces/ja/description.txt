@@ -1,0 +1,14 @@
+以下の機能があります。
+
+● 地理座標のリストをソートします。
+&nbsp;&nbsp;○ 順次
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入力ファイル内でロケーションとして配列されます。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: 精密な旅行の旅程
+&nbsp;&nbsp;○ 距離
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;現在の位置からの距離によって配列されます。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: 近くの POI の特別探索
+&nbsp;&nbsp;○ 英字
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ロケーションに関連付けられた記述名によって配列されます。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: お気に入りの場所のブックマーク
+● リスト項目をクリックして、対応するロケーション (
+&nbsp;&nbsp;マッピングまたはナビゲーションなど ) を外部アプリケーションで開きます。

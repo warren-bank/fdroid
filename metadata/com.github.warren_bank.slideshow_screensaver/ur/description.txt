@@ -1,0 +1,12 @@
+Slideshow Settings:
+
+● ٹائم دورانیہ (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;وقت کی ہر تصویر آویزاں ہے.
+● Mediaسٹور فراہم کنندہ کا استعمال
+&nbsp;&nbsp;&nbsp;&nbsp;تصویر کے کاپی, اتارنا Android انڈیکس
+&nbsp;&nbsp;&nbsp;&nbsp;سے تصویر فائلوں.
+● ڈائرکٹری کا راستہ
+&nbsp;&nbsp;&nbsp;&nbsp;فلکیسٹیم میں ایک مخصوص ڈائریکٹری سے
+&nbsp;&nbsp;&nbsp;&nbsp;تعلق رکھنے والی تصاویر.
+● Subڈائریکٹریوں میں بھرتی
+● رینڈم آرڈر

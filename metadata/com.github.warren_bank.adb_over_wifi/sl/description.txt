@@ -1,0 +1,7 @@
+Zahteva koren!
+
+Način USB je privzetek. Za povezavo naprave Android z računalnikom zahteva kabel USB in gonilnike USB.
+
+Način WiFi je brezžien in ne zahteva nobenega dodatnega gonilnika. Vsak računalnik lahko uporablja odjemalca "adb" za zahtevo povezave z napravo Android.
+
+Ko je omogočen način WiFi, ta aplikacija prikaže ukaz "adb", ki je potreben za zahtevo takšne povezave prek lokalnega omrežja.

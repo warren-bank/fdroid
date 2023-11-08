@@ -1,0 +1,7 @@
+Traži korijen!
+
+USB način je default. On zahtijeva USB kabel i USB pogonitelje za povezivanje Android uređaja na računalo.
+
+WiFi način je bežični i ne zahtijeva dodatne pogonitelje. Svako računalo može koristiti "adb" klijent za traženje veze na Android uređaj.
+
+Kada je WiFi način omogućen, ova aplikacija prikazuje naredbu "adb" potrebnu za zahtjev takve veze preko LAN-a.

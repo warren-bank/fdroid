@@ -1,0 +1,19 @@
+Konfigurovateľné atribúty požiadavky HTTP:
+
+● Metóda
+● protokol
+● Adresa URL
+● hlavičky
+● Parametre querystring
+● telo
+
+Medzi funkcie patrí schopnosť:
+
+● odoslať požiadavku raz
+● odoslať požiadavku opakovane v určenom
+&nbsp;&nbsp;časovom intervale
+● znova načítať konfiguráciu
+&nbsp;&nbsp;predchádzajúcej požiadavky z protokolu
+&nbsp;&nbsp;histórie
+● Pomerne vytlačené údaje odpovede JSON
+● zobraziť náhľad údajov odpovede HTML

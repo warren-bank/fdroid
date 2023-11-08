@@ -1,0 +1,21 @@
+विशेषताहरु समावेश गर्न सक्ने क्षमता:
+
+● भौगोलिक निर्देशाङ्कहरूको सूची क्रमबद्ध
+&nbsp;&nbsp;गर्नुहोस्:
+&nbsp;&nbsp;○ अनुक्रमिक
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;आगत फाइलमा स्थानहरूको रूपमा
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;क्रमबद्ध गरिएको छ.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● पूर्व: एक सटीक यात्रा itinerary
+&nbsp;&nbsp;○ दूरी
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;हालको स्थानबाट दूरी गरेर क्रमबद्ध
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;गर्नुहोस्.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● पूर्व: नजिकको पीओआईको एडी-होक
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;अन्वेषण
+&nbsp;&nbsp;○ वर्णमाला
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;स्थानसँग सम्बन्धित वर्णनात्मक
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;नामहरूद्वारा आदेश.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● पूर्व: मनपर्ने ठाउँहरूको
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;पुस्तकचिनो
+● मानचित्र वा नेभिगेसन जस्तै बाह्य
+&nbsp;&nbsp;अनुप्रयोगमा सङ्गत स्थान खोल्नका लागि
+&nbsp;&nbsp;सूची वस्तुमा क्लिक गर्नुहोस्.

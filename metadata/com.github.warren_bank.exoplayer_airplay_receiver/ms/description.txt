@@ -1,0 +1,5 @@
+Listens pada adapter LAN Wi-Fi menggunakan API HTTP stateless (berasaskan AirPlay v1). Iklan untuk penemuan menggunakan mDNS (Bonjour).
+
+Menyokong peranti bagi semua saiz paparan; kotak separa generik yang paling mahal dengan output HDMI resolusi tinggi adalah platform sasaran, tetapi berfungsi dengan baik pada set tangan lama dengan skrin resolusi rendah kecil yang kecil.
+
+API adalah secara menyeluruh dan didokumenkan sepenuhnya. Laman sesawang laman web SPA statik menjadikan fungsi-fungsian ini sangat boleh dicapai. Pada tahap yang paling asas, API ini menyediakan keupayaan untuk "membuang" URL media ke dalam senarai main-main dan mengawal semua aspek main balik.

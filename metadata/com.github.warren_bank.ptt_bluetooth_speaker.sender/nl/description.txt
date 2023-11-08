@@ -1,0 +1,20 @@
+Syntaxis:
+
+● geeft een lijst van alle gepaarde
+&nbsp;&nbsp;Bluetooth-apparaten
+&nbsp;&nbsp;○ klik op degene die de gewenste
+&nbsp;&nbsp;&nbsp;&nbsp;ontvanger identificeert
+&nbsp;&nbsp;○ wachten op verbinding
+
+● schakel de PTT-knop in
+&nbsp;&nbsp;○ groen geeft aan dat audio momenteel
+&nbsp;&nbsp;&nbsp;&nbsp;wordt vastgelegd
+&nbsp;&nbsp;&nbsp;&nbsp;uit de microfoon en gestreamd door
+&nbsp;&nbsp;&nbsp;&nbsp;de aangesloten aansluiting
+&nbsp;&nbsp;○ rood geeft aan dat de audiostroom
+&nbsp;&nbsp;&nbsp;&nbsp;momenteel wordt onderbroken
+
+● schuif de schuifregelaar om het volume
+&nbsp;&nbsp;van de audio aan te passen
+&nbsp;&nbsp;○ standaard: 25%
+&nbsp;&nbsp;○ maximaal: 200%

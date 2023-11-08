@@ -1,0 +1,26 @@
+Funksjoner omfatter:
+
+● Automatisk oppdaging av
+&nbsp;&nbsp;AirPlay-mottakere innenfor samme
+&nbsp;&nbsp;nettverk
+● Stråle bilder fra din enhet til
+&nbsp;&nbsp;AirPlay
+● Strøm videoer og musikk fra din enhet
+&nbsp;&nbsp;til AirPlay
+● Speil skjermen fra din enhet til
+&nbsp;&nbsp;AirPlay
+
+Konstans:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Den opprinnelige versjonen av denne
+&nbsp;&nbsp;&nbsp;&nbsp;søknaden.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Skjermstrøm
+&nbsp;&nbsp;&nbsp;&nbsp;Leverte mye av koden for å
+&nbsp;&nbsp;&nbsp;&nbsp;implementere skjermspeiling på
+&nbsp;&nbsp;&nbsp;&nbsp;Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (versjon 1) protokoll
+&nbsp;&nbsp;&nbsp;&nbsp;Unoffisiell dokumentasjon.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

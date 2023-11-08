@@ -1,0 +1,34 @@
+Gnéithe a áirítear ar an gcumas chun:
+
+● Aistriú agus sábháil aon uimhir de na
+&nbsp;&nbsp;próifílí iarratais
+● Is féidir le gach próifíl iarratais:
+&nbsp;&nbsp;○ teideal
+&nbsp;&nbsp;○ Conair chomhad an chomhaid
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript
+&nbsp;&nbsp;○ roghanna líne orduithe le haghaidh
+&nbsp;&nbsp;&nbsp;&nbsp;an chéad uair. js runtime
+&nbsp;&nbsp;○ roghanna líne orduithe le haghaidh
+&nbsp;&nbsp;&nbsp;&nbsp;an fheidhmchláir
+&nbsp;&nbsp;○ athróga timpeallachta
+&nbsp;&nbsp;○ Comhadlann oibre reatha
+● Tá próifílí iarratais grúpáilte ag:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iarratais a roinnt próiseas
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aonair. Is féidir ach amháin a
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fhorghníomhú ag am.
+&nbsp;&nbsp;○ "fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tá gach iarratas tugtha ar a
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;phróiseas féin. Gach inrite i
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seirbhís dhabhta. Deimhniú
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;comhcheangailte kills an próiseas.
+● cúltaca agus athchóiriú:
+&nbsp;&nbsp;○ Easpórtáil comhaid iarratais go dtí
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ Iompórtáil próifílí nua iarratais ó
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+@ info: inreirceName
+
+● Node.js 12.19.0
+● OpenSSL 1.1. 1g

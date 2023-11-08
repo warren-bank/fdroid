@@ -1,0 +1,30 @@
+Pozada:
+
+● da Android Inator može biti korišten
+&nbsp;&nbsp;za otvaranje preciznije dio bilo koje
+&nbsp;&nbsp;instalirane aplikacije i dodavanje
+&nbsp;&nbsp;bilo kojeg tipa ili količine podataka
+● kao takav, Inšator je kao Android
+&nbsp;&nbsp;knjiška oznaka
+
+Funkcije uključuju mogućnost:
+
+● konfiguriranje i spremanje Inšatora
+&nbsp;&nbsp;kao imenovane knjiške oznake
+● koristi knjiške oznake za:
+&nbsp;&nbsp;○ pokreni Aktivnost
+&nbsp;&nbsp;○ pokretanje Usluge
+&nbsp;&nbsp;○ slanje Broadcast
+● raspoređivanje knjiških oznaka koje će
+&nbsp;&nbsp;se koristiti kasnije:
+&nbsp;&nbsp;○ jedno vrijeme
+&nbsp;&nbsp;○ u intervalu
+● presresti Inšatore pokrenute drugim
+&nbsp;&nbsp;aplikacijama:
+&nbsp;&nbsp;○ za promjenu
+&nbsp;&nbsp;○ za spremanje
+● sigurnosno kopiranje i vraćanje:
+&nbsp;&nbsp;○ cijela SQLita baza podataka
+&nbsp;&nbsp;○ JSON datoteka podataka
+&nbsp;&nbsp;○ Netscape Bookmark HTML datoteka
+&nbsp;&nbsp;&nbsp;&nbsp;podataka

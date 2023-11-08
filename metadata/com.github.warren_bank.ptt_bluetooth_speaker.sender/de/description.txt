@@ -1,0 +1,21 @@
+Verwendung:
+
+● zeigt eine Liste aller gepaarten
+&nbsp;&nbsp;Bluetooth-Geräte an
+&nbsp;&nbsp;○ Klicken Sie auf die, die den
+&nbsp;&nbsp;&nbsp;&nbsp;gewünschten Empfänger identifiziert
+&nbsp;&nbsp;○ Wartestatus für Verbindung
+
+● PTT-Taste umschalten
+&nbsp;&nbsp;○ grün gibt an, dass Audio gerade
+&nbsp;&nbsp;&nbsp;&nbsp;erfasst wird
+&nbsp;&nbsp;&nbsp;&nbsp;vom Mikrofon und über die
+&nbsp;&nbsp;&nbsp;&nbsp;angeschlossene Steckdose
+&nbsp;&nbsp;○ rot gibt an, dass der
+&nbsp;&nbsp;&nbsp;&nbsp;Audiodatenstrom momentan angehalten
+&nbsp;&nbsp;&nbsp;&nbsp;wurde.
+
+● Verschieben Sie den Schieberegler, um
+&nbsp;&nbsp;die Lautstärke der Audio
+&nbsp;&nbsp;○ Standardwert: 25%
+&nbsp;&nbsp;○ Maximum: 200%

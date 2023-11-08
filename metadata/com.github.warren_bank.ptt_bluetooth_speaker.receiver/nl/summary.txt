@@ -1,0 +1,1 @@
+Ontvangt audio van de afzender en speelt deze door de luidspreker.

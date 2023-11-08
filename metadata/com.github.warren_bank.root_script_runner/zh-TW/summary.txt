@@ -1,0 +1,1 @@
+以 root 使用者身分執行 Shell Script 。

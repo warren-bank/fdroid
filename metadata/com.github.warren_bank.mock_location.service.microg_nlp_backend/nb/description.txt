@@ -1,0 +1,19 @@
+Tillater "Mock min GPS" for å oppføre seg som en fiktiv plasseringsleverandør for "UnifiedNlp".
+
+"UnifiedNlp" er:
+
+● typisk installert som en komponent av
+&nbsp;&nbsp;"mikroG"
+● ment for bruk på de-googlet Android
+&nbsp;&nbsp;ROMs
+● en drop-in-erstatning for "Google
+&nbsp;&nbsp;Location Services"
+
+"UnifiedNlp"-integrering av fiktiv lokalisering av data:
+
+● er bare aktivert mens "Mock min GPS"
+&nbsp;&nbsp;er aktiv
+● er prioritert over andre "Unified-Nlp"
+&nbsp;&nbsp;backend plugins ved å avansere
+&nbsp;&nbsp;systemtiden 45 sekunder, så det ser ut
+&nbsp;&nbsp;til å være mest nyansert

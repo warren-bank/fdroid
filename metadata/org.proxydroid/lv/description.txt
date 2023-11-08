@@ -1,0 +1,30 @@
+Vajadzīga sakne!
+
+Funkcijas ietver:
+
+● atbalsts starpniekservera protokoliem:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● atbalsts autentifikācijas metodēm:
+&nbsp;&nbsp;○ Pamatne
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● atbalsts starpniekservera iespējam:
+&nbsp;&nbsp;○ globāli, visām lietotnēm
+&nbsp;&nbsp;○ Tikai konkrētām lietotnēm
+● atbalsts melnajā sarakstā:
+&nbsp;&nbsp;○ IP adreses, lai apietu proxy
+● atbalsts DNS starpniekservera
+● atbalsts daudzkārtējiem profiliem
+● pamata atbalsts starpniekservera
+&nbsp;&nbsp;automātiskās konfigurācijas (PAC)
+&nbsp;&nbsp;failu
+● spēja saistīt konkrētu profilu ar:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobilais tīkls
+● widget to toggle proxy on/off
+● darblaika efektivitāte:
+&nbsp;&nbsp;○ patērē maz akumulatoru
+&nbsp;&nbsp;○ izmanto maz RAM

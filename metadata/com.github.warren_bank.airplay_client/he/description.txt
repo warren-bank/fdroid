@@ -1,0 +1,21 @@
+המאפיינים כוללים:
+
+● גילוי אוטומטי של יומני AirPlay בתוך
+&nbsp;&nbsp;אותה רשת
+● תמונות של קרן מהמכשיר שלך לאיירפליי.
+● סרטוני וידאו ומוסיקה מהמכשיר שלכם
+&nbsp;&nbsp;לאיירפליי
+● המראה את המסך מההתקן שלכם ל-AirPlay
+
+קרירות:
+
+● דרוידפליי
+&nbsp;&nbsp;&nbsp;&nbsp;הגרסה המקורית של יישום זה.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● זיונים
+&nbsp;&nbsp;&nbsp;&nbsp;מספק הרבה מהקוד ליישום שיקוף מסך על
+&nbsp;&nbsp;&nbsp;&nbsp;Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● פרוטוקול של AirPlay (גרסה 1)
+&nbsp;&nbsp;&nbsp;&nbsp;תיעוד לא רשמי.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

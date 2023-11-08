@@ -1,0 +1,1 @@
+Erfasst Audio aus dem Mikrofon und sendet es an den Empfänger.

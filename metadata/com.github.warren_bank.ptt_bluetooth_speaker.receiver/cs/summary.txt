@@ -1,0 +1,1 @@
+Přijímá audio od odesílatele a přehrává jej prostřednictvím reproduktoru.

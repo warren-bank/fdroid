@@ -1,0 +1,1 @@
+Light-weight webový prehliadač pre extrahovanie video URL z webových stránok.

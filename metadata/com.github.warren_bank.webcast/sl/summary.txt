@@ -1,0 +1,1 @@
+Spletni brskalnik z lahki težo, ki ekstrahijo video URL-je iz spletnih mest.

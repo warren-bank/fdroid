@@ -1,0 +1,1 @@
+Lasa GPX un KML failus kā ģeogrāfisko koordinātu grāmatzīmju sarakstus.

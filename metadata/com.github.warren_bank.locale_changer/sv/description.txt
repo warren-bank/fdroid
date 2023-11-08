@@ -1,0 +1,3 @@
+Visar en lista över alla tillgängliga språkmiljöer. När du klickar på ett listobjekt ändras Android-systemets språkmiljö till det valda värdet. Ändringarna är beständiga.
+
+Den aktiva språkmiljön är alltid positionerad som första listobjekt.

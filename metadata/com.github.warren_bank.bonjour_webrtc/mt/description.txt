@@ -1,0 +1,3 @@
+mDNS (Bonjour) huwa użat għall-iskoperta ta ' apparati disponibbli oħra fil-LAN. Bħala tali, l-ebda server ta ' sinjalazzjoni WebRTC huwa meħtieġ.
+
+WebRTC jintuża għal kollox.

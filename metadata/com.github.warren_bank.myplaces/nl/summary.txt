@@ -1,0 +1,1 @@
+Leest GPX en KML bestanden als lijsten van geografische coördinaten-bladwijzers.

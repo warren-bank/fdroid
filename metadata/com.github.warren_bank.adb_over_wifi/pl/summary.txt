@@ -1,0 +1,1 @@
+Przełącza demona Android Debug Bridge (adbd) między trybem USB i WiFi.

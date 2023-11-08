@@ -1,0 +1,32 @@
+Funkcije uključuju mogućnost:
+
+● ismija fiksni položaj
+● simuliacija puta
+● koristi joystick za premještanje u
+&nbsp;&nbsp;odnosu na lažnu fiksnu poziciju
+● prihvat zemljopisne širine i dužine
+&nbsp;&nbsp;geo-koordinatne parove iz Inatora
+● spremanje zemljopisne širine i dužine
+&nbsp;&nbsp;geo-koordinatnih parova kao imenovane
+&nbsp;&nbsp;knjiške oznake
+
+Varijacije:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei mobilne usluge
+
+Integracija Androida:
+
+1. omogući opcije razvijača
+&nbsp;&nbsp;&nbsp;● otvori:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postavke> Sistem> O telefonu
+&nbsp;&nbsp;&nbsp;● više puta kliknite 7 puta:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Broj izgradnje
+2. konfiguriranje:
+&nbsp;&nbsp;&nbsp;● otvori:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postavke> Sistem> Opcije
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;razvijača
+&nbsp;&nbsp;&nbsp;● spremanje vrijednosti:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lažna lokacija app: "Mock moj
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPS"

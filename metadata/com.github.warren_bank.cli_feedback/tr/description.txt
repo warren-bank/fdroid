@@ -1,0 +1,7 @@
+Kullanıcı geribildirimi tipleri:
+
+● Bir Tost göster
+● Bildirim göster
+● Ses Ringtone çal
+
+Tüm kullanıcı geribildirimi tipleri Intent tarafından başlatılır. Bu yardımcı program hem diğer uygulamalar tarafından, hem de bir komut satırı uçbirim öykünücüsünden kullanıcı tarafından kullanılabilir.

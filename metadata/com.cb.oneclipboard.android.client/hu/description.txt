@@ -1,0 +1,7 @@
+A kiszolgálók számos platformra, az Android-ra is elérhetők.
+
+Minden olyan ügyfél, aki egy közös kiszolgálóhoz csatlakozik, és ugyanazon felhasználónév és jelszó kombinációjával hitelesítést használ, közös vágólapot oszt meg. Amikor az ügyfél új adatokat másol a vágólapra, ezt az adatot a rendszer elküldi a kiszolgálónak, majd az összes hitelesített kliensnek továbbadja.
+
+Minden vágólap adat titkosítva van.
+
+A Tasker integráció támogatott.

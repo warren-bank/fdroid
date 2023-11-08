@@ -1,0 +1,7 @@
+Tipi di feedback degli utenti:
+
+● mostra un Toast
+● mostra una notifica
+● giocate un audio Ringtone
+
+Tutti i tipi di feedback degli utenti sono avviati da Intent. Questa utility può essere utilizzata sia da altre applicazioni, sia direttamente dall'utente da un emulatore terminale di riga di comando.

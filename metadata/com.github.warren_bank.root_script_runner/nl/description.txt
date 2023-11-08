@@ -1,0 +1,9 @@
+Vereist root!
+
+Uitvoering van een shellscript kan op twee manieren worden aangeroepen:
+
+1. interactief
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Door de gebruiker handmatig een
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bestand te kiezen.
+2. automatisch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Door een Intent.

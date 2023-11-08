@@ -1,0 +1,1 @@
+Receives audio from the sender and plays it through the speaker.

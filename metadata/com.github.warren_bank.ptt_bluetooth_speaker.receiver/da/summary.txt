@@ -1,0 +1,1 @@
+Modtager lyd fra afsenderen og spiller den gennem taleren.

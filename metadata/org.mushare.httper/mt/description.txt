@@ -1,0 +1,19 @@
+Configurable HTTP talba attributi:
+
+● metodu
+● protokoll
+● URL
+● headers
+● parametri querystring
+● korp
+
+Karatteristiċi jinkludu l-abbiltà li:
+
+● tibgħat talba darba
+● tibgħat talba ripetutament f'intervall
+&nbsp;&nbsp;ta ' żmien speċifikat
+● reload l-konfigurazzjoni ta ' talba
+&nbsp;&nbsp;minn qabel minn log istorja
+● Stampa pjuttost print JSON data
+&nbsp;&nbsp;rispons
+● analiżi preview HTML data

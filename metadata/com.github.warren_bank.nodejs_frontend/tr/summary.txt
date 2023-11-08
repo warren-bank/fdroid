@@ -1,0 +1,1 @@
+Frontend, Android dosya sisteminden Node.js uygulamasını yürütme eğilimindedir.

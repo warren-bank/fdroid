@@ -1,0 +1,1 @@
+Gör videosamtal mellan enheter i ett lokalt nätverk.

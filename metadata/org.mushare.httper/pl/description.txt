@@ -1,0 +1,19 @@
+Konfigurowalne atrybuty żądania HTTP:
+
+● metoda
+● protokół
+● Adres URL
+● nagłówki
+● parametry querystring
+● treść
+
+Funkcje obejmują możliwość:
+
+● wysłanie żądania raz
+● Wysłanie żądania wielokrotnie w
+&nbsp;&nbsp;określonym przedziale czasu
+● przeładuj konfigurację wcześniejszego
+&nbsp;&nbsp;żądania z protokołu historii
+● ładne drukowanie danych odpowiedzi
+&nbsp;&nbsp;JSON
+● podgląd danych odpowiedzi HTML

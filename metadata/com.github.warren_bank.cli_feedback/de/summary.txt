@@ -1,0 +1,1 @@
+Nicht interaktives Dienstprogramm zur Bereitstellung von Benutzerrückmeldungen über die Befehlszeile.

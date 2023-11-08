@@ -1,0 +1,22 @@
+പ്രത്യേകതകൾ ഉൾപ്പെടുത്താനുള്ള കഴിവ്:
+
+● പട്ടിക:
+&nbsp;&nbsp;○ ക്രമികരണം
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ഇന്പുട്ട് ഫയലില്
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;സംഭവിച്ചിരിക്കുന്ന സ്ഥലങ്ങളായി
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ഓര്ഡര് ചെയ്തു.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● മുന്പേ: ഒരു കൃത്യമായ യാത്രാ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ടൈറ്റിനറി
+&nbsp;&nbsp;○ ദൂരം
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;നിലവിലുള്ള സ്ഥലത്തുനിന്നുള്ള ദൂരം.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● അടുത്തുള്ള POI-hoc exploration
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex: ad-hoc exploration
+&nbsp;&nbsp;○ അക്ഷരങ്ങള്Name
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;സ്ഥലങ്ങളുമായി ബന്ധപ്പെട്ട നാമകരമായ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;പേരുകള് ഓര്ഡര് ചെയ്തു.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● മുന്പില്: ഇഷ്ടപ്പെട്ട
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;സ്ഥലങ്ങളുടെ ഓര്മ്മക്കുറിപ്പുകള്
+● മാപ്പിൻ അല്ലെങ്കിൽ നാവിഗേഷൻ പോലെ ഒരു
+&nbsp;&nbsp;ബാഹ്യ പ്രയോഗത്തിൽ അനുവദിക്കാവുന്ന
+&nbsp;&nbsp;സ്ഥലം തുറക്കുവാനായി ഒരു ലിസ്റ്റ്
+&nbsp;&nbsp;ഇനത്തിൽ ക്ലിക്ക് ചെയ്യുക.

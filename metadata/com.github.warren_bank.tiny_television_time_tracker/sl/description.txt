@@ -1,0 +1,41 @@
+Funkcije vključujejo zmožnost za:
+
+● iskanje televizijskih serij po imenu
+● dodajanje televizijskih serij v
+&nbsp;&nbsp;rezultate iskanja na seznam
+● razvrstitev in filtriranje seznama
+&nbsp;&nbsp;dodanih televizijskih serij
+● vrtati na seznam, da se preberejo
+&nbsp;&nbsp;podrobne informacije o vsaki seriji in
+&nbsp;&nbsp;njenih razpoložljivih epizod
+● označi epizode, kot so bile opazovne
+● označi serijo kot onemogoče
+● povezovanje vsake serije z zunanjimi
+&nbsp;&nbsp;URL-ji
+&nbsp;&nbsp;○ ex: spletna mesta, kjer se serija
+&nbsp;&nbsp;&nbsp;&nbsp;lahko opazuje
+● posodobi serijo televizijskih
+&nbsp;&nbsp;programov na seznamu
+&nbsp;&nbsp;○ za pridobitev informacij o novih
+&nbsp;&nbsp;&nbsp;&nbsp;epizod
+
+Omrežne zahteve:
+
+● seznam dodanih televizijskih serij se
+&nbsp;&nbsp;lahko uporablja v celoti brez povezave
+● internetna povezava je potrebna samo
+&nbsp;&nbsp;za ročno dodajanje ali posodobitev
+&nbsp;&nbsp;televizijskih programov
+
+Dobropisi:
+
+● vsi podatki se pridobijo iz zbirke
+&nbsp;&nbsp;podatkov o movie (TMDB), pri čemer se
+&nbsp;&nbsp;uporablja različica 3 API-ja TMDB.
+● zgodovinsko poreklo:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidPovidi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Mali Sledilnik Drobnega
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Televizijskega Programa

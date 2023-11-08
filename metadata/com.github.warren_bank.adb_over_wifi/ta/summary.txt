@@ -1,0 +1,1 @@
+USB மற்றும் WiFi முறைக்கும் இடையே Android Debug Bridge daemon (adbd)

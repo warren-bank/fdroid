@@ -1,0 +1,3 @@
+Condițiile sunt definite printr-o listă de reguli. Fiecare regulă asociază un număr de telefon destinatar cu un model care trebuie să se potrivească cu expeditorul unui mesaj SMS primit.
+
+Atunci când un nou mesaj SMS este primit, acesta este transmis la numerele de telefon destinatar în conformitate cu fiecare regulă având un model de potrivire.

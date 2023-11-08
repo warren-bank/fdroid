@@ -1,0 +1,13 @@
+Settings tal-Wirja:
+
+● Tul ta ' Żmien (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Il-perjodu ta ' żmien kull immaġini
+&nbsp;&nbsp;&nbsp;&nbsp;hija murija.
+● Użu fornitur tal-MediaAħżen
+&nbsp;&nbsp;&nbsp;&nbsp;Tikseb fajls immaġni minn indiċi
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Triq direttorju
+&nbsp;&nbsp;&nbsp;&nbsp;Jiksbu immaġini minn direttorju
+&nbsp;&nbsp;&nbsp;&nbsp;partikolari fil-filesystem.
+● Recurse fis subdirettorji
+● Ordni każwali

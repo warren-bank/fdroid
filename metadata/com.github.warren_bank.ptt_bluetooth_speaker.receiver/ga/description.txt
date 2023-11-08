@@ -1,0 +1,19 @@
+Ritheann sé i seirbhís dhúmála:
+
+● Níl aon Úsáid infheicthe
+● a dhéanann an díchódóir Bluetooth
+&nbsp;&nbsp;inchomhadName
+● Tosaigh freastalaí Bluetooth
+● éisteacht le haghaidh nasc ó seoltóir
+
+Nuair a nasctar seoltóir:
+
+● Díríodh an ceangal le haghaidh nasc
+&nbsp;&nbsp;seoltóra
+● díríonn an sruth fuaime ón soicéad
+&nbsp;&nbsp;ceangailte
+
+Nuair a dhiúscálann sender:
+
+● resumes éisteacht le haghaidh nasc nua
+&nbsp;&nbsp;seoltóir

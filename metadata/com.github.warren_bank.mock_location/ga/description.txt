@@ -1,0 +1,32 @@
+Gnéithe a áirítear ar an gcumas chun:
+
+● Staid sheasta:
+● % 1:% 1
+● úsáid joystick chun bogadh i
+&nbsp;&nbsp;gcoibhneas le seasamh seasta.
+● glacadh le dearcadh agus fadú
+&nbsp;&nbsp;péirí-comhordúcháin ó Intents
+● Sábháil dearcadh agus fadú
+&nbsp;&nbsp;péirí-comhordúcháin mar
+&nbsp;&nbsp;leabharmharcanna ainmnithe
+
+Athróga:
+
+1. AOSP
+2. AOSP + Google Seirbhísí Spáis
+3. AOSP + Huawei Seirbhísí Mobile
+
+Android comhtháthú:
+
+1. Cumasaigh Roghanna Forbairtí
+&nbsp;&nbsp;&nbsp;● oscailt:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Socruithe > Córas > Maidir le
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;teileafón
+&nbsp;&nbsp;&nbsp;● arís agus cliceáil 7 n-uaire:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tóg uimhir
+2. Aistriú:
+&nbsp;&nbsp;&nbsp;● oscailt:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Socruithe > Córais > Roghanna
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forbróra
+&nbsp;&nbsp;&nbsp;● gan luachanna:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock suíomh app: "Mock mo GPS"

@@ -1,0 +1,20 @@
+Spouští se v rámci služby na popředí:
+
+● neexistuje žádné viditelné uživatelské
+&nbsp;&nbsp;rozhraní
+● způsobí, že adaptér Bluetooth bude
+&nbsp;&nbsp;zjistitelný
+● spustí server Bluetooth Socket Server
+● naslouchá připojením od odesílatele
+
+Když se připojuje odesilatel:
+
+● zastaví příjem požadavků na připojení
+&nbsp;&nbsp;odesílatele
+● přehrává zvukový proud z připojeného
+&nbsp;&nbsp;soketu
+
+Když se odesilatel odpojí:
+
+● pokračuje v naslouchání pro nové
+&nbsp;&nbsp;připojení odesílatele

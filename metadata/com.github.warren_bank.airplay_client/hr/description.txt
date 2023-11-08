@@ -1,0 +1,24 @@
+Funkcije uključuju:
+
+● Automatsko otkrivanje AirPlay primaoca
+&nbsp;&nbsp;unutar iste mreže
+● Teleportirati fotografije s uređaja na
+&nbsp;&nbsp;AirPlay
+● Protoka videa i glazba s vašeg uređaja
+&nbsp;&nbsp;u AirPlay
+● Zrcaljenje zaslona s vašeg uređaja na
+&nbsp;&nbsp;AirPlay
+
+Odobrenja:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Originalna verzija ove aplikacije.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Zaslon
+&nbsp;&nbsp;&nbsp;&nbsp;Osigurane su puno koda za
+&nbsp;&nbsp;&nbsp;&nbsp;implementaciju zrcaljenja ekrana na
+&nbsp;&nbsp;&nbsp;&nbsp;Androidu 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (verzija 1) protokol
+&nbsp;&nbsp;&nbsp;&nbsp;Neslužbena dokumentacija.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

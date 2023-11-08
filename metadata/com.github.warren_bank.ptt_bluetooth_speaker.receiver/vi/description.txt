@@ -1,0 +1,19 @@
+Chạy trong Dịch vụ mặt đất:
+
+● Không có giao diện người dùng
+● làm cho bộ điều hợp Bluetooth phát
+&nbsp;&nbsp;hiện ra
+● khởi động máy chủ bluetooth Socket
+● Lắng nghe một kết nối từ một người gửi
+
+Khi một người gửi kết nối:
+
+● không ngừng nghe kết nối người
+&nbsp;&nbsp;gửi
+● chơi luồng âm thanh từ các Socket được
+&nbsp;&nbsp;kết nối
+
+Khi một người gửi mất kết nối:
+
+● đang tiếp tục nghe một kết nối
+&nbsp;&nbsp;người gửi mới

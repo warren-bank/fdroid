@@ -1,0 +1,30 @@
+Latar Belakang:
+
+● Sebuah Intent Android dapat digunakan
+&nbsp;&nbsp;untuk membuka bagian yang tepat dari
+&nbsp;&nbsp;setiap aplikasi yang terpasang, dan
+&nbsp;&nbsp;menertikannya setiap jenis atau
+&nbsp;&nbsp;kuantitas data
+● dengan demikian, sebuah Intent seperti
+&nbsp;&nbsp;sebuah bookmark Android
+
+Fitur-fitur mencakup kemampuan untuk:
+
+● mengonfigurasi dan menyimpan Intent
+&nbsp;&nbsp;sebagai penanda nama
+● menggunakan markah ke:
+&nbsp;&nbsp;○ memulai Aktivitas
+&nbsp;&nbsp;○ memulai suatu Layanan
+&nbsp;&nbsp;○ Kirim Siaran
+● penanda jadwal yang akan digunakan
+&nbsp;&nbsp;nanti:
+&nbsp;&nbsp;○ satu waktu
+&nbsp;&nbsp;○ pada interval
+● mencegat Intent yang dimulai oleh
+&nbsp;&nbsp;aplikasi lain:
+&nbsp;&nbsp;○ untuk memodifikasi
+&nbsp;&nbsp;○ untuk menyimpan
+● backup dan restore:
+&nbsp;&nbsp;○ seluruh basis data SQLite
+&nbsp;&nbsp;○ Berkas data JSON
+&nbsp;&nbsp;○ Berkas data HTML Netscape bookmark

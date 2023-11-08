@@ -1,0 +1,1 @@
+Android için AirPlay (sürüm 1) istemcisi.

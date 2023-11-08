@@ -1,0 +1,19 @@
+Umožňuje, aby se "Mock můj GPS" choval jako model pro "UnifiedNlp" pro "UnifiedNlp".
+
+"UnifiedNlp" je:
+
+● typicky nainstalováno jako komponenta
+&nbsp;&nbsp;"mikroG"
+● určené k použití na discích Android
+&nbsp;&nbsp;ROMy-Googazů
+● náhrada typu "Google Location
+&nbsp;&nbsp;Services", která není k dispozici
+
+Integrace dat modelu "UnifiedNlp":
+
+● je povoleno pouze, zatímco "Mock má
+&nbsp;&nbsp;GPS" je aktivní
+● má přednost před jinými back-endovými
+&nbsp;&nbsp;moduly backend "UnifiedNlp" tím, že
+&nbsp;&nbsp;postupuje časové razítko 45 sekund,
+&nbsp;&nbsp;takže se zdá, že je nejnovější

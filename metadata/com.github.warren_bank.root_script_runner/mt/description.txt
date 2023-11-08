@@ -1,0 +1,8 @@
+Teħtieġ l-għerq!
+
+L-eżekuzzjoni ta 'kitba ta' qoxra tista ' tiġi invokata b'żewġ modi:
+
+1. interattiv
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mill-utent manwalment jagħżlu fajl.
+2. awtomatiku
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Permezz ta ' Intenzjoni.

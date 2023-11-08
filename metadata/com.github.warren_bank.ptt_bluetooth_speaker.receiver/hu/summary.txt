@@ -1,0 +1,1 @@
+A feladótól veszi a hangot, és a hangszórón keresztül játssza.

@@ -1,0 +1,31 @@
+기능에는 다음 기능이 포함됩니다.
+
+● 이름별 텔레비젼 시리즈 검색
+● 검색 결과의 텔레비전 시리즈를 목록에 추가
+● 추가된 텔레비전 시리즈의 목록 정렬 및 필터링
+● 목록으로 드릴하여 각 시리즈 및 사용 가능한 에피소드에 대한 자세한
+&nbsp;&nbsp;정보를 읽을 수 있습니다.
+● 시청한 것으로 에피소드를 표시하다.
+● 표시 시리즈를 사용 안함으로 표시
+● 각 시리즈를 외부 URL과 연관시키기
+&nbsp;&nbsp;○ ex: 본 시리즈를 시청할 수 있는 웹 사이트
+● 목록에서 텔레비전 시리즈를 업데이트한다.
+&nbsp;&nbsp;○ 새로운 에피소드에 대한 정보를 얻다
+
+네트워크 요구사항:
+
+● 완전히 오프라인 상태인 동안에는 추가된 텔레비전 시리즈의 목록을
+&nbsp;&nbsp;사용할 수 있습니다.
+● 인터넷 연결은 텔레비전 시리즈를 수동으로 추가하거나 업데이트하기만
+&nbsp;&nbsp;하면 됩니다.
+
+크리드:
+
+● TMDB API의 버전 3을 사용하여 무비 데이터베이스 (TMDB)
+&nbsp;&nbsp;로부터 모든 데이터를 얻는다.
+● 역사적인 혈통:
+&nbsp;&nbsp;1. 드로이드시리즈
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. 드로이드쇼
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

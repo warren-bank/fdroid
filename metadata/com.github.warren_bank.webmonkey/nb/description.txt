@@ -1,0 +1,17 @@
+Funksjoner omfatter:
+
+● Oppdagelse av userscript URLer
+● automatiske userscript-oppdateringer
+● en utvidet Javascript-API for å
+&nbsp;&nbsp;eksponere Android-spesifikke
+&nbsp;&nbsp;muligheter
+● muligheten til å overse
+&nbsp;&nbsp;HTTPS-sertifikatfeil
+
+Begrensninger:
+
+● userskript kjøres bare i toppvinduet
+&nbsp;&nbsp;○ script-injeksjon inn i irammer er
+&nbsp;&nbsp;&nbsp;&nbsp;mulig, men krever en komplisert
+&nbsp;&nbsp;&nbsp;&nbsp;løsning ; henvise til README for
+&nbsp;&nbsp;&nbsp;&nbsp;detaljer.

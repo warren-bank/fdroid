@@ -1,0 +1,15 @@
+Runs in a foreground Service:
+
+there is no visible UI
+makes the Bluetooth adapter discoverable
+starts a Bluetooth Socket server
+listens for a connection from a sender
+
+When a sender connects:
+
+stops listening for a sender connection
+plays the audio stream from the connected Socket
+
+When a sender disconnects:
+
+resumes listening for a new sender connection

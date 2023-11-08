@@ -1,0 +1,7 @@
+¡Requiere root!
+
+La modalidad USB es el valor predeterminado. Requiere un cable USB y controladores USB para conectar el dispositivo Android a un ordenador.
+
+El modo WiFi es inalámbrico y no requiere ningún controlador adicional. Cualquier equipo puede utilizar el cliente "adb" para solicitar una conexión con el dispositivo Android.
+
+Cuando la modalidad WiFi está habilitada, esta aplicación muestra el mandato "adb" necesario para solicitar dicha conexión a través de una LAN.

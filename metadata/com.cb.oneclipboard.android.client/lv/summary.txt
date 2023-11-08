@@ -1,0 +1,1 @@
+Klients sinhronizēt starpliktuves datus caur serveri.

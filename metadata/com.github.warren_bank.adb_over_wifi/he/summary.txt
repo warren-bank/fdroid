@@ -1,0 +1,1 @@
+מיתוג דאמון מסוג Android Debug (adbd) בין מצב ה-USB וה-WiFi.

@@ -1,0 +1,1 @@
+Light-weight webový prehliadač s podporou pre Greasemonkey userscripts.

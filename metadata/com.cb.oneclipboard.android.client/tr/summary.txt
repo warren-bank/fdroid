@@ -1,0 +1,1 @@
+Bir sunucu aracılığıyla pano verilerini eşitlemek için kullanılan istemci.

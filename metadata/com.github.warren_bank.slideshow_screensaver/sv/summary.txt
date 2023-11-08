@@ -1,0 +1,1 @@
+Skärmsläckare som visar ett bildspel med lokala bilder.

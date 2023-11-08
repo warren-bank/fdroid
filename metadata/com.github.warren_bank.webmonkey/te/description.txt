@@ -1,0 +1,16 @@
+విశేషాలు:
+
+● Userscript URLs యొక్క గుర్తింపు
+● స్వయంచాలక userscript అదనపు
+● ఒక విస్తరించిన జావాస్క్రిప్ట్ API to
+&nbsp;&nbsp;expose Android specific capabilities
+● HTTPS సర్టిఫికేట్ దోషాలను అన్వేషించే
+&nbsp;&nbsp;సామర్థ్యం
+
+పరిమితి:
+
+● Userscripts only run in the top window
+&nbsp;&nbsp;○ Iframes లోకి స్క్రిప్ట్ ఇంజెక్షన్
+&nbsp;&nbsp;&nbsp;&nbsp;సాధ్యమవుతుంది, కానీ ఒక సంక్లిష్ట
+&nbsp;&nbsp;&nbsp;&nbsp;పనితనం అవసరమవుతుంది; వివరాలు కోసం
+&nbsp;&nbsp;&nbsp;&nbsp;README కు సూచించండి.

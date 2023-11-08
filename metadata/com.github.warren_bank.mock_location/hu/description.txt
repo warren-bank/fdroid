@@ -1,0 +1,32 @@
+A szolgáltatások a következők:
+
+● Rögzített pozíció kigúnyolása
+● Szimulál egy utat
+● Használjon joystickot egy rögzített
+&nbsp;&nbsp;rögzített pozícióhoz képest.
+● Szélességi és hosszúsági
+&nbsp;&nbsp;geo-koordináta párok befogadása
+&nbsp;&nbsp;Intentesből
+● Szélességi és hosszúsági
+&nbsp;&nbsp;geo-koordináta párok nevesített
+&nbsp;&nbsp;könyvjelzőként
+
+Változások:
+
+1. AOSP
+2. AOSP + Google Play szolgáltatások
+3. AOSP + Huawei mobil szolgáltatások
+
+Android integráció:
+
+1. Fejlesztői beállítások engedélyezése
+&nbsp;&nbsp;&nbsp;● Nyitott:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beállítások > Rendszer > Telefon
+&nbsp;&nbsp;&nbsp;● Többször kattintson a 7-szer:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Összeépítési szám
+2. Konfigurálás:
+&nbsp;&nbsp;&nbsp;● Nyitott:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beállítások > Rendszer >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fejlesztői beállítások
+&nbsp;&nbsp;&nbsp;● értékek mentése:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mock a GPS-em".

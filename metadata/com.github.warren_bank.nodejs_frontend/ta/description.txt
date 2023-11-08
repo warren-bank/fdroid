@@ -1,0 +1,34 @@
+வலைப்பதிவுகளின் படி:
+
+● பயன்பாட்டின் எண்ணிக்கையை சேமிக்க
+&nbsp;&nbsp;மற்றும் சேமிக்க
+● ஒவ்வொரு பயன்பாட்டு விவரம்
+&nbsp;&nbsp;குறிப்பிடலாம்:
+&nbsp;&nbsp;○ தலைப்பு
+&nbsp;&nbsp;○ முக்கிய JavaScript கோப்புக்கு கோப்பு
+&nbsp;&nbsp;&nbsp;&nbsp;பாதை
+&nbsp;&nbsp;○ Node.js ஓட்ட நேரத்துக்கான கட்டளை வரி
+&nbsp;&nbsp;&nbsp;&nbsp;தேர்வுகள்
+&nbsp;&nbsp;○ பயன்பாட்டுக்கான கட்டளை வரி தேர்வுகள்
+&nbsp;&nbsp;○ சூழல் மாறிகள்
+&nbsp;&nbsp;○ தற்போதைய பணி அடைவு
+● பயன்பாடு profiles are grouped by:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;பயன்பாடுகள் ஒரே செயல்முறையை
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;பகிர்ந்துகொள்கிறது. ஒரு நேரத்தில்
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;மட்டுமே இயக்க முடியும்.
+&nbsp;&nbsp;○ "Fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ஒவ்வொரு பயன்பாடு அதன் சொந்த
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;செயல்முறையை வழங்குகிறது. ஒரு
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;முன்னணி சேவையில் ஒவ்வொரு executes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ஒரு தொடர்புபடுத்தப்பட்ட அறிவிப்பு
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;செயலை கொடுக்கும்.
+● காப்பு மற்றும் மீட்டமை:
+&nbsp;&nbsp;○ அனைத்து பயன்பாட்டு கோப்புகளை JSON
+&nbsp;&nbsp;&nbsp;&nbsp;க்கு ஏற்றுமதி செய்
+&nbsp;&nbsp;○ புதிய பயன்பாடு profiles from JSON
+
+உட்பொதிந்த ஓரளவு சூழல்:
+
+● Node.js 12.19.0
+● OpenSSL 1. 1. 1g

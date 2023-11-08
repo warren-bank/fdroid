@@ -1,0 +1,43 @@
+Funkcje obejmują możliwość:
+
+● wyszukiwanie serialu telewizyjnego
+&nbsp;&nbsp;według nazwy
+● dodanie serialu telewizyjnego w
+&nbsp;&nbsp;wynikach wyszukiwania do listy
+● sortować i filtrować listę dodawanych
+&nbsp;&nbsp;seriali telewizyjnych
+● drążenie do listy w celu zapoznania
+&nbsp;&nbsp;się ze szczegółowymi informacjami o
+&nbsp;&nbsp;każdej serii i jej dostępnych
+&nbsp;&nbsp;odcinkach
+● oznacz epizody jako obejrzane
+● Seria znaków jako wyłączona
+● Powiąż każdą serię z zewnętrznymi
+&nbsp;&nbsp;adresami URL
+&nbsp;&nbsp;○ ex: strony internetowe, na których
+&nbsp;&nbsp;&nbsp;&nbsp;można oglądać serie
+● aktualizacja serialu telewizyjnego na
+&nbsp;&nbsp;liście
+&nbsp;&nbsp;○ aby uzyskać informacje o nowych
+&nbsp;&nbsp;&nbsp;&nbsp;odcinkach
+
+Wymagania dotyczące sieci:
+
+● lista dodanych seriali telewizyjnych
+&nbsp;&nbsp;może być używana w pełni offline
+● połączenie internetowe jest potrzebne
+&nbsp;&nbsp;tylko do ręcznego dodawania lub
+&nbsp;&nbsp;aktualizacji seriali telewizyjnych
+
+Kredyty:
+
+● Wszystkie dane są uzyskiwane z bazy
+&nbsp;&nbsp;danych Movie Database (TMDB),
+&nbsp;&nbsp;korzystając z wersji 3 interfejsu API
+&nbsp;&nbsp;TMDB
+● historyczne pochodzenie:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. Pokazy droidShow
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

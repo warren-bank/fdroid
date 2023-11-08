@@ -1,0 +1,5 @@
+Pelanggan tersedia untuk pelbagai platform, termasuk Android.
+
+Semua klien yang menyambung ke pelayan ini dan sahihkan menggunakan nama pengguna yang sama dan gabungan kata laluan akan berkongsi klipbod biasa. Setiap kali setiap pelanggan menyalin data baru ke dalam klipbod, data ini dihantar ke pelayan dan kemudian disiarkan kepada semua klien disahkan.
+
+Semua data klipbod disulitkan pada akhir-ke-akhir.

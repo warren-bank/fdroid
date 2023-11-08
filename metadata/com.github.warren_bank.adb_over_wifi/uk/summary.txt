@@ -1,0 +1,1 @@
+Вмикає або вимикає показ фонової служби Android Debug Bridge (adbd) між режимом USB та WiFi.

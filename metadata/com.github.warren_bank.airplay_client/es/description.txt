@@ -1,0 +1,27 @@
+Las características incluyen:
+
+● Descubrimiento automático de
+&nbsp;&nbsp;receptores AirPlay dentro de la misma
+&nbsp;&nbsp;red
+● Haz fotos desde tu dispositivo a
+&nbsp;&nbsp;AirPlay
+● Transmitir vídeos y música desde su
+&nbsp;&nbsp;dispositivo a AirPlay
+● Duplicar la pantalla desde el
+&nbsp;&nbsp;dispositivo a AirPlay
+
+Créditos:
+
+● DridPlay
+&nbsp;&nbsp;&nbsp;&nbsp;La versión original de esta
+&nbsp;&nbsp;&nbsp;&nbsp;aplicación.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Corriente de pantalla
+&nbsp;&nbsp;&nbsp;&nbsp;Se ha proporcionado gran parte del
+&nbsp;&nbsp;&nbsp;&nbsp;código para implementar la
+&nbsp;&nbsp;&nbsp;&nbsp;duplicación de pantalla en Android
+&nbsp;&nbsp;&nbsp;&nbsp;5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protocolo AirPlay (versión 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Documentación no oficial.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

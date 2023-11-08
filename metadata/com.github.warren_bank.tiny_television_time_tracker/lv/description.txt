@@ -1,0 +1,41 @@
+Funkcijas ietver spēju:
+
+● televīzijas seriālu meklēšana pēc
+&nbsp;&nbsp;nosaukuma
+● pievienot televīzijas sērijas
+&nbsp;&nbsp;meklēšanas rezultātos uz sarakstu
+● kārtot un filtrē pievienotās
+&nbsp;&nbsp;televīzijas sērijas sarakstu
+● urbt sarakstā, lai lasītu detalizētu
+&nbsp;&nbsp;informāciju par katru sēriju un tās
+&nbsp;&nbsp;pieejamām epizodēm
+● atzīmē epizodes, ka tās ir vērotas
+● Preču zīmju sērija kā invalīdu
+● asociējas katra sērija ar ārējiem URL
+&nbsp;&nbsp;○ ex: tīmekļa vietnes, kurās var
+&nbsp;&nbsp;&nbsp;&nbsp;skatīties sērijas
+● atjaunināt televīzijas seriālu
+&nbsp;&nbsp;sarakstā
+&nbsp;&nbsp;○ iegūt informāciju par jaunām
+&nbsp;&nbsp;&nbsp;&nbsp;epizodēm
+
+Tīkla prasības:
+
+● pievienotās televīzijas sērijas
+&nbsp;&nbsp;sarakstu var izmantot, kamēr pilnībā
+&nbsp;&nbsp;bezsaistē
+● interneta pieslēgums ir nepieciešams
+&nbsp;&nbsp;tikai, lai manuāli pievienotu vai
+&nbsp;&nbsp;atjauninātu televīzijas sēriju
+
+Kredīti:
+
+● visi dati tiek iegūti no The Movie
+&nbsp;&nbsp;Database (TMDB), izmantojot TMDB API 3
+&nbsp;&nbsp;versiju
+● vēsturiskais ciltsraksti:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

@@ -1,0 +1,1 @@
+Thực hiện các tập lệnh vỏ là người dùng root.

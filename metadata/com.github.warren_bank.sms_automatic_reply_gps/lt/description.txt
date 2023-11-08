@@ -1,0 +1,14 @@
+Sąlyginiai kriterijai apima:
+
+● "Whitelist" siuntėjo telefono numerių
+● Šis skaičius turi būti nurodytas
+&nbsp;&nbsp;gautos SMS žinučių pradžioje.
+
+GPS vietos duomenys apima:
+
+● Platumos ir ilgumos koordinatės
+● tikslumas (metrais)
+● greitis (meser/sec)
+● kryptis (kardinolas arba kardinolas,
+&nbsp;&nbsp;ir laipsniai)
+● URL į Google Maps

@@ -1,0 +1,1 @@
+Växlar Android Debug Bridge daemon (adbd) mellan USB-och WiFi-läge.

@@ -1,0 +1,36 @@
+Характеристиките включват способността да:
+
+● конфигуриране и запазване на
+&nbsp;&nbsp;производен брой профили на приложения
+● всеки профил на приложение може да
+&nbsp;&nbsp;указва:
+&nbsp;&nbsp;○ Име:
+&nbsp;&nbsp;○ файлов път към главния Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;файл
+&nbsp;&nbsp;○ опции за команден ред за Node.js
+&nbsp;&nbsp;&nbsp;&nbsp;време
+&nbsp;&nbsp;○ опции за команден ред за
+&nbsp;&nbsp;&nbsp;&nbsp;приложението
+&nbsp;&nbsp;○ променливите на обкръжение
+&nbsp;&nbsp;○ текуща работна директория
+● Профилите на приложение са групирани
+&nbsp;&nbsp;по:
+&nbsp;&nbsp;○ "EXEC"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Приложенията споделят единичен
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;процес. Само един може да се
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;изпълни едновременно.
+&nbsp;&nbsp;○ "вилица"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Всяко приложение има собствен
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;процес. Всеки се изпълнява на
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;преден план. Асоциирана
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;нотификация убива процеса.
+● архивиране и възстановяване:
+&nbsp;&nbsp;○ експортиране на всички профили на
+&nbsp;&nbsp;&nbsp;&nbsp;приложения към JSON
+&nbsp;&nbsp;○ Импортирайте нови профили на
+&nbsp;&nbsp;&nbsp;&nbsp;приложения от JSON
+
+Вградена среда за изпълнение:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

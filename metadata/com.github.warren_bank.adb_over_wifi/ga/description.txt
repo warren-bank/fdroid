@@ -1,0 +1,7 @@
+@ info: info
+
+Tá mód USB an réamhshocrú. Éilíonn sé go cábla USB agus USB tiománaithe a nascadh leis an gléas Android ar ríomhaire.
+
+Tá mód wiFi sreang agus ní gá aon tiománaithe breise. Is féidir le haon ríomhaire a úsáid ar an "adb" cliant a iarraidh nasc leis an gléas Android.
+
+Nuair a bheidh mód WiFi ar chumas, taispeánann an app seo an "adb" ordú riachtanach chun iarratas den sórt sin a iarraidh thar LAN.

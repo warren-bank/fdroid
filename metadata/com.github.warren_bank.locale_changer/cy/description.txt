@@ -1,0 +1,3 @@
+Dangos rhestr o'r holl leales sydd ar gael. Mae clicio ar unrhyw eitem rhestr yn newid y locale system Android i'r gwerth a ddewiswyd. Mae newidiadau'n barhaus.
+
+Mae'r locale gweithredol ar hyn o bryd wedi ei leoli bob amser fel yr eitem rhestr gyntaf.

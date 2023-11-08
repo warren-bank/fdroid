@@ -1,0 +1,3 @@
+Muestra una lista de todos los entornos locales disponibles. Al pulsar en cualquier elemento de lista se cambia el entorno local del sistema Android por el valor seleccionado. Los cambios son persistentes.
+
+El entorno local actualmente activo siempre se coloca como el primer elemento de lista.

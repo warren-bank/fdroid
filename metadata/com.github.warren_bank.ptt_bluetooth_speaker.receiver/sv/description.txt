@@ -1,0 +1,20 @@
+Körs i en förgrundsbetjänt:
+
+● det inte finns något synligt
+&nbsp;&nbsp;gränssnitt
+● gör Bluetooth-adaptern upptäckbar
+● startar en Bluetooth Socket-server
+● Lyssnar för en anslutning från en
+&nbsp;&nbsp;avsändare
+
+När en avsändare ansluter:
+
+● slutar lyssna efter en
+&nbsp;&nbsp;sändaranslutning
+● spelar ljudströmmen från den anslutna
+&nbsp;&nbsp;Socket
+
+När en avsändare kopplar ned:
+
+● fortsätter att lyssna efter en ny
+&nbsp;&nbsp;avsändaranslutning

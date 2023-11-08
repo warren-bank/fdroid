@@ -1,0 +1,15 @@
+I criteri condizionale includono:
+
+● un whitelist di numeri di telefono
+&nbsp;&nbsp;sender
+● una sottostringa che deve verificarsi
+&nbsp;&nbsp;all'inizio del messaggio SMS ricevuto
+
+I dati della posizione GPS includono:
+
+● coordinate di latitudine e longitudine
+● precisione (contatori)
+● velocità (meters/sec)
+● direzione (cardinale o ordinale, e
+&nbsp;&nbsp;gradi)
+● URL a Google Maps

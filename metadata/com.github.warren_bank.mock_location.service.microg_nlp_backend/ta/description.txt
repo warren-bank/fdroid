@@ -1,0 +1,16 @@
+"UnifiedNlp" க்கு "Mock my GPS" (Mock my GPS) "Mock my GPS" (Mock my GPS).
+
+"UnifiedNlp":
+
+● பொதுவாக "மைக்ரோஜ்" பொருளாக
+&nbsp;&nbsp;நிறுவப்பட்டது.
+● De-Googled Android ROMs on பயன்பாடு
+● "கூகிள் இடம் சேவைகள்" க்கான ஒரு
+&nbsp;&nbsp;கிரேக்க மாற்றம்
+
+"UnifiedNlp" ஒருங்கிணைப்பு இடம் தரவு:
+
+● "Mock my GPS" செயல்படும் பொழுது
+&nbsp;&nbsp;மட்டும் செயல்படுத்தப்படுகிறது
+● "UnifiedNlp" பின்னணி
+&nbsp;&nbsp;சொருகுப்பொருள்Name

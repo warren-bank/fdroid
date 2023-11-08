@@ -1,0 +1,1 @@
+Browser web a peso leggero con supporto per gli userscript Greasemonkey.

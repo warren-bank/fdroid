@@ -1,0 +1,1 @@
+Mock Android location reders : GPS, Network, Fud.

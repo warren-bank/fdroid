@@ -1,0 +1,28 @@
+需要 root！
+
+特性包括：
+
+● 支援 Proxy 伺服器通訊協定：
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● 支援鑑別方法：
+&nbsp;&nbsp;○ 基本
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● 支援啟用 Proxy 伺服器：
+&nbsp;&nbsp;○ 廣域的所有應用程式
+&nbsp;&nbsp;○ 僅適用於特定應用程式
+● 支援黑名單：
+&nbsp;&nbsp;○ 略過 Proxy 的 IP 位址
+● 支援 DNS Proxy
+● 多個設定檔的支援
+● Proxy 自動配置（PAC）檔案的基本支援
+● 能夠使特定設定檔與下列項目產生關聯：
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ 行動網路
+● 小組件以切換 Proxy 開啟/關閉
+● 執行時期效率：
+&nbsp;&nbsp;○ 消耗小電池
+&nbsp;&nbsp;○ 使用小 RAM

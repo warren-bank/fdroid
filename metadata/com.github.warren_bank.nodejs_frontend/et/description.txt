@@ -1,0 +1,31 @@
+Funktsioonide hulka kuuluvad võime:
+
+● seadista ja salvestab kõik
+&nbsp;&nbsp;rakendusprofiilid
+● Iga rakenduse profiil võib määrata:
+&nbsp;&nbsp;○ pealkiri
+&nbsp;&nbsp;○ Faili asukoht Javascripti
+&nbsp;&nbsp;&nbsp;&nbsp;põhifailina
+&nbsp;&nbsp;○ käsurea võtmed Node.js käivitusaja
+&nbsp;&nbsp;&nbsp;&nbsp;jaoks
+&nbsp;&nbsp;○ käsurea võtmed rakenduse jaoks
+&nbsp;&nbsp;○ Keskkonnamuutujad
+&nbsp;&nbsp;○ aktiivne töökataloog
+● Rakenduse profiilid on rühmitatud:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taotlused jagavad ühte protsessi.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ainult üks saab korraga täita.
+&nbsp;&nbsp;○ "kahvel"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iga taotlus on esitatud oma
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;protsessi. Iga käivitatav
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;esiplaaniteenus. Sellega seotud
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;teade tapab protsessi.
+● varundamine ja taastamine:
+&nbsp;&nbsp;○ eksportida kõik taotlusprofiilid
+&nbsp;&nbsp;&nbsp;&nbsp;JSONi
+&nbsp;&nbsp;○ JSONi impordi uute profiilide import
+
+Põimitud tööaeg keskkond:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

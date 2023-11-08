@@ -1,0 +1,31 @@
+Baggrund:
+
+● En Android-teltet kan bruges til at
+&nbsp;&nbsp;åbne en præcis del af en installeret
+&nbsp;&nbsp;applikation og overføre den til en
+&nbsp;&nbsp;hvilken som helst type eller mængde
+&nbsp;&nbsp;data.
+● som sådan, er et telt som et
+&nbsp;&nbsp;Android-bogmærke
+
+Funktionerne omfatter muligheden for at:
+
+● konfigurér og gem intelte som
+&nbsp;&nbsp;navngivne bogmærker
+● bruge bogmærker til:
+&nbsp;&nbsp;○ Start en aktivitet
+&nbsp;&nbsp;○ start en service
+&nbsp;&nbsp;○ send en rundsendelse
+● Planlæg bogmærker, der skal bruges
+&nbsp;&nbsp;senere:
+&nbsp;&nbsp;○ en gang
+&nbsp;&nbsp;○ i et interval
+● opskæringsintente startet af andre
+&nbsp;&nbsp;applikationer:
+&nbsp;&nbsp;○ for at ændre
+&nbsp;&nbsp;○ for at gemme
+● sikkerhedskopieringen og
+&nbsp;&nbsp;genindlæsning:
+&nbsp;&nbsp;○ hele SQLite-databasen
+&nbsp;&nbsp;○ JSON-datafil
+&nbsp;&nbsp;○ HTML-datafil til Netscape-bogmærke

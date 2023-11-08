@@ -1,0 +1,20 @@
+Defnydd:
+
+● dangos rhestr o holl ddyfeisiau
+&nbsp;&nbsp;Bluetooth Bluetooth
+&nbsp;&nbsp;○ cliciwch yr un sy'n nodi'r
+&nbsp;&nbsp;&nbsp;&nbsp;derbynnydd
+&nbsp;&nbsp;○ aros am gysylltiad
+
+● toglu botwm PTT
+&nbsp;&nbsp;○ dengys gwyrdd fod sain yn cael ei
+&nbsp;&nbsp;&nbsp;&nbsp;ddal ar hyn o bryd
+&nbsp;&nbsp;&nbsp;&nbsp;o'r meicroffon a'i symleiddio drwy'r
+&nbsp;&nbsp;&nbsp;&nbsp;soced cysylltiedig
+&nbsp;&nbsp;○ dengys coch fod y llif sain wedi ei
+&nbsp;&nbsp;&nbsp;&nbsp;oedi ar hyn o bryd
+
+● symud y llithrydd i addasu cyfaint y
+&nbsp;&nbsp;sain
+&nbsp;&nbsp;○ rhagosodedig: 25%
+&nbsp;&nbsp;○ uchafswm: 200%

@@ -1,0 +1,3 @@
+Die Bedingungen werden durch eine Liste von Regeln definiert. Jede Regel ordnet eine Weiterleitungs-Empfängertelefonnummer einem Muster zu, das mit dem Absender einer empfangenen SMS-Nachricht übereinstimmen muss.
+
+Wenn eine neue SMS-Nachricht empfangen wird, wird sie an Empfängertelefonnummern gemäß jeder Regel mit einem übereinstimmenden Muster weitergeleitet.

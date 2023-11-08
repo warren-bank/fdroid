@@ -1,0 +1,42 @@
+Caracteristicile includ capacitatea de a:
+
+● căutare pentru seriale de televiziune
+&nbsp;&nbsp;după nume
+● adăugați serii de televiziune în
+&nbsp;&nbsp;rezultatele căutării pe o listă
+● sortează și filtrează lista de seriale
+&nbsp;&nbsp;de televiziune adăugate
+● detaliați în listă pentru a citi
+&nbsp;&nbsp;informații detaliate despre fiecare
+&nbsp;&nbsp;serie și episoadele sale disponibile
+● marcheaza episoadele ca fiind urmarite
+● serie de mărci cu handicap
+● asociază fiecare serie cu URL-uri
+&nbsp;&nbsp;externe
+&nbsp;&nbsp;○ ex: site-uri web unde pot fi
+&nbsp;&nbsp;&nbsp;&nbsp;vizionate serialele
+● actualizarea seriei de televiziune în
+&nbsp;&nbsp;listă
+&nbsp;&nbsp;○ pentru a obține informații despre
+&nbsp;&nbsp;&nbsp;&nbsp;noi episoade
+
+Cerințe de rețea:
+
+● lista de seriale de televiziune
+&nbsp;&nbsp;adăugate pot fi utilizate în timp ce
+&nbsp;&nbsp;complet offline
+● o conexiune la internet este necesară
+&nbsp;&nbsp;doar pentru a adăuga sau actualiza
+&nbsp;&nbsp;manual seria de televiziune
+
+Credite:
+
+● toate datele sunt obținute din The
+&nbsp;&nbsp;Movie Database (TMDB), utilizând
+&nbsp;&nbsp;versiunea 3 a TMDB API
+● descendență istorică:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. DroidShows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Mic de televiziune Time Tracker

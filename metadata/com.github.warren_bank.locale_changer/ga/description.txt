@@ -1,0 +1,3 @@
+Taispeánann sé liosta de gach locales atá ar fáil. Tá Clicking ar aon mhír liosta athruithe ar an gcóras Android locale ar an luach roghnaithe. Tá athruithe leanúnach.
+
+Is é an locale gníomhach faoi láthair suite i gcónaí mar an chéad mhír liosta.

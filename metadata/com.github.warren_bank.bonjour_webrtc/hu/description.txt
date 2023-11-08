@@ -1,0 +1,3 @@
+Az mDNS (Bonjour) más elérhető eszközök LAN-ban történő feltérképezésére szolgál. Ilyen módon nincs szükség WebRTC bejelentkezésre.
+
+A WebRTC-t minden másra használják.

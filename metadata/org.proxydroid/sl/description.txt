@@ -1,0 +1,32 @@
+Zahteva koren!
+
+Funkcije vključujejo:
+
+● podpora za protokole strežnika proxy:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● podpora za metode overjanja:
+&nbsp;&nbsp;○ Osnov
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● podpora za omogočanje strežnika proxy:
+&nbsp;&nbsp;○ globalno, za vse aplikacije
+&nbsp;&nbsp;○ samo za specifične aplikacije
+● podpora za črni seznam:
+&nbsp;&nbsp;○ Naslovi IP za zaobitje strežnika
+&nbsp;&nbsp;&nbsp;&nbsp;proxy
+● podpora za strežnik proxy DNS
+● podpora za več profilov
+● osnovna podpora za datoteko proxy
+&nbsp;&nbsp;samodejno konfiguriranje (PAC)
+● zmožnost povezave določenega profila
+&nbsp;&nbsp;z:
+&nbsp;&nbsp;○ Wi-Fi SSID
+&nbsp;&nbsp;○ Mobilno omrežje
+● gradnik za preklapljanje / izklop
+&nbsp;&nbsp;posrednega strežnika
+● učinkovitost izvajalnega okolja:
+&nbsp;&nbsp;○ potrošni mali akumulator
+&nbsp;&nbsp;○ uporablja mali RAM

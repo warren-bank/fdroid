@@ -1,0 +1,28 @@
+Taustaa:
+
+● Android Intent voidaan käyttää avoimen
+&nbsp;&nbsp;osan kaikista asennettua sovellusta,
+&nbsp;&nbsp;ja siirtää sille minkä tahansa tyypin
+&nbsp;&nbsp;tai määrän tietoja
+● Intent on kuin Android-kirjanmerkki.
+
+Ominaisuuksiin kuuluu kyky:
+
+● Määritä ja tallenna Sisältö nimellä
+&nbsp;&nbsp;kirjanmerkit
+● Käyttää kirjanmerkkejä:
+&nbsp;&nbsp;○ Aloita aktiviteetti
+&nbsp;&nbsp;○ Aloita palvelu
+&nbsp;&nbsp;○ Lähetä Broadcast
+● Aikataulun kirjanmerkit, joita
+&nbsp;&nbsp;käytetään myöhemmin:
+&nbsp;&nbsp;○ Yksi kerta
+&nbsp;&nbsp;○ Välillä,
+● Muiden sovellusten aloittamia
+&nbsp;&nbsp;Intelttoja:
+&nbsp;&nbsp;○ Muuttaa
+&nbsp;&nbsp;○ Tallentaa
+● Varmistuskopiointi ja palautus:
+&nbsp;&nbsp;○ Koko SQLite-tietokanta
+&nbsp;&nbsp;○ JSON-tiedosto
+&nbsp;&nbsp;○ Netscape Bookmark -datatiedosto

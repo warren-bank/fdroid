@@ -1,0 +1,5 @@
+Klausosi Wi-Fi LAN adapterio naudojant HTTP API (remiantis AirPlay v1). Reklamuoja savo galimybes atradimas naudojant mDNS (Bonjour).
+
+Visų ekrano dydžių palaikymas; nebrangi generinių komplektinių dėžių su aukštos skiriamosios gebos HDMI išėjimo galia yra tikslinė platforma, bet veikia lygiai taip pat gerai ant labai senų rankų komplektų su labai mažais žemos skiriamosios gebos ekranais.
+
+API yra plati ir visiškai dokumentuota. Statinis interneto puslapis PPS kliento įgyvendinimas suteikia šią funkciją labai prieinama. Savo svarbiausiu lygiu, ši API suteikia galimybę "mesti" Media URLs į grojaraštį ir kontroliuoti visus grojimo aspektus.

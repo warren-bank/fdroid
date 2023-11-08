@@ -1,0 +1,30 @@
+המאפיינים כוללים את היכולת:
+
+● לעגת מיקום קבוע
+● סימולציה נסיעה
+● להשתמש בג ' ויסטיק כדי להעביר יחסי
+&nbsp;&nbsp;למיקום קבוע מדומה.
+● קבלת קווי רוחב וקו אורך של קו
+&nbsp;&nbsp;אורך-לתאם זוגות מאוהלים
+● שמירת קווי רוחב וקו אורך של קו
+&nbsp;&nbsp;אורך-לתאם זוגות כסימניות בעלות שם
+
+וריאציות:
+
+1. אבזם
+2. AOSP + Google Play Services
+3. AOSP + שירותי נייד של Huawei
+
+שילוב Android:
+
+1. הפעלת אפשרויות מפתח
+&nbsp;&nbsp;&nbsp;● פתוח:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הגדרות > מערכת > אודות טלפון
+&nbsp;&nbsp;&nbsp;● לחצו שוב ושוב על 7 פעמים:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מספר בניה
+2. הגדרת תצורה:
+&nbsp;&nbsp;&nbsp;● פתוח:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הגדרות > מערכת > אפשרויות מפתח
+&nbsp;&nbsp;&nbsp;● שמירת ערכים:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אפליקציית מיקום מוק: "Mock GPS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שלי"

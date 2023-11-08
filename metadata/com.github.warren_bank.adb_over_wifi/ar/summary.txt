@@ -1,0 +1,1 @@
+يقوم بتبديل Android Debug Bridge Daemon (adbd) بين نمط USB ونمط WiFi.

@@ -1,0 +1,1 @@
+Active le démon du pont de débogage Android (adbd) entre le mode USB et le mode WiFi.

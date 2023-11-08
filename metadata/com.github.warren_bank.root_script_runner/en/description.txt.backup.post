@@ -1,0 +1,8 @@
+Requires root!
+
+Execution of a shell script can be invoked in two ways:
+
+interactive
+By the user manually choosing a file.
+automatic
+By an Intent.

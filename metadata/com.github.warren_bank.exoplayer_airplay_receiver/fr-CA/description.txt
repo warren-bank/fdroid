@@ -1,0 +1,5 @@
+Écoute sur la carte de réseau local Wi-Fi à l'aide d'une API HTTP sans état (basée sur AirPlay v1). Annonce sa disponibilité pour la découverte en utilisant mDNS (Bonjour).
+
+Supporte les dispositifs de toutes les tailles d'affichage; les décodeurs génériques bon marché avec sortie HDMI haute résolution sont la plateforme cible, mais fonctionne également bien sur des combinés très anciens avec de très petits écrans à basse résolution.
+
+L'API est complète et complète. Une implémentation de client SPA statique rend cette fonctionnalité très accessible. À son niveau le plus basique, cette API permet de "transtypage" les URL des médias dans une playlist et de contrôler tous les aspects de la lecture.

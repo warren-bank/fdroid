@@ -1,0 +1,10 @@
+Các URL video trên trang web hiện tại được hiển thị trong danh sách.
+
+Thiết lập xác định hành vi khi một URL video được chọn:
+● Trình chơi video nội bộ bao gồm một
+&nbsp;&nbsp;người gửi Chromecast
+● Trình chơi video bên ngoài cho phép
+&nbsp;&nbsp;một ứng dụng khác chơi URL video
+● "ExoAirPlayer" và "HLS Proxy" mỗi lần
+&nbsp;&nbsp;tải một trang web tĩnh mạng SPA cho
+&nbsp;&nbsp;máy chủ đã chọn

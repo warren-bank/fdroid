@@ -1,0 +1,18 @@
+Atributi zahteve HTTP, ki jih je mogoče konfigurirati
+
+● metoda
+● protokol
+● URL
+● glave
+● parametri querystring
+● telo
+
+Funkcije vključujejo zmožnost za:
+
+● pošlji zahtevo enkrat
+● znova pošlje zahtevo v podanem
+&nbsp;&nbsp;časovnem intervalu
+● znova naloži konfiguracijo predhodne
+&nbsp;&nbsp;zahteve iz dnevnika zgodovine
+● lepi tiskni podatki odgovora JSON
+● predogled podatkov odgovora HTML

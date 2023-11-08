@@ -1,0 +1,9 @@
+Richiede root!
+
+L'esecuzione di uno script shell può essere invocato in due modi:
+
+1. interattivo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dall'utente scegliere manualmente
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;un file.
+2. automatico
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Da un Intent.

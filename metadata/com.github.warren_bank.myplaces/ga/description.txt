@@ -1,0 +1,22 @@
+Gnéithe a áirítear ar an gcumas chun:
+
+● Sórtáil an liosta de na comhordanáidí
+&nbsp;&nbsp;geografacha:
+&nbsp;&nbsp;○ % 1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordered mar a tharlaíonn na suímh
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sa chomhad ionchurtha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: itinerary taistil beacht
+&nbsp;&nbsp;○ fad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordered ag an fad ón suíomh
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reatha.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: taisc-hoc isteach de POI in
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aice leis
+&nbsp;&nbsp;○ @ info: info
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordered ag na hainmneacha
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scriptive a bhaineann le suímh.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: leabharmharcanna na
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;n-áiteanna is fearr
+● cliceáil ar mhír liosta a oscailt ar
+&nbsp;&nbsp;an suíomh comhfhreagrach i
+&nbsp;&nbsp;bhfeidhmchlár seachtrach, mar shampla
+&nbsp;&nbsp;mapáil nó loingseoireachta.

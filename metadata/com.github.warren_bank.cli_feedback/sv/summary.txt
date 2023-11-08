@@ -1,0 +1,1 @@
+Icke-interaktivt verktyg för att ge användarfeedback från kommandoraden.

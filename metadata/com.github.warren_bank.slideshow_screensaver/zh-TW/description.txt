@@ -1,0 +1,10 @@
+投影片放映設定：
+
+● 時間持續時間（毫秒）
+&nbsp;&nbsp;&nbsp;&nbsp;顯示每一個影像的期間。
+● 使用 MediaStore 提供者
+&nbsp;&nbsp;&nbsp;&nbsp;從 Android 索引取得影像檔。
+● 目錄路徑
+&nbsp;&nbsp;&nbsp;&nbsp;從檔案系統中的特定目錄取得影像。
+● 遞迴至子目錄
+● 隨機順序

@@ -1,0 +1,39 @@
+Funkce zahrnují schopnost:
+
+● hledat televizní seriál podle názvu
+● přidání televizních řad ve výsledcích
+&nbsp;&nbsp;hledání do seznamu
+● řadit a filtrovat seznam přidaných
+&nbsp;&nbsp;televizních řad
+● přejděte do seznamu a přečtěte si
+&nbsp;&nbsp;podrobné informace o každé řadě a jeho
+&nbsp;&nbsp;dostupných epizod
+● označit epizody jako sledované
+● označit řadu jako zakázané
+● přidružit každou řadu k externím
+&nbsp;&nbsp;adresám URL
+&nbsp;&nbsp;○ ex: webové stránky, kde lze řadu
+&nbsp;&nbsp;&nbsp;&nbsp;sledovat
+● aktualizovat televizní seriál v
+&nbsp;&nbsp;seznamu
+&nbsp;&nbsp;○ získáte informace o nových epizodách
+
+Síťové požadavky:
+
+● Seznam přidaných televizních seriálů
+&nbsp;&nbsp;lze použít při plném režimu offline
+● připojení k Internetu je zapotřebí
+&nbsp;&nbsp;pouze k ručnímu přidání nebo
+&nbsp;&nbsp;aktualizaci televizních seriálů
+
+Poděkování:
+
+● všechna data jsou získána z Filmové
+&nbsp;&nbsp;databáze (TMDB), pomocí verze 3
+&nbsp;&nbsp;rozhraní API TMDB
+● historický původ:
+&nbsp;&nbsp;1. Zrušit posloupnost
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. Zruin_zobrazení
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time Tracker

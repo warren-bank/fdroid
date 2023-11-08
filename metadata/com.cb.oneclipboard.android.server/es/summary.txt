@@ -1,0 +1,1 @@
+Servidor para sincronizar datos del portapapeles entre clientes.

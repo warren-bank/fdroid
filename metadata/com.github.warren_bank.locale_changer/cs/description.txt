@@ -1,0 +1,3 @@
+Zobrazí seznam všech dostupných národních prostředí. Klepnutí na libovolnou položku seznamu změní národní prostředí systému Android na vybranou hodnotu. Změny jsou trvalé.
+
+Aktuální aktivní národní prostředí je vždy umístěno jako první položka seznamu.

@@ -1,0 +1,35 @@
+Ciri-ciri termasuk keupayaan untuk:
+
+● konfigur dan simpan sebarang bilangan
+&nbsp;&nbsp;profil aplikasi
+● setiap profil aplikasi boleh
+&nbsp;&nbsp;menyatakan:
+&nbsp;&nbsp;○ tajuk
+&nbsp;&nbsp;○ laluan fail ke fail Javascript utama
+&nbsp;&nbsp;○ pilihan baris perintah untuk laluan
+&nbsp;&nbsp;&nbsp;&nbsp;Node.js
+&nbsp;&nbsp;○ pilihan baris perintah untuk
+&nbsp;&nbsp;&nbsp;&nbsp;aplikasi
+&nbsp;&nbsp;○ pembolehubah persekitaran
+&nbsp;&nbsp;○ direktori kerja semasa
+● Profil aplikasi dikumpulkan oleh:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikasi berkongsi satu proses.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hanya satu yang boleh dilakukan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pada satu masa.
+&nbsp;&nbsp;○ "garpu"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setiap aplikasi diberi prosesnya
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sendiri. Setiap dilakukan dalam
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;perkhidmatan latar hadapan.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pemberitahuan yang berkaitan akan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;membunuh prosesnya.
+● sandar dan pulih:
+&nbsp;&nbsp;○ eksport semua profil aplikasi ke
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ import profil aplikasi baru dari
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Persekitaran Runtime terbenam:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

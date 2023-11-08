@@ -1,0 +1,16 @@
+Radi u prednjoj službi:
+
+● Nema vidljivog korisničkog sučelja.
+● Bluetooth adapter koji se može otkriti
+● Pokreće se Bluetooth Socket server
+● Ko god da je, sluša ga kao pošiljaoca.
+
+Kada se poveže pošiljatelj:
+
+● Prestaje da sluša vezu pošiljatelja.
+● Svira zvučni tok od strane Socket-a
+
+Kada se pošiljalac odspoji:
+
+● Nastavlja da sluša novu vezu
+&nbsp;&nbsp;pošiljatelja.

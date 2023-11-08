@@ -1,0 +1,32 @@
+Karakteristike uključuju sposobnost da:
+
+● Konfigurirajte i spremite bilo koji
+&nbsp;&nbsp;broj aplikacijskih profila.
+● Svaki profil može da odredi:
+&nbsp;&nbsp;○ "
+&nbsp;&nbsp;○ Put do glavne Javascript datoteke
+&nbsp;&nbsp;○ Opcije komandne linije za Node.js u
+&nbsp;&nbsp;&nbsp;&nbsp;runtimeu
+&nbsp;&nbsp;○ Opcije komandne linije za
+&nbsp;&nbsp;&nbsp;&nbsp;aplikaciju.
+&nbsp;&nbsp;○ Varijable okoline.
+&nbsp;&nbsp;○ Trenutni radni direktorij.
+● Profili su grupirani po:
+&nbsp;&nbsp;○ "izvršna"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikacije dijele jedan proces.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samo jedan može da se izvrši.
+&nbsp;&nbsp;○ Viljuška.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Svaka aplikacija ima svoj vlastiti
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. Svaki od njih se izvršava
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u prvom planu. -Povezna obavijest
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ubija proces.
+● I povrati:
+&nbsp;&nbsp;○ Eksportiraj sve profile aplikacija u
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ Uvezi nove profile aplikacija iz
+&nbsp;&nbsp;&nbsp;&nbsp;JSON-a
+
+Ugrađena okolina za vrijeme izvođenja:
+
+● Broj 12,0.
+● OpenSSL 1.1.1g

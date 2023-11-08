@@ -1,0 +1,1 @@
+Změňte výchozí národní prostředí systému Android.

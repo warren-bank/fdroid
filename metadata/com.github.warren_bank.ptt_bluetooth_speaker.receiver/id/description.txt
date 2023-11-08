@@ -1,0 +1,20 @@
+Berjalan dalam Layanan Cloud:
+
+● tidak ada UI yang terlihat
+● membuat adapter Bluetooth dapat
+&nbsp;&nbsp;ditemukan
+● mulai server Socket Bluetooth
+● mendengarkan untuk sebuah koneksi dari
+&nbsp;&nbsp;pengirim
+
+Ketika pengirim terhubung:
+
+● berhenti mendengarkan untuk sebuah
+&nbsp;&nbsp;koneksi pengirim
+● memainkan stream audio dari Socket
+&nbsp;&nbsp;yang terhubung
+
+Ketika pengirim terputus:
+
+● resume mendengarkan untuk koneksi
+&nbsp;&nbsp;pengirim baru

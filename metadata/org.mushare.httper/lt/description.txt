@@ -1,0 +1,18 @@
+Konfigūruojami HTTP užklausos požymiai:
+
+● Metodas
+● protokolas
+● URL adresas
+● antraščių
+● Variniai parametrai
+● kūno
+
+Funkcijos apima galimybę:
+
+● siųsti užklausą vieną kartą
+● siųsti užklausą pakartotinai per
+&nbsp;&nbsp;nurodytą laiko tarpą
+● įkelti iš naujo ankstesnio užklausos
+&nbsp;&nbsp;iš istorijos žurnalo konfigūraciją
+● gana spausdinti JSON atsako duomenys
+● Peržiūrėti HTML atsako duomenis

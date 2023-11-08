@@ -1,0 +1,29 @@
+Cefndir:
+
+● gellir defnyddio Android Android i
+&nbsp;&nbsp;agor rhan fanwl o unrhyw gais wedi ei
+&nbsp;&nbsp;osod, a'i drosglwyddo i unrhyw fath
+&nbsp;&nbsp;neu faint o ddata
+● fel y cyfryw, mae Inpabell yn debyg i
+&nbsp;&nbsp;nod tudalen Android
+
+Mae nodweddion yn cynnwys y gallu i:
+
+● ffurfweddu ac arbed Inbyll fel nodau
+&nbsp;&nbsp;tudalen a enwyd
+● defnyddio nodau tudalen i:
+&nbsp;&nbsp;○ dechrau gweithgaredd
+&nbsp;&nbsp;○ cychwyn gwasanaeth
+&nbsp;&nbsp;○ anfon Broadcast
+● atodlen llyfrnodau i'w defnyddio yn
+&nbsp;&nbsp;ddiweddarach:
+&nbsp;&nbsp;○ un tro
+&nbsp;&nbsp;○ ar gyfnod
+● wedi dechrau ar y cyd â cheisiadau
+&nbsp;&nbsp;eraill:
+&nbsp;&nbsp;○ i newid
+&nbsp;&nbsp;○ i gadw
+● copi wrth gefn ac adfer:
+&nbsp;&nbsp;○ y gronfa ddata QLeit gyfan
+&nbsp;&nbsp;○ Ffeil data JSON
+&nbsp;&nbsp;○ Ffeil data HTML HTML Netscape

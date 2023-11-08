@@ -1,0 +1,7 @@
+Vyžaduje koreň!
+
+Štandardný režim USB je režim. Na pripojenie zariadenia Android k počítaču si vyžaduje USB kábel a ovládače USB.
+
+WiFi režim je bezdrôtový a nevyžaduje žiadne ďalšie ovládače. Každý počítač môže použiť klienta "adb" na požiadanie o pripojenie k zariadeniu Android.
+
+Keď je povolený režim Wi-Fi, táto aplikácia zobrazí príkaz "adb", ktorý je potrebný na vyžiadanie takéhoto pripojenia cez LAN.

@@ -1,0 +1,1 @@
+Mock Android-placeringsudbydere: GPS, Network, Fused.

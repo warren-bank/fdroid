@@ -1,0 +1,1 @@
+Az Inspect SMS üzeneteket kapott és feltételesen továbbította azokat.

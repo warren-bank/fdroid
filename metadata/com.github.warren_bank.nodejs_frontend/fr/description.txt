@@ -1,0 +1,37 @@
+Les fonctions incluent la capacité:
+
+● Configurer et enregistrer n'importe
+&nbsp;&nbsp;quel nombre de profils d'application
+● Chaque profil d'application peut
+&nbsp;&nbsp;spécifier:
+&nbsp;&nbsp;○ Titre
+&nbsp;&nbsp;○ Chemin d'accès au fichier Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;principal
+&nbsp;&nbsp;○ Options de ligne de commande pour
+&nbsp;&nbsp;&nbsp;&nbsp;l'environnement d'exécution Node.js
+&nbsp;&nbsp;○ Options de ligne de commande pour
+&nbsp;&nbsp;&nbsp;&nbsp;l'application
+&nbsp;&nbsp;○ Variables d'environnement
+&nbsp;&nbsp;○ Répertoire de travail en cours
+● Les profils d'application sont
+&nbsp;&nbsp;regroupés par:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les applications partagent un seul
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;processus. Un seul peut s'exécuter
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;à la fois.
+&nbsp;&nbsp;○ "Fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chaque demande a son propre
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;processus. Chacun s'exécute dans
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;un service de premier plan. Une
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;notification associée détruit le
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;processus.
+● Sauvegarde et restauration:
+&nbsp;&nbsp;○ Exporter tous les profils
+&nbsp;&nbsp;&nbsp;&nbsp;d'application vers JSON
+&nbsp;&nbsp;○ Importer de nouveaux profils
+&nbsp;&nbsp;&nbsp;&nbsp;d'application à partir de JSON
+
+Environnement d'exécution imbriqué:
+
+● Noeud.js 12.19.0
+● OpenSSL 1.1.1g

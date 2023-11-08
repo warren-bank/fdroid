@@ -1,0 +1,18 @@
+Mae'r nodweddion yn cynnwys:
+
+● canfod URLau sgript username
+● diweddaru defnyddiwr defnyddiwr
+&nbsp;&nbsp;awtomatig
+● API Javascript Javascript i ddatgelu
+&nbsp;&nbsp;galluoedd penodol Android
+● y gallu i anwybyddu gwallau tystysgrif
+&nbsp;&nbsp;HTTPS
+
+Cyfyngiadau:
+
+● dim ond yn y ffenestr uchaf y mae
+&nbsp;&nbsp;sgriptiau defnyddiwr yn rhedeg
+&nbsp;&nbsp;○ mae pigiad yn y sgript i fod yn
+&nbsp;&nbsp;&nbsp;&nbsp;fframod yn bosibl, ond mae angen
+&nbsp;&nbsp;&nbsp;&nbsp;gwaith cymhleth yn ei gylch; yn
+&nbsp;&nbsp;&nbsp;&nbsp;cyfeirio at yr README am fanylion.

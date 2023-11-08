@@ -1,0 +1,7 @@
+Typer af brugerfeedback:
+
+● Vis en skål
+● vis en advisering
+● spille en audioRingetone
+
+Alle typer brugerfeedback er startet af Intent. Denne funktion kan bruges både af andre applikationer og direkte af brugeren fra en kommandolinjeemuleringenemulator.

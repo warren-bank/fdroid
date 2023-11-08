@@ -1,0 +1,24 @@
+功能包括 :
+
+● 配置并保存任意数量的应用程序概要文件
+● 每个应用程序概要文件都可以指定:
+&nbsp;&nbsp;○ 标题
+&nbsp;&nbsp;○ 主 Javascript 文件的文件路径
+&nbsp;&nbsp;○ Node.js 运行时的命令行选项
+&nbsp;&nbsp;○ 应用程序的命令行选项
+&nbsp;&nbsp;○ 环境变量
+&nbsp;&nbsp;○ 当前工作目录
+● 应用程序概要文件按:
+&nbsp;&nbsp;○ " exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;应用程序共享单个进程。 一次只能执行一个。
+&nbsp;&nbsp;○ " fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;每个应用程序都有自己的过程。 每个都在前台服务中执行。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关联通知会终止流程。
+● 备份和复原:
+&nbsp;&nbsp;○ 将所有应用程序概要文件导出到 JSON
+&nbsp;&nbsp;○ 从 JSON 导入新的应用程序概要文件
+
+嵌入式运行时环境:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

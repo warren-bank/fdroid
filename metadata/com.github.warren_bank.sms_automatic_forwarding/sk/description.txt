@@ -1,0 +1,3 @@
+Podmienky sú definované v zozname pravidiel. Každé pravidlo priradí telefónne číslo príjemcu postúpenia so vzorom, ktorý sa musí zhodovať s odosielateľom prijatej SMS správy.
+
+Keď sa prijme nová SMS správa, bude presmerovaná na telefónne čísla adresáta podľa každého pravidla, ktoré má zhodný vzor.

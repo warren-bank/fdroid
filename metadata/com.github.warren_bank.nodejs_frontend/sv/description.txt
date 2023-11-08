@@ -1,0 +1,33 @@
+Funktioner inkluderar förmågan att:
+
+● konfigurera och spara valfritt antal
+&nbsp;&nbsp;applikationsprofiler
+● Varje programprofil kan ange:
+&nbsp;&nbsp;○ titel
+&nbsp;&nbsp;○ filsökväg till huvudJavascript-filen
+&nbsp;&nbsp;○ kommandoradsalternativ för
+&nbsp;&nbsp;&nbsp;&nbsp;runtime-miljön Node.js
+&nbsp;&nbsp;○ kommandoradsalternativ för
+&nbsp;&nbsp;&nbsp;&nbsp;programmet
+&nbsp;&nbsp;○ miljövariabler
+&nbsp;&nbsp;○ aktuell arbetskatalog
+● Programprofiler grupperas efter:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ansökningarna delar en enda
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;process. Bara en kan avrätta i
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taget.
+&nbsp;&nbsp;○ "gaffel"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Varje ansökan ges en egen process.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Varje exekverar i en
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;förgrundsdelgivning. En associerad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;avisering dödar processen.
+● säkerhetskopiering och återställning:
+&nbsp;&nbsp;○ exportera alla applikationsprofiler
+&nbsp;&nbsp;&nbsp;&nbsp;till JSON
+&nbsp;&nbsp;○ importera nya programprofiler från
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Inbäddad körningsmiljö:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

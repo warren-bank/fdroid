@@ -1,0 +1,15 @@
+Áirítear ar na critéir coinníollach
+
+● Líon na n-uimhreacha fón póstach
+● Subteaghrán nach mór tarlú ag tús an
+&nbsp;&nbsp;teachtaireacht SMS a fuarthas
+
+Áirítear sonraí suímh GPS:
+
+● Comhordanáidí agus comhordanáidí
+&nbsp;&nbsp;fadaithe
+● cruinneas (méadair)
+● luas (meters/sec)
+● ordú (cardinal nó ordúil, agus
+&nbsp;&nbsp;céimeanna)
+● URL le Google Maps

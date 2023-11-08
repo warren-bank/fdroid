@@ -1,0 +1,20 @@
+Használat:
+
+● Megjeleníti az összes párosított
+&nbsp;&nbsp;Bluetooth eszköz listáját
+&nbsp;&nbsp;○ Kattintson arra, amely a kívánt
+&nbsp;&nbsp;&nbsp;&nbsp;fogadót azonosítja
+&nbsp;&nbsp;○ Várakozás a kapcsolatra
+
+● A PTT gomb átkapcsolása
+&nbsp;&nbsp;○ Zöld azt jelzi, hogy a hang jelenleg
+&nbsp;&nbsp;&nbsp;&nbsp;elfogásra kerül
+&nbsp;&nbsp;&nbsp;&nbsp;A mikrofonból és a csatlakozó
+&nbsp;&nbsp;&nbsp;&nbsp;aljzatból
+&nbsp;&nbsp;○ Piros jelzi, hogy az audio folyam
+&nbsp;&nbsp;&nbsp;&nbsp;jelenleg szüneteltetve van
+
+● A csúszka mozgatása a hang
+&nbsp;&nbsp;mennyiségének beállításához
+&nbsp;&nbsp;○ Alapérték: 25 %
+&nbsp;&nbsp;○ Maximum: 200 %

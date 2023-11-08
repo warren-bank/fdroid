@@ -1,0 +1,20 @@
+وتشمل السمات القدرة على ما يلي :
+
+● فرز قائمة الإحداثيات الجغرافية :
+&nbsp;&nbsp;○ متسلسل
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;يتم ترتيبه عند حدوث الأماكن في ملف
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;المدخلات.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● (أ) : خط سير محدد للسفر
+&nbsp;&nbsp;○ مسافة
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;مرتبة حسب المسافة من الموقع
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;الحالي.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● بأثر رجعي : استكشاف فوري لأمر
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;التوريد القريب
+&nbsp;&nbsp;○ أبجدي
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;يتم ترتيبه بواسطة الأسماء الوصفية
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;الخاصة بالأماكن.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● السابقين : علامات التوقف للأماكن
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;المفضلة
+● اضغط على بند الكشف لفتح المكان المناظر
+&nbsp;&nbsp;في تطبيق خارجي ، مثل المناظرة أو
+&nbsp;&nbsp;التجول.

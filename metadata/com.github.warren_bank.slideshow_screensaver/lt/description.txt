@@ -1,0 +1,13 @@
+Skaidriavimo nustatymai:
+
+● Laiko trukmė (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Laikas, per kurį rodomas kiekvieno
+&nbsp;&nbsp;&nbsp;&nbsp;atvaizdo vaizdas.
+● Naudoti MediaStore teikėją
+&nbsp;&nbsp;&nbsp;&nbsp;Gauna atvaizdų failus iš "Android"
+&nbsp;&nbsp;&nbsp;&nbsp;indekso.
+● Aplanko kelias
+&nbsp;&nbsp;&nbsp;&nbsp;Gaukite atvaizdų iš tam tikro
+&nbsp;&nbsp;&nbsp;&nbsp;katalogo sistemos kataloge.
+● Rekurse į paaplankus
+● Atsitiktinė tvarka

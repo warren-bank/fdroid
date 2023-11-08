@@ -1,0 +1,21 @@
+বৈশিষ্ট্য হল:
+
+● একই নেটওয়ার্কের মধ্যে AirPlay
+&nbsp;&nbsp;রিসিভারের স্বয়ংক্রিয় আবিষ্কার
+● আপনার ডিভাইস থেকে AirPlay-এ বিম ছবি
+● আপনার ডিভাইস থেকে AirPlay-এ স্ট্রিম
+&nbsp;&nbsp;ভিডিও এবং মিউজিক
+● আপনার ডিভাইস থেকে এয়ারপ্লে পর্দা মিরর
+
+ক্রেডিট:
+
+● ড্রইডপ্লে
+&nbsp;&nbsp;&nbsp;&nbsp;এই অ্যাপ্লিকেশনের মূল সংস্করণ.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;অ্যানড্রয়েড ৫.০+-এ স্ক্রিন মিরারিং
+&nbsp;&nbsp;&nbsp;&nbsp;বাস্তবায়ন করার জন্য অনেক কোড
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (সংস্করণ ১) প্রোটোকল
+&nbsp;&nbsp;&nbsp;&nbsp;অানুষ্ঠানিক নথিপত্র.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

@@ -1,0 +1,19 @@
+Konfigurérbare HTTP-anmodningsattributter:
+
+● metode
+● protokol
+● URL
+● toptekster
+● querystrengparametre
+● lig
+
+Funktionerne omfatter muligheden for at:
+
+● send en anmodning én gang
+● sende en anmodning gentagne gange på
+&nbsp;&nbsp;et bestemt tidsinterval
+● genindlæse konfigurationen af en
+&nbsp;&nbsp;tidligere forespørgsel fra en
+&nbsp;&nbsp;historiklog
+● ret udskriv JSON-svardata
+● Vis HTML-svardata

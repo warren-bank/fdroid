@@ -1,0 +1,23 @@
+Funkcije vključujejo:
+
+● Samodejno odkrivanje sprejemnikov
+&nbsp;&nbsp;AirPlay znotraj istega omrežja
+● Fotografije z gredjo iz vaše naprave v
+&nbsp;&nbsp;AirPlay
+● Video posnetki in glasba iz vaše
+&nbsp;&nbsp;naprave v AirPlay
+● Zrcalni zaslon iz naprave v AirPlay
+
+Dobropisi:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Izvirna različica te aplikacije.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Zaslonski tok
+&nbsp;&nbsp;&nbsp;&nbsp;Za implement zrcaljenja zaslona v
+&nbsp;&nbsp;&nbsp;&nbsp;sistemu Android 5.0+ je na voljo
+&nbsp;&nbsp;&nbsp;&nbsp;veliko kode.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protokol airPlay (različice 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Neuradna dokumentacija.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

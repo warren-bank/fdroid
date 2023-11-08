@@ -1,0 +1,1 @@
+Toggles Android Debug Bridge daemon (adbd) tra modalità USB e WiFi.

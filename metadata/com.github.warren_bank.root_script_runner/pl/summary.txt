@@ -1,0 +1,1 @@
+Wykonuje skrypty powłoki jako użytkownik root.

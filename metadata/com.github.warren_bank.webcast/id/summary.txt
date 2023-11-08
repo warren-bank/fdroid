@@ -1,0 +1,1 @@
+Browser web dengan berat ringan untuk mengekstrak URL video dari situs web.

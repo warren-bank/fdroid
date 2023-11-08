@@ -1,0 +1,1 @@
+Varsayılan Android sistemi yerel ayarını değiştirin.

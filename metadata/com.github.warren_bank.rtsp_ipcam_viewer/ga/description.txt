@@ -1,0 +1,30 @@
+Tá na formáidí seo tipiciúil de ceamaraí slándála IP neamhchostasach.
+
+Gnéithe a áirítear ar an gcumas chun:
+
+● líon neamhtheoranta sruthanna físeáin
+&nbsp;&nbsp;a chumrú
+● sruthanna físeáin a iompórtáil ó
+&nbsp;&nbsp;chomhad JSON
+● Is féidir le gach sruth URLanna le
+&nbsp;&nbsp;haghaidh dhá fhoinsí:
+&nbsp;&nbsp;○ rún íseal
+&nbsp;&nbsp;○ rún ard
+● Cumasaigh agus sruthanna díchumasaithe
+&nbsp;&nbsp;sa liosta
+● taispeáint na sruthanna cumasaithe i
+&nbsp;&nbsp;gceachtar liosta nó leagan amach
+&nbsp;&nbsp;greille
+&nbsp;&nbsp;○ Úsáideann réiteach íseal (nuair atá
+&nbsp;&nbsp;&nbsp;&nbsp;ar fáil)
+● roghnaigh sruth amháin ón liosta nó
+&nbsp;&nbsp;leagan amach greille
+&nbsp;&nbsp;○ taispeántais i scáileán iomlán
+&nbsp;&nbsp;○ úsáid ardrún (nuair atá ar fáil)
+
+Stair:
+
+Bhí an t-iarratas seo i láthair i scríbhinn chun brainse turgnamhach a thástáil ar ExoPlayer. Ag an am, bhí an brainse seo a iarraidh ar oscailt a iarraidh nach raibh a bheith merged tar éis roinnt blianta:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Ar deireadh thiar, bhí an brainse seo chumasaithe. Anois, úsáideann an t-iarratas a thógáil cobhsaí de ExoPlayer. Cé acu, imho, a dhéanann sé níos lú suimiúil. Ach d' fhéadfadh sé a bheith fós úsáideach.

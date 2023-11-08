@@ -1,0 +1,14 @@
+Ρυθμίσεις παρουσίασης:
+
+● Διάρκεια (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Εμφανίζεται η χρονική περίοδος κάθε
+&nbsp;&nbsp;&nbsp;&nbsp;εικόνας.
+● Χρήση παροχέα MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Ανακτά αρχεία εικόνας από το
+&nbsp;&nbsp;&nbsp;&nbsp;ευρετήριο Android.
+● Διαδρομή καταλόγου
+&nbsp;&nbsp;&nbsp;&nbsp;Ανάκτηση εικόνων από έναν
+&nbsp;&nbsp;&nbsp;&nbsp;συγκεκριμένο κατάλογο στο σύστημα
+&nbsp;&nbsp;&nbsp;&nbsp;αρχείων.
+● Επανάληψη σε subdirectories
+● Τυχαία σειρά.

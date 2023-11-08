@@ -1,0 +1,1 @@
+Togol daemon Jambatan Debug Android (adbd) antara mod USB dan WiFi.

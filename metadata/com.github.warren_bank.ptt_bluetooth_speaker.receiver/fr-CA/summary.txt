@@ -1,0 +1,1 @@
+Reçoit l'audio de l'expéditeur et la joue par l'intermédiaire du haut-parleur.

@@ -1,0 +1,1 @@
+Tar emot ljud från avsändaren och spelar den via högtalaren.

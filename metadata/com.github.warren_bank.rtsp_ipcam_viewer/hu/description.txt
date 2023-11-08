@@ -1,0 +1,29 @@
+Ezek a formátumok a drága IP biztonsági kamerákra jellemzőek.
+
+A szolgáltatások a következők:
+
+● Korlátlan számú videofolyam beállítása
+● Videofolyam importálása JSON fájlból
+● Minden adatfolyam tartalmazhat URL
+&nbsp;&nbsp;címeket két forráshoz:
+&nbsp;&nbsp;○ Kis felbontású
+&nbsp;&nbsp;○ Magas felbontású
+● Szelektíven engedélyezi és letiltja a
+&nbsp;&nbsp;folyamokat a listában
+● Megjeleníti az engedélyezett
+&nbsp;&nbsp;folyamokat egy lista vagy rács
+&nbsp;&nbsp;elrendezésben
+&nbsp;&nbsp;○ Alacsony felbontású (ha
+&nbsp;&nbsp;&nbsp;&nbsp;rendelkezésre áll)
+● Válasszon ki egyetlen folyamot a
+&nbsp;&nbsp;listából vagy a rács elrendezésből
+&nbsp;&nbsp;○ Képernyők teljes képernyője
+&nbsp;&nbsp;○ Nagy felbontású (ha rendelkezésre
+&nbsp;&nbsp;&nbsp;&nbsp;áll)
+
+Történelem:
+
+Ez a kérelem eredetileg az ExoPlayer kísérleti ágának tesztelésére készült. Akkor ez az ág olyan nyílt kérést kapott, amit már évek óta nem vontak össze:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Végül ez az ág egyesült. Ez az alkalmazás az ExoPlayer stabil felépítését használja. Ami kevésbé teszi érdekessé. De még hasznos lehet.

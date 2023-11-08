@@ -1,0 +1,23 @@
+வலைப்பதிவுகளின் படி:
+
+● புவியியல் ஒருங்கிணைப்பின் பட்டியலை
+&nbsp;&nbsp;வரிசைப்படுத்து
+&nbsp;&nbsp;○ வரிசைப்படுத்தப்பட்ட
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;உள்ளீட்டு கோப்பில் ஏற்படும்
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;இடங்களாக ஆரம்பிக்கப்பட்டது.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● முன்னாள்: a precise travel
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;itinerary
+&nbsp;&nbsp;○ தூரம்
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;தற்போதைய இடத்தில் இருந்து தூரம்.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: ad-hoc exploration of nearby
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI
+&nbsp;&nbsp;○ அகச்சிவப்பு
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;இடங்களுடன் தொடர்புபடுத்தப்பட்ட
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;விவரிப்பு பெயர்களால்
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;வரிசைப்படுத்தப்பட்டது.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● முன்னிருப்பு: விருப்பமான
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;இடங்களின் புத்தகக்குறிகள்
+● ஒரு பட்டியல் உருப்படியை க்ளிக்
+&nbsp;&nbsp;செய்யவும், ஒரு வெளி பயன்பாட்டில்
+&nbsp;&nbsp;ஒத்திசைவு இடத்தை திறக்க, வரைபடம்
+&nbsp;&nbsp;அல்லது நாணயம்.

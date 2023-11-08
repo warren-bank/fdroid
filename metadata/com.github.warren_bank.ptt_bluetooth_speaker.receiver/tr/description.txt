@@ -1,0 +1,17 @@
+Ön planda çalışan bir Hizmette çalışır:
+
+● Görünür Kullanıcı Arabirimi yok
+● bluetooth bağdaştırıcısını
+&nbsp;&nbsp;keşfedilebilir hale getirir
+● Bluetooth Yuvası sunucusu başlatır
+● gönderen bir göndericiden bağlantı
+
+Gönderenin bağlandığı zaman:
+
+● gönderen bağlantısı dinlemeyi durdurur
+● Bağlı Yuvadan ses akımını yürütür
+
+Gönderenin bağlantısı kesildiğinde:
+
+● yeni bir gönderen bağlantısı dinlemeyi
+&nbsp;&nbsp;sürdürür

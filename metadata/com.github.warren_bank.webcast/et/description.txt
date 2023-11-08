@@ -1,0 +1,10 @@
+Video URL-id parajasti avatud veebileheküljel on nimekirjas.
+
+Seadistused määrab video URL-i valimisel:
+● sisemine videomängija sisaldab
+&nbsp;&nbsp;Chromecast saatjat
+● väline video mängija võimaldab teise
+&nbsp;&nbsp;rakenduse mängida video URL
+● "ExoAirPlayer" ja "HLS Proxy" senders
+&nbsp;&nbsp;iga laadida staatiline web Page SPA
+&nbsp;&nbsp;klient valitud server

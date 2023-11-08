@@ -1,0 +1,20 @@
+Działa w usłudze pierwszoplanowej:
+
+● Nie ma widocznego interfejsu
+&nbsp;&nbsp;użytkownika
+● sprawia, że adapter Bluetooth jest
+&nbsp;&nbsp;wykrywalny
+● uruchamia serwer gniazda Bluetooth
+● nasłuchuje połączenia od nadawcy
+
+Gdy nadawca łączy się:
+
+● zatrzymuje nasłuchiwanie połączenia
+&nbsp;&nbsp;nadawcy
+● Odtwarza strumień audio z podłączonego
+&nbsp;&nbsp;gniazda
+
+Gdy nadawca rozłącza się:
+
+● wznawia nasłuchiwanie nowego
+&nbsp;&nbsp;połączenia nadawcy

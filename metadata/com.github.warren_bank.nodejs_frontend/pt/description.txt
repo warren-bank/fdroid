@@ -1,0 +1,37 @@
+Os recursos incluem a capacidade de:
+
+● configurar e salvar qualquer número de
+&nbsp;&nbsp;perfis de aplicativos
+● cada perfil do aplicativo pode
+&nbsp;&nbsp;especificar:
+&nbsp;&nbsp;○ título
+&nbsp;&nbsp;○ caminho do arquivo para o arquivo
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript principal
+&nbsp;&nbsp;○ opções de linha de comando para o
+&nbsp;&nbsp;&nbsp;&nbsp;tempo de execução Node.js
+&nbsp;&nbsp;○ opções de linha de comando para o
+&nbsp;&nbsp;&nbsp;&nbsp;aplicativo
+&nbsp;&nbsp;○ variáveis de ambiente
+&nbsp;&nbsp;○ diretório de trabalho atual
+● os perfis de aplicativos são agrupados
+&nbsp;&nbsp;por:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os aplicativos compartilham um
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;único processo. Apenas um pode
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;executar por vez.
+&nbsp;&nbsp;○ "fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada aplicação recebe o seu
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;próprio processo. Cada um executa
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;em um serviço de primeiro plano.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma notificação associada mata o
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;processo.
+● backup e restauração:
+&nbsp;&nbsp;○ exportar todos os perfis de
+&nbsp;&nbsp;&nbsp;&nbsp;aplicativos para JSON
+&nbsp;&nbsp;○ importar novos perfis de aplicativos
+&nbsp;&nbsp;&nbsp;&nbsp;da JSON
+
+Ambiente de execução integrado:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

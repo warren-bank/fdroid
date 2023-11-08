@@ -1,0 +1,5 @@
+Lytter på Wi-Fi LAN-adapter ved hjelp av en statløs HTTP-API (basert på AirPlay v1). Annonser sin tilgjengelighet for funn ved hjelp av mDNS (Bonjour).
+
+Støtter enheter av alle skjermstørrelser ; inkostbare generiske set-toppbokser med høyoppløsning HDMI-output er målplattformen, men fungerer like godt på svært gamle håndsett med svært små lavoppløsingsskjermer.
+
+API er omfattende og fulldokumentert. En statisk nettside SPA-klient-implementering gjør denne funksjonaliteten svært tilgjengelig. På sitt mest grunnleggende nivå gir denne API mulighet til å "kaste" medieURLer inn i en spilleliste og styre alle aspekter ved avspilling.

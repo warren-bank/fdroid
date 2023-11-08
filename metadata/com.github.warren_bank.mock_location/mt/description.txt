@@ -1,0 +1,35 @@
+Karatteristiċi jinkludu l-abbiltà li:
+
+● mock pożizzjoni fissa
+● issimula vjaġġ
+● tuża joystick biex jiċċaqilqu
+&nbsp;&nbsp;relattivament għal pożizzjoni fissa
+&nbsp;&nbsp;finta
+● taċċetta l-latitudni u l-lonġitudni ta
+&nbsp;&nbsp;'pari ta' koordinati mill-
+● isalva l-latitudni u
+&nbsp;&nbsp;l-lonġitudni-ikkordinat pari kif
+&nbsp;&nbsp;imsemmi bookmarks
+
+Varjazzjonijiet:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+L-integrazzjoni Android:
+
+1. jippermetti lill-Għażliet ta '
+&nbsp;&nbsp;&nbsp;Żvilupp
+&nbsp;&nbsp;&nbsp;● miftuħ:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Settings > Sistema > Dwar
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it-telefon
+&nbsp;&nbsp;&nbsp;● Ripetutament ikklikkja 7 darbiet:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bini ta '
+2. kkonfigurat:
+&nbsp;&nbsp;&nbsp;● miftuħ:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Settings > Sistema > Għażliet ta
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' l-Iżvilupp
+&nbsp;&nbsp;&nbsp;● ħlief valuri:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;App ta ' lokazzjoni finta: "Mock
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPS tiegħi"

@@ -1,0 +1,3 @@
+mDNS (Bonjár) a úsáidtear le haghaidh an discovery na feistí atá ar fáil eile i LAN. Mar sin, ní gá aon fhreastalaí WebRTC a bheith ag teastáil.
+
+Tá WebRTC a úsáidtear le haghaidh gach rud eile.

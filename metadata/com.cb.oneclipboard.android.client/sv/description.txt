@@ -1,0 +1,7 @@
+Servrar är tillgängliga för en rad olika plattformar, inklusive Android.
+
+Alla klienter som ansluter till en gemensam server och autentiserar med samma användarnamn och lösenordskombination kommer att dela en gemensam klippskiva. När en klient kopierar nya data till dess urklipp skickas data till servern och sänds sedan till alla autentiserade klienter.
+
+Alla klippbordets data är krypterade end-to-end.
+
+Det går att använda Tasker-integrering.

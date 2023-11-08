@@ -1,0 +1,19 @@
+Umožňuje "Mock my GPS" sa správať ako poskytovateľ mock umiestnenie pre "UnifiedNlp".
+
+"UnifiedNlp" je:
+
+● typicky nainštalovaný ako komponent
+&nbsp;&nbsp;"microG"
+● určené na použitie na odgooglovaných
+&nbsp;&nbsp;ROM Android
+● výmena kvapky pre "Služby umiestnenia
+&nbsp;&nbsp;Google"
+
+"UnifiedNlp" integrácia údajov o polohe mock:
+
+● je povolené, kým "Mock my GPS" je
+&nbsp;&nbsp;aktívna
+● je prioritou v porovnaní s ostatnými
+&nbsp;&nbsp;"UnifiedNlp" koncové pluginy tým, že
+&nbsp;&nbsp;postupuje časovú značku 45 sekúnd,
+&nbsp;&nbsp;takže sa zdá, že je najaktuálnásťo

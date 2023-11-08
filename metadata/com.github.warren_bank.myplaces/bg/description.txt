@@ -1,0 +1,21 @@
+Характеристиките включват способността да:
+
+● сортиране на списък с географски
+&nbsp;&nbsp;координати:
+&nbsp;&nbsp;○ Последователен.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Наредено като местоположения се
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;появяват във входния файл.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: точен маршрут на пътуването
+&nbsp;&nbsp;○ разстояние:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Подредени по разстояние от
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;текущото местоположение.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad hoc проучване на близката
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI
+&nbsp;&nbsp;○ азбучен ред:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Подредени по описателни имена,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;свързани с местоположенията.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: показалци на любимите места
+● щракнете върху елемент на списък, за
+&nbsp;&nbsp;да отворите съответното местоположение
+&nbsp;&nbsp;във външно приложение, например
+&nbsp;&nbsp;преобразуване или навигация.

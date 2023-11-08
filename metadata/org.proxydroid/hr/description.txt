@@ -1,0 +1,34 @@
+Traži korijen!
+
+Funkcije uključuju:
+
+● podrška za protokole proxy
+&nbsp;&nbsp;poslužitelja:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● podrška za metode provjere
+&nbsp;&nbsp;autentičnosti:
+&nbsp;&nbsp;○ Osnovni
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● podrška za omogućavanje proxy
+&nbsp;&nbsp;poslužitelja:
+&nbsp;&nbsp;○ globalno, za sve aplikacije
+&nbsp;&nbsp;○ samo za određene aplikacije
+● podrška za crnu listu:
+&nbsp;&nbsp;○ IP adrese za zaobilaženje proxyja
+● podrška za DNS proxy
+● podrška za višestruke profile
+● osnovna podrška za datoteku proxy
+&nbsp;&nbsp;auto-konfiguracije (PAC)
+● sposobnosti za pridruživanje određenog
+&nbsp;&nbsp;profila s:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobilna mreža
+● grafički element za uključivanje /
+&nbsp;&nbsp;isključivanja proxyja
+● runtime efikasnost:
+&nbsp;&nbsp;○ troši malo baterije
+&nbsp;&nbsp;○ koristi mali RAM

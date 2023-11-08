@@ -1,0 +1,31 @@
+Requires juurta!
+
+Ominaisuuksiin kuuluu:
+
+● Välityspalvelimen protokollien tuki:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● Todennuksen menetelmien tukeminen:
+&nbsp;&nbsp;○ Perustiedot
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLM2
+● Välityspalvelimen käytön tuki:
+&nbsp;&nbsp;○ Maailmanlaajuisesti, kaikkien
+&nbsp;&nbsp;&nbsp;&nbsp;sovellusten
+&nbsp;&nbsp;○ Vain tiettyjä sovelluksia varten
+● Mustan listan tukeminen:
+&nbsp;&nbsp;○ IP-osoitteet, jotka ohittavat
+&nbsp;&nbsp;&nbsp;&nbsp;välityspalvelimen
+● DNS-välityspalvelimen tuki
+● Useiden profiilien tuki
+● Välityspalvelimen automaattisen
+&nbsp;&nbsp;kokoonpanon (PAC) perustuki
+● Kyky liittää tietty profiili:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Matkapuhelinverkko
+● Widget-objektin poisto
+● Ajonaikainen hyötysuhde:
+&nbsp;&nbsp;○ Kuluttaa vähän akkua
+&nbsp;&nbsp;○ Käyttää pienRAM

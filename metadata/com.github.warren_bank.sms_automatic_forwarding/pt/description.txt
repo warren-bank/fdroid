@@ -1,0 +1,3 @@
+As condições são definidas por uma lista de regras. Cada regra associa um número de telefone do destinatário a um padrão que deve corresponder ao remetente de uma mensagem SMS recebida.
+
+Quando uma nova mensagem SMS é recebida, ela é encaminhada para números de telefone receptores de acordo com cada regra tendo um padrão de correspondência.

@@ -1,0 +1,1 @@
+Recibe audio del remitente y lo reproduce a través del altavoz.

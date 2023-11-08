@@ -1,0 +1,19 @@
+Ceadaíonn sé "Mock mo GPS" a beá mar sholáthraí suíomh mock le haghaidh "UnifiedNlp".
+
+Is é "UnifiedNlp":
+
+● Suiteáilte de ghnáth mar chomhpháirt
+&nbsp;&nbsp;de "microG"
+● atá beartaithe le haghaidh úsáid ar
+&nbsp;&nbsp;de-Google faoi stiúir Android ROMs
+● brap-in ionad "Google Seirbhísí
+&nbsp;&nbsp;Suíomh"
+
+"Slp UnifiedNlp" comhtháthú sonraí fireann mock:
+
+● Tá sé ar chumas ach amháin le linn
+&nbsp;&nbsp;"Mock mo GPS" gníomhach
+● Tá prioritized thar ceann eile
+&nbsp;&nbsp;"UnifiedNlp" breiseáin ar ais trí chur
+&nbsp;&nbsp;chun an t-uainestamp 45 soicind, ionas
+&nbsp;&nbsp;go bhfuil sé sin a bheith níos déanaí

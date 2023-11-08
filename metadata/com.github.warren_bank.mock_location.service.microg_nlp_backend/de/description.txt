@@ -1,0 +1,21 @@
+Erlaubt "Mock my GPS", sich als Mock-Location-Anbieter für "UnifiedNlp" zu verhalten.
+
+"UnifiedNlp" ist:
+
+● typischerweise als Bestandteil von
+&nbsp;&nbsp;"microG" installiert
+● für die Verwendung auf-Googled Android
+&nbsp;&nbsp;ROMs
+● Ein Drop-In-Ersatz für "Google
+&nbsp;&nbsp;Location Services"
+
+"UnifiedNlp" Integration von Mock-Standortdaten:
+
+● ist nur aktiviert, während "Mock my
+&nbsp;&nbsp;GPS" aktiv ist
+● über andere "UnifiedNlp"
+&nbsp;&nbsp;-Backend-Plug-ins priorisiert wird,
+&nbsp;&nbsp;indem die Zeitmarke 45 Sekunden
+&nbsp;&nbsp;vorgeschoben wird. Es scheint also,
+&nbsp;&nbsp;dass es sich um die neueste Version
+&nbsp;&nbsp;handelt.

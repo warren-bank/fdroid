@@ -1,0 +1,1 @@
+Palvelin on synkronoitava lehtitietojen synkronointi asiakkaiden kesken.

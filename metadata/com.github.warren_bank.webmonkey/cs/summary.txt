@@ -1,0 +1,1 @@
+Ve webovém prohlížeči Light-weight s podporou pro uživatelské skripty Greasemonkey.

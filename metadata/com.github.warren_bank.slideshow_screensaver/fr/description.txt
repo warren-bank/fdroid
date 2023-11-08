@@ -1,0 +1,13 @@
+Paramètres diaporama:
+
+● Durée (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Période d'affichage de chaque image.
+● Utiliser le fournisseur MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Obtient des fichiers image à partir
+&nbsp;&nbsp;&nbsp;&nbsp;de l'index Android.
+● Chemin du répertoire
+&nbsp;&nbsp;&nbsp;&nbsp;Obtenez des images à partir d'un
+&nbsp;&nbsp;&nbsp;&nbsp;répertoire particulier du système de
+&nbsp;&nbsp;&nbsp;&nbsp;fichiers.
+● Récupération dans les sous-répertoires
+● Ordre aléatoire

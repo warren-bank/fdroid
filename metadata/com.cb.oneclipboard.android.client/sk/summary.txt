@@ -1,0 +1,1 @@
+Klient na synchronizáciu údajov z odkladacej schránky prostredníctvom servera.

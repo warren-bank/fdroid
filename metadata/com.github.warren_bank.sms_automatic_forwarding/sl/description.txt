@@ -1,0 +1,3 @@
+Pogoji so definirani s seznamom pravil. Vsako pravilo povezuje telefonsko številko prejemnika s posredovanjem z vzorcem, ki se mora ujemalo s pošiljateljem prejetega sporočila SMS.
+
+Ko je prejeto novo sporočilo SMS, je posredovalno v telefonske številke prejemnika v skladu z vsakim pravilom, ki ima enak vzorec.

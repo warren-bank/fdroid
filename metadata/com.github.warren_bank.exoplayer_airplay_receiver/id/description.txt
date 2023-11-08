@@ -1,0 +1,5 @@
+Mendengarkan adaptor LAN Wi-Fi yang menggunakan API HTTP stateless (berdasarkan AirPlay v1). Mengiklankan ketersediannya untuk penemuan menggunakan mDNS (Bonjour).
+
+Mendukung perangkat dari semua ukuran tampilan; kotak set-top generik yang tidak mahal dengan output HDMI resolusi tinggi adalah platform target, tetapi bekerja sama baik pada handset yang sangat tua dengan layar resolusi rendah yang sangat kecil.
+
+API bersifat ekstensif dan terdokumentasi sepenuhnya. Implementasi klien SPA client halaman web statis membuat fungsionalitas ini sangat mudah diakses. Pada tingkat paling dasar, API ini memberikan kemampuan untuk "melemparkan" URL media ke dalam playlist dan mengendalikan semua aspek pemutaran.

@@ -1,0 +1,21 @@
+Funktioner inkluderar förmågan att:
+
+● sortera listan över geografiska
+&nbsp;&nbsp;koordinater:
+&nbsp;&nbsp;○ sekventiell
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beställd som platser som
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;förekommer i indatafilen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: en exakt resplan resväg
+&nbsp;&nbsp;○ avstånd
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beställd av avstånd från den
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aktuella platsen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad hoc-undersökning av
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;närliggande POI
+&nbsp;&nbsp;○ alfabetisk
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beordrad av beskrivande namn som
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;är associerade till placeringar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: Bokmärken för favoritplatser
+● Klicka på ett listobjekt för att öppna
+&nbsp;&nbsp;motsvarande plats i en extern
+&nbsp;&nbsp;applikation, t.ex. avbildning eller
+&nbsp;&nbsp;navigering.

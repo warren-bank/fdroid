@@ -1,0 +1,8 @@
+Yêu cầu root!
+
+Việc thực hiện một kịch bản vỏ có thể được gọi bằng hai cách:
+
+1. tương tác
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bởi người dùng tự chọn một tập tin.
+2. tự động
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bởi một Intent.

@@ -1,0 +1,7 @@
+Käyttäjän palautteen tyypit:
+
+● Näytä Toast
+● Näytä ilmoitus
+● Soita ääniRingtone
+
+Kaikki käyttäjän palautteen lajit aloittaa Intent-toiminto. Tätä apuohjelmaa voi käyttää sekä muissa sovelluksissa että suoraan käyttäjän toimesta komentorivipääteemulaattorilla.

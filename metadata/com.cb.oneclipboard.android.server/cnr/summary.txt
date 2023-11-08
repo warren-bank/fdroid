@@ -1,0 +1,1 @@
+Server da sinhronizira podatke o klijentima na klijentima.

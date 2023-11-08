@@ -1,0 +1,14 @@
+Diapresentatie:
+
+● Duur van tijd (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;De periode waarin elke afbeelding
+&nbsp;&nbsp;&nbsp;&nbsp;wordt weergegeven.
+● MediaStore-provider gebruiken
+&nbsp;&nbsp;&nbsp;&nbsp;Hiermee worden afbeeldingsbestanden
+&nbsp;&nbsp;&nbsp;&nbsp;opgehaald uit de Android-index.
+● Directorypad
+&nbsp;&nbsp;&nbsp;&nbsp;Afbeeldingen ophalen uit een
+&nbsp;&nbsp;&nbsp;&nbsp;bepaalde directory in het
+&nbsp;&nbsp;&nbsp;&nbsp;bestandssysteem.
+● Recursief in subdirectory's
+● Willekeurige volgorde

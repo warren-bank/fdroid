@@ -1,0 +1,1 @@
+Überprüfen Sie empfangene SMS-Nachrichten und leiten Sie sie bedingt weiter.

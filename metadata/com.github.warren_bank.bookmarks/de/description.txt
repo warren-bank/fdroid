@@ -1,0 +1,31 @@
+Hintergrund:
+
+● Ein Android-Intent kann verwendet
+&nbsp;&nbsp;werden, um einen genauen Teil einer
+&nbsp;&nbsp;beliebigen installierten Anwendung zu
+&nbsp;&nbsp;öffnen, und gibt an sie alle Arten
+&nbsp;&nbsp;oder Quantität von Daten
+● als solche, ist ein Intent wie ein
+&nbsp;&nbsp;Android-Lesezeichen
+
+Zu den Features gehören die folgenden Funktionen:
+
+● Konfigurieren und Speichern von
+&nbsp;&nbsp;Intents als benannte Lesezeichen
+● Lesezeichen verwenden, um:
+&nbsp;&nbsp;○ Starten einer Aktivität
+&nbsp;&nbsp;○ Starten eines Service
+&nbsp;&nbsp;○ Senden einer Broadcast
+● Zeitplanlesezeichen, die später
+&nbsp;&nbsp;verwendet werden sollen
+&nbsp;&nbsp;○ Einmal
+&nbsp;&nbsp;○ in einem Intervall
+● Intercept Intents, die von anderen
+&nbsp;&nbsp;Anwendungen gestartet wurden:
+&nbsp;&nbsp;○ zum Ändern
+&nbsp;&nbsp;○ zum Speichern
+● Sicherung und Wiederherstellung:
+&nbsp;&nbsp;○ die gesamte SQLite-Datenbank
+&nbsp;&nbsp;○ JSON-Datendatei
+&nbsp;&nbsp;○ HTML-Datendatei für
+&nbsp;&nbsp;&nbsp;&nbsp;Netscape-Lesezeichen

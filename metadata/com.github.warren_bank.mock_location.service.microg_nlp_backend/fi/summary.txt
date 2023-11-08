@@ -1,0 +1,1 @@
+Kumppani "Mock my GPS". Backend-liitännäinen "UnifiedNlp".

@@ -1,0 +1,34 @@
+Funkcije vključujejo zmožnost za:
+
+● konfigurirati in shraniti poljubne
+&nbsp;&nbsp;število profilov aplikacij
+● vsak profil aplikacije lahko določa:
+&nbsp;&nbsp;○ naslov
+&nbsp;&nbsp;○ datoteka pot do glavne datoteke
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript
+&nbsp;&nbsp;○ možnosti ukazne vrstice za izvajalno
+&nbsp;&nbsp;&nbsp;&nbsp;okolje Node.js
+&nbsp;&nbsp;○ možnosti ukazne vrstice za
+&nbsp;&nbsp;&nbsp;&nbsp;aplikacijo
+&nbsp;&nbsp;○ spremenljivke okolja
+&nbsp;&nbsp;○ trenutni delovni imenik
+● profili aplikacij so združeni v
+&nbsp;&nbsp;skupine po:
+&nbsp;&nbsp;○ 'exec'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikacije souporablja en sam
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proces. Samo eden se lahko izvrši
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;po času.
+&nbsp;&nbsp;○ "vilice"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vsaka aplikacija ima svoj proces.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vsak se izvrši v ospredju. S tem
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;povezano obvestilo uniči proces.
+● varnostno kopiranje in obnavljanje:
+&nbsp;&nbsp;○ izvoziti vse profile aplikacij v
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ uvažanje novih profilov aplikacij iz
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Vdelano izvajalno okolje:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

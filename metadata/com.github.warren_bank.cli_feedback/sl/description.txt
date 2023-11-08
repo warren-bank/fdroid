@@ -1,0 +1,7 @@
+Tipi povratnih informacij uporabnikov:
+
+● show a Toast
+● pokaži obvestilo
+● predvajanjezvočni Rington
+
+Vse vrste povratnih informacij uporabnika se zaženejo v Intent. Ta pomožni program lahko uporabite tako z drugimi aplikacijami kot tudi neposredno z uporabnikom iz emulatorja terminala ukazne vrstice.

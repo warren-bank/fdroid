@@ -1,0 +1,21 @@
+विशेषताओं में शामिल करने की क्षमता शामिल हैं:
+
+● भौगोलिक निर्देशांकों की सूची क्रमबद्ध
+&nbsp;&nbsp;करें:
+&nbsp;&nbsp;○ अनुक्रमिक
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;इनपुट फ़ाइल में होने वाले स्थान के
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;रूप में आदेश दिया.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● पूर्व: एक सटीक यात्रा यात्रा
+&nbsp;&nbsp;○ दूरी
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;वर्तमान स्थान से दूरी के द्वारा
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;आदेश दिया.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● निकट के पी. आई. पी. के तदर्थ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;गवेषण
+&nbsp;&nbsp;○ अक्षत
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;स्थानों से जुड़े विवरणात्मक नामों
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;से आदेश दिया जाता है ।
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● पूर्व: पसंदीदा स्थानों का
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;बुकमार्क
+● किसी बाहरी अनुप्रयोग में इसी स्थान को
+&nbsp;&nbsp;खोलने के लिए किसी सूची आइटम पर क्लिक
+&nbsp;&nbsp;करें, जैसे मानचित्रण या नेविगेशन ।

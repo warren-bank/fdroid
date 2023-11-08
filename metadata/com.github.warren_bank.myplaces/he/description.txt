@@ -1,0 +1,18 @@
+המאפיינים כוללים את היכולת:
+
+● למיין את הרשימה של קואורדינטות
+&nbsp;&nbsp;גיאוגרפיות:
+&nbsp;&nbsp;○ עוקב
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הוזמן כאשר המיקומים מתרחשים בקובץ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הקלט.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● לשעבר: מסלול נסיעה מדויק
+&nbsp;&nbsp;○ מרחק
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הוזמן על ידי המרחק מהמיקום הנוכחי.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● לשעבר: חקר אד-הוק של POI סמוך
+&nbsp;&nbsp;○ אלפביתי
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הוזמן על-ידי שמות תיאורי המשויכים
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;למיקומים.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● לשעבר: סימניות של מקומות מועדפים
+● לחצו על פריט רשימה כדי לפתוח את המיקום
+&nbsp;&nbsp;המתאים ביישום חיצוני, כגון מיפוי או
+&nbsp;&nbsp;ניווט.

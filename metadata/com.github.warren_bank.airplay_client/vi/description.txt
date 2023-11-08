@@ -1,0 +1,24 @@
+Tính năng bao gồm:
+
+● Phát hiện tự động các máy thu AirPlay
+&nbsp;&nbsp;trong cùng mạng lưới
+● Chuyển ảnh từ thiết bị của bạn sang
+&nbsp;&nbsp;AirPlay
+● Tải video và âm nhạc từ thiết bị của
+&nbsp;&nbsp;bạn cho AirPlay
+● Chiếu màn hình từ thiết bị của bạn cho
+&nbsp;&nbsp;AirPlay
+
+Ghi chú:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Phiên bản gốc của ứng dụng này.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Dòng trình chiếu
+&nbsp;&nbsp;&nbsp;&nbsp;Cung cấp phần lớn mã để thực hiện
+&nbsp;&nbsp;&nbsp;&nbsp;phản chiếu màn hình trên Android
+&nbsp;&nbsp;&nbsp;&nbsp;5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Giao thức airplay (phiên bản 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Tài liệu không chính thức
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

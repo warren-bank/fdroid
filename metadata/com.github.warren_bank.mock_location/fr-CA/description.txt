@@ -1,0 +1,35 @@
+Les fonctions comprennent la capacité:
+
+● simulation d'une position fixe
+● simuler un voyage
+● utiliser un joystick pour se déplacer
+&nbsp;&nbsp;par rapport à une position fixe
+&nbsp;&nbsp;simulée
+● accepter les paires de coordonnées
+&nbsp;&nbsp;géographiques de latitude et de
+&nbsp;&nbsp;longitude des Intentes
+● enregistrer les paires de coordonnées
+&nbsp;&nbsp;géographiques de latitude et de
+&nbsp;&nbsp;longitude en tant que signets
+
+Variations:
+
+1. APCO
+2. AOSP + Google Play Services
+3. AOSP + Services mobiles Huawei
+
+Intégration d'Android:
+
+1. activation de Developer Options
+&nbsp;&nbsp;&nbsp;● ouvrir:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paramètres > Système > Au sujet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;du téléphone
+&nbsp;&nbsp;&nbsp;● cliquez plusieurs fois sur 7 fois:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numéro de génération
+2. configurer:
+&nbsp;&nbsp;&nbsp;● ouvrir:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paramètres > Système > Options de
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;développeur
+&nbsp;&nbsp;&nbsp;● sauvegarder les valeurs:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;App emplacement app: "Mock my
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPS"

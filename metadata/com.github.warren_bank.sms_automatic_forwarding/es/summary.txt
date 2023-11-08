@@ -1,0 +1,1 @@
+Inspeccione los mensajes SMS recibidos y condicionalmente adelante.

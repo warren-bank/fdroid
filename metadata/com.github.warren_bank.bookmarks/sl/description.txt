@@ -1,0 +1,29 @@
+Ozadje:
+
+● lahko uporabite Android Intent, če
+&nbsp;&nbsp;želite odpreti natančen del katerekoli
+&nbsp;&nbsp;nameščene aplikacije in mu posredovati
+&nbsp;&nbsp;katerikoli tip ali količino podatkov.
+● kot tak, je šotor kot zaznamek Android
+
+Funkcije vključujejo zmožnost za:
+
+● konfiguriranje in shranjevanje vsebine
+&nbsp;&nbsp;z imenom zaznamki
+● uporabi zaznamke za:
+&nbsp;&nbsp;○ zagon dejavnosti
+&nbsp;&nbsp;○ zagon storitve
+&nbsp;&nbsp;○ pošlji oddajanje oddajanju
+● terminirane zaznamke, ki bodo
+&nbsp;&nbsp;uporabljene pozneje:
+&nbsp;&nbsp;○ enkrat
+&nbsp;&nbsp;○ v intervalu
+● prestrezanje vsebine, zagnano z
+&nbsp;&nbsp;drugimi aplikacijami:
+&nbsp;&nbsp;○ za spreminjanje
+&nbsp;&nbsp;○ za shranjevanje
+● varnostno kopiranje in obnavljanje:
+&nbsp;&nbsp;○ celotna baza podatkov SQLite
+&nbsp;&nbsp;○ Podatkovna datoteka JSON
+&nbsp;&nbsp;○ Datoteka s podatki HTML Netscape
+&nbsp;&nbsp;&nbsp;&nbsp;Bookmark

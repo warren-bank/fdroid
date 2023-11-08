@@ -1,0 +1,15 @@
+Kryteria warunkowe obejmują:
+
+● Biała lista numerów telefonów nadawcy
+● podłańcuch, który musi wystąpić na
+&nbsp;&nbsp;początku otrzymanego komunikatu SMS
+
+Dane lokalizacji GPS obejmują:
+
+● współrzędne szerokości i długości
+&nbsp;&nbsp;geograficznej
+● dokładność (metry)
+● szybkość (pomia/s)
+● kierunek (kardynał lub porządkowy, i
+&nbsp;&nbsp;stopnie)
+● Adres URL do Google Maps

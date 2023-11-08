@@ -1,0 +1,18 @@
+기능 포함:
+
+● 동일한 네트워크 내에서 에어플레이 수신기의 자동 발견
+● 귀하의 디바이스에서 에어플레이로 사진을 찍습니다.
+● 장치에서 에어플레이로의 스트림 비디오 및 음악
+● 장치의 화면을 에어플레이로 미러링
+
+크리드:
+
+● 드로이드플레이
+&nbsp;&nbsp;&nbsp;&nbsp;이 애플리케이션의 원래 버전입니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● 화면 스트림
+&nbsp;&nbsp;&nbsp;&nbsp;Android 에서 화면 미러링을 구현하기 위한 코드의 일부 제공
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● 에어플레이 (버전 1) 프로토콜
+&nbsp;&nbsp;&nbsp;&nbsp;비공식적인 문서.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

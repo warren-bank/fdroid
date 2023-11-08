@@ -1,0 +1,1 @@
+Companion do "Mock mo GPS". Breiseán backend le haghaidh "UnifiedNlp".

@@ -1,0 +1,1 @@
+Wygaszacz, który wyświetla pokaz slajdów obrazów lokalnych.

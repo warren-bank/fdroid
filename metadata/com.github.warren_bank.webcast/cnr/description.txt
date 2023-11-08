@@ -1,0 +1,11 @@
+Video URL-ovi na trenutnoj web stranici su prikazani na listi.
+
+Postavke određuju ponašanje kada se izabere video URL:
+● Unutrašnji video igrač uključuje i
+&nbsp;&nbsp;kromešanog pošiljaoca.
+● Vanjski video igrač dozvoljava drugoj
+&nbsp;&nbsp;aplikaciji da odigra video.
+● "ExoAirPlayer" i "HLS Proxy"
+&nbsp;&nbsp;pošiljatelji učitavaju statičku web
+&nbsp;&nbsp;stranicu SPA klijenta za odabrani
+&nbsp;&nbsp;server.

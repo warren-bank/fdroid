@@ -1,0 +1,28 @@
+Need formaadid on tüüpilised odav IP turvakaamerad.
+
+Funktsioonide hulka kuuluvad võime:
+
+● seadistada piiramatut arvu videovooge
+● impordi videovoolud JSONi failist
+● iga voog võib sisaldada URLid kahe
+&nbsp;&nbsp;allika jaoks:
+&nbsp;&nbsp;○ madala resolutsiooniga
+&nbsp;&nbsp;○ kõrge lahutus
+● valikuliselt võimaldada ja keelata
+&nbsp;&nbsp;ojade nimekirjas
+● kuvada lubatud vood kas nimekirja või
+&nbsp;&nbsp;võrgu paigutuses
+&nbsp;&nbsp;○ kasutab madala lahutusvõime (kui on
+&nbsp;&nbsp;&nbsp;&nbsp;olemas)
+● valige loendist või ruudustiku
+&nbsp;&nbsp;paigutusest üks voolik
+&nbsp;&nbsp;○ kuvab täisekraanil
+&nbsp;&nbsp;○ kasutab kõrge lahutusvõime (kui on
+&nbsp;&nbsp;&nbsp;&nbsp;olemas)
+
+Ajalugu:
+
+See taotlus oli algselt kirjutatud testida eksperimentaalse haru ExoPlayer. Sel ajal oli see haru avatud pull taotluse, et ei olnud ühendatud pärast mitu aastat:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Lõpuks, see haru liideti. Nüüd, see rakendus kasutab stabiilne ehitada ExoPlayer. Mis teeb selle vähem huvitavaks. Aga see võib ikkagi kasulik olla.

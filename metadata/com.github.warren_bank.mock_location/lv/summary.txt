@@ -1,0 +1,1 @@
+Mock Android atrašanās vietas sniedzēji: GPS, Network, Fedd.

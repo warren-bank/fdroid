@@ -1,0 +1,3 @@
+mDNS (Bonjour), LAN ' da bulunan diğer kullanılabilir aygıtların keşfi için kullanılır. Bu nedenle, WebRTC sinyalizasyon sunucusu gerekli değildir.
+
+WebRTC her şey için kullanılır.

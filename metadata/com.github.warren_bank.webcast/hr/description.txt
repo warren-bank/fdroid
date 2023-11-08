@@ -1,0 +1,11 @@
+Video URL-ovi na trenutnoj Web stranici su prikazani u listi.
+
+Postavke određuju ponašanje kada je odabrana video URL:
+● interni video igrač uključuje
+&nbsp;&nbsp;pošiljatelja Chromecast
+● eksterni video igrač dozvoljava drugoj
+&nbsp;&nbsp;aplikaciji da igra video URL
+● a "ExoAirPlayer" i "HLS Proxy"
+&nbsp;&nbsp;pošiljatelje svakog učitavanja
+&nbsp;&nbsp;statičke Web stranice SPA klijenta za
+&nbsp;&nbsp;odabrani poslužitelj

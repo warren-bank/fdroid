@@ -1,0 +1,25 @@
+Le funzioni includono:
+
+● Rilevamento automatico dei ricevitori
+&nbsp;&nbsp;AirPlay all'interno della stessa rete
+● Travi le foto dal tuo dispositivo ad
+&nbsp;&nbsp;AirPlay
+● Video di flusso e musica dal tuo
+&nbsp;&nbsp;dispositivo ad AirPlay
+● Specchiate lo schermo dal vostro
+&nbsp;&nbsp;dispositivo ad AirPlay
+
+Credits:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;La versione originale di questa
+&nbsp;&nbsp;&nbsp;&nbsp;applicazione.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;Fornito gran parte del codice per
+&nbsp;&nbsp;&nbsp;&nbsp;implementare il mirroring dello
+&nbsp;&nbsp;&nbsp;&nbsp;schermo su Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protocollo AirPlay (versione 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Documentazione non ufficiale.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

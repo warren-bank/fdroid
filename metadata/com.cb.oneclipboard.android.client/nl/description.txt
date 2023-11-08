@@ -1,0 +1,7 @@
+Servers zijn beschikbaar voor verschillende platforms, waaronder Android.
+
+Alle clients die verbinding maken met een gemeenschappelijke server en verifiëren met dezelfde combinatie van gebruikersnaam en wachtwoord, delen een gemeenschappelijk klembord. Wanneer een client nieuwe gegevens naar het klembord kopieert, worden deze gegevens naar de server verzonden en vervolgens verzonden naar alle geverifieerde clients.
+
+Alle klembordgegevens zijn versleuteld end-to-end.
+
+Taskerintegratie wordt ondersteund.

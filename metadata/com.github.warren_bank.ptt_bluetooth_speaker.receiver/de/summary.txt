@@ -1,0 +1,1 @@
+Empfängt Audio vom Absender und spielt ihn durch den Lautsprecher.

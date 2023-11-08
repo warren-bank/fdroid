@@ -1,0 +1,32 @@
+Kenmerken omvatten de mogelijkheid om:
+
+● een vaste positie bespotten
+● Een reis simuleren
+● gebruik een joystick om te bewegen ten
+&nbsp;&nbsp;opzichte van een mock vaste positie
+● breedte-en breedtegraden accepteren
+&nbsp;&nbsp;paren van Intents
+● paren breedtegraad en lengtegraad
+&nbsp;&nbsp;geo-coördinaat paren als benoemde
+&nbsp;&nbsp;bladwijzers
+
+Varianten:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobiele services
+
+Android-integratie:
+
+1. Opties voor ontwikkelaars
+&nbsp;&nbsp;&nbsp;● open:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instellingen > Systeem > Over
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;telefoon
+&nbsp;&nbsp;&nbsp;● Herhaaldelijk klikken 7 keer:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Buildnummer
+2. configureren:
+&nbsp;&nbsp;&nbsp;● open:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instellingen > Systeem >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ontwikkelopties
+&nbsp;&nbsp;&nbsp;● opslagwaarden:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock locatie app: "Mock mijn GPS"

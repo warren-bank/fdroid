@@ -1,0 +1,21 @@
+Funktionerne omfatter muligheden for at:
+
+● sortere listen over geografiske
+&nbsp;&nbsp;koordinater:
+&nbsp;&nbsp;○ sekventiel
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bestilt som placeringen forekommer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i inputfilen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: en præcis rejseplan
+&nbsp;&nbsp;○ afstand
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bestilt på afstand fra den
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aktuelle placering.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad hoc-udforskning af
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nærliggende POI
+&nbsp;&nbsp;○ alfabetisk
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bestilt af de beskrivende navne,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;der er knyttet til placeringer.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: bogmærker af favoritsteder
+● klik på et listeelement for at åbne
+&nbsp;&nbsp;den tilsvarende placering i en ekstern
+&nbsp;&nbsp;applikation, f.eks. mapning eller
+&nbsp;&nbsp;navigation.

@@ -1,0 +1,1 @@
+Togles Android Debug Bridge daemon (adbd) bejn il-USB u l-modalità WiFi.

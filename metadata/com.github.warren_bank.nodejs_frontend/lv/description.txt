@@ -1,0 +1,33 @@
+Funkcijas ietver spēju:
+
+● konfigurēt un saglabāt jebkuru skaitu
+&nbsp;&nbsp;lietojumprogrammu profilus
+● katrs pieteikuma profils var norādīt:
+&nbsp;&nbsp;○ Nosaukums
+&nbsp;&nbsp;○ failu ceļš uz galveno Javascript
+&nbsp;&nbsp;&nbsp;&nbsp;failu
+&nbsp;&nbsp;○ komandrinda iespējas Node.js
+&nbsp;&nbsp;&nbsp;&nbsp;darblaiks
+&nbsp;&nbsp;○ komandrinda opcijas pieteikumam
+&nbsp;&nbsp;○ vides mainīgie lielumi
+&nbsp;&nbsp;○ pašreizējais darba direktorijs
+● lietojumprogrammu profili ir sagrupēti
+&nbsp;&nbsp;pēc:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pieteikumiem ir vienots process.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tikai viens var izpildīt laikā.
+&nbsp;&nbsp;○ "fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Katram pieteikumam ir savs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;process. Katrs izpilda priekšplāna
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pakalpojumā. Ar to saistītais
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paziņojums nogalina procesu.
+● Dublēt un atjaunot:
+&nbsp;&nbsp;○ eksportēt visus pielietojuma
+&nbsp;&nbsp;&nbsp;&nbsp;profilus uz JSON
+&nbsp;&nbsp;○ importēt jaunus aplikāciju profilus
+&nbsp;&nbsp;&nbsp;&nbsp;no JSON
+
+Iegultā darblaika vide:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

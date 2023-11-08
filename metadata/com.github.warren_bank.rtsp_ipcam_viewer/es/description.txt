@@ -1,0 +1,30 @@
+Estos formatos son típicos de cámaras de seguridad IP baratas.
+
+Las características incluyen la capacidad de:
+
+● configurar un número ilimitado de
+&nbsp;&nbsp;secuencias de vídeo
+● importar secuencias de vídeo desde un
+&nbsp;&nbsp;archivo JSON
+● cada secuencia puede incluir URL para
+&nbsp;&nbsp;dos orígenes:
+&nbsp;&nbsp;○ Resolución baja
+&nbsp;&nbsp;○ Resolución alta
+● habilitar e inhabilitar de forma
+&nbsp;&nbsp;selectiva las secuencias de la lista
+● visualizar las corrientes habilitadas
+&nbsp;&nbsp;en un diseño de lista o de cuadrícula
+&nbsp;&nbsp;○ utiliza una resolución baja (cuando
+&nbsp;&nbsp;&nbsp;&nbsp;está disponible)
+● seleccionar una sola ruta de la lista
+&nbsp;&nbsp;o diseño de cuadrícula
+&nbsp;&nbsp;○ se visualiza en pantalla completa
+&nbsp;&nbsp;○ utiliza alta resolución (cuando está
+&nbsp;&nbsp;&nbsp;&nbsp;disponible)
+
+Historia:
+
+Esta aplicación fue originalmente escrita para probar una rama experimental de ExoPlayer. En ese momento, esta rama tenía una solicitud de extracción abierta que no se había fusionado después de varios años:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Finalmente, esta rama se ha fusionado. Ahora, esta aplicación utiliza una construcción estable de ExoPlayer. Lo que, imho, lo hace menos interesante. Pero aún puede ser útil.

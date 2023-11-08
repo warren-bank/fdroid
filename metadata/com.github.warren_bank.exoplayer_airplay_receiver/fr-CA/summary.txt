@@ -1,0 +1,1 @@
+Lecteur multimédia basé sur ExxPlayer avec API pour le contrôle à distance.

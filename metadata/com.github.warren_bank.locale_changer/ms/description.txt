@@ -1,0 +1,3 @@
+Papar senarai senarai yang ada. Mengklik pada mana-mana item senarai mengubah lokaliti sistem Android ke nilai terpilih. Perubahan berterusan.
+
+Lokaliti aktif semasa sentiasa dikedudukan sebagai item senarai pertama.

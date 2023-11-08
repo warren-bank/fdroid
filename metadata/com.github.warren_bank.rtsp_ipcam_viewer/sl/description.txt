@@ -1,0 +1,30 @@
+Ti formati so tipični za nedrage varnostne kamere IP.
+
+Funkcije vključujejo zmožnost za:
+
+● konfiguriranje neomejenega števila
+&nbsp;&nbsp;video tokov
+● uvoz video tokov iz datoteke JSON
+● vsak tok lahko vključuje URL-je za dva
+&nbsp;&nbsp;vira:
+&nbsp;&nbsp;○ nizka ločljivost
+&nbsp;&nbsp;○ visoka ločljivost
+● selektivno omogočite in onemogoÏate
+&nbsp;&nbsp;tokove na seznamu
+● prikaz omogočenega toka na seznamu ali
+&nbsp;&nbsp;v postavitveni postavitveni
+&nbsp;&nbsp;postavitveni
+&nbsp;&nbsp;○ uporablja nizko ločljivost (če je na
+&nbsp;&nbsp;&nbsp;&nbsp;voljo)
+● izberite en sam tok s seznama ali
+&nbsp;&nbsp;postavitve mreže
+&nbsp;&nbsp;○ prikaže na celotnem zaslonu
+&nbsp;&nbsp;○ uporablja visoko ločljivost (če je
+&nbsp;&nbsp;&nbsp;&nbsp;na voljo)
+
+Zgodovina:
+
+Ta aplikacija je bila prvotno napisana, da preizkusi poskusno vejo ExoPlayer. V tem času je ta podružnica imela odprto zahtevo za potez, ki ni bila združena po več letih:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Sčasoma se je ta podružnica združila. Ta aplikacija uporablja stabilno gradnjo ExoPlayer. Kar, imho, naredi manj zanimivo. Morda pa je še uporaben.

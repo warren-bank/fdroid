@@ -1,0 +1,1 @@
+Frontscent izpildīt Node.js pieteikumu no Android failu sistēmas.

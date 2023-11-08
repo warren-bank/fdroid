@@ -1,0 +1,1 @@
+Perjungti Android derinimo tiltą demonas (adbd) tarp USB ir WiFi režimu.

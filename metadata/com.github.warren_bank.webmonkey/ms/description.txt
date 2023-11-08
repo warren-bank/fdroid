@@ -1,0 +1,17 @@
+Fitur termasuk:
+
+● Pengesanan URL pengguna pengguna
+● kemaskini skrip pengguna automatik
+● API Javascript dilanjutkan untuk
+&nbsp;&nbsp;mendedahkan keupayaan khusus Android
+● Keupayaan untuk mengabaikan ralat
+&nbsp;&nbsp;sijil HTTPS
+
+Limitasi:
+
+● Skrip pengguna hanya berjalan di
+&nbsp;&nbsp;tetingkap atas
+&nbsp;&nbsp;○ Suntikan skrip ke dalam ibingkai
+&nbsp;&nbsp;&nbsp;&nbsp;adalah mungkin, tetapi memerlukan
+&nbsp;&nbsp;&nbsp;&nbsp;workaround yang rumit; merujuk
+&nbsp;&nbsp;&nbsp;&nbsp;kepada README untuk perincian.

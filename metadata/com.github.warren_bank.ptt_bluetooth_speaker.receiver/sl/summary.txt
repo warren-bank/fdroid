@@ -1,0 +1,1 @@
+Prejme zvok od pošiljatelja in ga predvaja prek zvočnika.

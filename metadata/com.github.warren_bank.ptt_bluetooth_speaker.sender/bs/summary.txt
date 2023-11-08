@@ -1,0 +1,1 @@
+Snima zvuk sa mikrofona i šalje ga prijemniku.

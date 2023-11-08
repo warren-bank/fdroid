@@ -1,0 +1,32 @@
+Zahtijeva korijen!
+
+Među značajkama su:
+
+● podrška za proxy server protokole:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● podrška za metode provjere
+&nbsp;&nbsp;autentičnosti:
+&nbsp;&nbsp;○ Osnovni
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● podrška za omogućavanje proxy servera:
+&nbsp;&nbsp;○ globalno, za sve aplikacije
+&nbsp;&nbsp;○ samo za određene aplikacije
+● podrška za crnu listu:
+&nbsp;&nbsp;○ IP adrese za zaobilaženje proxy-a
+● podrška za DNS proxy
+● podrška za višestruke profile
+● osnovna podrška za datoteku
+&nbsp;&nbsp;proxy-auto-konfiguracije (PAC)
+● sposobnost da se pridruži određeni
+&nbsp;&nbsp;profil sa:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobilna mreža
+● widget za prebacivanje proxy
+&nbsp;&nbsp;na/isključeno
+● Vrijeme izvođenja:
+&nbsp;&nbsp;○ troši malo baterije
+&nbsp;&nbsp;○ Koristi mali RAM

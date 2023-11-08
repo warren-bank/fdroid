@@ -1,0 +1,30 @@
+Kræver rod!
+
+Funktionerne omfatter:
+
+● støtte til proxyserverprotokoller:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● støtte til valideringsmetoder:
+&nbsp;&nbsp;○ Grundlæggende
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● støtte til aktivering af proxyserver:
+&nbsp;&nbsp;○ globalt for alle apps
+&nbsp;&nbsp;○ kun for bestemte apps
+● støtte til en sortliste:
+&nbsp;&nbsp;○ IP-adresser, der skal omgå proxy
+● støtte til en DNS-proxy
+● støtte til flere profiler
+● Basissupport til en PAC-fil (proxy
+&nbsp;&nbsp;auto-configuration)
+● Mulighed for at tilknytte en bestemt
+&nbsp;&nbsp;profil til:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobil netværk
+● widget til deaktivér proxy på / off
+● runtime-effektivitet:
+&nbsp;&nbsp;○ konsumerer lille batteri
+&nbsp;&nbsp;○ bruger lille RAM

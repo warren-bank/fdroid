@@ -1,0 +1,1 @@
+Konfigurēt un nosūtīt HTTP pieprasījumus.

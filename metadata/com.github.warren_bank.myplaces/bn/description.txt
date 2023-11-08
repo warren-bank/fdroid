@@ -1,0 +1,19 @@
+বৈশিষ্ট্য সমূহের মধ্যে রয়েছে:
+
+● ভৌগলিক স্থানাংকের তালিকা
+&nbsp;&nbsp;○ ক্রমাগত
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ইনপুট ফাইলে অবস্থান হিসাবে অর্ডার
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;করা হয়েছে.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: a precise travel itinerary
+&nbsp;&nbsp;○ দূরত্ব
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;বর্তমান অবস্থান থেকে দূরত্ব.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: ad-hoc exploration of nearby
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI
+&nbsp;&nbsp;○ বর্ণমালা
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;অবস্থানের সঙ্গে যুক্ত বর্ণনামূলক
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;নামের দ্বারা অর্ডার করা হয়েছে.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● প্রাক্তন: প্রিয় স্থানগুলোর
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;বুকমার্ক
+● একটি বহিঃস্থ অ্যাপ্লিকেশনে সংশ্লিষ্ট
+&nbsp;&nbsp;অবস্থান খোলার জন্য একটি তালিকার আইটেম
+&nbsp;&nbsp;ক্লিক করুন, যেমন ম্যাপিং বা নেভিগেশন.

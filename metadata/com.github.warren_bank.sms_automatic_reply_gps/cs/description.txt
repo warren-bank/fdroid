@@ -1,0 +1,15 @@
+Podmíněná kritéria zahrnují:
+
+● seznam povolených telefonních čísel
+&nbsp;&nbsp;odesílatele
+● podřetězec, který se musí objevit na
+&nbsp;&nbsp;začátku přijaté zprávy SMS
+
+Údaje o poloze GPS zahrnují:
+
+● souřadnice zeměpisné šířky a délky
+● přesnost (metry)
+● rychlost (meters/sek)
+● direction (kardinál nebo ordinal, and
+&nbsp;&nbsp;degrees)
+● Adresa URL map Google

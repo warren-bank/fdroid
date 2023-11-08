@@ -1,0 +1,1 @@
+Lengvoji interneto naršyklė, kad ištrauktų vaizdo URL iš interneto svetainių.

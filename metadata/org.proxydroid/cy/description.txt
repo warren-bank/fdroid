@@ -1,0 +1,32 @@
+Angen gwraidd!
+
+Mae'r nodweddion yn cynnwys:
+
+● cefnogaeth i brotocolau gweinydd
+&nbsp;&nbsp;dirprwy:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● cefnogaeth ar gyfer dulliau dilysiant:
+&nbsp;&nbsp;○ Sylfaenol
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLM2
+● cefnogaeth i alluogi gwasanaethwr
+&nbsp;&nbsp;dirprwyol:
+&nbsp;&nbsp;○ yn fyd-eang, ar gyfer pob ap
+&nbsp;&nbsp;○ dim ond ar gyfer apiau penodol
+● cefnogaeth ar gyfer rhestr ddu:
+&nbsp;&nbsp;○ Cyfeiriadau IP er mwyn osgoi'r
+&nbsp;&nbsp;&nbsp;&nbsp;dirprwy
+● cefnogi dirprwy DNS
+● cefnogi ar gyfer proffiliau lluosog
+● cymorth sylfaenol ar gyfer ffeil
+&nbsp;&nbsp;dirprwy awtomatig (PAC)
+● gallu cysylltu proffil penodol gyda:
+&nbsp;&nbsp;○ Name
+&nbsp;&nbsp;○ Rhwydwaith Symudol
+● teclyn i newid dirprwy ymlaen/diffodd
+● effeithlonrwydd amser rhedeg:
+&nbsp;&nbsp;○ pbaty batri bach
+&nbsp;&nbsp;○ Dim RAM bach

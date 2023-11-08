@@ -1,0 +1,1 @@
+Frontement za izvršavanje Node.js aplikacije iz Android datotečnog sistema.

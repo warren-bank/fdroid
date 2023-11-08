@@ -1,0 +1,7 @@
+Typy spätnej väzby od užívateľa:
+
+● zobraziť Toast
+● zobraziť oznámenie
+● hrať audio Ringtone
+
+Všetky typy spätnej väzby od užívateľa sú spustené v Intent. Tento pomocný program môžu byť použité aj inými aplikáciami, ako aj priamo užívateľom z emulátora terminálu príkazového riadka.

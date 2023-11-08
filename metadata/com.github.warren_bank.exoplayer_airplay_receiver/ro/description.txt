@@ -1,0 +1,5 @@
+Ascultă-te pe adaptorul Wi-Fi LAN folosind un API HTTP apatrid (bazat pe AirPlay v1). Reclamă disponibilitatea sa pentru descoperirea folosind mDNS (Bonjour).
+
+Suportă dispozitive de toate dimensiunile de afișare; cutii generice ieftine set-top cu ieșire HDMI de înaltă rezoluție sunt platforma țintă, dar funcționează la fel de bine pe handseturi foarte vechi, cu ecrane foarte mici de joasă rezoluție.
+
+API-ul este extins și complet documentat. O implementare statica a clientului SPA face ca aceasta functionalitate sa fie foarte accesibila. La nivelul său cel mai de bază, acest API oferă posibilitatea de a "arunca" URL-uri media într-o listă de redare și de a controla toate aspectele de redare.

@@ -1,0 +1,1 @@
+Poskytovatelia miesta Mock Android: GPS, Network, Fužíva.

@@ -1,0 +1,17 @@
+Caracteristicile includ:
+
+● detectarea URL-urilor userscript
+● actualizări automate de utilizator
+● un API extins Javascript pentru a
+&nbsp;&nbsp;expune capacitățile specifice Android
+● posibilitatea de a ignora erorile de
+&nbsp;&nbsp;certificat HTTPS
+
+Limitări:
+
+● userscripts rula numai în fereastra de
+&nbsp;&nbsp;sus
+&nbsp;&nbsp;○ Injecția de script în icadre este
+&nbsp;&nbsp;&nbsp;&nbsp;posibilă, dar necesită o soluție
+&nbsp;&nbsp;&nbsp;&nbsp;complicată; consultați README pentru
+&nbsp;&nbsp;&nbsp;&nbsp;detalii.

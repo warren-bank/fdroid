@@ -1,0 +1,3 @@
+A feltételeket a szabályok listája határozza meg. Minden szabály társít egy továbbítási címzett telefonszámot olyan mintával, amelynek meg kell egyeznie egy fogadott SMS küldővel.
+
+Új SMS üzenet fogadásakor a rendszer továbbítja a címzett telefonszámoknak a megfelelő mintával rendelkező szabály szerint.

@@ -1,0 +1,3 @@
+Wyświetla listę wszystkich dostępnych ustawień narodowych. Kliknięcie dowolnego elementu listy powoduje zmianę ustawień narodowych systemu Android na wybraną wartość. Zmiany są trwałe.
+
+Aktualnie aktywne ustawienia narodowe są zawsze pozycjonowane jako pierwsza pozycja listy.

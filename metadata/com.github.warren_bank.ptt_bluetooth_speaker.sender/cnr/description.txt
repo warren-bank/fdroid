@@ -1,0 +1,20 @@
+Upotreba:
+
+● Prikazuje spisak svih uparenih
+&nbsp;&nbsp;Bluetooth uređaja.
+&nbsp;&nbsp;○ Klikni na onaj koji identificira
+&nbsp;&nbsp;&nbsp;&nbsp;željeni prijemnik.
+&nbsp;&nbsp;○ Čekajte na vezu.
+
+● Prebacite se na PTT.
+&nbsp;&nbsp;○ Zelena pokazuje da je audio trenutno
+&nbsp;&nbsp;&nbsp;&nbsp;zarobljen.
+&nbsp;&nbsp;&nbsp;&nbsp;od mikrofona i streaming kroz
+&nbsp;&nbsp;&nbsp;&nbsp;konekciju
+&nbsp;&nbsp;○ Crvena boja pokazuje da je zvučni
+&nbsp;&nbsp;&nbsp;&nbsp;tok trenutno pauziran.
+
+● Pomaknite klizač da podesite zvuk
+&nbsp;&nbsp;zvuka.
+&nbsp;&nbsp;○ 25%.
+&nbsp;&nbsp;○ Maksimalno 200%.

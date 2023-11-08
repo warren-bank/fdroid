@@ -1,0 +1,26 @@
+기능에는 다음 기능이 포함됩니다.
+
+● 임의 수의 애플리케이션 프로파일 구성 및 저장
+● 각 애플리케이션 프로파일은 다음을 지정할 수 있습니다.
+&nbsp;&nbsp;○ 직함
+&nbsp;&nbsp;○ 기본 자바스크립트 파일에 대한 파일 경로
+&nbsp;&nbsp;○ Node.js 런타임의 명령행 옵션
+&nbsp;&nbsp;○ 애플리케이션에 대한 명령행 옵션
+&nbsp;&nbsp;○ 환경 변수
+&nbsp;&nbsp;○ 현재 작업 디렉토리
+● 애플리케이션 프로파일은 다음에 의해 그룹화됩니다.
+&nbsp;&nbsp;○ "실행"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;애플리케이션은 단일 프로세스를 공유합니다. 한 번에 하나만
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;실행할 수 있습니다.
+&nbsp;&nbsp;○ "포크"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;각 애플리케이션에는 자체 프로세스가 제공됩니다. 각각은
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;포그라운드 서비스에서 실행된다. 연관된 알림이 프로세스를
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;종료합니다.
+● 백업 및 복원:
+&nbsp;&nbsp;○ 모든 애플리케이션 프로파일을 JSON 으로 내보내기
+&nbsp;&nbsp;○ JSON 에서 새 애플리케이션 프로파일 가져오기
+
+임베디드 런타임 환경:
+
+● 노드 .js 12.19.0
+● OpenSSL 1.1.1g

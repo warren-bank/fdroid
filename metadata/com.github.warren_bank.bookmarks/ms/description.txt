@@ -1,0 +1,30 @@
+Latar belakang:
+
+● Android Inkhemah boleh digunakan untuk
+&nbsp;&nbsp;membuka bahagian yang tepat bagi
+&nbsp;&nbsp;mana-mana aplikasi yang dipasang, dan
+&nbsp;&nbsp;lulus ke ia mana-mana jenis atau
+&nbsp;&nbsp;kuantiti data
+● Seperti ini, Intenis seperti tanda
+&nbsp;&nbsp;buku Android
+
+Ciri-ciri termasuk keupayaan untuk:
+
+● konfigur dan simpan Inkhemah sebagai
+&nbsp;&nbsp;tanda buku yang bernama
+● guna tanda buku ke:
+&nbsp;&nbsp;○ memulakan Activiti
+&nbsp;&nbsp;○ memulakan Perkhidmatan
+&nbsp;&nbsp;○ hantar satu Broadcast
+● jadual jadual untuk digunakan
+&nbsp;&nbsp;kemudian:
+&nbsp;&nbsp;○ satu masa
+&nbsp;&nbsp;○ pada sela
+● pintasan Inkhemah dimulakan oleh
+&nbsp;&nbsp;aplikasi lain:
+&nbsp;&nbsp;○ untuk mengubahsuai
+&nbsp;&nbsp;○ untuk menyimpan
+● sandar dan pulih:
+&nbsp;&nbsp;○ keseluruhan pangkalan data SQLite
+&nbsp;&nbsp;○ Fail data JSON
+&nbsp;&nbsp;○ Fail data HTML Netscape Netscape

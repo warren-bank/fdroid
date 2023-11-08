@@ -1,0 +1,3 @@
+Hiển thị danh sách tất cả vùng địa phương hiện có. Nhấp vào bất kỳ mục danh sách nào sẽ thay đổi bản địa hệ thống Android vào giá trị đã chọn. Thay đổi là dai dẳng.
+
+Địa phương hiện đang hoạt động luôn luôn được định vị là mục danh sách đầu tiên.

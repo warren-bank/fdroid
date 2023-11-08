@@ -1,0 +1,1 @@
+Navigateur Web léger avec prise en charge de Greasemonkey userscripts.

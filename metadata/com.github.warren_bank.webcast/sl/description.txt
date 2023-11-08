@@ -1,0 +1,12 @@
+Video URL-ji na trenutni spletni strani so prikazani na seznamu.
+
+Nastavitve določajo vedenje, ko je izbran video URL:
+● notranji video predvajalnik vključuje
+&nbsp;&nbsp;pošiljatelja Chromecast
+● zunanji video predvajalnik omogoča, da
+&nbsp;&nbsp;predvajalnik videoposnetka predvaje
+&nbsp;&nbsp;drugo aplikacijo
+● pošiljatelj "ExoAirPlayer" in "HLS
+&nbsp;&nbsp;Proxy" vsak naloži statično spletno
+&nbsp;&nbsp;stran SPA odjemalca za izbrani
+&nbsp;&nbsp;strežnik

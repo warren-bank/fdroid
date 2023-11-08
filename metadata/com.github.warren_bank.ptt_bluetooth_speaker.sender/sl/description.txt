@@ -1,0 +1,20 @@
+Uporaba:
+
+● prikaže seznam vseh poparnih naprav
+&nbsp;&nbsp;Bluetooth
+&nbsp;&nbsp;○ kliknite tistega, ki identificira
+&nbsp;&nbsp;&nbsp;&nbsp;želeni sprejemnik
+&nbsp;&nbsp;○ čakanje na povezavo
+
+● preklopi gumb PTT
+&nbsp;&nbsp;○ zelena označuje, da je zvok trenutno
+&nbsp;&nbsp;&nbsp;&nbsp;v zajetju
+&nbsp;&nbsp;&nbsp;&nbsp;iz mikrofona in pretakenega prek
+&nbsp;&nbsp;&nbsp;&nbsp;povezane vtičnice
+&nbsp;&nbsp;○ rdeča nakazuje, da je zvočni tok
+&nbsp;&nbsp;&nbsp;&nbsp;trenutno začasno zaustavlja
+
+● premakni drsnik, da prilagoditi
+&nbsp;&nbsp;glasnost zvoka
+&nbsp;&nbsp;○ privzetek: 25%
+&nbsp;&nbsp;○ največ: 200%

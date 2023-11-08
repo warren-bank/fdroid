@@ -1,0 +1,1 @@
+在 USB 與 WiFi 模式之間切換 Android Debug Bridge 常駐程式（adbd）。

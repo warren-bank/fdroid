@@ -1,0 +1,7 @@
+Strežniki so na voljo za različne platforme, vključno z operacijskim sistemom Android.
+
+Vsi odjemalci, ki se povežejo s skupnim strežnikom in se overijo z uporabo istega uporabniškega imena in kombinacije gesel, bodo souporabljali skupni odložišče. Vsakič, ko katerikoli odjemalec prekopira nove podatke v svoj odložišče, se ti podatki pošljejo na strežnik in se nato oddajo vsem overjenim odjemalcem.
+
+Vsi podatki odložišča so šifrirani konec-do-konca.
+
+Integracija Tasker je podprta.

@@ -1,0 +1,14 @@
+Kritēriji ir šādi:
+
+● sūtītāja telefona numuru Whitelist
+● apakšgrupa, kurai jābūt saņemtai SMS
+&nbsp;&nbsp;īsziņas sākumā
+
+GPS atrašanās vietas dati ietver:
+
+● Ģeogrāfiskais platums un garums
+● precizitāte (metri)
+● apgriezienu skaits (meters/sek)
+● virzienā (kardināls vai ordināls, un
+&nbsp;&nbsp;grādi)
+● Google Maps URL

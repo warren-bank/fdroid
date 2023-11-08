@@ -1,0 +1,1 @@
+Frontend na spustenie aplikácie Node.js zo súborového systému Android.

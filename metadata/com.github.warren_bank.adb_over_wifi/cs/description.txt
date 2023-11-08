@@ -1,0 +1,7 @@
+Vyžaduje kořen!
+
+Režim USB je standardní. Vyžaduje USB kabel a USB ovladače pro připojení zařízení Android k počítači.
+
+WiFi mode je bezdrátový a nevyžaduje žádné další ovladače. Jakýkoliv počítač může použít klienta "adb" k vyžádání spojení se zařízením Android.
+
+Je-li povolen režim Wi-Fi, zobrazí tato aplikace příkaz "adb", který je nutný pro připojení takového připojení po síti LAN.

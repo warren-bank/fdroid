@@ -1,0 +1,31 @@
+Achtergrond:
+
+● een Android Intent kan worden gebruikt
+&nbsp;&nbsp;om een precies deel van een
+&nbsp;&nbsp;geïnstalleerde toepassing te openen,
+&nbsp;&nbsp;en doorgeven aan elke type of
+&nbsp;&nbsp;hoeveelheid van de gegevens
+● als zodanig, een Intent is als een
+&nbsp;&nbsp;Android-bladwijzer
+
+Kenmerken omvatten de mogelijkheid om:
+
+● Intents configureren en opslaan als
+&nbsp;&nbsp;bladwijzers
+● bladwijzers gebruiken om:
+&nbsp;&nbsp;○ activiteit starten
+&nbsp;&nbsp;○ starten met een service
+&nbsp;&nbsp;○ send a Broadcast
+● te gebruiken bladwijzers voor later
+&nbsp;&nbsp;gebruik:
+&nbsp;&nbsp;○ één keer
+&nbsp;&nbsp;○ met een interval
+● intercept Intents gestart door andere
+&nbsp;&nbsp;toepassingen:
+&nbsp;&nbsp;○ om te wijzigen
+&nbsp;&nbsp;○ op te slaan
+● backup en herstel:
+&nbsp;&nbsp;○ de volledige SQLite-database
+&nbsp;&nbsp;○ JSON-gegevensbestand
+&nbsp;&nbsp;○ Netscape Bladwijzer
+&nbsp;&nbsp;&nbsp;&nbsp;HTML-gegevensbestand

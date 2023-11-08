@@ -1,0 +1,19 @@
+"Ock my GPS", "UnifiedNlp" için bir sahte konum sağlayıcı olarak hareket etmesini sağlar.
+
+"UnifiedNlp":
+
+● Genellikle "mikroG" bileşeninin bir
+&nbsp;&nbsp;bileşeni olarak kurulur
+● Google 'da Google 'da Google 'da
+&nbsp;&nbsp;kullanım için kullanılması amaçlanan
+● "Google Location Services" için açılan
+&nbsp;&nbsp;bir değiştirme
+
+"UnifiedNlp" ile birlikte, sahte konum verileri bütünleştirmesi:
+
+● yalnızca "GPS my GPS" etkin olduğunda
+&nbsp;&nbsp;etkindir
+● zaman damgasını 45 saniye ilerleyerek
+&nbsp;&nbsp;diğer "UnifiedNlp" arka uç eklentileri
+&nbsp;&nbsp;üzerinde önceliklendirilir, bu nedenle
+&nbsp;&nbsp;en son

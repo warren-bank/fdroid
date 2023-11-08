@@ -1,0 +1,7 @@
+Typy zpětné vazby uživatele:
+
+● Zobrazit toast
+● zobrazit oznámení
+● přehrát zvukový ringtone
+
+Všechny typy zpětné vazby uživatele jsou spuštěny Záměrem. Tento obslužný program může používat jak ostatní aplikace, tak i přímo od uživatele z emulátoru terminálu příkazového řádku.

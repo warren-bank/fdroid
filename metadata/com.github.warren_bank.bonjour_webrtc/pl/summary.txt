@@ -1,0 +1,1 @@
+Tworzenie połączeń wideo między urządzeniami w sieci LAN.

@@ -1,0 +1,19 @@
+Permite "Mock GPS meu" să se comporte ca un furnizor de locație machetă pentru "UnifiedNlp".
+
+"UnifiedNlp" este:
+
+● de obicei instalat ca o componentă a
+&nbsp;&nbsp;"microG"
+● destinat pentru utilizarea pe
+&nbsp;&nbsp;de-Googled Android ROM-uri
+● un înlocuitor drop-in pentru "Google
+&nbsp;&nbsp;Location Services"
+
+"UnifiedNlp" integrarea datelor de localizare simulate:
+
+● este activat numai în timp ce "Mock
+&nbsp;&nbsp;GPS-ul meu" este activ
+● este prioritizat peste alte
+&nbsp;&nbsp;"UnifiedNlp" backend plugin-uri prin
+&nbsp;&nbsp;avansarea timestamp 45 secunde, deci
+&nbsp;&nbsp;se pare a fi cel mai recent

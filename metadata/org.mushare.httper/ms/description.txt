@@ -1,0 +1,18 @@
+Atribut permintaan HTTP terkonfigur:
+
+● kaedah
+● protokol
+● URL
+● pengepala
+● Parameter pertanyaan
+● badan
+
+Ciri-ciri termasuk keupayaan untuk:
+
+● hantar permintaan sekali
+● hantar permintaan berulang kali pada
+&nbsp;&nbsp;sela masa yang dinyatakan
+● muat semula konfigurasi permintaan
+&nbsp;&nbsp;terdahulu dari log sejarah
+● data sambutan JSON yang cantik
+● data sambutan HTML pratonton

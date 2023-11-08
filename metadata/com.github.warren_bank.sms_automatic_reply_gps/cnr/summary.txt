@@ -1,0 +1,1 @@
+Preispitajte primljene SMS poruke i uvjetno odgovarajte sa podacima GPS lokacije.

@@ -1,0 +1,20 @@
+Składnia:
+
+● wyświetla listę wszystkich sparowanych
+&nbsp;&nbsp;urządzeń Bluetooth
+&nbsp;&nbsp;○ Kliknij tę, która identyfikuje
+&nbsp;&nbsp;&nbsp;&nbsp;żądany dziennik
+&nbsp;&nbsp;○ oczekiwanie na połączenie
+
+● przełącz przycisk PTT
+&nbsp;&nbsp;○ zielony oznacza, że audio jest
+&nbsp;&nbsp;&nbsp;&nbsp;obecnie przechwytywane
+&nbsp;&nbsp;&nbsp;&nbsp;z mikrofonu i strumieniem za
+&nbsp;&nbsp;&nbsp;&nbsp;pośrednictwem podłączonego gniazda
+&nbsp;&nbsp;○ czerwony oznacza, że strumień audio
+&nbsp;&nbsp;&nbsp;&nbsp;jest aktualnie wstrzymany
+
+● przesuwa suwak, aby dostosować
+&nbsp;&nbsp;głośność dźwięku
+&nbsp;&nbsp;○ wartość domyślna: 25%
+&nbsp;&nbsp;○ maksymalnie: 200%

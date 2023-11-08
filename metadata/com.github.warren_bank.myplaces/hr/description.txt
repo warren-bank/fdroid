@@ -1,0 +1,22 @@
+Funkcije uključuju mogućnost:
+
+● sortirati listu geografskih
+&nbsp;&nbsp;koordinata:
+&nbsp;&nbsp;○ sekvencijalni
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naručje se kako se lokacije
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;događaju u ulazni datoteci.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: precizan putni plan puta
+&nbsp;&nbsp;○ udaljenost
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poredno po udaljenosti od trenutne
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lokacije.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hoc istraživanje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;obližnjeg POI
+&nbsp;&nbsp;○ abecedni
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poredali su opisne nazive koje su
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pridružene lokacijama.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: knjiške oznake favorit
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mjesta
+● kliknite na stavku liste da biste
+&nbsp;&nbsp;otvorili odgovarajuću lokaciju u
+&nbsp;&nbsp;vanjskoj aplikaciji, kao što je
+&nbsp;&nbsp;mapiranje ili navigacija.

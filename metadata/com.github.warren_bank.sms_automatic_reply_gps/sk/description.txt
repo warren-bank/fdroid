@@ -1,0 +1,15 @@
+Podmienečné kritériá zahŕňajú:
+
+● biely zoznam telefónnych čísel
+&nbsp;&nbsp;odosielateľa
+● podreťazec, ktorý sa musí objaviť na
+&nbsp;&nbsp;začiatku prijatej SMS správy
+
+Údaje o polohe GPS zahŕňajú:
+
+● Súradnice zemepisnej šírky a dĺžky
+● presnosť (merače)
+● rýchlosť (meters/sek)
+● smer (kardinál alebo ordinal, a
+&nbsp;&nbsp;stupne)
+● Adresa URL pre Google Maps

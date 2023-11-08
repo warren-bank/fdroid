@@ -1,0 +1,1 @@
+Inspecionar recebeu mensagens SMS e encaminhá-las condicionalmente.

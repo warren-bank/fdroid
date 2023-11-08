@@ -1,0 +1,8 @@
+需要 root用户 !
+
+可以通过两种方式调用 shell 脚本的执行 :
+
+1. 互动
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由用户手动选择文件。
+2. 自动
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由一个 Intent来

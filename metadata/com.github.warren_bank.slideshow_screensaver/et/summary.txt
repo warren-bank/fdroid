@@ -1,0 +1,1 @@
+Ekraanisäästja, mis näitab kohalike piltide slaidiseansi.

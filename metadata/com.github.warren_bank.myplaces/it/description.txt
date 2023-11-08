@@ -1,0 +1,23 @@
+Le funzioni includono la possibilità di:
+
+● ordinare l'elenco delle coordinate
+&nbsp;&nbsp;geografiche:
+&nbsp;&nbsp;○ sequenziale
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordinate come le località si
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verificano nel file di input.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: un itinerario di viaggio
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;preciso
+&nbsp;&nbsp;○ distanza
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordinato per distanza dalla
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;località corrente.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: esplorazione ad hoc della
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vicina POI
+&nbsp;&nbsp;○ alfabetico
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ordinato dai nomi descrittivi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;associati alle località.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: segnalibri dei luoghi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;preferiti
+● clicca su una voce di elenco per
+&nbsp;&nbsp;aprire la posizione corrispondente in
+&nbsp;&nbsp;un'applicazione esterna, come la
+&nbsp;&nbsp;mappatura o la navigazione.

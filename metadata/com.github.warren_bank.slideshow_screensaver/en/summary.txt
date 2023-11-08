@@ -1,0 +1,1 @@
+Screensaver that displays a slideshow of local images.

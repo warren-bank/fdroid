@@ -1,0 +1,7 @@
+Serveri ir pieejami dažādām platformām, tostarp Android.
+
+Visiem klientiem, kas savieno ar kopējo serveri un autentificēties, izmantojot to pašu lietotājvārdu un paroli kombināciju, būs dalīties ar kopīgu starpliktuvi. Ikreiz, kad kāds klients nokopē jaunus datus savā starpliktuvē, šie dati tiek nosūtīti uz serveri un pēc tam tiek pārraidēti uz visiem autentificētiem klientiem.
+
+Visi starpliktuves dati ir šifrēti.
+
+Tiek atbalstīta Tacker integrācija.

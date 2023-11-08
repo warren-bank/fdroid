@@ -1,0 +1,31 @@
+وتشمل السمات القدرة على ما يلي :
+
+● السخرية من موضع ثابت
+● محاكاة رحلة
+● استخدم عصا (joystick) للانتقال بالنسبة
+&nbsp;&nbsp;الى موضع ثابت غير محدد
+● قبول أزواج الاحداثيات الجغرافية لخطوط
+&nbsp;&nbsp;العرض وخطوط الطول من Inخيام
+● حفظ أزواج الاحداثيات الجغرافية لخطوط
+&nbsp;&nbsp;العرض وخطوط الطول كعلامات توقف محددة
+
+الاختلافات :
+
+1. AOSP
+2. خدمات تشغيل AOSP + Google
+3. AOSP + Huaوي Mobile Services
+
+تكامل أندرويد :
+
+1. اختيارات وحدة التحميض
+&nbsp;&nbsp;&nbsp;● فتح :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;محددات > نظام > نبذة عن التليفون
+&nbsp;&nbsp;&nbsp;● قم بالضغط مرتين على 7 مرات :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;رقم البناء
+2. توصيف :
+&nbsp;&nbsp;&nbsp;● فتح :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;محددات > نظام > اختيارات
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developer
+&nbsp;&nbsp;&nbsp;● قيم الحفظ :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;تطبيق موقع Mock : "جورب GPS بي
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPS"

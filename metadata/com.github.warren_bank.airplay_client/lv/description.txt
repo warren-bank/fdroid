@@ -1,0 +1,22 @@
+Funkcijas ietver:
+
+● Automātisks atklāšana AirPlay
+&nbsp;&nbsp;uztvērēji tajā pašā tīklā
+● Gaismas fotogrāfijas no jūsu ierīces
+&nbsp;&nbsp;uz AirPlay
+● Straumējiet video un mūziku no jūsu
+&nbsp;&nbsp;ierīces uz AirPlay
+● Spogulīt ekrānu no ierīces uz AirPlay
+
+Kredīti:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Šā pieteikuma sākotnējā versija.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● Ekrāns
+&nbsp;&nbsp;&nbsp;&nbsp;Sniedza daudz koda, lai īstenotu
+&nbsp;&nbsp;&nbsp;&nbsp;ekrāna spoguļošanu uz Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (versija 1) protokols
+&nbsp;&nbsp;&nbsp;&nbsp;Neoficiāla dokumentācija.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

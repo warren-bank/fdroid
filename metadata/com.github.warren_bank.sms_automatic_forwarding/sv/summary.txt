@@ -1,0 +1,1 @@
+Granska mottagna SMS-meddelanden och villkorligt vidarebefordra dem.

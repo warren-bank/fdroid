@@ -1,0 +1,19 @@
+Kullanım:
+
+● tüm eşleştirilmiş bluetooth
+&nbsp;&nbsp;aygıtlarının bir listesini görüntüler
+&nbsp;&nbsp;○ istenen günlük nesnesini tanıtan bir
+&nbsp;&nbsp;○ bağlantı bekle
+
+● PTT düğmesini aç/kapa
+&nbsp;&nbsp;○ yeşil, sesin şu anda yakalanmakta
+&nbsp;&nbsp;&nbsp;&nbsp;olduğunu gösterir
+&nbsp;&nbsp;&nbsp;&nbsp;mikrofonundan ve bağlantılı soket
+&nbsp;&nbsp;&nbsp;&nbsp;üzerinden streamed
+&nbsp;&nbsp;○ kırmızı, ses akışının şu anda
+&nbsp;&nbsp;&nbsp;&nbsp;duraklatıldığını gösterir
+
+● sesinin sesini ayarlamak için
+&nbsp;&nbsp;kaydırıcıyı hareket ettirin
+&nbsp;&nbsp;○ varsayılan: %25
+&nbsp;&nbsp;○ maksimum: 200%

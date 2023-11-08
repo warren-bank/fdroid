@@ -1,0 +1,5 @@
+Sluša na Wi-Fi LAN adaptoru koristeći se bez stanja HTTP API-ja (baziran na AirPlay v1). Oglašava svoju dostupnost za otkrivanje koristeći mDNS (Bonjour).
+
+Podržava uređaje svih veličina ekrana; jeftin generički set-top kutija sa HDMI izlaznim HDMI-om je ciljana platforma, ali radi jednako dobro na vrlo starim ručnim skupovima sa vrlo malim ekranima sa niskim rezolucijama.
+
+API je opsežan i potpuno dokumentiran. Statička web stranica SPA implementacija klijenta čini ovu funkcionalnost vrlo pristupačnom. Na najosnovnijem nivou, ovaj API daje mogućnost da "baci" medijske URL-ove u listu za reprodukciju i da kontroliše sve aspekte reprodukcije.

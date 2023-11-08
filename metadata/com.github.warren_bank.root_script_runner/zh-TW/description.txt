@@ -1,0 +1,8 @@
+需要 root！
+
+可以透過兩種方式來呼叫 Shell Script ：
+
+1. 互動
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由使用者手動選擇檔案。
+2. 自動
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;被一個 " 帳篷"

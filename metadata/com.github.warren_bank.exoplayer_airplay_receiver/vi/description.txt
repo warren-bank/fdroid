@@ -1,0 +1,5 @@
+Nghe trên adapter Wi-Fi LAN bằng cách sử dụng một HTTP API không trạng thái (dựa trên AirPlay v1). Quảng cáo tính khả dụng của nó cho phát hiện bằng mDNS (Bonjour).
+
+Hỗ trợ các thiết bị của tất cả các kích thước màn hình hiển thị; không tốn kém chung những hộp set-top với đầu ra HDMI độ phân giải cao là nền tảng đích, nhưng hoạt động cũng như trên các thiết bị điện thoại cũ với màn hình độ phân giải thấp rất nhỏ.
+
+API có quy mô rộng và được ghi nhận đầy đủ. Một trang web tĩnh SPA client thực hiện làm cho chức năng này có khả năng truy cập cao. Ở mức cơ bản nhất, API này cung cấp khả năng "cast" các URL truyền thông vào một playlist và điều khiển tất cả các khía cạnh của phát lại.

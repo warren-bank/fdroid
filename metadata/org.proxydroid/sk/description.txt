@@ -1,0 +1,29 @@
+Vyžaduje koreň!
+
+K funkciám patrí:
+
+● podpora pre protokoly proxy servera:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● podpora pre autentifikačné metódy:
+&nbsp;&nbsp;○ Základné
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● podpora pre povolenie proxy servera:
+&nbsp;&nbsp;○ globálne, pre všetky aplikácie
+&nbsp;&nbsp;○ len pre špecifické aplikácie
+● podpora pre čiernu listku:
+&nbsp;&nbsp;○ Adresy IP na obídenie proxy
+● podpora pre DNS proxy
+● podpora pre viacero profilov
+● základná podpora pre súbor proxy
+&nbsp;&nbsp;auto-configuration (PAC)
+● schopnosť priradiť konkrétny profil k:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobilná sieť
+● widget na prepnutie proxy on/off
+● efektivita runtime:
+&nbsp;&nbsp;○ Spotrebujte malú batériu
+&nbsp;&nbsp;○ používa malú pamäť RAM

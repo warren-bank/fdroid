@@ -1,0 +1,32 @@
+Reikia šaknų!
+
+Funkcijos apima:
+
+● parama proxy serverio protokolams:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTPS
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● parama autentiškumo patvirtinimo
+&nbsp;&nbsp;metodams:
+&nbsp;&nbsp;○ Pagrindinis
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● parama suteikiant galimybę proxy
+&nbsp;&nbsp;serveriui:
+&nbsp;&nbsp;○ visame pasaulyje, visų programėlių
+&nbsp;&nbsp;○ Tik konkrečioms programėlėms
+● parama juodajam sąrašui:
+&nbsp;&nbsp;○ IP adresai apeiti proxy
+● parama DNS proxy
+● Kelių profilių palaikymas
+● Pagrindinė parama proxy
+&nbsp;&nbsp;auto-konfigūracijos (AAM) failui
+● gebėjimas susieti konkretų profilį su:
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ Mobilusis tinklas
+● valdikliui perjungti proxy
+&nbsp;&nbsp;įjungimą/išjungimą
+● runtime veiksmingumas:
+&nbsp;&nbsp;○ sunaudoja mažai akumuliatoriaus
+&nbsp;&nbsp;○ naudoja mažai RAM

@@ -1,0 +1,27 @@
+Format ini adalah biasa bagi kamera keselamatan IP yang mahal.
+
+Ciri-ciri termasuk keupayaan untuk:
+
+● konfigur nombor video tidak terhad
+&nbsp;&nbsp;bagi strim video
+● import strim video dari fail JSON
+● setiap strim boleh sertakan URL untuk
+&nbsp;&nbsp;dua sumber:
+&nbsp;&nbsp;○ resolusi rendah
+&nbsp;&nbsp;○ resolusi tinggi
+● Boleh benarkan dan lumpuhkan strim
+&nbsp;&nbsp;dalam senarai
+● papar strim yang dibenarkan dalam sama
+&nbsp;&nbsp;ada senarai atau bentangan grid
+&nbsp;&nbsp;○ guna resolusi rendah (bila tersedia)
+● pilih strim tunggal dari senarai atau
+&nbsp;&nbsp;bentangan grid
+&nbsp;&nbsp;○ Papar dalam skrin penuh
+&nbsp;&nbsp;○ guna resolusi tinggi (bila tersedia)
+
+Sejarah:
+
+Aplikasi ini pada asalnya ditulis untuk menguji cabang eksperimen ExoPlayer. Pada masa itu, cawangan ini mempunyai permintaan tarik terbuka yang tidak dicantuman selepas beberapa tahun:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Akhirnya, cawangan ini telah digabung. Kini, aplikasi ini menggunakan binaan yang stabil ExoPlayer. Yang, imho, menjadikan ia kurang menarik. Tetapi ia mungkin masih berguna.

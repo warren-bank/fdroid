@@ -1,0 +1,3 @@
+Warunki są definiowane na podstawie listy reguł. Każda reguła wiąże numer telefonu odbiorcy przekazującego z wzorcem, który musi być zgodny z nadawcą odebranego komunikatu SMS.
+
+Gdy zostanie odebrana nowa wiadomość SMS, jest ona przekazywana do numerów telefonów odbiorcy zgodnie z każdą regułą o dopasowaniu wzorca.

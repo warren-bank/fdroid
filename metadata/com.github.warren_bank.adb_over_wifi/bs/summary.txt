@@ -1,0 +1,1 @@
+Toggles Android Debug most demon (adbd) između USB i WiFi načina.

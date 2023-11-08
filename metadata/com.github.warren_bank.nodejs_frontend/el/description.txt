@@ -1,0 +1,37 @@
+Οι λειτουργίες περιλαμβάνουν την ικανότητα:
+
+● ρύθμιση και αποθήκευση οποιουδήποτε
+&nbsp;&nbsp;αριθμού προφίλ εφαρμογών.
+● κάθε προφίλ εφαρμογής μπορεί να
+&nbsp;&nbsp;καθορίσει:
+&nbsp;&nbsp;○ τιτλος:
+&nbsp;&nbsp;○ διαδρομή αρχείου προς το κύριο
+&nbsp;&nbsp;&nbsp;&nbsp;αρχείο Javascript
+&nbsp;&nbsp;○ επιλογές γραμμής εντολών για το
+&nbsp;&nbsp;&nbsp;&nbsp;περιβάλλον εκτέλεσης Node.js
+&nbsp;&nbsp;○ επιλογές γραμμής εντολών για την
+&nbsp;&nbsp;&nbsp;&nbsp;εφαρμογή
+&nbsp;&nbsp;○ μεταβλητές περιβάλλοντος:
+&nbsp;&nbsp;○ τρέχων κατάλογος εργασίας
+● Τα προφίλ εφαρμογών ομαδοποιούνται
+&nbsp;&nbsp;κατά:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Οι εφαρμογές έχουν μια ενιαία
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;διεργασία. Μόνο ένας μπορεί να
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;εκτελεστεί κάθε φορά.
+&nbsp;&nbsp;○ "πιρούνι"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Κάθε αίτηση έχει τη δική της
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;διαδικασία. Κάθε ένας εκτελεί σε
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;μια υπηρεσία πρώτου επιπέδου. Μια
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;σχετική ειδοποίηση σκοτώνει τη
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;διεργασία.
+● εφεδρική αποθήκευση:
+&nbsp;&nbsp;○ εξαγωγή όλων των προφίλ εφαρμογών σε
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+&nbsp;&nbsp;○ Εισαγωγή νέων προφίλ εφαρμογών από
+&nbsp;&nbsp;&nbsp;&nbsp;JSON
+
+Ενσωματωμένο περιβάλλον εκτέλεσης:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

@@ -1,0 +1,1 @@
+Client voor het synchroniseren van klembordgegevens via een server.

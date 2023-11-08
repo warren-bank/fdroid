@@ -1,0 +1,1 @@
+Spoločník pre "Mock my GPS". Backend plugin pre "UnifiedNlp".

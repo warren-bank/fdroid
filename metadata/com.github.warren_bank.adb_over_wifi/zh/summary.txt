@@ -1,0 +1,1 @@
+在 USB 和 WiFi 模式之间切换 Android Debug Bridge 守护程序 (adbd) 。

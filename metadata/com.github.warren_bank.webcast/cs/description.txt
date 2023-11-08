@@ -1,0 +1,11 @@
+Na aktuální webové stránce se v seznamu zobrazují adresy URL videa.
+
+Nastavení určují chování při výběru adresy URL videa:
+● vnitřní video přehrávač obsahuje
+&nbsp;&nbsp;sender Chromecast
+● externí video přehrávač umožňuje další
+&nbsp;&nbsp;aplikaci přehrát video adresu URL
+● "ExoAirPlayer" a "HLS Proxy"
+&nbsp;&nbsp;odesilatelé každého zavedení statické
+&nbsp;&nbsp;webové stránky SPA klient pro vybraný
+&nbsp;&nbsp;server

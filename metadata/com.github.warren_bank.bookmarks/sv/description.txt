@@ -1,0 +1,28 @@
+Bakgrund:
+
+● ett Android-tält kan användas för att
+&nbsp;&nbsp;öppna en exakt del av en installerad
+&nbsp;&nbsp;applikation och överföra alla typer av
+&nbsp;&nbsp;data till den.
+● ett Intent är som ett Android-bokmärke
+
+Funktioner inkluderar förmågan att:
+
+● konfigurera och spara Intents som
+&nbsp;&nbsp;namngivna bokmärken
+● använda bokmärken till:
+&nbsp;&nbsp;○ starta en aktivitet
+&nbsp;&nbsp;○ starta en tjänst
+&nbsp;&nbsp;○ Sänd en sändning
+● Schemalägg bokmärkena som ska användas
+&nbsp;&nbsp;senare:
+&nbsp;&nbsp;○ en gång
+&nbsp;&nbsp;○ vid ett intervall
+● genskjuta inält som startas av andra
+&nbsp;&nbsp;program:
+&nbsp;&nbsp;○ för att ändra
+&nbsp;&nbsp;○ för att spara
+● säkerhetskopiering och återställning:
+&nbsp;&nbsp;○ hela SQLite- databasen
+&nbsp;&nbsp;○ JSON-datafil
+&nbsp;&nbsp;○ Netscape-bokmärkeHTML-datafil

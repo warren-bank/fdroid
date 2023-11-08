@@ -1,0 +1,29 @@
+Pozadí:
+
+● Záměr zařízení Android Intent lze
+&nbsp;&nbsp;použít k otevření přesné části
+&nbsp;&nbsp;instalované aplikace a předání
+&nbsp;&nbsp;libovolného typu nebo množství dat.
+● jako takový je Intent jako záložka
+&nbsp;&nbsp;Android
+
+Funkce zahrnují schopnost:
+
+● konfigurovat a uložit Intenty jako
+&nbsp;&nbsp;pojmenované záložky
+● používat záložky k:
+&nbsp;&nbsp;○ spustit aktivitu
+&nbsp;&nbsp;○ spustit službu
+&nbsp;&nbsp;○ odeslat všesměrové vysílání
+● rozvrhů, které mají být použity
+&nbsp;&nbsp;později:
+&nbsp;&nbsp;○ jednorázi
+&nbsp;&nbsp;○ v intervalu
+● intercept Inents started by other
+&nbsp;&nbsp;applications:
+&nbsp;&nbsp;○ upravit
+&nbsp;&nbsp;○ k uložení
+● zálohování a obnova:
+&nbsp;&nbsp;○ celou databázi SQLite
+&nbsp;&nbsp;○ datový soubor JSON
+&nbsp;&nbsp;○ Datový soubor HTML záložky Netscape

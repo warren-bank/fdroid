@@ -1,0 +1,3 @@
+mDNS (Bonjour) sa používa na objav iných dostupných zariadení v sieti LAN. Ako taký nie je potrebný žiadny signalizujúci server WebRTC.
+
+WebRTC sa používa pre všetko ostatné.

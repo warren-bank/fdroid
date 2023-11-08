@@ -1,0 +1,11 @@
+URLs de vídeo na página web atual são exibidas em uma lista.
+
+As configurações determinam o comportamento quando uma URL de vídeo é selecionada:
+● o player de vídeo interno inclui um
+&nbsp;&nbsp;remetente do Chromecast
+● o player de vídeo externo permite que
+&nbsp;&nbsp;outro app toque a URL de vídeo
+● os senadores "ExoAirPlayer" e "HLS
+&nbsp;&nbsp;Proxy" cada um carregam uma página web
+&nbsp;&nbsp;estática SPA cliente para o servidor
+&nbsp;&nbsp;escolhido

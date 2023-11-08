@@ -1,0 +1,30 @@
+Šie formāti ir raksturīgi lētu IP drošības kamerām.
+
+Funkcijas ietver spēju:
+
+● konfigurēt neierobežotu skaitu video
+&nbsp;&nbsp;plūsmu
+● importēt video plūsmas no JSON faila
+● katra plūsma var ietvert URL diviem
+&nbsp;&nbsp;avotiem:
+&nbsp;&nbsp;○ zema izšķirtspēja
+&nbsp;&nbsp;○ augsta izšķirtspēja
+● selektīvi ieslēgt un atslēgt plūsmas
+&nbsp;&nbsp;sarakstā
+● attēlot iespējotas plūsmas vai nu
+&nbsp;&nbsp;sarakstā, vai koordinātu tīkla
+&nbsp;&nbsp;izkārtojumā
+&nbsp;&nbsp;○ izmanto zemu izšķirtspēju (kad tas
+&nbsp;&nbsp;&nbsp;&nbsp;ir pieejams)
+● izvēlieties vienu plūsmu no saraksta
+&nbsp;&nbsp;vai režģa izkārtojuma
+&nbsp;&nbsp;○ displeji pilnā ekrānā
+&nbsp;&nbsp;○ izmanto augstu izšķirtspēju (kad tas
+&nbsp;&nbsp;&nbsp;&nbsp;ir pieejams)
+
+Vēsture:
+
+Šis pieteikums sākotnēji bija rakstīts, lai pārbaudītu eksperimentālu filiāli ExoPlayer. Tajā laikā, šai filiālei bija atvērts pull pieprasījums, kas nebija apvienoti pēc vairākiem gadiem:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Galu galā šī filiāle tika apvienota. Tagad, šis pieteikums izmanto stabilu būvēt ExoPlayer. Kas, imho, padara to mazāk interesantu. Bet tas joprojām var būt noderīgi.

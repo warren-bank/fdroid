@@ -1,0 +1,3 @@
+Le condizioni sono definite da un elenco di regole. Ogni regola associa un numero di telefono destinatario di inoltro con uno schema che deve corrispondere al mittente di un messaggio SMS ricevuto.
+
+Quando viene ricevuto un nuovo messaggio SMS viene inoltrato ai numeri di telefono destinatario in base a ciascuna regola avente un modello corrispondente.

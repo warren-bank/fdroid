@@ -1,0 +1,20 @@
+Naudojimas:
+
+● rodo visų suporuotų "Bluetooth"
+&nbsp;&nbsp;įrenginių sąrašą
+&nbsp;&nbsp;○ Spustelėkite tą, kuris identifikuoja
+&nbsp;&nbsp;&nbsp;&nbsp;norimą imtuvą
+&nbsp;&nbsp;○ Laukimas
+
+● Perjungti PTT mygtuką
+&nbsp;&nbsp;○ žalia rodo, kad garso šiuo metu yra
+&nbsp;&nbsp;&nbsp;&nbsp;fiksuojami
+&nbsp;&nbsp;&nbsp;&nbsp;iš mikrofono ir srautu per
+&nbsp;&nbsp;&nbsp;&nbsp;prijungtas lizdas
+&nbsp;&nbsp;○ raudona rodo, kad garso srautas yra
+&nbsp;&nbsp;&nbsp;&nbsp;šiuo metu panaudojamas panaudojamas
+
+● perkelti slankiklį, kad reguliuoti
+&nbsp;&nbsp;garso apimtis
+&nbsp;&nbsp;○ numatytoji: 25%
+&nbsp;&nbsp;○ ne daugiau kaip: 200%

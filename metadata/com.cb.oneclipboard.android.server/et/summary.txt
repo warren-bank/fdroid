@@ -1,0 +1,1 @@
+Server kuni lõikepuhvri andmed üle kliendi.

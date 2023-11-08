@@ -1,0 +1,7 @@
+Server tersedia untuk berbagai platform, termasuk Android.
+
+Semua klien yang terhubung ke server umum dan autentikasi menggunakan kombinasi nama pengguna dan kata sandi yang sama akan berbagi sebuah papan klip yang umum. Setiap kali setiap klien menyalin data baru ke dalam clipboard, data ini dikirim ke server dan kemudian disiarkan ke semua klien yang telah dikonfirmasi.
+
+Semua data clipboard dienkripsi end-to-end.
+
+Integrasi Tasker didukung.

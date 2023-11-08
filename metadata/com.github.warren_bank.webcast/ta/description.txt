@@ -1,0 +1,11 @@
+தற்போதைய வலைப் பக்கத்தில் வீடியோ URL களில் பட்டியலிடப்பட்டுள்ளது.
+
+ஒரு விடியோ URL தேர்வு செய்யும் போது நடத்தை தேர்வு செய்யும் அமைப்புகள்:
+● உள்ளார்ந்த வீடியோ விளையாட்டாளர்
+&nbsp;&nbsp;(Chromecast sender)
+● வெளி வீடியோ விளையாட்டாளர் வீடியோ
+&nbsp;&nbsp;வலைத்தளத்தை விளையாட மற்றொரு பயன்பாடு
+&nbsp;&nbsp;அனுமதிக்கிறது.
+● "ExoAirPlayer" மற்றும் "HLS Proxy"
+&nbsp;&nbsp;senders each load a static web page
+&nbsp;&nbsp;SPA client for the chosen server

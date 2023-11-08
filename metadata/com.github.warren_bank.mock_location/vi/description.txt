@@ -1,0 +1,32 @@
+Tính năng bao gồm khả năng:
+
+● mô phỏng vị trí cố định
+● mô phỏng chuyến đi
+● dùng cần điều khiển để di chuyển so
+&nbsp;&nbsp;với vị trí cố định giả
+● chấp nhận vĩ độ và kinh độ geo-Phối
+&nbsp;&nbsp;hợp các cặp từ Ý
+● lưu vĩ độ và kinh độ geo-Phối hợp các
+&nbsp;&nbsp;cặp như bookmark
+
+Biến thể:
+
+1. AOSP
+2. AOSP + Dịch vụ Google Play
+3. AOSP + Dịch vụ di động Huawei
+
+Tích hợp Android:
+
+1. Bật Tùy chọn
+&nbsp;&nbsp;&nbsp;● mở:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thiết lập > Hệ thống > Về điện
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thoại
+&nbsp;&nbsp;&nbsp;● liên tục nhấp vào 7 lần:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Số xây dựng
+2. cấu hình:
+&nbsp;&nbsp;&nbsp;● mở:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thiết Lập > Hệ Thống > Các Tùy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chọn
+&nbsp;&nbsp;&nbsp;● lưu giá trị:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ứng dụng vị trí chế nhạo: "Mock
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my GPS"

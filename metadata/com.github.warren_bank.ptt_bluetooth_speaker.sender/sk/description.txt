@@ -1,0 +1,20 @@
+Použitie:
+
+● zobrazí zoznam všetkých spárovaných
+&nbsp;&nbsp;zariadení Bluetooth
+&nbsp;&nbsp;○ kliknite na tú, ktorá identifikuje
+&nbsp;&nbsp;&nbsp;&nbsp;požadovaný prijímač
+&nbsp;&nbsp;○ čakať na pripojenie
+
+● prepnúť tlačidlo PTT
+&nbsp;&nbsp;○ zelená označuje, že zvuk sa práve
+&nbsp;&nbsp;&nbsp;&nbsp;zachytuje
+&nbsp;&nbsp;&nbsp;&nbsp;z mikrofónu a pruhovaný cez
+&nbsp;&nbsp;&nbsp;&nbsp;pripojenú zásuvku
+&nbsp;&nbsp;○ red indikuje, že audio prúd je
+&nbsp;&nbsp;&nbsp;&nbsp;momentálne prerušený
+
+● presunúť posuvník na nastavenie hlasu
+&nbsp;&nbsp;zvuku
+&nbsp;&nbsp;○ predvolená hodnota: 25%
+&nbsp;&nbsp;○ maximálne: 200%

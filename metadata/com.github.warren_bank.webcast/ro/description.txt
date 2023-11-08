@@ -1,0 +1,11 @@
+URL-urile video de pe pagina web curentă sunt afișate într-o listă.
+
+Setările determină comportamentul atunci când este selectat un URL video:
+● player-ul intern video include un
+&nbsp;&nbsp;expeditor Chromecast
+● player-ul video extern permite o altă
+&nbsp;&nbsp;aplicație pentru a reda URL-ul video
+● Expeditorii "ExoAirPlayer" și "HLS
+&nbsp;&nbsp;Proxy" încarcă fiecare o pagină
+&nbsp;&nbsp;statică client SPA pentru serverul
+&nbsp;&nbsp;ales

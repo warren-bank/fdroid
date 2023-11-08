@@ -1,0 +1,7 @@
+当前 Web 页面上的视频 URL 显示在列表中。
+
+设置视频 URL 时，设置将确定行为 :
+● 内部视频播放器包括一个 Chromecast 发送方
+● 外部视频播放器允许另一个应用播放视频 URL
+● " ExoAirPlayer" 和 "HLS 代理"
+&nbsp;&nbsp;发件人各为所选服务器加载一个静态 Web 页面 SPA 客户端

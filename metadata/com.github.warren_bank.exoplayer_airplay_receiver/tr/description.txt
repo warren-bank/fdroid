@@ -1,0 +1,5 @@
+Durumsuz bir HTTP API kullanan Wi-Fi LAN bağdaştırıcısını dinler (AirPlay v1 'e dayalıdır). mDNS (Bonjour) kullanarak keşif için kullanılabilirliğini tanıtır.
+
+Tüm görüntü boyutlarındaki aygıtları destekler; yüksek çözünürlüklü HDMI çıkışı olan pahalı olmayan soysal üst kutular hedef platformdur, ancak çok küçük düşük çözünürlüklü ekranlar ile çok eski telefon takımlarında da aynı şekilde çalışır.
+
+API, kapsamlı ve tam olarak belgelenmiş. Durağan bir Web sayfası SPA istemcisi somutlaması, bu işlevi yüksek düzeyde erişilebilir kılar. Bu API, en temel düzeyde, ortam URL ' lerini bir yürütme listesine "dönüştürme" yeteneği sağlar ve kayıttan yürütmenin tüm yönlerini denetler.

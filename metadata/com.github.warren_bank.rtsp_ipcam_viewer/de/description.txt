@@ -1,0 +1,32 @@
+Diese Formate sind typisch für preiswerte IP-Sicherheitskameras.
+
+Zu den Features gehören die folgenden Funktionen:
+
+● Konfigurieren Sie eine unbegrenzte
+&nbsp;&nbsp;Anzahl von Videostreams
+● Videodatenströme aus einer JSON-Datei
+&nbsp;&nbsp;importieren
+● Jeder Datenstrom kann URLs für zwei
+&nbsp;&nbsp;Quellen enthalten:
+&nbsp;&nbsp;○ Niedrige Auflösung
+&nbsp;&nbsp;○ hohe Auflösung
+● Datenströme in der Liste selektiv
+&nbsp;&nbsp;aktivieren und inaktivieren
+● Anzeige der aktivierten Datenströme in
+&nbsp;&nbsp;einem Listen-oder Rasterlayout
+&nbsp;&nbsp;○ verwendet eine niedrige Auflösung
+&nbsp;&nbsp;&nbsp;&nbsp;(sofern verfügbar)
+● Wählen Sie einen einzelnen Datenstrom
+&nbsp;&nbsp;aus der Liste oder dem Rasterlayout
+&nbsp;&nbsp;aus
+&nbsp;&nbsp;○ Anzeige in Vollbild
+&nbsp;&nbsp;○ Verwendung hoher Auflösung (sofern
+&nbsp;&nbsp;&nbsp;&nbsp;verfügbar)
+
+Protokoll:
+
+Diese Anwendung wurde ursprünglich zum Testen eines experimentellen Zweiges von ExoPlayer geschrieben. Damals hatte diese Filiale eine offene Pull-Anfrage, die nach mehreren Jahren nicht fusioniert worden war:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/
+&nbsp;&nbsp;3854
+
+Schließlich wurde diese Verzweigung zusammengeführt. Nun, diese Anwendung verwendet einen stabilen Build von ExoPlayer. Was, imho, macht es weniger interessant. Aber es kann immer noch nützlich sein.

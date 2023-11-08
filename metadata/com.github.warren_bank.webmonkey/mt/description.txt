@@ -1,0 +1,17 @@
+Il-karatteristiċi jinkludu:
+
+● Sejbien ta ' URLs użuskript
+● aġġornamenti awtomatiċi ta ' użuskript
+● extended Javascript API biex jesponu
+&nbsp;&nbsp;kapaċitajiet speċifiċi Android
+● l-abbiltà li jinjora l-iżbalji ta '
+&nbsp;&nbsp;ċertifikat HTTPS
+
+Limitazzjonijiet:
+
+● uerskripts mmexxija biss fit-tieqa ta
+&nbsp;&nbsp;' fuq
+&nbsp;&nbsp;○ L-injezzjoni ta 'l-iskript f'iframes
+&nbsp;&nbsp;&nbsp;&nbsp;hija possibbli, iżda teħtieġ xogħol
+&nbsp;&nbsp;&nbsp;&nbsp;ikkumplikat ta' madwar; irreferi
+&nbsp;&nbsp;&nbsp;&nbsp;għall-README għad-dettalji.

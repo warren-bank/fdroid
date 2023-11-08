@@ -1,0 +1,1 @@
+లైట్-బరువు వెబ్ బ్రౌజర్ను Greasemonkey userscripts కొరకు మద్దతుతో.

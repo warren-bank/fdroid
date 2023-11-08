@@ -1,0 +1,1 @@
+Ağ yetkili sunucularını yapılandırın ve yönetin.

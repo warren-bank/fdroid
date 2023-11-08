@@ -1,0 +1,32 @@
+Os recursos incluem a capacidade de:
+
+● mock uma posição fixa
+● simular uma viagem
+● usar um joystick para se mover em
+&nbsp;&nbsp;relação a uma posição fixa mock
+● aceitar pares de latitude e longitude
+&nbsp;&nbsp;geo-coordenar de Intenentes
+● salvar pares de latitude e longitude
+&nbsp;&nbsp;geo-coordenar como marcadores nomeados
+
+Variações:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Serviços Móveis
+
+Integração do Android:
+
+1. habilitar Opções do
+&nbsp;&nbsp;&nbsp;● aberto:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configurações> Sistema> Sobre o
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;telefone
+&nbsp;&nbsp;&nbsp;● clique repetidamente em 7 vezes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Número de construção
+2. configurar:
+&nbsp;&nbsp;&nbsp;● aberto:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configurações> Sistema> Opções do
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvedor
+&nbsp;&nbsp;&nbsp;● salvar valores:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;App de localização do Mock: "Mock
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meu GPS"

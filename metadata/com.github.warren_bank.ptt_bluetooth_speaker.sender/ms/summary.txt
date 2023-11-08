@@ -1,0 +1,1 @@
+Captures audio dari mikrofon dan mengirimnya kepada penerima.

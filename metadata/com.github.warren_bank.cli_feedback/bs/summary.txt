@@ -1,0 +1,1 @@
+Neinteraktivni pomoćni program koji pruža povratnu informaciju korisnika iz komandne linije.

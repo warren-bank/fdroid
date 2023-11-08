@@ -1,0 +1,20 @@
+Medzi funkcie patrí schopnosť:
+
+● zoradiť zoznam geografických súradní:
+&nbsp;&nbsp;○ sekvenčný
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Objedná sa, ako sa vyskytujú
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;umiestnenia vo vstupnom súbore.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: precízny cestovný itinerár
+&nbsp;&nbsp;○ vzdialenosť
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Objednáte podľa vzdialenosti od
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aktuálneho umiestnenia.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hoc prieskum neďalekým
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI
+&nbsp;&nbsp;○ abecedné
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zoradené podľa popisných názvov
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;priradených k umiestnenám.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: záložky obľúbených miest
+● kliknite na položku zoznamu, aby sa
+&nbsp;&nbsp;otvorilo zodpovedajúce umiestnenie v
+&nbsp;&nbsp;externej aplikácii, ako je mapovanie
+&nbsp;&nbsp;alebo navigácia.

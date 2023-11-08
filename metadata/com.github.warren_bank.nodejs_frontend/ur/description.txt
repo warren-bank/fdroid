@@ -1,0 +1,34 @@
+خصوصیات میں شامل ہیں:
+
+● ترتیب اور درخواست پروفائلز کی کسی بھی
+&nbsp;&nbsp;تعداد کو محفوظ کریں
+● ہر درخواست پروفائل کی وضاحت کر سکتے
+&nbsp;&nbsp;ہیں:
+&nbsp;&nbsp;○ عنوان
+&nbsp;&nbsp;○ مرکزی جاوا اسکرپٹ کی فائل کا راستہ
+&nbsp;&nbsp;○ Node.js رن ٹائم کے لئے کمانڈ لائن کے
+&nbsp;&nbsp;&nbsp;&nbsp;اختیارات
+&nbsp;&nbsp;○ درخواست کے لئے کمانڈ لائن کے
+&nbsp;&nbsp;&nbsp;&nbsp;اختیارات
+&nbsp;&nbsp;○ ماحول متغیر
+&nbsp;&nbsp;○ موجودہ ورکنگ ڈائریکٹری
+● درخواست پروفائلز کو بانٹا جاتا ہے:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;درخواستیں ایک ایک عمل شیئر کرتی
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ہیں. صرف ایک وقت پر عمل کر سکتے
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ہیں.
+&nbsp;&nbsp;○ "کانٹا"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ہر درخواست اپنے اپنے عمل سے دی
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;جاتی ہے. ایک فورگراؤنڈ سروس میں ہر
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;executes ہے. ایک متعلقہ نوٹیفکیشن
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;کے عمل کو مار دیتی ہے.
+● بیک اپ اور بحال:
+&nbsp;&nbsp;○ تمام درخواست پروفائلز JSON کو برآمد
+&nbsp;&nbsp;&nbsp;&nbsp;کریں
+&nbsp;&nbsp;○ JSON سے نئی درخواست پروفائلز درآمد
+&nbsp;&nbsp;&nbsp;&nbsp;کریں
+
+ایمبیڈڈ رن ٹائم ماحول:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

@@ -1,0 +1,1 @@
+Screensaver που εμφανίζει ένα slideshow τοπικών εικόνων.

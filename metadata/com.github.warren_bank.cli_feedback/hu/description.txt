@@ -1,0 +1,7 @@
+A felhasználói visszajelzés típusai:
+
+● Egy Toast
+● értesítés megjelenítése
+● Audio Ringtone lejátszása
+
+A felhasználói visszajelzés minden típusát Intent indítja el. Ezt a segédprogramot más alkalmazások is használhatják, valamint közvetlenül a felhasználó által a parancssori terminálemulátorból.

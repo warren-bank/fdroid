@@ -1,0 +1,15 @@
+Veikia įgytos informacijos tarnyboje:
+
+● nėra matomas UI
+● padaro "Bluetooth" adapterį
+● pradeda "Bluetooth" lizdą
+● Litens už ryšį iš siuntėjo
+
+Kai siuntėjas sujungia:
+
+● sustoja klausantis siuntėjo ryšio
+● groja garso srautą iš prijungto Socket
+
+Kai siuntėjas atjungia:
+
+● Resumes klauso naujo siuntėjo ryšio

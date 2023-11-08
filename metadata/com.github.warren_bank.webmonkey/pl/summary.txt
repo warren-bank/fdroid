@@ -1,0 +1,1 @@
+Lekka przeglądarka internetowa z obsługą skryptów użytkownika Greasemonkey.

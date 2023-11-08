@@ -1,0 +1,16 @@
+Töötab esiplaaniteenistuses:
+
+● ei ole nähtav UI
+● Muudab Bluetoothi adapteri
+&nbsp;&nbsp;avastatavaks
+● käivitub Bluetooth Socket server
+● Saatja võtab ühendust saatjalt
+
+Kui saatja ühendab:
+
+● Saatja ühenduse kuulamise peatused
+● Mängib audiovoog ühendatud Socket
+
+Kui saatja katkestab:
+
+● Uue saatja ühenduse kuulamine

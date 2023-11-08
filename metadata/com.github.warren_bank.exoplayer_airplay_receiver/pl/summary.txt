@@ -1,0 +1,1 @@
+Odtwarzacz multimedialny oparty na ExoPlayer z funkcją API do zdalnego sterowania.

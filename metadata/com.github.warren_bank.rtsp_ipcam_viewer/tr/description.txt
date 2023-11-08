@@ -1,0 +1,30 @@
+Bu biçimler, ucuz olmayan IP güvenlik kameralarından oluşan bir biçimdir.
+
+Özellikler aşağıdakileri yapabilme yeteneğini içerir:
+
+● Sınırsız sayıda video akışı
+&nbsp;&nbsp;yapılandırma
+● Bir JSON dosyasından video akışlarını
+&nbsp;&nbsp;içe aktarma
+● her akış iki kaynak için URL ' ler
+&nbsp;&nbsp;içerebilir:
+&nbsp;&nbsp;○ düşük çözünürlük
+&nbsp;&nbsp;○ yüksek çözünürlük
+● Listedeki akışları seçmeli olarak
+&nbsp;&nbsp;etkinleştirir ve geçersiz kılar
+● Bir liste ya da ızgara düzenindeki
+&nbsp;&nbsp;etkin akışları görüntüler
+&nbsp;&nbsp;○ düşük çözünürlüğü kullanır
+&nbsp;&nbsp;&nbsp;&nbsp;(kullanılabilir olduğunda)
+● listeden ya da ızgara düzeninden tek
+&nbsp;&nbsp;bir akış seçin
+&nbsp;&nbsp;○ tam ekranda görüntülenir
+&nbsp;&nbsp;○ yüksek çözünürlüğü kullanır
+&nbsp;&nbsp;&nbsp;&nbsp;(kullanılabilir olduğunda)
+
+Geçmiş:
+
+Bu uygulama orijinal olarak ExoPlayer deneysel bir dalını test etmek için yazılmıştır. O zamanlar, bu dalda birkaç yıldan sonra birleştirilmemiş açık bir çekme isteği vardı:
+&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+
+Sonunda, bu dal birleştirildi. Şimdi, bu uygulama sabit bir ExoPlayer oluşturmasını kullanıyor. Bu da, imho, daha az ilgi çekici hale getiriyor. Ama yine de faydalı olabilir.

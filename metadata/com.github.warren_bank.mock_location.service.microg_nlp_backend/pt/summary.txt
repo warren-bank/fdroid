@@ -1,0 +1,1 @@
+Acompanhante para "Mock meu GPS". Plugin backend para "UnifiedNlp".

@@ -1,0 +1,7 @@
+Les serveurs sont disponibles pour une variété de plateformes, dont Android.
+
+Tous les clients qui se connectent à un serveur commun et qui s'authentifient à l'aide de la même combinaison nom d'utilisateur et mot de passe partageront un presse-papiers commun. Chaque fois qu'un client copie de nouvelles données dans son presse-papiers, ces données sont envoyées au serveur et transmises à tous les clients authentifiés.
+
+Toutes les données du presse-papiers sont chiffrées de bout en bout.
+
+L'intégration des tâches est prise en charge.

@@ -1,0 +1,1 @@
+Čte soubory GPX a KML jako seznamy zeměpisných souřadnic.

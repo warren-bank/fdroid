@@ -1,0 +1,9 @@
+@ info: info
+
+Is féidir le forghníomhú script shell a chur isteach ar dhá bhealach:
+
+1. idirghníomhach
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ag roghnú an úsáideora de láimh
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;comhad a roghnú.
+2. uathoibríoch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De réir Intinne.

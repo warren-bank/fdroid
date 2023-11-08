@@ -1,0 +1,29 @@
+Bakgrunn:
+
+● et Android Insteltet kan brukes til å
+&nbsp;&nbsp;åpne en presis del av en eventuell
+&nbsp;&nbsp;installert søknad, og sende til den
+&nbsp;&nbsp;enhver type eller kvantum av data
+● som f.eks. et Insteltet er som et
+&nbsp;&nbsp;Android-bokmerke
+
+Funksjoner omfatter muligheten til å:
+
+● konfigurere og lagre Intelt som
+&nbsp;&nbsp;navngitte bokmerker
+● bruke bokmerker til:
+&nbsp;&nbsp;○ start en aktivitet
+&nbsp;&nbsp;○ start en tjeneste
+&nbsp;&nbsp;○ send en kringkasting
+● planlegge bokmerker som skal brukes
+&nbsp;&nbsp;senere:
+&nbsp;&nbsp;○ en gang
+&nbsp;&nbsp;○ ved et intervall
+● avskjære Intelt startet av andre
+&nbsp;&nbsp;applikasjoner:
+&nbsp;&nbsp;○ å endre
+&nbsp;&nbsp;○ å lagre
+● sikkerhetskopiering og gjenoppretting:
+&nbsp;&nbsp;○ hele SQLite-databasen
+&nbsp;&nbsp;○ JSON-datafil
+&nbsp;&nbsp;○ Netscape Bokmerke HTML-datafil

@@ -1,0 +1,1 @@
+Pratitelj za "Mock moj GPS". Pozadin-priključak za "UnifiedNlp".

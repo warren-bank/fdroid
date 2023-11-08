@@ -1,0 +1,29 @@
+Vispārīga informācija
+
+● Android Intent var izmantot, lai
+&nbsp;&nbsp;atvērtu precīzu daļu no visiem
+&nbsp;&nbsp;uzstādīto pieteikumu, un nodot to
+&nbsp;&nbsp;jebkura veida vai daudzumu datu
+● kā tāds, Intelts ir kā Android
+&nbsp;&nbsp;grāmatzīme
+
+Funkcijas ietver spēju:
+
+● konfigurēt un saglabāt teltis kā
+&nbsp;&nbsp;nosauktās grāmatzīmes
+● izmanto grāmatzīmes uz:
+&nbsp;&nbsp;○ sākt darbību
+&nbsp;&nbsp;○ Sākt pakalpojumu
+&nbsp;&nbsp;○ nosūtīt uz Broadcast
+● saraksta grāmatzīmes, kas izmantojamas
+&nbsp;&nbsp;vēlāk:
+&nbsp;&nbsp;○ vienu reizi
+&nbsp;&nbsp;○ ,
+● pārtvert teltis, kas sākas ar citiem
+&nbsp;&nbsp;pielietojumi:
+&nbsp;&nbsp;○ , lai
+&nbsp;&nbsp;○ , lai
+● Dublēt un atjaunot:
+&nbsp;&nbsp;○ visu SQLite datubāzi
+&nbsp;&nbsp;○ JSON datu fails
+&nbsp;&nbsp;○ Netscape grāmatzīmju HTML datu fails

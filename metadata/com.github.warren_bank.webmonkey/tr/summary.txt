@@ -1,0 +1,1 @@
+Greasemonkey kullanıcı komut dosyaları için destek içeren, hafif ağırlıklı web tarayıcısı.

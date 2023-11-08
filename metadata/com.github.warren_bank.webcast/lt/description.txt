@@ -1,0 +1,12 @@
+Dabartinio žiniatinklio puslapio vaizdo URL yra rodomi sąraše.
+
+Nustatymų nustatymas nustatymas, kai yra pasirinktas vaizdo URL:
+● vidaus vaizdo grotuvas yra Chromecast
+&nbsp;&nbsp;siuntėjas
+● išorės vaizdo grotuvas leidžia kitą
+&nbsp;&nbsp;programėlę, kad būtų galima žaisti
+&nbsp;&nbsp;vaizdo URL
+● "ExoAirPlayer" ir "HLS Proxy"
+&nbsp;&nbsp;siuntėjams kiekvienas krovinys
+&nbsp;&nbsp;statinis interneto puslapis SPA
+&nbsp;&nbsp;klientas pasirinktam serveriui

@@ -1,0 +1,18 @@
+Konfigurerbara HTTP-begäranattribut:
+
+● metodför
+● protokoll
+● WEBBADRESS
+● sidhuvuden
+● parametrar för querystring
+● kropp
+
+Funktioner inkluderar förmågan att:
+
+● skicka en begäran en gång
+● skicka en begäran upprepade gånger vid
+&nbsp;&nbsp;ett angivet tidsintervall
+● Ladda om konfigurationen för en
+&nbsp;&nbsp;tidigare begäran från en historiklogg
+● ganska skriv ut JSON-svarsdata
+● förhandsgranska HTML-svarsdata

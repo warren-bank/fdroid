@@ -1,0 +1,1 @@
+Zachytáva zvuk z mikrofónu a odosiela ho do prijímača.

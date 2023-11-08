@@ -1,0 +1,40 @@
+Funkcije uključuju mogućnost da:
+
+● traži televizijsku seriju po imenu
+● dodavanje televizijskih serija u
+&nbsp;&nbsp;rezultatima pretraživanja na listu
+● sortiranje i filtriranje liste dodanih
+&nbsp;&nbsp;televizijskih serija
+● bušenje u listi za čitanje detaljnih
+&nbsp;&nbsp;informacija o svakoj seriji i o
+&nbsp;&nbsp;njegovim dostupnim epizodama
+● Zabilježi epizode koje su gledane.
+● Označi seriju kao onemogućene
+● pridružite svaku seriju s vanjskim
+&nbsp;&nbsp;URL-ovima
+&nbsp;&nbsp;○ Ex: web stranice gdje se serija može
+&nbsp;&nbsp;&nbsp;&nbsp;gledati
+● Ažurirajte seriju na listi.
+&nbsp;&nbsp;○ da bi dobili informacije o novim
+&nbsp;&nbsp;&nbsp;&nbsp;epizodama
+
+Mrežni zahtjevi:
+
+● Lista dodanih televizijskih serija
+&nbsp;&nbsp;može se koristiti dok je potpuno
+&nbsp;&nbsp;offline
+● Internet veza je potrebna samo za
+&nbsp;&nbsp;ručno dodavanje ili ažuriranje
+&nbsp;&nbsp;televizijske serije.
+
+Krediti:
+
+● Svi podaci dobiveni su iz Filmske baze
+&nbsp;&nbsp;podataka (TMDB), koristeći verziju 3
+&nbsp;&nbsp;od TMDB API-ja
+● istorijska loza:
+&nbsp;&nbsp;1. DroidSeries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/pcabido/droidseries
+&nbsp;&nbsp;2. Ispuštene emisije
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ltguillaume/droidshows
+&nbsp;&nbsp;3. Tiny Television Time

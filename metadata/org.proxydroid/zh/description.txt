@@ -1,0 +1,28 @@
+需要 root用户 !
+
+功能包括 :
+
+● 支持代理服务器协议:
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ HTTP
+&nbsp;&nbsp;○ SOCKS4
+&nbsp;&nbsp;○ SOCKS5
+● 支持认证方法:
+&nbsp;&nbsp;○ 基本
+&nbsp;&nbsp;○ NTLM
+&nbsp;&nbsp;○ NTLMv2
+● 支持启用代理服务器:
+&nbsp;&nbsp;○ 全局，针对所有应用程序
+&nbsp;&nbsp;○ 仅针对特定应用程序
+● 支持黑名单:
+&nbsp;&nbsp;○ 用于绕过代理的 IP 地址
+● 支持 DNS 代理
+● 支持多个概要文件
+● 对代理自动配置 (PAC) 文件的基本支持
+● 能够将特定概要文件与以下内容相关联 :
+&nbsp;&nbsp;○ WiFi SSID
+&nbsp;&nbsp;○ 移动网络
+● 打开 /关闭代理的窗口小部件
+● 运行时效率:
+&nbsp;&nbsp;○ 消耗小电池
+&nbsp;&nbsp;○ 使用少量 RAM

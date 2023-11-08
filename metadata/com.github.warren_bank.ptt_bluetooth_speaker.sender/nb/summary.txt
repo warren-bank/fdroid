@@ -1,0 +1,1 @@
+Registrerer lyd fra mikrofonen og sender den til mottakeren.

@@ -1,0 +1,14 @@
+用法:
+
+● 显示所有成对蓝牙设备的列表
+&nbsp;&nbsp;○ 单击标识所需接收方的
+&nbsp;&nbsp;○ 等待连接
+
+● 切换 PTT 按钮
+&nbsp;&nbsp;○ green 表示当前正在捕获音频
+&nbsp;&nbsp;&nbsp;&nbsp;从麦克风穿过连接的插座
+&nbsp;&nbsp;○ 红色表示音频流当前已暂停
+
+● 移动滑块以调整音频的音量
+&nbsp;&nbsp;○ 缺省值 : 25%
+&nbsp;&nbsp;○ 最大值: 200%

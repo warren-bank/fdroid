@@ -1,0 +1,1 @@
+Мними доставчици на Android разположение: GPS, Network, Fused.

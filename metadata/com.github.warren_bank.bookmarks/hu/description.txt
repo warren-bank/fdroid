@@ -1,0 +1,29 @@
+Háttér:
+
+● Android Intent használható a
+&nbsp;&nbsp;telepített alkalmazások pontos
+&nbsp;&nbsp;részének megnyitásához, és az adatok
+&nbsp;&nbsp;bármely típusának vagy mennyiségének
+&nbsp;&nbsp;átadására
+● Mint ilyen, egy Intent olyan, mint egy
+&nbsp;&nbsp;Android könyvjelző
+
+A szolgáltatások a következők:
+
+● Intents konfigurálása és mentése
+&nbsp;&nbsp;könyvjelzésként
+● Könyvjelzők használata:
+&nbsp;&nbsp;○ Tevékenység indítása
+&nbsp;&nbsp;○ Szolgáltatás indítása
+&nbsp;&nbsp;○ Egy Broadcast küldése
+● Későbbi felhasználandó könyvjelzők:
+&nbsp;&nbsp;○ Egyszer
+&nbsp;&nbsp;○ Egy adott időszakban
+● Elfogó Intents indítása más
+&nbsp;&nbsp;alkalmazások által:
+&nbsp;&nbsp;○ Módosítás
+&nbsp;&nbsp;○ Menteni
+● Mentés és visszaállítás:
+&nbsp;&nbsp;○ A teljes SQLite adatbázis
+&nbsp;&nbsp;○ JSON adatfájl
+&nbsp;&nbsp;○ Netscape könyvjelző HTML adatfájl

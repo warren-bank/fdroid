@@ -1,0 +1,21 @@
+Funkcije uključuju mogućnost da:
+
+● sortiraj listu geografskih koordinata:
+&nbsp;&nbsp;○ Sekvencijalno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naređeno je da se lokacije dogode
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u ulaznoj datoteci.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: precizan plan putovanja
+&nbsp;&nbsp;○ udaljenost
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naređeno je da se udalji od
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trenutne lokacije.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● ex: ad-hoc istraživanje obližnje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;POI-e
+&nbsp;&nbsp;○ abecedni broj
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naručeno od strane opisnih imena
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;povezanih sa lokacijama.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Ex: Knjiške oznake omiljenih
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mjesta
+● Kliknite na stavku liste da biste
+&nbsp;&nbsp;otvorili odgovarajuću lokaciju u
+&nbsp;&nbsp;vanjskoj aplikaciji, kao što su
+&nbsp;&nbsp;mapiranje ili navigacija.

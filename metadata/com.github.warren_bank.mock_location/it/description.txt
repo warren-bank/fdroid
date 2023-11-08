@@ -1,0 +1,32 @@
+Le funzioni includono la possibilità di:
+
+● beffa una posizione fissa
+● simulare un viaggio
+● utilizzare un joystick per spostarsi
+&nbsp;&nbsp;relativo ad una posizione fissa mock
+● accettare coppie geo - coordinate di
+&nbsp;&nbsp;latitudine e longitudine dagli Intenti
+● salvare le coppie geo - coordinate di
+&nbsp;&nbsp;latitudine e longitudine come
+&nbsp;&nbsp;segnalibri named
+
+Variazioni:
+
+1. AOSP
+2. AOSP + Google Play Services
+3. AOSP + Huawei Mobile Services
+
+Integrazione Android:
+
+1. abilitare Opzioni sviluppatori
+&nbsp;&nbsp;&nbsp;● aperto:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Impostazioni> Sistema>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Informazioni sul telefono
+&nbsp;&nbsp;&nbsp;● clicca ripetutamente 7 volte:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numero di build
+2. configurare:
+&nbsp;&nbsp;&nbsp;● aperto:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Impostazioni> Sistema> Opzioni
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sviluppatori
+&nbsp;&nbsp;&nbsp;● valori di salvataggio:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock location app: "Mock my GPS"

@@ -1,0 +1,34 @@
+Funkcje obejmują możliwość:
+
+● zacumować stałą pozycję
+● symulować podróż
+● użyj joysticka do poruszania się w
+&nbsp;&nbsp;stosunku do makiety stacjonarnej
+● akceptacja par geo-współrzędnościowych
+&nbsp;&nbsp;szerokości geograficznej i długości
+&nbsp;&nbsp;geograficznej z intencji
+● zapisz pary geo-współrzędne szerokości
+&nbsp;&nbsp;geograficznej i długości geograficznej
+&nbsp;&nbsp;jako nazwane zakładki
+
+Zmiany:
+
+1. AOSP
+2. Usługi AOSP + Google Play
+3. AOSP + Huawei Mobile Services
+
+Integracja z systemem Android:
+
+1. włącz opcje programisty
+&nbsp;&nbsp;&nbsp;● otwórz:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ustawienia > System > Informacje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o telefonie
+&nbsp;&nbsp;&nbsp;● wielokrotnie klikaj 7 razy:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numer kompilacji
+2. konfigurowanie:
+&nbsp;&nbsp;&nbsp;● otwórz:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ustawienia > System > Opcje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;programisty
+&nbsp;&nbsp;&nbsp;● Zapisz wartości:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikacja lokalizacji Mock: "Mock
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mój GPS"

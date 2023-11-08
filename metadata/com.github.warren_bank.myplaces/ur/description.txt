@@ -1,0 +1,18 @@
+خصوصیات میں شامل ہیں:
+
+● جغرافیائی نقاط کی فہرست:
+&nbsp;&nbsp;○ تخکرمک
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;مقامات کے طور پر ان پٹ فائل میں
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;پائے جاتے ہیں.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● سابق: ایک سٹیک ٹریول چلنےوالا
+&nbsp;&nbsp;○ فاصلہ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;موجودہ مقام سے دوری اختیار کر سکے.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● سابق: قریبی POI کی ایڈہاک
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ایکسپلوریشن
+&nbsp;&nbsp;○ حروف تہجی
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;مقامات سے وابستہ وضاحتی ناموں سے
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;اگاہ کیا.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● سابق: پسندیدہ مقامات کے بک مارکس
+● ایک خارجی درخواست میں اسی مقام کو
+&nbsp;&nbsp;کھولنے کے لئے ایک فہرست آئٹم پر کلک
+&nbsp;&nbsp;کریں جیسے تعریفیں یا نیویگیشن.

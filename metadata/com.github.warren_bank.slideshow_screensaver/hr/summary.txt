@@ -1,0 +1,1 @@
+Čuvar zaslona koji prikazuje slideshow lokalnih slika.

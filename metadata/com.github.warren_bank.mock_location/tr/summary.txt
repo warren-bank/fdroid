@@ -1,0 +1,1 @@
+Sahte Android konum sağlayıcılar: GPS, Ağ, Fkullanılmış.

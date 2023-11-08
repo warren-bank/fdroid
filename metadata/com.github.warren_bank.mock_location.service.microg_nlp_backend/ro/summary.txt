@@ -1,0 +1,1 @@
+Companion pentru "Mock GPS-ul meu". Backend plugin pentru "UnifiedNlp".

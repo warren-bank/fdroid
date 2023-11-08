@@ -1,0 +1,9 @@
+Traži korijen!
+
+Izvršenje ljuske skripta može se pozvati na dva načina:
+
+1. interaktivno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Od strane korisnika ručno birate
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;datoteku.
+2. Automatski.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uz pomoć Inšatora.

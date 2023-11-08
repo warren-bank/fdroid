@@ -1,0 +1,25 @@
+A szolgáltatások a következők:
+
+● Az AirPlay vevőkészülékek automatikus
+&nbsp;&nbsp;feltérképezése ugyanazon a hálózaton
+&nbsp;&nbsp;belül
+● Beam fotók az eszközről az AirPlay
+&nbsp;&nbsp;számára
+● Folyamatos videók és zene az eszközről
+&nbsp;&nbsp;az AirPlay számára
+● Tükrözje a képernyőt az eszközről az
+&nbsp;&nbsp;AirPlay számára
+
+Hitelesítési adatok:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Az alkalmazás eredeti változata.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;A képernyő tükrözésének
+&nbsp;&nbsp;&nbsp;&nbsp;megvalósítása az Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;rendszeren
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● AirPlay (1. Változat) protokoll
+&nbsp;&nbsp;&nbsp;&nbsp;Nem hivatalos dokumentáció.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

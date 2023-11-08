@@ -1,0 +1,12 @@
+VideoURL ' er på den aktuelle webside vises på en liste.
+
+Indstillinger bestemmer den funktionsmåde, når en video-URL er valgt:
+● den interne videoafspiller indeholder
+&nbsp;&nbsp;en Chromecast-afsender
+● Den eksterne videoafspiller giver en
+&nbsp;&nbsp;anden app mulighed for at spille URL '
+&nbsp;&nbsp;en til video
+● "ExoAirPlayer" og "HLS Proxy"
+&nbsp;&nbsp;afsendere hver indlæsning af en
+&nbsp;&nbsp;statisk webside SPA-klient for den
+&nbsp;&nbsp;valgte server

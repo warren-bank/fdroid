@@ -1,0 +1,1 @@
+Alınan SMS iletilerini inceleyin ve bunları koşullu olarak iletin.

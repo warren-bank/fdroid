@@ -1,0 +1,18 @@
+Dijalankan dalam Perkhidmatan Latar Depan:
+
+● tidak terdapat UI yang kelihatan
+● jadikan paparan adapter Bluetooth
+&nbsp;&nbsp;boleh dinyahkod
+● memulakan pelayan Socket Bluetooth
+● Dengar sambungan dari pengirim
+
+Apabila pengirim bersambung:
+
+● henti mendengar sambungan pengirim
+● memainkan strim audio dari Soket yang
+&nbsp;&nbsp;bersambung
+
+Apabila pengirim dihantar:
+
+● menyambung mendengar sambungan
+&nbsp;&nbsp;pengirim baru

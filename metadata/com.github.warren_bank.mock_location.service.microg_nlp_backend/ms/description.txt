@@ -1,0 +1,19 @@
+Benarkan "Mock GPS" saya untuk berkelakuan sebagai penyedia lokasi mock untuk "UnifiedNlp".
+
+"UnifiedNlp" adalah:
+
+● Biasanya dipasang sebagai komponen
+&nbsp;&nbsp;"microG"
+● Dimaksudkan untuk digunakan pada
+&nbsp;&nbsp;de-Googled Android ROMs
+● Pengganti Drop-in untuk "Perkhidmatan
+&nbsp;&nbsp;Lokasi Google"
+
+"UnifiedNlp" integrasi bagi data lokasi mock:
+
+● hanya dibenarkan semasa "Mock GPS"
+&nbsp;&nbsp;adalah aktif
+● adalah prioritized melalui pemalam
+&nbsp;&nbsp;bahagian belakang "UnifiedNlp" lain
+&nbsp;&nbsp;dengan maju setem masa 45 saat, jadi
+&nbsp;&nbsp;ia kelihatan paling terkini.

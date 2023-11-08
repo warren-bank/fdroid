@@ -1,0 +1,7 @@
+Naudotojo atsiliepimų tipai:
+
+● rodyti Tostą
+● rodyti pranešimą
+● žaisti garso Ringtone
+
+Visų tipų naudotojų atsiliepimus uždirba Intent. Ši programa gali būti naudojama ir kitomis programomis, taip pat tiesiogiai naudotojo iš komandų eilutės terminalo emuliatorius.

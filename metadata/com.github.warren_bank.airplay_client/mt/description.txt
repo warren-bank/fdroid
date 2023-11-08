@@ -1,0 +1,25 @@
+Il-karatteristiċi jinkludu:
+
+● L-iskoperta awtomatika ta 'riċevituri
+&nbsp;&nbsp;ta' AirPlay fl-istess netwerk
+● Ritratti tar-raġġ mill-apparat tiegħek
+&nbsp;&nbsp;lill-AirPlay
+● Stream videos u mużika mill-apparat
+&nbsp;&nbsp;tiegħek lill-AirPlay
+● Mera l-iskrin mill-apparat tiegħek
+&nbsp;&nbsp;lill-AirPlay
+
+Krediti:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;Il-verżjoni oriġinali ta ' din
+&nbsp;&nbsp;&nbsp;&nbsp;l-applikazzjoni.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● ScreenStream
+&nbsp;&nbsp;&nbsp;&nbsp;Ipprovdut ħafna mill-kodiċi li
+&nbsp;&nbsp;&nbsp;&nbsp;timplimenta iskrin mirruing fuq
+&nbsp;&nbsp;&nbsp;&nbsp;Android 5.0+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● Protokoll ta ' AirPlay (verżjoni 1)
+&nbsp;&nbsp;&nbsp;&nbsp;Dokumentazzjoni mhux uffiċjali.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

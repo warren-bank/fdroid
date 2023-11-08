@@ -1,0 +1,7 @@
+Serverid on saadaval erinevaid platvorme, sealhulgas Android.
+
+Kõik kliendid, kes ühenda ühisserveriga ja autentimine, kasutades sama kasutajanime ja parooli kombinatsiooni, jagavad ühist lõikepuhvrit. Iga kord, kui klient kopeerib uusi andmeid lõikepuhvrisse, saadetakse need andmed serverisse ja edastatakse seejärel kõigile autenditud klientidele.
+
+Kõik lõikepuhvri andmed on krüptitud.
+
+Tasker integratsioon on toetatud.

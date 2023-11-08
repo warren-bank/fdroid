@@ -1,0 +1,34 @@
+Medzi funkcie patrí schopnosť:
+
+● Mock pevnú pozíciu
+● simulovať cestu
+● použitie joysticku na pohyb vo vzťahu
+&nbsp;&nbsp;k pevnej polohe v kotvisku
+● akceptovať rovnobežky a zemepisnú
+&nbsp;&nbsp;dĺžku geo-súradnicových párov od
+&nbsp;&nbsp;Intents
+● uložiť zemepisnú šírku a zemepisnú
+&nbsp;&nbsp;dĺžku súradnicových párov ako
+&nbsp;&nbsp;pomenované záložky
+
+Variácie:
+
+1. AOSP
+2. Služby pre službu AOSP + Google Play
+3. Mobilné služby AOSP + Huawei
+
+Integrácia so systémom Android:
+
+1. povoliť voľby pre vývojárov
+&nbsp;&nbsp;&nbsp;● otvoriť:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nastavenia > Systém > Informácie
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o telefóne
+&nbsp;&nbsp;&nbsp;● opakovane kliknúť 7 krát:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Číslo zostavenia
+2. konfigurovať:
+&nbsp;&nbsp;&nbsp;● otvoriť:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nastavenia > Systém > Možnosti
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vývojára
+&nbsp;&nbsp;&nbsp;● Uložiť hodnoty:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mock umiestnenie app: "Mock my
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPS"

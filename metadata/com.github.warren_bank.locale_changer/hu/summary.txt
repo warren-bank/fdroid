@@ -1,0 +1,1 @@
+Módosítsa az alapértelmezett Android rendszer területi beállítást.

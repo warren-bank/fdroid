@@ -1,0 +1,27 @@
+പ്രത്യേകതകൾ:
+
+● ഒരേ നെറ്റ്വർക്കിനുള്ളിൽ
+&nbsp;&nbsp;എയർപ്ലേയ്സിന്റെ സ്വതന്ത്ര
+&nbsp;&nbsp;കണ്ടുപിടിത്തങ്ങൾ
+● നിങ്ങളുടെ ഉപകരണത്തില് നിന്നും
+&nbsp;&nbsp;എയര്പ്ലേയിലേക്ക് ബീം ഫോട്ടോകള്
+● നിങ്ങളുടെ ഉപകരണത്തില് നിന്നും
+&nbsp;&nbsp;എയര്പ്ലേയിലേക്ക് സ്ട്രീം വീഡിയോയും
+&nbsp;&nbsp;സംഗീതം
+● നിങ്ങളുടെ ഉപകരണത്തില് നിന്നും
+&nbsp;&nbsp;എയര്പ്ലേയിലേക്ക് സ്ക്രീന് മിറര്
+&nbsp;&nbsp;ചെയ്യുക
+
+ക്രീഡിറ്റ്:
+
+● DroidPlay
+&nbsp;&nbsp;&nbsp;&nbsp;ഈ പ്രയോഗത്തിന്റെ യഥാർത്വ പതിപ്പ്.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tutikka/DroidPlay
+● സ്ക്രീന്സ്ട്രീം
+&nbsp;&nbsp;&nbsp;&nbsp;ആൻഡ്രോയിഡ് 5.0+-ന് സ്ക്രീൻ മിറർഡിംഗ്
+&nbsp;&nbsp;&nbsp;&nbsp;നടപ്പിലാക്കാനുള്ള കോഡിൽ വളരെയധികം
+&nbsp;&nbsp;&nbsp;&nbsp;കോഡ്.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/dkrivoruchko/ScreenStream/tree/1.2.7
+● എയർപ്ലേ (പതിപ്പ് 1) പ്രോട്ടോക്കോൾ
+&nbsp;&nbsp;&nbsp;&nbsp;ഉനോഹരമായ രേഖകള്.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://nto.github.io/AirPlay.html

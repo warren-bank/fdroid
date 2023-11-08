@@ -1,0 +1,1 @@
+輕量型 Web 瀏覽器，支援 Greasemonkey userscripts。

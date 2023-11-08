@@ -1,0 +1,1 @@
+Képernyőaver, amely megjeleníti a helyi képek slideshow-ját.

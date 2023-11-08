@@ -1,0 +1,1 @@
+Pakeisti numatytąją Android sistema locale.

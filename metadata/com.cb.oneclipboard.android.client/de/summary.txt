@@ -1,0 +1,1 @@
+Client, um die Daten der Zwischenablage über einen Server zu synchronisieren.

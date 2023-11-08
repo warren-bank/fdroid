@@ -1,0 +1,18 @@
+"UnifiedNlp" માટે મોક સ્થાન પોષક તરીકે વર્તણૂક કરવા માટે "Mock my GPS" ને પરવાનગી આપે છે.
+
+"UnifiedNlp" એ છે:
+
+● ખાસ કરીને "microG" નો ઘટક તરીકે
+&nbsp;&nbsp;સ્થાપિત થયેલ છે
+● De-Googled Android ROMs પર વાપરવા માટે
+&nbsp;&nbsp;આયાત થયેલ છે
+● "Google Location Services" માટે
+&nbsp;&nbsp;ડ્રોપ-in બદલો
+
+"UnifiedNlp" એ mock સ્થાન માહિતીનું સંકલન:
+
+● જ્યારે "Mock my GPS" સક્રિય હોય ત્યારે
+&nbsp;&nbsp;જ સક્રિય થયેલ છે
+● અન્ય "UnifiedNlp" બેકઍન્ડ પ્લગઇનોને
+&nbsp;&nbsp;ટાઇમસ્ટેમ્પ 45 સેકન્ડો વધી રહ્યા છે,
+&nbsp;&nbsp;તેથી તે મોટાભાગની તાજેતરમાં દેખાય છે

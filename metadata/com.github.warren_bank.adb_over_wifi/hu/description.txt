@@ -1,0 +1,7 @@
+Gyökér kell!
+
+Az USB mód az alapértelmezett. Egy USB kábel és USB illesztőprogram szükséges az Android eszköz csatlakoztatásához a számítógéphez.
+
+A WiFi mód vezeték nélküli, és nem igényel további illesztőprogramokat. Bármely számítógép használhatja a "adb" klienst, hogy kapcsolatot kérjen az Android eszközzel.
+
+Ha a WiFi mód engedélyezett, akkor az alkalmazás megjeleníti a LAN feletti kapcsolat kéréséhez szükséges "adb" parancsot.

@@ -1,0 +1,1 @@
+Nakonfigurujte a odešlete požadavky HTTP.

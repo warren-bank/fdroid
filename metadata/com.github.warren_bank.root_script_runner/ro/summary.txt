@@ -1,0 +1,1 @@
+Execută script-uri coajă ca utilizator rădăcină.

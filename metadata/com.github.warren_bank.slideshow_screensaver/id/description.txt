@@ -1,0 +1,13 @@
+Pengaturan slideshow:
+
+● Durasi waktu (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Periode waktu setiap gambar
+&nbsp;&nbsp;&nbsp;&nbsp;ditampilkan.
+● Gunakan penyedia MediaStore
+&nbsp;&nbsp;&nbsp;&nbsp;Memperoleh berkas gambar dari indeks
+&nbsp;&nbsp;&nbsp;&nbsp;Android.
+● Path direktori
+&nbsp;&nbsp;&nbsp;&nbsp;Memperoleh gambar dari direktori
+&nbsp;&nbsp;&nbsp;&nbsp;tertentu di dalam sistem berkas.
+● Rekursif ke dalam subdirektori
+● Urutan acak

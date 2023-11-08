@@ -1,0 +1,1 @@
+Fournisseurs d'emplacements Android simulés: GPS, réseau, Fused.

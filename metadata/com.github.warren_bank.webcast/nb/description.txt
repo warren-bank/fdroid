@@ -1,0 +1,10 @@
+Video-URLer på den aktuelle nettsiden vises på en liste.
+
+Innstillinger bestemmer virkemåten når en video-URL er valgt:
+● den interne videobilleren inkluderer
+&nbsp;&nbsp;en Chromsen-avsender
+● den eksterne videospilleren tillater
+&nbsp;&nbsp;en annen app å spille inn video-URL
+● "ExoAirPlayer" og "HLS Proxy" senders
+&nbsp;&nbsp;hver last en statisk nettside
+&nbsp;&nbsp;SPA-klient for den valgte serveren

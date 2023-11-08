@@ -1,0 +1,3 @@
+Diffinnir yr amodau drwy restr o reolau. Mae pob rheol yn cysylltu â rhif ffôn sy'n cael ei anfon ymlaen llaw gyda phatrwm sy'n gorfod cydweddu â ' r anfonwr o neges SMS.
+
+Pan fydd neges newydd i SMS yn cael ei derbyn, caiff ei anfon i rif y ffôn sy'n cael ei dderbyn yn ôl pob rheol gan gael patrwm cyfatebol.

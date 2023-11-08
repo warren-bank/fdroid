@@ -1,0 +1,1 @@
+Captează audio de la microfon și trimite-l la receptor.

@@ -1,0 +1,1 @@
+Client pentru a sincroniza datele clipboard printr-un server.

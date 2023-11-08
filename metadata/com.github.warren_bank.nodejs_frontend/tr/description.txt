@@ -1,0 +1,35 @@
+Özellikler aşağıdakileri yapabilme yeteneğini içerir:
+
+● herhangi bir sayıda uygulama
+&nbsp;&nbsp;tanıtımını yapılandırma ve kaydetme
+● her uygulama tanıtımı şunları
+&nbsp;&nbsp;belirtebilir:
+&nbsp;&nbsp;○ başlık
+&nbsp;&nbsp;○ ana Javascript dosyasının dosya yolu
+&nbsp;&nbsp;○ Node.js yürütme ortamı için komut
+&nbsp;&nbsp;&nbsp;&nbsp;satırı seçenekleri
+&nbsp;&nbsp;○ uygulamaya ilişkin komut satırı
+&nbsp;&nbsp;&nbsp;&nbsp;seçenekleri
+&nbsp;&nbsp;○ ortam değişkenleri
+&nbsp;&nbsp;○ yürürlükteki çalışma dizini
+● uygulama tanıtımları aşağıdaki
+&nbsp;&nbsp;temelinde gruplanır:
+&nbsp;&nbsp;○ "exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uygulamalar tek bir işlemi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paylaşır. Bir kerede tek bir
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yürütme işlemi yürütülebilir.
+&nbsp;&nbsp;○ "çatal"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Her bir uygulamaya kendi süreci
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verilir. Her biri bir ön plan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hizmetinde yürütülür. İlişkili bir
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bildirim işlemi öldürür.
+● yedekleme ve geri yükleme:
+&nbsp;&nbsp;○ tüm uygulama profillerini JSON ' a
+&nbsp;&nbsp;&nbsp;&nbsp;aktar
+&nbsp;&nbsp;○ yeni uygulama profillerini JSON '
+&nbsp;&nbsp;&nbsp;&nbsp;dan içe aktar
+
+Yerleşik yürütme ortamı ortamı:
+
+● Node.js 12.19.0
+● OpenSSL 1.1.1g

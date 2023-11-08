@@ -1,0 +1,9 @@
+Wymaga elementu głównego!
+
+Wykonanie skryptu powłoki może zostać wywołane na dwa sposoby:
+
+1. interaktywna
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Przez użytkownika samodzielnie
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wybierając plik.
+2. automatyczne
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wg intencji.

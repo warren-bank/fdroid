@@ -1,0 +1,1 @@
+Nem interaktív segédprogram a felhasználói visszajelzés biztosításához a parancssorból.

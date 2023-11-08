@@ -1,0 +1,1 @@
+LAN ' daki aygıtlar arasında görüntülü arama yapın.

@@ -1,0 +1,33 @@
+විශේෂාංග ඇතුලත් කිරීමේ හැකියාව:
+
+● ඕනෑම යෙදුම් ප්රොෆයිල් එකක් සැකසුනු හා
+&nbsp;&nbsp;සුරකින්න
+● එක් එක් යෙදුම් පැතිකඩ සඳහන් කළ හැක:
+&nbsp;&nbsp;○ මාතෘකාව
+&nbsp;&nbsp;○ ප්රධාන JavaScript ගොනුව වෙත ගොනු
+&nbsp;&nbsp;&nbsp;&nbsp;මාර්ගය
+&nbsp;&nbsp;○ Node.js ධාවන කාලය සඳහා විධාන රේඛා
+&nbsp;&nbsp;&nbsp;&nbsp;විකල්ප
+&nbsp;&nbsp;○ යෙදුම් සඳහා විධාන රේඛා විකල්ප
+&nbsp;&nbsp;○ පාරිසරික විචල්යයන්
+&nbsp;&nbsp;○ වත්මන් වැඩ ඩිරෙක්ටරිය
+● යෙදුම් ප්රොෆයිලයන් සමූහනය කර ඇත:
+&nbsp;&nbsp;○ "Exec"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ඇප්ලිකේෂන් එක තනි ක්රියාවලියක්
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;කොටනවා. එක එක වෙලාවට ක්රියාත්මක
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;කරන්න පුළුවන්.
+&nbsp;&nbsp;○ "Fork"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;සෑම යෙදුමක්ම තමන්ගේම ක්රියාවලියක්
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ලබා දෙනවා. සෑම විධායකකම පෙරනිමිති
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;සේවයක යෙදීම. සම්බන්ධිත දැනුම්දීමක්
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ක්රියාවට නැගෙනවා.
+● සහය සහ නැවත පිහිටුවන්න:
+&nbsp;&nbsp;○ JSON වෙත සියළු යෙදුම් පැතිකඩ අපනයනය
+&nbsp;&nbsp;&nbsp;&nbsp;කරන්න
+&nbsp;&nbsp;○ JSON වෙතින් නව යෙදුම් පැතිකඩ ආයාත
+&nbsp;&nbsp;&nbsp;&nbsp;කරන්න
+
+එබ්බවූ ධාවන කාලය පරිසරය:
+
+● නො.js 12.19.0
+● OpenSSL 1.1.1g

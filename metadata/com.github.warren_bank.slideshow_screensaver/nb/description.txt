@@ -1,0 +1,13 @@
+Glidevis Innstillinger:
+
+● Tidsvarighet (ms)
+&nbsp;&nbsp;&nbsp;&nbsp;Perioden med tid hvert bilde blir
+&nbsp;&nbsp;&nbsp;&nbsp;vist.
+● Bruk MediaStore leverandør
+&nbsp;&nbsp;&nbsp;&nbsp;Obholder bildefiler fra
+&nbsp;&nbsp;&nbsp;&nbsp;Android-indeks.
+● Katalogbane
+&nbsp;&nbsp;&nbsp;&nbsp;Få tak i bilder fra en bestemt
+&nbsp;&nbsp;&nbsp;&nbsp;katalog i filsystemet.
+● Rekognosere inn i underkataloger
+● Tilfeldig bestilling

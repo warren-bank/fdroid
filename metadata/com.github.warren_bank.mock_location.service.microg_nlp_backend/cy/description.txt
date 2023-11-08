@@ -1,0 +1,19 @@
+Yn caniatáu "Mock my GPS" i ymddwyn fel darparwr lleoliad ffug ar gyfer "UnifiedNlp".
+
+"UnifiedNlp" yw:
+
+● sy'n cael ei osod fel elfen o "microG"
+● a fwriedir ar gyfer ei ddefnyddio ar
+&nbsp;&nbsp;gyfer dadlec Android ROMs
+● yn lle galw heibio i "Google Location
+&nbsp;&nbsp;Services"
+
+"UnifiedNlp" integrated data lleoliad ffug:
+
+● dim ond tra mae "Mock my GPS" yn
+&nbsp;&nbsp;weithredol
+● yn cael ei roi ar waith sy'n cael ei
+&nbsp;&nbsp;roi ar waith dros yr ategion eraill
+&nbsp;&nbsp;"Unifiedede" drwy hyrwyddo'r stamp 45
+&nbsp;&nbsp;eiliad, felly ymddengys ei fod yn
+&nbsp;&nbsp;fwyaf diweddar
