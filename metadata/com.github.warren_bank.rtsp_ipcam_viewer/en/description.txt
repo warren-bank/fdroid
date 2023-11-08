@@ -2,26 +2,21 @@ These formats are typical of inexpensive IP security cameras.
 
 Features include the ability to:
 
-● configure an unlimited number of video
-&nbsp;&nbsp;streams
-● import video streams from a JSON file
-● each stream can include URLs for two
-&nbsp;&nbsp;sources:
-&nbsp;&nbsp;○ low resolution
-&nbsp;&nbsp;○ high resolution
-● selectively enable and disable streams in
-&nbsp;&nbsp;the list
-● display the enabled streams in either a
-&nbsp;&nbsp;list or grid layout
-&nbsp;&nbsp;○ uses low resolution (when available)
-● select a single stream from the list or
-&nbsp;&nbsp;grid layout
-&nbsp;&nbsp;○ displays in full screen
-&nbsp;&nbsp;○ uses high resolution (when available)
+* configure an unlimited number of video streams
+* import video streams from a JSON file
+* each stream can include URLs for two sources:
+  - low resolution
+  - high resolution
+* selectively enable and disable streams in the list
+* display the enabled streams in either a list or grid layout
+  - uses low resolution (when available)
+* select a single stream from the list or grid layout
+  - displays in full screen
+  - uses high resolution (when available)
 
 History:
 
 This application was originally written to test an experimental branch of ExoPlayer. At the time, this branch had an open pull request that hadn't been merged after several years:
-&nbsp;&nbsp;https://github.com/google/ExoPlayer/pull/3854
+  https://github.com/google/ExoPlayer/pull/3854
 
 Eventually, this branch was merged. Now, this application uses a stable build of ExoPlayer. Which, imho, makes it less interesting. But it may still be useful.

@@ -1,29 +1,23 @@
 Features include the ability to:
 
-● configure and save any number of
-&nbsp;&nbsp;application profiles
-● each application profile can specify:
-&nbsp;&nbsp;○ title
-&nbsp;&nbsp;○ file path to main Javascript file
-&nbsp;&nbsp;○ command line options for the Node.js
-&nbsp;&nbsp;&nbsp;&nbsp;runtime
-&nbsp;&nbsp;○ command line options for the application
-&nbsp;&nbsp;○ environment variables
-&nbsp;&nbsp;○ current working directory
-● application profiles are grouped by:
-&nbsp;&nbsp;○ "exec"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applications share a single process.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only one can execute at a time.
-&nbsp;&nbsp;○ "fork"
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each application is given its own
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;process. Each executes in a foreground
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;service. An associated notification
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kills the process.
-● backup and restore:
-&nbsp;&nbsp;○ export all application profiles to JSON
-&nbsp;&nbsp;○ import new application profiles from JSON
+* configure and save any number of application profiles
+* each application profile can specify:
+  - title
+  - file path to main Javascript file
+  - command line options for the Node.js runtime
+  - command line options for the application
+  - environment variables
+  - current working directory
+* application profiles are grouped by:
+  - "exec"
+      Applications share a single process. Only one can execute at a time.
+  - "fork"
+      Each application is given its own process. Each executes in a foreground service. An associated notification kills the process.
+* backup and restore:
+  - export all application profiles to JSON
+  - import new application profiles from JSON
 
 Embedded runtime environment:
 
-● Node.js 12.19.0
-● OpenSSL 1.1.1g
+* Node.js 12.19.0
+* OpenSSL 1.1.1g
