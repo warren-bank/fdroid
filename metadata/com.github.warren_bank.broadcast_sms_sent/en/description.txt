@@ -1,4 +1,3 @@
 Limitations:
 
-● Only works on versions of Android &lt;= 7.0
-&nbsp;&nbsp;(Nougat, API 24)
+* Only works on versions of Android &lt;= 7.0 (Nougat, API 24)
