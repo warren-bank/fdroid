@@ -1,0 +1,14 @@
+Functies zijn onder andere:
+
+● Ondersteuning voor opus, CELT en Speex
+&nbsp;&nbsp;codec
+● Certificaten
+● Spraakactiviteit
+● Bluetooth
+● Openbare servers
+● Commentaar
+● Beheer
+● Overlay
+● Thema's
+● Kennisgevingen
+● Orbot-integratie

@@ -1,0 +1,1 @@
+Serves an RTSP video stream that mirrors the device display screen.

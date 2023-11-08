@@ -1,0 +1,1 @@
+Hálózati folyam megjelenítése IP kamerákból, videoszerverekről és felügyeleti rendszerekről.

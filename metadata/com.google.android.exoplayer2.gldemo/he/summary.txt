@@ -1,0 +1,1 @@
+הדגמת ExoPlayer שהופכת את הווידיאו ל-GLSurfaceView וליישם את שכבת ה-GL.

@@ -1,0 +1,1 @@
+The shader shows an overlap bitmap on top of the video. The overlay bitmap is drawn using an Android canvas, and অন্তর্ভুক্ত the current frame's presentation timestamp, to show how to get the timestamp of the frame currently in the off-screen surface texture.

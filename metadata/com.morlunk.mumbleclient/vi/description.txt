@@ -1,0 +1,13 @@
+Tính năng bao gồm:
+
+● Opus, CELT và Speex hô ̃ trợ
+● Chứng nhận
+● Hoạt động thoại
+● Bluetooth
+● Máy chủ công
+● Chú thích
+● Quản trị
+● Overlay
+● Theo chủ đề
+● Thông báo
+● Tích hợp Orbot

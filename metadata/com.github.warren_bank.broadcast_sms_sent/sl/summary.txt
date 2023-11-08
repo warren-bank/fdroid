@@ -1,0 +1,1 @@
+Upošteva sporočila SMS za poslana sporočila in lokalno predvaja podvojeno kopijo.

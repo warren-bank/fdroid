@@ -1,0 +1,1 @@
+Emite un SMS simulat pentru a imita primirea unui nou mesaj text (sau date).

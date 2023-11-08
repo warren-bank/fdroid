@@ -1,0 +1,25 @@
+A KeePassDX lehetővé teszi titkosított adatok szerkesztését egyetlen fájlban KeePass formátumban, és biztonságos módon kitöltendő űrlapokat.
+
+Jellemzők:
+
+● Adatbázis fájlok, bejegyzések és
+&nbsp;&nbsp;csoportok létrehozása.
+● A .kdb és .kdbx fájlok támogatása
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2
+&nbsp;&nbsp;algoritmussal.
+● Az alternatív programok többségével
+&nbsp;&nbsp;kompatibilis (KeePass, KeePassXC,
+&nbsp;&nbsp;KeeWeb, ...).
+● Engedélyezi az URI/URL mezők
+&nbsp;&nbsp;megnyitását és másolását.
+● Biometrikus felismerés a gyors zárolás
+&nbsp;&nbsp;esetén (ujjlenyomat, arc feloldása,
+&nbsp;&nbsp;...).
+● Egyszeri jelszókezelés (HOTP/TOTP)
+&nbsp;&nbsp;kéttényezőjű hitelesítéshez (2FA).
+● Anyagtervezés témákkal.
+● Automatikus kitöltés és integráció.
+● Mező töltés billentyűzet.
+● Dinamikus sablonok.
+● Minden bejegyzés története.
+● A beállítások pontos kezelése.

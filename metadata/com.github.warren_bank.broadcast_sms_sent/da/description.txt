@@ -1,0 +1,4 @@
+Begrænsninger:
+
+● fungerer kun på versioner af Android
+&nbsp;&nbsp;&lt; = 7.0 (Nougat, API 24)

@@ -1,0 +1,13 @@
+Özellikler şunları içerir:
+
+● Opus, CELT ve Speex codec desteği
+● Sertifikalar
+● Sesli etkinlik
+● Bluetooth
+● Genel sunucular
+● Açıklamalar
+● Yönetim
+● Yardımcı
+● Theming
+● Bildirimler
+● Orbot bütünleştirmesi

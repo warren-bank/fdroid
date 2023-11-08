@@ -1,0 +1,1 @@
+Minimal app for å teste ytelsen til libVLC-biblioteket for Android.

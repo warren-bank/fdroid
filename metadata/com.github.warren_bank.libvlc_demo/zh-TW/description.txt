@@ -1,0 +1,5 @@
+註釋：
+
+● MainActivity 包含一個文字欄位，用來手動輸入支援的媒體的 URL
+&nbsp;&nbsp;或檔案路徑，以進行播放
+● VideoActivity 執行實際播放，並可由 Intent 開啟

@@ -1,0 +1,29 @@
+Preizkuševa preizkuševa različica VXG RTSP Player, ki vsebuje ohromelo različico programske opreme VXG Mobile SDK. Playback je omejen na dve minuti.
+
+Funkcije vključujejo:
+
+● Podprti tipi pretakanje:
+&nbsp;&nbsp;○ RTR
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (podpora za tok Multicast)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTRM
+&nbsp;&nbsp;○ MMS
+● Snemanje iz žive kamere
+● Digitalni pomanjšanje in spreminjanje
+&nbsp;&nbsp;slike
+● Sličice za žive tokove
+● Podpora za seznam kanalov M3U
+● Kontrolnik seznama lahkih tokov
+&nbsp;&nbsp;○ dodajanje, brisanje in spreminjanje
+&nbsp;&nbsp;&nbsp;&nbsp;vaših tokov
+● Predogled videa med brskanje po
+&nbsp;&nbsp;seznamu fotoaparata
+● Predvaja za tok v živo HLS
+● Oblikovalnik strojne opreme z uporabo
+&nbsp;&nbsp;pospeška strojne opreme z optimizacijo
+&nbsp;&nbsp;procesorja
+&nbsp;&nbsp;○ upodabljanje visoke hitrosti za
+&nbsp;&nbsp;&nbsp;&nbsp;sodobno platformo
+● Dekodiranje z več jedri zagotavlja
+&nbsp;&nbsp;zmogljivost naprave z dvojnim jedrom

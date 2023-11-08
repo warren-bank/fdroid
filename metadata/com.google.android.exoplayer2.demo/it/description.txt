@@ -1,0 +1,1 @@
+Utilizza ExoPlayer per riprodurre numerosi flussi di test. Può essere utilizzato come punto di partenza o di riferimento quando si sviluppano altre applicazioni che fanno uso della libreria ExoPlayer.

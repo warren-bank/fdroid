@@ -1,0 +1,12 @@
+Скопійовано з офіційного коду repo (tag: 1.0.28513).
+
+Використовує WebRTC Native API через JNI.
+
+Особливості включають в себе можливість:
+
+● make WebRTC video calls using a free
+&nbsp;&nbsp;public signaling server (https:
+&nbsp;&nbsp;//appr.tc)
+● напряму з ' єднати 2 пристрої у тій
+&nbsp;&nbsp;самій мережі без потреби сервера
+&nbsp;&nbsp;сигналізація

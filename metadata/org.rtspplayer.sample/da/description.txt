@@ -1,0 +1,28 @@
+Evaluation prøveversion af VXG RTSP Player, som indeholder en forkrøblet version af VXG Mobile SDK. Afspilning er begrænset til 2 minutter.
+
+Funktionerne omfatter:
+
+● Understøttede typer streaming:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Multicast stream support)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Optager fra live kamera
+● Styring af digital zoom og billede
+● Miniaturer for livestreams
+● Støtte til M3U-kanalliste
+● Kontrolelement til liste med lette
+&nbsp;&nbsp;stråler
+&nbsp;&nbsp;○ tilføj, slet og revidér dine streams
+● Vis eksempel på video, mens du kigger
+&nbsp;&nbsp;i kameralisten
+● Afspil for live-HLS-strøm
+● Hardwaredecoder ved hjælp af
+&nbsp;&nbsp;hardwareacceleration med
+&nbsp;&nbsp;processoroptimering
+&nbsp;&nbsp;○ højhastighedsgengivelse for den
+&nbsp;&nbsp;&nbsp;&nbsp;moderne platform
+● Kodningen med flere kerneværdier giver
+&nbsp;&nbsp;den dobbelte kerneenhed ydeevne

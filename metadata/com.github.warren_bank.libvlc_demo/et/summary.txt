@@ -1,0 +1,1 @@
+Minimaalne rakendus testitava libVLC teegi testimiseks Androidi jaoks.

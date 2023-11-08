@@ -1,0 +1,1 @@
+ExoPlayer demo yang menyewa video ke paparan GLSurfaceView dan menerapkan pelorek GL.

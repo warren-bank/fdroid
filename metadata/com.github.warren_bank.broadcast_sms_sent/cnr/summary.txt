@@ -1,0 +1,1 @@
+Šalje SMS poruku, i lokalno emituje duplikat kopije.

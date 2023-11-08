@@ -1,0 +1,1 @@
+將視訊呈現給 GLSurfaceView 並套用總帳著色器的 ExoPlayer 展示。

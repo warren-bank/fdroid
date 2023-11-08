@@ -1,0 +1,1 @@
+Google Cast와 ExoPlayer 통합을 보여주는 데모 애플리케이션.

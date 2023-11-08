@@ -1,0 +1,1 @@
+Obgol SMS untuk mesej yang dihantar, dan secara dinamik telah membuang salinan pendua.

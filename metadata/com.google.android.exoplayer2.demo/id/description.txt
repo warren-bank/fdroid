@@ -1,0 +1,1 @@
+Ini menggunakan ExoPlayer untuk memainkan sejumlah aliran uji coba. Hal ini dapat digunakan sebagai titik awal atau referensi proyek ketika mengembangkan aplikasi lain yang membuat penggunaan dari perpustakaan ExoPlayer.

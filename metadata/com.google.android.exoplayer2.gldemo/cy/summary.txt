@@ -1,0 +1,1 @@
+Mae ' r Chwaraewr yn dangos y fideo sy'n gwneud y fideo i olwg GLodyrView ac yn cymhwyso siaben GL.

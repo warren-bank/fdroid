@@ -1,0 +1,4 @@
+Korlátozások:
+
+● Csak Android &lt; = 7.0 (Nougat, API
+&nbsp;&nbsp;24) változatain működik.

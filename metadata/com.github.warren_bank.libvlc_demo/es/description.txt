@@ -1,0 +1,9 @@
+Notas:
+
+● MainActivity contiene un campo de
+&nbsp;&nbsp;texto para especificar manualmente el
+&nbsp;&nbsp;URL o la vía de acceso de archivo a un
+&nbsp;&nbsp;soporte de soporte para la
+&nbsp;&nbsp;reproducción
+● VideoActivity realiza la reproducción
+&nbsp;&nbsp;real y puede ser abierta por Intent

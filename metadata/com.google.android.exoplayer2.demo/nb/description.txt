@@ -1,0 +1,1 @@
+Det bruker Exospiller til å spille en rekke teststrømmer. Den kan brukes som utgangspunkt eller referanseprosjekt ved utvikling av andre applikasjoner som gjør bruk av ExoPlayer-biblioteket.

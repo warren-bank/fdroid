@@ -1,0 +1,7 @@
+Piezīmes:
+
+● MainiActivity satur teksta lauku, lai
+&nbsp;&nbsp;manuāli ievadiet URL vai faila ceļu uz
+&nbsp;&nbsp;atbalstītiem multivides atskaņošanai
+● VideoActivity veic faktisko
+&nbsp;&nbsp;atskaņošanu, un to var atvērt Intent

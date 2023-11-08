@@ -1,0 +1,1 @@
+Shader pokazuje nakładanie się bitmapy na górze wideo. Mapa bitowa nakładki jest rysowana za pomocą kanwy systemu Android i zawiera znacznik czasu prezentacji bieżącej ramki, w celu pokazania, w jaki sposób można uzyskać znacznik czasu ramki, która znajduje się obecnie w tekstury powierzchni poza ekranem.

@@ -1,0 +1,27 @@
+Evaluasi versi uji coba VXG RTSP Player, yang berisi versi cacat dari VXG Mobile SDK. Pemutaran terbatas hanya 2 menit.
+
+Fitur-fitur mencakup:
+
+● Tipe yang didukung dari streaming:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Dukungan stream Multicast)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Rekaman dari kamera live
+● Zoom digital dan pergeseran gambar
+● Thumbnail untuk stream langsung
+● Dukung daftar kanal M3U
+● Kontrol daftar stream yang mudah
+&nbsp;&nbsp;○ tambah, hapus dan ubah stream anda
+● Pratilik video saat meramban dalam
+&nbsp;&nbsp;daftar kamera
+● Putar ulang untuk stream langsung HLS
+● Dekoder perangkat keras menggunakan
+&nbsp;&nbsp;akselerasi perangkat keras dengan
+&nbsp;&nbsp;optimisasi prosesor
+&nbsp;&nbsp;○ Rendering kecepatan tinggi untuk
+&nbsp;&nbsp;&nbsp;&nbsp;platform modern
+● Dekoding multi-core menyediakan
+&nbsp;&nbsp;kinerja perangkat dual-core

@@ -1,0 +1,1 @@
+Shader näyttää päällekkäisen bittikartan videon päällä. Valitsemalla bittikartta käytetään Android-kangasta, ja se sisältää nykyisen kehyksen esityksen aikaleiman, joka osoittaa, miten kuvan aikaleima on tällä hetkellä ulkopinnan ulkokuoressa.

@@ -1,0 +1,1 @@
+Visualizar fluxo de rede a partir de câmeras IP, servidores de vídeo e sistemas de vigilância.

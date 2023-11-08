@@ -1,0 +1,1 @@
+Používa ExoPlayer na prehrávanie množstva testovacích prúdov. Môže sa použiť ako východiskový alebo referenčný projekt pri vývoji iných aplikácií, ktoré využívajú knižnicu ExoPlayer.

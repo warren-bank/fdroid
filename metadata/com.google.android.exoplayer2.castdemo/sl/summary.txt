@@ -1,0 +1,1 @@
+Predstavbena aplikacija, ki prikazuje integracijo ExoPlayer z Googlom Castom.

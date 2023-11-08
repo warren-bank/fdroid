@@ -1,0 +1,1 @@
+Ukážka exoPlayer, ktorá renderuje video do GLSurfaceView a používa GL shader.

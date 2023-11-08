@@ -1,0 +1,4 @@
+제한사항:
+
+● Android < = 5.1의 버전에서만 작동 (Lollipop,
+&nbsp;&nbsp;API 22)

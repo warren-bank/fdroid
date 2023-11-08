@@ -1,0 +1,1 @@
+Melayani sebuah aliran video RTSP yang mencerminkan layar tampilan perangkat.

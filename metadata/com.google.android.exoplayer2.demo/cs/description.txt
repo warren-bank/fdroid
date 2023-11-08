@@ -1,0 +1,1 @@
+Využívá ExoPlayer ke hraní řady testovacích proudů. Může být použit jako výchozí bod nebo referenční projekt při vývoji jiných aplikací, které využívají knihovnu ExoPlayer.

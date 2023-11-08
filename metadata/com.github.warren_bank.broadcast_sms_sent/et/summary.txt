@@ -1,0 +1,1 @@
+Märgib SMS saadetud sõnumite ja kohapeal levitab duplikaat koopia.

@@ -1,0 +1,26 @@
+Hindamisprotsessi versioon VXG RTSP Player, mis sisaldab halvatud versiooni VXG Mobile SDK. Taasesitus on piiratud kahe minutiga.
+
+Omadused on järgmised:
+
+● Toetatud tüüpi streaming:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Multicast stream toetus)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Salvestamine eluskaamerast
+● Digitaalne suum ja pildisuunamine
+● Pisipildid elusvoolude jaoks
+● Toetus M3U kanali nimekirjas
+● Lihtne voogude nimekirja kontroll
+&nbsp;&nbsp;○ lisada, kustutada ja muuta oma vooge
+● Eelvaatlus video sirvimisel kaamera
+&nbsp;&nbsp;nimekirjas
+● Replay for live HLS stream
+● Riistvara dekooder kasutades riistvara
+&nbsp;&nbsp;kiirendus protsessor optimeerimine
+&nbsp;&nbsp;○ kiire renderdamine kaasaegse
+&nbsp;&nbsp;&nbsp;&nbsp;platvormi jaoks
+● Mitmetuumaline dekodeerimine tagab
+&nbsp;&nbsp;kahetuumalise seadme jõudluse

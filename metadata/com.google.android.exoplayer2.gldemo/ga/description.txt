@@ -1,0 +1,1 @@
+Taispeánann an sader mapa bitmap ar barr an físeán. Tá an mapa giotán a tharraingt ag baint úsáide as canvas Android, agus folaíonn sé an fráma ama atá ann faoi láthair an stampa ama, chun a thaispeáint conas a fháil ar an t-uainemp ar an fráma faoi láthair sa uigeacht dromchla amach-scáileán.

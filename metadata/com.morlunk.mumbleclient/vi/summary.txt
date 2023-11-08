@@ -1,0 +1,1 @@
+Trình khách Mumble cho Android sử dụng phương pháp triển khai giao thức Jumble.

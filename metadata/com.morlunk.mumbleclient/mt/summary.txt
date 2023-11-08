@@ -1,0 +1,1 @@
+Mumble klijent għall Android li juża l-proposta protokoll Jumble.

@@ -1,0 +1,1 @@
+Az üzeneteket az elküldött üzenetekért figyeli meg, és a helyileg közvetít egy másolatot.

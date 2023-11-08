@@ -1,0 +1,12 @@
+Kopijuojamas iš oficialaus WebRTC šaltinio kodo atpirkimo (žyma: 1.0.28513).
+
+Naudoja webRTC gimtoji API per JNI.
+
+Funkcijos apima galimybę:
+
+● padaryti WebRTC vaizdo skambučiai
+&nbsp;&nbsp;naudojant nemokamą viešą signalinimo
+&nbsp;&nbsp;serverį (https: // appr.tc)
+● tiesiogiai prisijungti 2 įtaisai ant
+&nbsp;&nbsp;to paties LAN be signalo perdavimo
+&nbsp;&nbsp;serveris

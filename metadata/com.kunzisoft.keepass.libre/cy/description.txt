@@ -1,0 +1,24 @@
+Mae KePasDX yn caniatáu golygu data amgryptiedig mewn ffeil sengl yn y fformat Ke_a, ac i lenwi ffurflenni mewn modd diogel.
+
+Nodweddion:
+
+● Creu ffeiliau cronfa ddata, cofnodion
+&nbsp;&nbsp;a grwpiau.
+● Cymorth ar gyfer .kdb a .kdbx ffeiliau
+&nbsp;&nbsp;(fersiwn 1 i 4) gydag algorithm
+&nbsp;&nbsp;HES-Tofi-Chach20-Argon2.
+● Cydweddu â'r rhan fwyaf o raglenni
+&nbsp;&nbsp;amgen (KePPass, KePasXC, KeWe, ...).
+● Caniatáu agor a copïo meysydd URI/URL
+&nbsp;&nbsp;yn gyflym.
+● Cydnabyddiaeth fiometrig ar gyfer
+&nbsp;&nbsp;datgloi cyflym (olion bysedd, datgloi,
+&nbsp;&nbsp;...).
+● Rheoli Cyfrinair Un Amser (HOTP/TTP)
+&nbsp;&nbsp;ar gyfer dilysu dau ffactor (2FA).
+● Dyluniad deunydd gyda themau.
+● Awto-lenwi a Integreiddio.
+● Bysellfwrdd llanw maes.
+● Templedi deinamig.
+● Hanes pob cofnod.
+● Rheoli gosodiadau manwl.

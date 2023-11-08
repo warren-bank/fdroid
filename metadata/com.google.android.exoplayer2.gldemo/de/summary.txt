@@ -1,0 +1,1 @@
+ExoPlayer-Demo, die Video zu einer GLSurfaceView macht und einen Hauptbuchshader anwendet.

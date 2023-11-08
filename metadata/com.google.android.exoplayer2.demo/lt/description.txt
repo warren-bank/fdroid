@@ -1,0 +1,1 @@
+Jis naudoja ExoPlayer žaisti keletą bandymų srautus. Jis gali būti naudojamas kaip pradinis taškas arba referencinis projektas kuriant kitas programas, kurios naudoja ExoPlayer biblioteką.

@@ -1,0 +1,12 @@
+Ikkupjati mill-repo uffiċjali kodiċi tas-sors wedRTC (tag: 1.0.28513).
+
+Użi WebRTC Native APIs via JNI.
+
+Karatteristiċi jinkludu l-abbiltà li:
+
+● jagħmlu l-video WebRTC sejħiet bl-użu
+&nbsp;&nbsp;ta 'server ta' sinjalazzjoni pubbliku
+&nbsp;&nbsp;b'xejn (https: //appr.tc)
+● direttament qabbad 2 apparati fuq
+&nbsp;&nbsp;l-istess LAN mingħajr il-ħtieġa ta
+&nbsp;&nbsp;'server ta' sinjalazzjoni

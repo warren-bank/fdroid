@@ -1,0 +1,5 @@
+Limitazzjonijiet:
+
+● Ma tappoġġx awdjo.
+● L-fluss vidjo RTSP jilgħab biss f '
+&nbsp;&nbsp;VLC. Mhux ċert għaliex.

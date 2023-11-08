@@ -1,0 +1,5 @@
+Obmedzenia:
+
+● Nepodporuje zvuk.
+● Video stream RTSP sa hrá len vo VLC.
+&nbsp;&nbsp;Nie som si istý prečo.

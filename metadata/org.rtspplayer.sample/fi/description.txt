@@ -1,0 +1,27 @@
+VXG RTSP Player -version arviointikokeiluversio, joka sisältää VXG Mobile SDK -version ramman version. Playback on rajoitettu kahteen minuuttiin.
+
+Ominaisuuksiin kuuluu:
+
+● Tuetut suoratoistotyypit:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Multicast Stream -tuki)
+&nbsp;&nbsp;○ HTTP-HLIT
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Nauhoitus suorana kamerana
+● Digitaalinen zoomaus ja kuvien siirto
+● Elävien virtojen pienoiskuvat
+● Tuki M3U-kanavaluettelo
+● Helppo virtojen luettelo
+&nbsp;&nbsp;○ Lisätä, poistaa ja muokata purojasi
+● Esikatseluvideo kuvattaessa kameran
+&nbsp;&nbsp;luetteloa
+● Elävän HLS-virran palautus
+● Laitteiston koodaaja käyttää
+&nbsp;&nbsp;laitteiston kiihtyvyyttä suorittimen
+&nbsp;&nbsp;optimoinnin avulla
+&nbsp;&nbsp;○ Suuren nopeuden hahmonnus nykyiselle
+&nbsp;&nbsp;&nbsp;&nbsp;alustalle
+● Moniytimen dekoodaus tarjoaa
+&nbsp;&nbsp;kaksirunkoisen laitteen suorituskyvyn

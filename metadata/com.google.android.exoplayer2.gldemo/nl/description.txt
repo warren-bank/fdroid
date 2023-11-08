@@ -1,0 +1,1 @@
+De shader toont een overlappende bitmap op de top van de video. De overlay-bitmap wordt getekend met behulp van een Android-canvas en bevat de tijdsaanduiding van het huidige frame om aan te geven hoe de tijdsaanduiding van het frame op dit moment in de off-screen oppervlaktestructuur moet worden geplaatst.

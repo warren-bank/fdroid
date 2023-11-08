@@ -1,0 +1,5 @@
+Cyfyngiadau:
+
+● Peidio â chefnogi sain.
+● Mae llif fideo RTP yn chwarae yn VLC
+&nbsp;&nbsp;yn unig. Nid yw'n siŵr.

@@ -1,0 +1,1 @@
+Ophục vụ SMS để gửi tin nhắn, và phát sóng cục bộ một bản sao trùng.

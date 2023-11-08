@@ -1,0 +1,11 @@
+Được sao chép từ repo mã nguồn WebRTC chính thức (tag: 1.0.28513).
+
+Sử dụng API bản địa WebRTC thông qua JNI.
+
+Tính năng bao gồm khả năng:
+
+● làm các cuộc gọi video WebRTC bằng máy
+&nbsp;&nbsp;chủ báo hiệu công cộng miễn phí
+&nbsp;&nbsp;(https: //appr.tc)
+● Kết nối trực tiếp 2 thiết bị trên cùng
+&nbsp;&nbsp;mạng LAN mà không cần máy chủ báo hiệu

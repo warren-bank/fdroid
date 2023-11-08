@@ -1,0 +1,1 @@
+Az új szöveg (vagy adatok) átvételének utánzására egy hamis SMS-t közvetít.

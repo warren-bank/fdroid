@@ -1,0 +1,1 @@
+El shader muestra un mapa de bits de solapamiento en la parte superior del vídeo. El mapa de bits de preformato se dibuja utilizando un lienzo Android, e incluye la indicación de fecha y hora de presentación del marco actual, para mostrar cómo obtener la indicación de fecha y hora del marco actualmente en la textura de la superficie fuera de la pantalla.

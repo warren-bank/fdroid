@@ -1,0 +1,8 @@
+Notas:
+
+● MainActivity contém um campo de texto
+&nbsp;&nbsp;para inserir manualmente a URL ou
+&nbsp;&nbsp;caminho de arquivo para uma mídia
+&nbsp;&nbsp;suportada para reprodução
+● VideoAtividade realiza a reprodução
+&nbsp;&nbsp;real, e pode ser aberta por Intenção

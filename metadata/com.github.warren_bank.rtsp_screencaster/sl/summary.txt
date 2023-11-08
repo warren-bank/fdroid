@@ -1,0 +1,1 @@
+Služi video toku RTSP, ki zrcali zaslonski zaslon naprave.

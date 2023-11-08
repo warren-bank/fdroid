@@ -1,0 +1,1 @@
+عرض ExoPlayer demo الذي يقوم بعرض الفيديو الى GLASTfaceView ويقوم بتطبيق shadoer GL.

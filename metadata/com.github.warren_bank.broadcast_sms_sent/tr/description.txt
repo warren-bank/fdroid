@@ -1,0 +1,4 @@
+Sınırlamalar:
+
+● Yalnızca Android &lt; = 7.0 sürümleri
+&nbsp;&nbsp;üzerinde çalışır (Nougat, API 24)

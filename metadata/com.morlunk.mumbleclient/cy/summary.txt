@@ -1,0 +1,1 @@
+Cleient y mwmial ar gyfer Android sy'n defnyddio gweithrediad y protocol Jumble.

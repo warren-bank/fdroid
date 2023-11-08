@@ -1,0 +1,14 @@
+Os recursos incluem:
+
+● Apoio de codec do Opus, do CELT e da
+&nbsp;&nbsp;Speex
+● Certificados
+● Atividade de voz
+● Bluetooth
+● Servidores públicos
+● Comentários
+● Administração
+● Sobreposição
+● Temática
+● Notificações
+● Integração do Orbot

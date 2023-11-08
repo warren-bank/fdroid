@@ -1,0 +1,4 @@
+Limitações:
+
+● Só funciona em versões do Android &lt;
+&nbsp;&nbsp;= 7,0 (Nougat, API 24)

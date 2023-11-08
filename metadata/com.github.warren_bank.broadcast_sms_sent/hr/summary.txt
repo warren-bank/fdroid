@@ -1,0 +1,1 @@
+Promatra SMS za poslane poruke, a lokalno emitiraj duplikat kopije.

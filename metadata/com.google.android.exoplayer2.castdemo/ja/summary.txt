@@ -1,0 +1,1 @@
+Google キャストとの ExoPlayer と ExoPlayer の統合を示すデモアプリケーション。

@@ -1,0 +1,13 @@
+Copiato dal codice sorgente ufficiale WebRTC ripo (tag: 1.0.28513).
+
+Usa WebRTC Native API via JNI.
+
+Le funzioni includono la possibilità di:
+
+● effettuare chiamate video WebRTC
+&nbsp;&nbsp;utilizzando un server di segnalazione
+&nbsp;&nbsp;pubblica gratuito (https:
+&nbsp;&nbsp;//apprendi.tc)
+● collegare direttamente 2 dispositivi
+&nbsp;&nbsp;sulla stessa LAN senza la necessità di
+&nbsp;&nbsp;un server di segnalazione

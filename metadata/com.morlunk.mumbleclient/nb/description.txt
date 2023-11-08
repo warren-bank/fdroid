@@ -1,0 +1,13 @@
+Funksjoner omfatter:
+
+● Opus, CELT, og Speex kodeks støtte
+● Sertifikater
+● Tale aktivitet
+● Bluetooth
+● Offentlige servere
+● Kommentarer
+● Administrasjon
+● Overlegg
+● Temaing
+● Varsler
+● Orbot integrering

@@ -1,0 +1,9 @@
+Notes:
+
+● MainActivity contient une zone de
+&nbsp;&nbsp;texte pour entrer manuellement l'URL
+&nbsp;&nbsp;ou le chemin de fichier vers un
+&nbsp;&nbsp;support pris en charge pour la lecture
+● VideoActivity effectue la lecture
+&nbsp;&nbsp;réelle et peut être ouvert par
+&nbsp;&nbsp;Intention

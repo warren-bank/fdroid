@@ -1,0 +1,1 @@
+SMS žinučių siuntimo SMS žinučių ir lokaliai transliuojamų žinučių kopiją.

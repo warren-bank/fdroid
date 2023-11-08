@@ -1,0 +1,1 @@
+L'shader mostra una bitmap in sovrapposizione sulla parte superiore del video. La bitmap overlay è disegnata utilizzando un canvas Android, e include la data / ora di presentazione del frame corrente, per mostrare come ottenere la registrazione data / ora della cornice attualmente nella consistenza della superficie off-screen.

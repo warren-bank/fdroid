@@ -1,0 +1,1 @@
+Bemutató alkalmazás, amely bemutatja az ExoPlayer integrációt a Google Cast termékkel.

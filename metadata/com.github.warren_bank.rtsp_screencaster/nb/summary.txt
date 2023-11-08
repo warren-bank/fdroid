@@ -1,0 +1,1 @@
+Serves en RTSP-videostrøm som speiler enhetens skjerm skjerm.

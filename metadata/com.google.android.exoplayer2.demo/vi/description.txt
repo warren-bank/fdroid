@@ -1,0 +1,1 @@
+Nó sử dụng ExoPlayer để chơi một số luồng thử nghiệm. Nó có thể được sử dụng như một điểm khởi đầu hoặc dự án tham khảo khi phát triển các ứng dụng khác sử dụng thư viện ExoPlayer.

@@ -1,0 +1,1 @@
+Yeni bir metin (ya da veri) iletisinin alınmasını taklit etmek için dalga geçen bir SMS yayınlayın.

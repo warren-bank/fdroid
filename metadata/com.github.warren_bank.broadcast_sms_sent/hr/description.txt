@@ -1,0 +1,4 @@
+Ograničenja:
+
+● Radi samo na verzijama Android &lt; =
+&nbsp;&nbsp;7.0 (Nougat, API 24)

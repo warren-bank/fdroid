@@ -1,0 +1,1 @@
+Emite un SMS simulado para imitar la recepción de un nuevo mensaje de texto (o datos).

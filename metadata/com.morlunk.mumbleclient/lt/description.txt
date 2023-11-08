@@ -1,0 +1,13 @@
+Funkcijos apima:
+
+● Opus, CLT, ir Speex codec palaikymas
+● Sertifikatai
+● Balso aktyvai
+● Oth
+● Valstybiniai serveriai
+● Pastabos
+● Vartojimo tvarka
+● Perdangos
+● Theming
+● Pranešimai
+● Orbot integracija

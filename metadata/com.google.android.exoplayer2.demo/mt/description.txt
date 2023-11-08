@@ -1,0 +1,1 @@
+Hija tuża EżoPlayer biex tilgħab numru ta ' flussi tat-test. Dan jista 'jintuża bħala punt ta' tluq jew proġett ta 'referenza meta jiġu żviluppati applikazzjonijiet oħra li jagħmlu użu mill-librerija ta' EżoPlayer.

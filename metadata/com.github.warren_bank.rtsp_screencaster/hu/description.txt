@@ -1,0 +1,5 @@
+Korlátozások:
+
+● Nem támogatja a hangot.
+● Az RTSP videofolyam csak VLC-ben
+&nbsp;&nbsp;játszik. Nem tudom, miért.

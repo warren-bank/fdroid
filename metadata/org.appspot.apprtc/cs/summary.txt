@@ -1,0 +1,1 @@
+Příklad klienta Android pro https://appr.tc

@@ -1,0 +1,27 @@
+Ceadaíonn keePlaDX sonraí criptithe criptithe i bhformáid amháin i bhformáid KeePass, agus a líonadh i bhfoirm ar bhealach slán.
+
+Gnéithe:
+
+● Cruthaigh comhaid bhunachair sonraí,
+&nbsp;&nbsp;iontrálacha, agus grúpaí.
+● Tacaíocht do .kdb agus .kdbx comhaid
+&nbsp;&nbsp;(leagan 1 go 4) le
+&nbsp;&nbsp;AES-Fiofish-ChaCha20-An algartam
+&nbsp;&nbsp;Argon2.
+● Ag luí leis an chuid is mó de na cláir
+&nbsp;&nbsp;mhalartacha (Coinníonn Mapáin,
+&nbsp;&nbsp;Coimeádaí XC, Maweb, ...).
+● Ceadaíonn sé seo a oscailt agus a
+&nbsp;&nbsp;chóipeáil URI/réimse URL go tapa.
+● Aitheantas bithmhóra le haghaidh tapa
+&nbsp;&nbsp;unlocking (fingerprint, aghaidh gan
+&nbsp;&nbsp;ghlas, ...).
+● Bainistíocht Focal Faire Amháin
+&nbsp;&nbsp;(HOTP/TOTP) le haghaidh fíordheimhniú
+&nbsp;&nbsp;dhá fhachtóir (2FA).
+● Dearadh ábhar le téamaí.
+● Auto-Líon agus Imirce.
+● Méarchlár comhalladh réimse.
+● Teimpléid dinimiciúil.
+● Stair gach iontrála.
+● Bainistiú beacht na socruithe.

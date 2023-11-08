@@ -1,0 +1,1 @@
+Służy do obsługi strumienia wideo RTSP, który jest odzwierciedlany na ekranie monitora urządzenia.

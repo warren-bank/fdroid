@@ -1,0 +1,10 @@
+Megjegyzések:
+
+● A MainActivity tartalmaz egy
+&nbsp;&nbsp;szövegmezőt, amely manuálisan adja meg
+&nbsp;&nbsp;az URL címet vagy a fájlútvonalat egy
+&nbsp;&nbsp;támogatott adathordozóhoz a
+&nbsp;&nbsp;visszajátszáshoz
+● A VideoActivity végrehajtja a
+&nbsp;&nbsp;tényleges visszajátszást, és az Intent
+&nbsp;&nbsp;által megnyitható

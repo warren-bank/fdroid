@@ -1,0 +1,12 @@
+A hivatalos WebRTC forráskód repo (címke: 1.0.28513).
+
+WebRTC natív API-kat használ a JNI segítségével.
+
+A szolgáltatások a következők:
+
+● WebRTC videohívások a szabad nyilvános
+&nbsp;&nbsp;jelzéskiszolgáló használatával (https:
+&nbsp;&nbsp;//8..tc)
+● Közvetlenül csatlakoztassa a 2 eszközt
+&nbsp;&nbsp;ugyanahhoz a LAN-hoz, anélkül, hogy
+&nbsp;&nbsp;jeladó kiszolgáló szükséges

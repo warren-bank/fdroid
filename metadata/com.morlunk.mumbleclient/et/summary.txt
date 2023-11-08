@@ -1,0 +1,1 @@
+Mumble klient Android, mis kasutab Hüppaja protokolli rakendamine.

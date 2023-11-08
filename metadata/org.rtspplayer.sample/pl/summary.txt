@@ -1,0 +1,1 @@
+Wyświetlanie strumienia sieci z kamer IP, serwerów wideo i systemów nadzoru.

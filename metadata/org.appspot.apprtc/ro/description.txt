@@ -1,0 +1,12 @@
+Copiat de la oficial WebRTC cod sursă repo (tag: 1.0.28513).
+
+Utilizează API-uri native WebRTC prin intermediul JNI.
+
+Caracteristicile includ capacitatea de a:
+
+● efectuați apeluri video WebRTC
+&nbsp;&nbsp;utilizând un server de semnalizare
+&nbsp;&nbsp;publică gratuit (https: //appr.tc)
+● conectați direct 2 dispozitive pe
+&nbsp;&nbsp;același LAN, fără a fi nevoie de un
+&nbsp;&nbsp;server de semnalizare

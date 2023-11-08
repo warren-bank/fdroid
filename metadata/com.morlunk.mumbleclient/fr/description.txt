@@ -1,0 +1,14 @@
+Les fonctions incluent:
+
+● Prise en charge du codec Opus, CELT et
+&nbsp;&nbsp;Speex
+● Certificats
+● Activité vocale
+● Bluetooth
+● Serveurs publics
+● Commentaires
+● Administration
+● Superposition
+● Théming
+● Notifications
+● Intégration Orbot

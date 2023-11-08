@@ -1,0 +1,28 @@
+Penilaian penilaian versi bagi Pemain VXG RTSP, yang mengandungi versi crippled bagi VXG Mobile SDK. Main balik adalah terhad kepada 2 minit.
+
+Fitur termasuk:
+
+● Jenis yang disokong strim:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Sokongan strim Multicast)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMPS
+&nbsp;&nbsp;○ MMS
+● Rakaman dari kamera langsung
+● Zum digital dan beralih gambar
+● Thumbnails untuk strim hidup
+● Sokong senarai saluran M3U
+● Kawalan senarai strim mudah
+&nbsp;&nbsp;○ tambah, padam dan ubahsuai strim
+&nbsp;&nbsp;&nbsp;&nbsp;anda
+● Pratonton video semasa pelayaran dalam
+&nbsp;&nbsp;senarai kamera
+● Main semula untuk strim HLS hidup
+● Penyahkod perkakasan menggunakan
+&nbsp;&nbsp;pemecut perkakasan dengan
+&nbsp;&nbsp;pengoptimuman pemproses
+&nbsp;&nbsp;○ penerapan kelajuan tinggi untuk
+&nbsp;&nbsp;&nbsp;&nbsp;platform moden
+● Penkod berbilang-teras menyediakan
+&nbsp;&nbsp;prestasi peranti dwi-teras

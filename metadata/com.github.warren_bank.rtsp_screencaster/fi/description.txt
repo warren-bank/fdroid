@@ -1,0 +1,5 @@
+Rajoitukset:
+
+● Se ei tue ääntä.
+● RTSP-videovirta toimii vain VLC :ssä.
+&nbsp;&nbsp;En tiedä miksi.

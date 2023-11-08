@@ -1,0 +1,5 @@
+Ierobežojumi:
+
+● Neatbalsta audio.
+● RTSP video plūsma tikai spēlē VLC. Nav
+&nbsp;&nbsp;pārliecināts, kāpēc.

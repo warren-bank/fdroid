@@ -1,0 +1,13 @@
+Le funzioni includono:
+
+● Supporto codec Opus, CELT e Speex
+● Certificati
+● Attività vocale
+● Bluetooth
+● Server pubblici
+● Commenti
+● Amministrazione
+● Sovrapposizione
+● Theming
+● Notifiche
+● Integrazione di Orbot

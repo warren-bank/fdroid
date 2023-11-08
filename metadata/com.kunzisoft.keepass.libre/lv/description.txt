@@ -1,0 +1,26 @@
+KeePassDX ļauj rediģēt šifrētus datus vienā failā KeePass formātā un aizpildīt veidlapas drošā veidā.
+
+Funkcijas:
+
+● Izveidot datubāzes failus, ierakstus
+&nbsp;&nbsp;un grupas.
+● Atbalsts .kdb un .kdbx failiem
+&nbsp;&nbsp;(versija 1 līdz 4) ar
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2 algoritmu.
+● Savietojams ar lielāko daļu
+&nbsp;&nbsp;alternatīvo programmu (KeePass,
+&nbsp;&nbsp;KeePassXC, KeeWeb, ...).
+● Ļauj ātri atvērt un kopēt URI/URL
+&nbsp;&nbsp;laukus.
+● Biometrisko atpazīšanu ātrai
+&nbsp;&nbsp;atbloķēšana (pirkstu nospiedumu, sejas
+&nbsp;&nbsp;atbloķēšana, ...).
+● Vienas laika paroles pārvaldība
+&nbsp;&nbsp;(HOTP/TOTP) divfaktoru
+&nbsp;&nbsp;autentifikācijai (2FA).
+● Materiālu dizains ar tēmām.
+● Auto-Aizpildiet un integrācija.
+● Lauka uzpildīšanas tastatūra.
+● Dinamiskās veidnes.
+● Katra ieraksta vēsture.
+● Precīza iestatījumu pārvaldība.

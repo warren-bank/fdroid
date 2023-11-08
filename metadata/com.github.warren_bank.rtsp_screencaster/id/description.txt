@@ -1,0 +1,5 @@
+Batasan:
+
+● Tidak mendukung audio.
+● Stream video RTSP hanya bermain di
+&nbsp;&nbsp;VLC. Tidak yakin mengapa.

@@ -1,0 +1,4 @@
+Ierobežojumi:
+
+● Darbojas tikai uz Android versijām
+&nbsp;&nbsp;&lt; = 7.0 (Nougat, API 24)

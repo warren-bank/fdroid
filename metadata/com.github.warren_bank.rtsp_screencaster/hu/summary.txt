@@ -1,0 +1,1 @@
+Létrehoz egy RTSP videó folyamot, amely tükrözi az eszköz képernyőképernyőjét.

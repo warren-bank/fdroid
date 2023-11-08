@@ -1,0 +1,11 @@
+Resmi WebRTC kaynak kodu repo (tag: 1.0.28513) öğesinden kopyalandı.
+
+JNI yoluyla WebRTC Yerel API ' leri kullanır.
+
+Özellikler aşağıdakileri yapabilme yeteneğini içerir:
+
+● ücretsiz bir genel sinyal sunucusu
+&nbsp;&nbsp;(https: //appr.tc) kullanarak WebRTC
+&nbsp;&nbsp;görüntülü arama yapma
+● Sinyal sunucusu gerekmeden aynı LAN
+&nbsp;&nbsp;üzerindeki 2 aygıtı doğrudan bağlayın.

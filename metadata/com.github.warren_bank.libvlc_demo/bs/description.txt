@@ -1,0 +1,9 @@
+Napomene:
+
+● MainActivity sadrži tekstualno polje
+&nbsp;&nbsp;za ručno unošenje URL-a ili staze
+&nbsp;&nbsp;datoteke na podržani medij za
+&nbsp;&nbsp;reprodukciju.
+● Video aktivnost izvodi pravu
+&nbsp;&nbsp;reprodukciju, i može biti otvorena od
+&nbsp;&nbsp;strane Intent

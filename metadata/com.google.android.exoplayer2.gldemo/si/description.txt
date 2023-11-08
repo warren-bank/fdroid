@@ -1,0 +1,1 @@
+ෂඩර් පෙන්නන්නෙ ඉහත වීඩියෝ එක උඩ තියෙන ඕවර්ලැප් බිට්මැප් එකක්. The overlay bitmap is drawn using an Android canvas, and ඇතුලත් the current frame's presentation timestamp, to show how to get the timestamp of the frame currently on the off-screen surface texture.

@@ -1,0 +1,1 @@
+Ứng dụng tối thiểu để kiểm tra hiệu suất của thư viện libVLC cho Android.

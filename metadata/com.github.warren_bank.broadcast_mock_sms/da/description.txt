@@ -1,0 +1,4 @@
+Begrænsninger:
+
+● fungerer kun på versioner af Android
+&nbsp;&nbsp;&lt; = 5.1 (Lollipop, API 22)

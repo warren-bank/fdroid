@@ -1,0 +1,1 @@
+Aplicativo demo que vitrine a integração ExoPlayer com o Google Cast.

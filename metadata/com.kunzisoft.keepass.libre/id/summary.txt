@@ -1,0 +1,1 @@
+Manajer yang ringan untuk Android.

@@ -1,0 +1,1 @@
+Exemplu de client Android pentru https://appr.tc

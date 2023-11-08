@@ -1,0 +1,1 @@
+Transliuoja mock SMS, kad būtų imituoti naujo teksto (arba duomenų) pranešimo gavimą.

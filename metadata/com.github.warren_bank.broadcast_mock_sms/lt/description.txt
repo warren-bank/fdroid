@@ -1,0 +1,4 @@
+Apribojimai:
+
+● Veikia tik "Android" ir "Android"
+&nbsp;&nbsp;versijose; = 5.1 (Lollipop, API 22)

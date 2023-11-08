@@ -1,0 +1,4 @@
+Apribojimai:
+
+● Veikia tik Android &lt; = 7.0
+&nbsp;&nbsp;versijose (Nougat, API 24)

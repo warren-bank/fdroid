@@ -1,0 +1,25 @@
+KeePassDX cho phép chỉnh sửa dữ liệu được mã hóa trong một tập tin duy nhất trong định dạng KeePass, và để điền vào các hình thức một cách an toàn.
+
+Tính năng:
+
+● Tạo tập tin, mục nhập và nhóm cơ sở
+&nbsp;&nbsp;dư ̃ liệu.
+● Hỗ trợ các tập tin .kdb và .kdbx
+&nbsp;&nbsp;(phiên bản 1 đến 4) với thuật toán
+&nbsp;&nbsp;AES-Twofish-ChChap20-Argon2.
+● Tương thích với phần lớn các chương
+&nbsp;&nbsp;trình thay thế (KeePass, KeePassXC,
+&nbsp;&nbsp;KeeWeb, ...).
+● Cho phép mở và sao chép trường
+&nbsp;&nbsp;URI/URL nhanh chóng.
+● Nhận dạng sinh trắc học để mở khóa
+&nbsp;&nbsp;nhanh (dấu vân tay, mở khóa khuôn mặt,
+&nbsp;&nbsp;...).
+● Quản lý mật khẩu một lần (HOTP/TOTP)
+&nbsp;&nbsp;cho xác thực hai yếu tố (2FA).
+● Thiết kế vật liệu với chủ đề.
+● Tự động-Đổ đầy và tích hợp.
+● Bàn phím lấp đầy.
+● Mẫu động.
+● Lịch sử từng bước.
+● Quản lý chính xác các thiết lập.

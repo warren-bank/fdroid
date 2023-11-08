@@ -1,0 +1,12 @@
+Kopierad från den officiella WebRTC-källkoden repo (tag: 1.0.28513).
+
+Använder WebRTC-APIer via JNI.
+
+Funktioner inkluderar förmågan att:
+
+● göra WebRTC-videosamtal med en fri
+&nbsp;&nbsp;publik signeringsserver (https:
+&nbsp;&nbsp;//appr.tc)
+● Anslut direkt till 2 enheter på samma
+&nbsp;&nbsp;LAN utan att en signaleringsserver
+&nbsp;&nbsp;behöver signera.

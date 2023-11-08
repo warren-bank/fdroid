@@ -1,0 +1,1 @@
+Osserva SMS per i messaggi inviati e localmente trasmette una copia duplicata.

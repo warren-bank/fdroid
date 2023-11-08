@@ -1,0 +1,12 @@
+Copiado del código fuente de código fuente WebRTC oficial (tag: 1.0.28513).
+
+Utiliza las API nativas de WebRTC a través de JNI.
+
+Las características incluyen la capacidad de:
+
+● realizar videollamadas WebRTC
+&nbsp;&nbsp;utilizando un servidor de señalización
+&nbsp;&nbsp;pública gratuito (https: //appr.tc)
+● conectar directamente 2 dispositivos
+&nbsp;&nbsp;en la misma LAN sin necesidad de un
+&nbsp;&nbsp;servidor de señalización

@@ -1,0 +1,1 @@
+Jumble iletişim kuralı uygulamasını kullanan Android için Mumble istemcisi.

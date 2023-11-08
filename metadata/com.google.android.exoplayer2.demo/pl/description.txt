@@ -1,0 +1,1 @@
+Używa on programu ExoPlayer do odtwarzania wielu strumieni testowych. Może być używany jako punkt początkowy lub projekt odniesienia przy opracowywaniu innych aplikacji, które korzystają z biblioteki ExoPlayer.

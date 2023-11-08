@@ -1,0 +1,1 @@
+Poslouží SMS pro odeslané zprávy a lokálně vysílá duplicitní kopii.

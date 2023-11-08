@@ -1,0 +1,12 @@
+Kopieret fra den officielle WebRTC-kildekode repo (kode: 1.0.28513).
+
+Bruger WebRTC Native API'er via JNI.
+
+Funktionerne omfatter muligheden for at:
+
+● foretage WebRTC-videoopkald vha. en
+&nbsp;&nbsp;gratis offentlig signalserver (https:
+&nbsp;&nbsp;//appr.tc)
+● direkte forbinde 2 enheder på det
+&nbsp;&nbsp;samme LAN uden behov for en
+&nbsp;&nbsp;signalserver

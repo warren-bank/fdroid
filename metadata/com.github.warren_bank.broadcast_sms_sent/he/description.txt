@@ -1,0 +1,4 @@
+הגבלות:
+
+● רק גרסאות של Android &lt; 7.0 (Nougat,
+&nbsp;&nbsp;API 24)

@@ -1,0 +1,1 @@
+Dient einem RTSP-Videodatenstrom, der die Anzeige für die Anzeige des Geräts widerspiegelt.

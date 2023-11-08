@@ -1,0 +1,4 @@
+Limitazioni:
+
+● Solo le opere sulle versioni di
+&nbsp;&nbsp;Android &lt; = 5,1 (Lollipop, API 22)

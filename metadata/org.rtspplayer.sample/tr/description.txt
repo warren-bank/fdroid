@@ -1,0 +1,30 @@
+VXG Mobile SDK ' nın sakat bir sürümünü içeren VXG RTSP Player deneme sürümü deneme sürümü. Kayıttan yürütme 2 dakika ile sınırlıdır.
+
+Özellikler şunları içerir:
+
+● Desteklenen akış tipleri:
+&nbsp;&nbsp;○ TSSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Çoklu yayın akışı desteği)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Canlı kameradan kayıt
+● Dijital yakınlaştırma ve resim
+&nbsp;&nbsp;kaydırma
+● Canlı akışlar için küçük resimler
+● M3U kanal listesini destekle
+● Kolay akışlar listesi denetimi
+&nbsp;&nbsp;○ akışlarınızı ekleyin, silin ve
+&nbsp;&nbsp;&nbsp;&nbsp;değiştirin
+● Kamera listesinde göz atılırken
+&nbsp;&nbsp;görüntü önizlemesi
+● Canlı HLS akışı için yeniden yürüt
+● İşlemci eniyilemesi ile donanım
+&nbsp;&nbsp;hızlandırması kullanılarak donanım kod
+&nbsp;&nbsp;çözücü
+&nbsp;&nbsp;○ modern platform için yüksek hızlı
+&nbsp;&nbsp;&nbsp;&nbsp;görsel gerçekleştirme
+● Çok çekirdekli kod çözücü, çift
+&nbsp;&nbsp;çekirdekli aygıtın performansını
+&nbsp;&nbsp;sağlar

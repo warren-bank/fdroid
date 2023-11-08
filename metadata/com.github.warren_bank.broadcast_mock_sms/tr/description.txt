@@ -1,0 +1,5 @@
+Sınırlamalar:
+
+● Yalnızca Android &lt; = 5.1
+&nbsp;&nbsp;sürümlerinde çalışır (Lollipop, API
+&nbsp;&nbsp;22)

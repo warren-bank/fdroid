@@ -1,0 +1,1 @@
+Phục vụ dòng video RTSP làm gương màn hình hiển thị thiết bị.

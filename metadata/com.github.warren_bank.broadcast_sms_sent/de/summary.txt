@@ -1,0 +1,1 @@
+Beobachtet SMS-Nachrichten für gesendete Nachrichten und sendet lokal eine Kopie.

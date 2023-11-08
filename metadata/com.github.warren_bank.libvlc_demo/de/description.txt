@@ -1,0 +1,9 @@
+Anmerkungen:
+
+● MainActivity enthält ein Textfeld, um
+&nbsp;&nbsp;die URL oder den Dateipfad manuell in
+&nbsp;&nbsp;einen unterstützten Datenträger für
+&nbsp;&nbsp;die Wiedergabe einzugeben.
+● VideoActivity führt die eigentliche
+&nbsp;&nbsp;Wiedergabe aus und kann durch Intent
+&nbsp;&nbsp;geöffnet werden

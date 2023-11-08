@@ -1,0 +1,30 @@
+Testversion von VXG RTSP Player, die eine verkrüppelte Version des VXG Mobile SDK enthält. Die Wiedergabe ist auf 2 Minuten begrenzt.
+
+Zu den Features gehören:
+
+● Unterstützte Typen von Streaming:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP
+&nbsp;&nbsp;&nbsp;&nbsp;(Multicast-Datenstromunterstützung)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Aufnahme von Live-Kamera
+● Digitale Zoom-und Bildverschiebung
+● Piktogramme für Livestreams
+● M3U-Kanalliste unterstützen
+● Steuerelement 'Einfache
+&nbsp;&nbsp;Datenstromliste'
+&nbsp;&nbsp;○ Datenströme hinzufügen, löschen und
+&nbsp;&nbsp;&nbsp;&nbsp;ändern
+● Vorschau von Videos beim Browsen in
+&nbsp;&nbsp;der Kamera-Liste
+● Wiedergabe für Live-HLS-Stream
+● Hardware-Decoder mit
+&nbsp;&nbsp;Hardware-Beschleunigung mit
+&nbsp;&nbsp;Prozessoroptimierung
+&nbsp;&nbsp;○ Hochgeschwindigkeits-Rendering für
+&nbsp;&nbsp;&nbsp;&nbsp;moderne Plattform
+● Mehrkern-Decodierung stellt die
+&nbsp;&nbsp;Leistung des Dual-Kerngeräts bereit

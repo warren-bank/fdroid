@@ -1,0 +1,13 @@
+Fitur-fitur mencakup:
+
+● Dukungan codec opus, CELT, dan Speex
+● Sertifikat
+● Aktivitas suara
+● Bluetooth
+● Server Publik
+● Komentar
+● Administrasi
+● Overlay
+● Theming
+● Pemberitahuan
+● Integrasi Orbot

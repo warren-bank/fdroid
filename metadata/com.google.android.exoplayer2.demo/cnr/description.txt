@@ -1,0 +1,1 @@
+On koristi ExoPlayer da igra brojne teze. Može se koristiti kao početna tačka ili referentni projekt kada se razvijaju druge aplikacije koje koriste ExoPlayer biblioteku.

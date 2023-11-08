@@ -1,0 +1,12 @@
+Gekopieerd van de officiële WebRTC broncode repo (tag: 1.0.28513).
+
+Gebruikt WebRTC Native API's via JNI.
+
+Kenmerken omvatten de mogelijkheid om:
+
+● WebRTC videogesprekken maken met
+&nbsp;&nbsp;behulp van een gratis openbare
+&nbsp;&nbsp;signaalserver (https: //appr.tc)
+● direct verbinding 2 apparaten op
+&nbsp;&nbsp;hetzelfde LAN zonder de noodzaak voor
+&nbsp;&nbsp;een signalering server

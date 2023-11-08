@@ -1,0 +1,1 @@
+Vysílá falešný SMS, aby napodoboval příjem nové textové (nebo datové) zprávy.

@@ -1,0 +1,1 @@
+Demo aplikace that showcases ExoPlayer integration with Google Cast.

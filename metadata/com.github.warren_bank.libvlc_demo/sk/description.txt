@@ -1,0 +1,9 @@
+Poznámky:
+
+● MainActivity obsahuje textové pole na
+&nbsp;&nbsp;manuálne zadanie adresy URL alebo
+&nbsp;&nbsp;cesty súboru na podporované médium pre
+&nbsp;&nbsp;prehrávanie
+● Videoaktivita vykonáva skutočné
+&nbsp;&nbsp;prehrávanie a môže byť otvorená v
+&nbsp;&nbsp;prípade Intent

@@ -1,0 +1,26 @@
+KeePassDX leidžia redaguoti šifruotus duomenis į vieną failą KeePass formatu, ir užpildyti formas saugiame kelyje.
+
+Savybės:
+
+● Sukurti duomenų bazės failus, įrašus,
+&nbsp;&nbsp;ir grupes.
+● Parama .kdb ir .kdbx failus (versija 1
+&nbsp;&nbsp;į 4) su AES-Twofish-ChaCha20-Argon2
+&nbsp;&nbsp;algoritmas.
+● Suderinama su dauguma alternatyvių
+&nbsp;&nbsp;programų (KeePass, KeePassXC, KeeWeb,
+&nbsp;&nbsp;...).
+● Leidžia greitai atverti ir kopijuoti
+&nbsp;&nbsp;URI/URL laukus.
+● Biometrinis atpažinimas greitam
+&nbsp;&nbsp;atrakciui (pirštų atspaudai, veido
+&nbsp;&nbsp;atspaudai, ...).
+● Vieno laiko slaptažodžio valdymas
+&nbsp;&nbsp;(HOTP/TOTP) dviejų faktorių
+&nbsp;&nbsp;autentifikavimo (2FA).
+● Medžiagų dizainas su temomis.
+● Auto-Užpildas ir integracija.
+● Laukas užpildymo klaviatūra.
+● Dinaminiai šablonai.
+● Kiekvieno įrašo istorija.
+● Tiksliai valdyti nustatymus.

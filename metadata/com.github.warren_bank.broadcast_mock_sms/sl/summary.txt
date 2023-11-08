@@ -1,0 +1,1 @@
+Oddaja mreži SMS, da posnema prejem novega sporočila (ali podatkov).

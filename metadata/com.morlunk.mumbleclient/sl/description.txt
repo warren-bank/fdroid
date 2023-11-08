@@ -1,0 +1,13 @@
+Funkcije vključujejo:
+
+● Podpora za Opus, CELT in Speex codec
+● Potrdila
+● Glasova
+● Bluetooth
+● Javni strežniki
+● Komentarji
+● Skrbništvo nad
+● Prekritje
+● TegoName
+● Obvestila
+● Integracija orbotov

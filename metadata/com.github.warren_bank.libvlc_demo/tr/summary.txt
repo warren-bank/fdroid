@@ -1,0 +1,1 @@
+Android için libVLC kitaplığının performansını test etmek için en düşük uygulama.

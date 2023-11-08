@@ -1,0 +1,8 @@
+Napomene:
+
+● MainActivity sadrži tekstuno polje za
+&nbsp;&nbsp;ručno unos URL-a ili staze datoteke na
+&nbsp;&nbsp;podržani medij za reprodukciju
+● VideoAktivnost izvodi stvarnu
+&nbsp;&nbsp;reprodukciju i može se otvoriti u
+&nbsp;&nbsp;Inšatoru

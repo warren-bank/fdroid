@@ -1,0 +1,1 @@
+Phát sóng SMS để bắt chước biên lai của tin nhắn văn bản mới (hoặc dữ liệu).

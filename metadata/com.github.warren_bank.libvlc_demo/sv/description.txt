@@ -1,0 +1,8 @@
+Anm.:
+
+● MainActivity innehåller ett textfält
+&nbsp;&nbsp;för att manuellt ange URL-adressen
+&nbsp;&nbsp;eller filsökvägen till ett hanterat
+&nbsp;&nbsp;medium för uppspelning.
+● Videoaktivitet utför den verkliga
+&nbsp;&nbsp;uppspelningen och kan öppnas av Intent

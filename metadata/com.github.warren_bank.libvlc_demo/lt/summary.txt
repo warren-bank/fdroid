@@ -1,0 +1,1 @@
+Minimali programa išbandyti "libVLC" biblioteką, skirtą "Android".

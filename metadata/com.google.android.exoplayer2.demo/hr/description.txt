@@ -1,0 +1,1 @@
+Koristi ExoPlayer da bi odigrao niz probne topova. Može se koristiti kao početna točka ili referentni projekt kada se razviju druge aplikacije koje koriste ExoPlayyer knjižnicu.

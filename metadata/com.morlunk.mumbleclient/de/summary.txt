@@ -1,0 +1,1 @@
+Mumble-Client für Android, die die Jumble-Protokoll-Implementierung verwendet.

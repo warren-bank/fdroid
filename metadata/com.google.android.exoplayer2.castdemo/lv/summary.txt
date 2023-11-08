@@ -1,0 +1,1 @@
+Demo programma, kas showcases ExoPlayer integrācija ar Google Cast.

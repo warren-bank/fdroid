@@ -1,0 +1,1 @@
+Gölgelik, videonun üstünde bir örtüşme eşlemi gösterir. Üst katman bit eşlemi, bir Android tuval kullanılarak çizilir ve geçerli çerçevenin sunum zaman damgasını, ekran dışında bulunan yüzey dokusunda bulunan çerçevenin zaman damgasını nasıl alacağını göstermek için içerir.

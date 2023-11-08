@@ -1,0 +1,1 @@
+Šér zobrazuje překrytí bitové mapy na vrcholu videa. Překryvná bitmapa se kreslí pomocí plátna Android a obsahuje časové razítko prezentace aktuálního rámce, aby ukazovaly, jak získat časové razítko rámce, který se momentálně nachází ve struktuře povrchu mimo obrazovku.

@@ -1,0 +1,13 @@
+Funkcijas ietver:
+
+● Opus, CELT un Speex codec atbalsts
+● Sertifikāti
+● Balss darbība
+● Bluetooth
+● Valsts serveri
+● Piezīmes
+● Lietošanas veids
+● Pārgulēšana
+● Tematiskais
+● Paziņojumi
+● Orbot integrācija

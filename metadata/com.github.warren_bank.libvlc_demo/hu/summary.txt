@@ -1,0 +1,1 @@
+Minimális alkalmazás a libVLC függvénytár teljesítményének teszteléséhez Android rendszerhez.

@@ -1,0 +1,13 @@
+Među značajkama su:
+
+● Ops, CELT i Speex codec podrška
+● Certifikati
+● Govorna aktivnost
+● Blueto
+● Javni poslužitelji
+● Komentari
+● Administracija
+● Prekrivanje
+● Upomoć!
+● Obavijesti
+● Orbot integracija

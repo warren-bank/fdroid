@@ -1,0 +1,1 @@
+Zobraziť sieťový prúd z IP kamier, video serverov a sledovacie systémy.

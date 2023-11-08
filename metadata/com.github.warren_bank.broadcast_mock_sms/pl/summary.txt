@@ -1,0 +1,1 @@
+Umożliwia rozgłoszenie wiadomości SMS w celu naśladowania przyjęcia nowego komunikatu (lub danych).

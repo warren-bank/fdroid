@@ -1,0 +1,29 @@
+Vērtēšanas izmēģinājuma versija VXG RTSP Player, kas satur kroplo versiju VXG Mobile SDK. Atskaņošana ir ierobežota līdz 2 minūtēm.
+
+Funkcijas ietver:
+
+● Atbalstītie straumēšanas veidi:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Multicast stream atbalsts)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Ieraksts no dzīva fotoaparāta
+● Digitālā tālummaiņa un attēlu
+&nbsp;&nbsp;pārslēgšana
+● Sīktēli dzīvām strautiem
+● Atbalsta M3U kanālu saraksts
+● Viegli plūsmu saraksta vadība
+&nbsp;&nbsp;○ pievienot, dzēst un modificēt savas
+&nbsp;&nbsp;&nbsp;&nbsp;straumes
+● Priekšskatījums video, pārlūkojot
+&nbsp;&nbsp;kameru sarakstā
+● Pārspēlēt tiešraidi HLS plūsmā
+● Aparatūras dekoders, izmantojot
+&nbsp;&nbsp;aparatūras paātrinājumu ar procesora
+&nbsp;&nbsp;optimizāciju
+&nbsp;&nbsp;○ liela ātruma renderēšana modernai
+&nbsp;&nbsp;&nbsp;&nbsp;platformai
+● Daudzkodolu dekodēšana nodrošina
+&nbsp;&nbsp;divkodolu ierīces veiktspēju

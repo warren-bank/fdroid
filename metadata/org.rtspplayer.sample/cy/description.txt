@@ -1,0 +1,27 @@
+Fersiwn prawf gwerthuso VXG RTP Player, sy'n cynnwys fersiwn a gafodd ei barlysu o'r VXG Mobile SDK. Mae chwarae wedi ei gyfyngu i 2 munud.
+
+Mae'r nodweddion yn cynnwys:
+
+● Mathau o lif a gynhelir:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (cymorth ffrwd MullP)
+&nbsp;&nbsp;○ HTTP-HS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Recordio o gamera byw
+● Chwyddo a llun digidol yn symud
+● Lluniau cryno ar gyfer ffrydiau byw
+● Name
+● Rheoli rhestr ffrydiau hawdd
+&nbsp;&nbsp;○ ychwanegu, dileu ac addasu eich
+&nbsp;&nbsp;&nbsp;&nbsp;ffrydiau
+● Rhagolygu fideo wrth bori yn y rhestr
+&nbsp;&nbsp;camera
+● Name
+● Dadgodiwr caledwedd gan ddefnyddio
+&nbsp;&nbsp;cyflymu caledwedd gyda chydbrosesydd
+&nbsp;&nbsp;○ llunio cyflymder uchel ar gyfer
+&nbsp;&nbsp;&nbsp;&nbsp;platfform modern
+● Mae dadgodio aml-graidd yn darparu
+&nbsp;&nbsp;perfformiad y ddyfais graidd ddeuol

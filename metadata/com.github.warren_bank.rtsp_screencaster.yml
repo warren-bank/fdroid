@@ -1,0 +1,27 @@
+# https://github.com/warren-bank/Android-RTSP-ScreenCaster/blob/v01.01.05/android-studio-project/constants.gradle
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Connectivity
+- Internet
+- Multimedia
+- System
+License: GPL-3.0
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/Android-RTSP-ScreenCaster.git
+SourceCode: https://github.com/warren-bank/Android-RTSP-ScreenCaster
+IssueTracker: https://github.com/warren-bank/Android-RTSP-ScreenCaster/issues
+
+AutoName: RTSP ScreenCaster
+Name: RTSP ScreenCaster
+WebSite: ''
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 001.01.05-21API
+CurrentVersionCode: 1010521
+UpdateCheckMode: None
+AutoUpdateMode: None

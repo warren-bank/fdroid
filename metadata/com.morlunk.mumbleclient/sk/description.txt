@@ -1,0 +1,13 @@
+K funkciám patrí:
+
+● Podpora pre Opus, CELT a kodek Speex
+● Certifikáty
+● Hlasová aktivita
+● Bluetooth
+● Verejné servery
+● Komentáre
+● Administrácia
+● Prekrytie
+● Theming
+● Oznámenia
+● Orbotová integrácia

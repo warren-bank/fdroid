@@ -1,0 +1,25 @@
+KeePassDX, KeePass வடிவத்தில் உள்ள ஒரு கோப்பில் மறையாக்கப்பட்ட தரவுகளை எடிட் செய்யும், பாதுகாப்பான வழியில் வடிவத்தை நிரப்பும்.
+
+தன்மைகள்:
+
+● தரவுத்தள கோப்புகள், உள்ளீடுகள்,
+&nbsp;&nbsp;மற்றும் குழுக்களை உருவாக்கு.
+● .kdb மற்றும் .kdbx கோப்புகளுக்கான
+&nbsp;&nbsp;ஆதரவு (பதிப்பு 1 to 4)
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2 algorithm.
+● பெரும்பாலான மாற்று நிரல்கள் (KeePass,
+&nbsp;&nbsp;KeePassXC, KeeWeb, ...).
+● விரைவில் உள்ள URI/URL களை திறக்கும்
+&nbsp;&nbsp;மற்றும் நகலெடுக்கிறது.
+● வேகமான unlocking (fingerprint, face
+&nbsp;&nbsp;unlock, ...).
+● One-Time Password management
+&nbsp;&nbsp;(HOTP/TOTP) for two-factor
+&nbsp;&nbsp;authentication (2FA).
+● பொருள் வடிவமைப்பு
+● தானியங்கி-பழுப்பு மற்றும்
+&nbsp;&nbsp;ஒருங்கிணைப்பு.
+● புலம் நிரப்பு விசைப்பலகை
+● இயக்க வார்ப்புருக்கள்.
+● ஒவ்வொரு உள்ளீட்டின் வரலாறு.
+● அமைப்புகளின் மேலாண்மை

@@ -1,0 +1,1 @@
+Il-post ta 'osservazzjoni juri bippa ta' sovrappożizzjoni fuq il-vidjow. Il-bitmappa overlay hija mfassla bl-użu ta 'kanvas Android, u tinkludi l-kronogramma ta' preżentazzjoni attwali tal-qafas, biex juru kif tikseb l-kronogramma tal-qafas attwalment fil-konsistenza tal-wiċċ off-screen.

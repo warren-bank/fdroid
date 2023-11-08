@@ -1,0 +1,1 @@
+비디오를 GLSurfaceView로 렌더링하고 GL 셰이더를 적용하는 ExoPlayer 데모.

@@ -1,0 +1,9 @@
+Bilješke:
+
+● MainActivity sadrži tekstualno polje
+&nbsp;&nbsp;za ručno unošenje URL-a ili staze
+&nbsp;&nbsp;datoteke na podržani medij za
+&nbsp;&nbsp;reprodukciju.
+● Video aktivnost obavlja reprodukciju,
+&nbsp;&nbsp;i može biti otvorena od strane
+&nbsp;&nbsp;Inšatora.

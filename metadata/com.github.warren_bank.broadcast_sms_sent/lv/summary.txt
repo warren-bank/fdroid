@@ -1,0 +1,1 @@
+Ievēro SMS sūtītiem ziņojumiem, un lokāli raida dublikātu kopiju.

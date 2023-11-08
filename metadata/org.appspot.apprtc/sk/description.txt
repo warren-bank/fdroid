@@ -1,0 +1,12 @@
+Kopírované z oficiálneho WebRTC zdrojového kódu repo (značka: 1.0.28513).
+
+Používa WebRTC Native API cez JNI.
+
+Medzi funkcie patrí schopnosť:
+
+● vykonať videohovory WebRTC s použitím
+&nbsp;&nbsp;voľného verejného signalizujúceho
+&nbsp;&nbsp;servera (https: //appr.tc)
+● priamo pripojiť 2 zariadenia v
+&nbsp;&nbsp;rovnakej LAN bez potreby
+&nbsp;&nbsp;signalizujúceho servera

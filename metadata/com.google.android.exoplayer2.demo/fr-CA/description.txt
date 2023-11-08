@@ -1,0 +1,1 @@
+Il utilise ExoPlayer pour jouer un certain nombre de flux de test. Il peut être utilisé comme point de départ ou comme projet de référence lors du développement d'autres applications qui utilisent la bibliothèque ExoPlayer.

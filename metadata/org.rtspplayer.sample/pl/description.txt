@@ -1,0 +1,28 @@
+Ocena wersji próbnej odtwarzacza VXG RTSP, która zawiera kaleką wersję pakietu VXG Mobile SDK. Odtwarzanie jest ograniczone do 2 minut.
+
+Dostępne są następujące funkcje:
+
+● Obsługiwane typy przetwarzania
+&nbsp;&nbsp;strumieniowego:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (obsługa strumieni Multicast)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Zapis z kamery na żywo
+● Cyfrowy zoom i przesuwanie zdjęć
+● Miniatury dla strumieni na żywo
+● Obsługa listy kanałów M3U
+● Sterowanie listą łatwych strumieni
+&nbsp;&nbsp;○ dodawanie, usuwanie i modyfikowanie
+&nbsp;&nbsp;&nbsp;&nbsp;strumieni
+● Podgląd obrazu wideo podczas
+&nbsp;&nbsp;przeglądania listy kamer
+● Odtwarzanie strumienia HLS na żywo
+● Dekoder sprzętowy z przyspieszeniem
+&nbsp;&nbsp;sprzętowym z optymalizacją procesora
+&nbsp;&nbsp;○ wysoka prędkość renderingu dla
+&nbsp;&nbsp;&nbsp;&nbsp;nowoczesnej platformy
+● Dekodowanie wielordzeniowe zapewnia
+&nbsp;&nbsp;wydajność urządzenia dwurdzeniowego.

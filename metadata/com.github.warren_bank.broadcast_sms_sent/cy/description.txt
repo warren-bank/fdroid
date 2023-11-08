@@ -1,0 +1,4 @@
+Cyfyngiadau:
+
+● Dim ond gwaith ar fersiynau Android
+&nbsp;&nbsp;&lt; = 7.0 (Nougat, API 24)

@@ -1,0 +1,13 @@
+Ominaisuuksiin kuuluu:
+
+● Opus, CELT ja Speex codec -tuki
+● Todistukset
+● Äänitoiminta
+● Bluetooth
+● Julkiset palvelimet
+● Huomautuksia
+● Hallinto
+● Overlay
+● Theming
+● Ilmoitukset
+● Orbotin integrointi

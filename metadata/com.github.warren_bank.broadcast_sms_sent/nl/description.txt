@@ -1,0 +1,4 @@
+Beperkingen:
+
+● Werkt alleen op versies van Android
+&nbsp;&nbsp;&lt; = 7.0 (Nougat, API 24)

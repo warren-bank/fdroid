@@ -1,0 +1,1 @@
+Serveert een RTSP-videostroom die het beeldscherm van het apparaat weerspiegelt.

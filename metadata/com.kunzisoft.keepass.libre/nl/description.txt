@@ -1,0 +1,26 @@
+KeePassDX maakt het bewerken van versleutelde gegevens in een enkel bestand in KeePass-formaat, en het invullen van formulieren op een veilige manier.
+
+Functies:
+
+● Databasebestanden, items en groepen
+&nbsp;&nbsp;maken.
+● Ondersteuning voor .kdb en .kdbx
+&nbsp;&nbsp;bestanden (versie 1 tot 4) met
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2 algoritme.
+● Compatibel met de meeste alternatieve
+&nbsp;&nbsp;programma's (KeePass, KeePassXC,
+&nbsp;&nbsp;KeeWeb, ...).
+● Maakt het openen en kopiëren van
+&nbsp;&nbsp;URI/URL-velden snel mogelijk.
+● Biometrische herkenning voor snelle
+&nbsp;&nbsp;ontgrendeling (vingerafdruk, gezicht
+&nbsp;&nbsp;ontgrendelen, ...).
+● Eenmalige wachtwoordbeheer (HOTP/TOTP)
+&nbsp;&nbsp;voor verificatie met twee factoren
+&nbsp;&nbsp;(2FA).
+● Materiaalontwerp met thema's.
+● Automatisch vullen en integreren.
+● Toetsenbord in het veld vullen.
+● Dynamische sjablonen.
+● Historie van elk item.
+● Precies beheer van de instellingen.

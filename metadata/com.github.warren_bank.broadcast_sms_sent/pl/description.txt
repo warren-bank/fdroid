@@ -1,0 +1,5 @@
+Ograniczenia:
+
+● Działa tylko w przypadku wersji
+&nbsp;&nbsp;systemu Android &lt; = 7.0 (Nougat,
+&nbsp;&nbsp;API 24)

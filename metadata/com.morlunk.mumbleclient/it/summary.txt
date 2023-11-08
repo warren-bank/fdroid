@@ -1,0 +1,1 @@
+Client umile per Android che utilizza l'implementazione del protocollo Jumble.

@@ -1,0 +1,9 @@
+Note:
+
+● MainActivity contiene un campo di
+&nbsp;&nbsp;testo per inserire manualmente l'URL o
+&nbsp;&nbsp;il percorso file ad un supporto
+&nbsp;&nbsp;supportato per la riproduzione
+● VideoActivity esegue la riproduzione
+&nbsp;&nbsp;effettiva, e può essere aperto da
+&nbsp;&nbsp;Intent

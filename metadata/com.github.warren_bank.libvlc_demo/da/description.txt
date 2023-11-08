@@ -1,0 +1,8 @@
+Bemærkninger:
+
+● MainAktivitet indeholder et tekstfelt
+&nbsp;&nbsp;for manuelt at angive URL ' en eller
+&nbsp;&nbsp;filstien til et understøttet medie for
+&nbsp;&nbsp;playback
+● Videoaktivitet udfører den faktiske
+&nbsp;&nbsp;afspilning, og kan åbnes af Intent

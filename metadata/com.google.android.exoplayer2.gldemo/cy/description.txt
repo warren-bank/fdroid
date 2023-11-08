@@ -1,0 +1,1 @@
+Mae'r stender yn dangos Didfap gorgyffwrdd ar ben y fideo. Mae'r bitmap tros-haen yn cael ei thynnu gan ddefnyddio cynfas Android, ac mae'n cynnwys stamp amser cyflwyniad y ffrâm gyfredol, i ddangos sut i gael stamp amser y ffrâm ar hyn o bryd yn y gwead arwyneb y tu allan i'r sgrin.

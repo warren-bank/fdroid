@@ -1,0 +1,8 @@
+config.yml
+keystore.p12
+
+.bin/log/
+
+repo/
+srclibs/
+tmp/

@@ -1,0 +1,27 @@
+KeePassDX umożliwia edycję zaszyfrowanych danych w jednym pliku w formacie KeePass, a także wypełnianie formularzy w bezpieczny sposób.
+
+Funkcje:
+
+● Tworzenie zbiorów bazy danych, wpisów
+&nbsp;&nbsp;i grup.
+● Obsługa plików .kdb i .kdbx (wersja od
+&nbsp;&nbsp;1 do 4) z algorytmem
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2.
+● Kompatybilny z większością programów
+&nbsp;&nbsp;alternatywnych (KeePass, KeePassXC,
+&nbsp;&nbsp;KeeWeb, ...).
+● Umożliwia szybkie otwieranie i
+&nbsp;&nbsp;kopiowanie pól identyfikatora
+&nbsp;&nbsp;URI/adresu URL.
+● Rozpoznawanie biometryczne do
+&nbsp;&nbsp;szybkiego odblokowania (odcisk palca,
+&nbsp;&nbsp;odblokowanie twarzy, ...).
+● Zarządzanie hasłem jednorazowym
+&nbsp;&nbsp;(HOTP/TOTP) do uwierzytelniania
+&nbsp;&nbsp;dwuskładnikowego (2FA).
+● Projekt materiałowy z kompozycjami.
+● Automatyczne wypełnianie i integracja.
+● Klawiatura wypełnienia pola.
+● Szablony dynamiczne.
+● Historia każdej pozycji.
+● Precyzyjne zarządzanie ustawieniami.

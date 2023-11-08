@@ -1,0 +1,1 @@
+Mumle-klient til Android, der bruger Jumble-protokolimplementeringen.

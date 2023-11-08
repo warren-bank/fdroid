@@ -1,0 +1,1 @@
+Пример клиента Android для https://appr.tc

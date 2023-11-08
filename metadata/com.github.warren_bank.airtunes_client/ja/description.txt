@@ -1,0 +1,1 @@
+Streams は、 AirPort Express やその他のAirンズ (バージョン 1) の受信機に音楽を提供しています。

@@ -1,0 +1,29 @@
+Zkušební verze VXG RTSP Player, která obsahuje zmrzačenou verzi VXG Mobile SDK. Přehrávání je omezeno na 2 minuty.
+
+Vlastnosti zahrnují:
+
+● Podporované typy proudu:
+&nbsp;&nbsp;○ ODP.
+&nbsp;&nbsp;○ RP
+&nbsp;&nbsp;○ UDP (Podpora proudu výběrového
+&nbsp;&nbsp;&nbsp;&nbsp;vysílání)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Záznam z živé kamery
+● Přesun digitálního zobrazení a obrázků
+● Miniatury pro živé proudy
+● Podpora seznamu kanálů M3U
+● Ovládací prvek seznamu snadného proudu
+&nbsp;&nbsp;○ přidání, odstranění a změna vašich
+&nbsp;&nbsp;&nbsp;&nbsp;proudů
+● Zobrazit náhled videa během procházení
+&nbsp;&nbsp;seznamu kamer
+● Přehrát pro aktuální proud HLS
+● Hardwarový dekodér používající
+&nbsp;&nbsp;hardwarovou akceleraci při
+&nbsp;&nbsp;optimalizaci procesoru
+&nbsp;&nbsp;○ vysoké rychlosti vykreslování pro
+&nbsp;&nbsp;&nbsp;&nbsp;moderní platformu
+● Dekódování Multi-core poskytuje výkon
+&nbsp;&nbsp;zařízení s duálním jádrem

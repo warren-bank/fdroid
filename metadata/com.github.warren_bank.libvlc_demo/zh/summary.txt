@@ -1,0 +1,1 @@
+用于测试 Android 的 libVLC 库性能的最低应用程序。

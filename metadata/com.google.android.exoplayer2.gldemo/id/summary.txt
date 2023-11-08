@@ -1,0 +1,1 @@
+Demo ExoPlayer yang membuat video menjadi GLSurfaceView dan menerapkan shader GL.

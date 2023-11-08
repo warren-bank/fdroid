@@ -1,0 +1,5 @@
+Omezení:
+
+● Nepodporuje zvuk.
+● Video proud RTSP se přehrává pouze ve
+&nbsp;&nbsp;VLC. Nevím proč.

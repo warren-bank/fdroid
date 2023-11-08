@@ -1,0 +1,1 @@
+ExoPlayer demo, mis muudab video GLSurfaceView ning rakendab GL shaderit.

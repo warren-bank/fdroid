@@ -1,0 +1,1 @@
+Teenib RTSP video stream, mis peeglid seade ekraan ekraan.

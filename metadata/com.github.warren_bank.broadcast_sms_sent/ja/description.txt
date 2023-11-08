@@ -1,0 +1,4 @@
+制限事項 :
+
+● Android &lt;= 7.0 (Nougat、 API 24)
+&nbsp;&nbsp;のバージョンでのみ機能します。

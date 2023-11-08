@@ -1,0 +1,12 @@
+Copié à partir du code source du code source WebRTC (balise: 1.0.28513).
+
+Utilise les API natives WebRTC via JNI.
+
+Les fonctions comprennent la capacité:
+
+● effectuer des appels vidéo WebRTC à
+&nbsp;&nbsp;l'aide d'un serveur de signalisation
+&nbsp;&nbsp;publique (https: //appr.tc)
+● directement connecter 2 unités sur le
+&nbsp;&nbsp;même réseau local sans avoir besoin
+&nbsp;&nbsp;d'un serveur de signalisation

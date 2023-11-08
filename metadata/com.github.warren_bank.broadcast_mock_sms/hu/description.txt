@@ -1,0 +1,4 @@
+Korlátozások:
+
+● Csak Android &lt; 5.1 (Lollipop, API
+&nbsp;&nbsp;22) változatain működik.

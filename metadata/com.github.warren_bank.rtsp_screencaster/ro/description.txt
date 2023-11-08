@@ -1,0 +1,5 @@
+Limitări:
+
+● Nu suportă audio.
+● RTSP video stream joacă numai în VLC.
+&nbsp;&nbsp;Nu sunt sigur de ce.

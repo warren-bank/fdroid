@@ -1,0 +1,8 @@
+Notater:
+
+● Maineaktivitet inneholder et tekstfelt
+&nbsp;&nbsp;for å manuelt skrive inn URL-eller
+&nbsp;&nbsp;filbanen til et støttet medium for
+&nbsp;&nbsp;avspilling
+● Videoaktivitet utfører den faktiske
+&nbsp;&nbsp;playback, og kan åpnes av Intent

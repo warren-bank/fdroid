@@ -1,0 +1,1 @@
+Broadcasts a mock SMS untuk mimik resit teks baru (atau data) mesej.

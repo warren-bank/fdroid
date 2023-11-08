@@ -1,0 +1,12 @@
+Prekopirano iz uradne povratne kode izvorne kode WebRTC (oznaka: 1.0.28513).
+
+Uporablja Izvirne API-Je WebRTC Prek JNI.
+
+Funkcije vključujejo zmožnost za:
+
+● izvajanje video klicev WebRTC z
+&nbsp;&nbsp;uporabo prostega javnega signalnega
+&nbsp;&nbsp;strežnika (https: //appr.tc)
+● neposredno povezati dve napravi v
+&nbsp;&nbsp;istem lokalnem omrežju, ne da bi bilo
+&nbsp;&nbsp;potrebno za signaliziranje strežnika

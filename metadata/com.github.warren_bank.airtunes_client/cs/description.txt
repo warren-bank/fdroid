@@ -1,0 +1,1 @@
+Streams music to an AirPort Express, nebo jiné AirTunes (verze 1) přijímač.

@@ -1,0 +1,13 @@
+Fitur termasuk:
+
+● Opus, CELT, dan Speex sokongan kodeks
+● Sijil
+● Aktiviti suara
+● Bluetooth
+● Pelayan Awam
+● Komen
+● Pentadbiran
+● Overlay
+● & Baru:
+● Pemakluman
+● Penyepaduan orbot

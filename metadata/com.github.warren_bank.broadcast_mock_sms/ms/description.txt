@@ -1,0 +1,4 @@
+Limitasi:
+
+● Hanya berfungsi pada versi Android
+&nbsp;&nbsp;&lt; = 5.1 (Lollipop, API 22)

@@ -1,0 +1,1 @@
+Sert un flux vidéo RTSP qui reflète l'écran d'affichage de l'unité.

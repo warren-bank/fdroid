@@ -1,0 +1,1 @@
+Emituje lažni SMS da oponašaju primitak nove poruke (ili podataka).

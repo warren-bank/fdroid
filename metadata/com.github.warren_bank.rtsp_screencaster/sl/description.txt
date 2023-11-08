@@ -1,0 +1,5 @@
+Omejitve:
+
+● Ne podpira zvoka.
+● Video tok RTSP predvaja samo VLC. Ne
+&nbsp;&nbsp;vem, zakaj.

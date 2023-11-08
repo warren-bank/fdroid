@@ -1,0 +1,25 @@
+KeepassDX membenarkan penyuntingan data yang disulitkan dalam fail tunggal dalam format KeePass, dan untuk mengisi borang dalam cara yang selamat.
+
+Fitur:
+
+● Cipta fail pangkalan data, entri, dan
+&nbsp;&nbsp;kumpulan.
+● Sokongan untuk fail .kdb dan .kdbx
+&nbsp;&nbsp;(versi 1 hingga 4) dengan
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2 algoritma.
+● Serasi dengan majoriti program
+&nbsp;&nbsp;alternatif (Keepas, KeepassXC, KeeWeb,
+&nbsp;&nbsp;...).
+● Benarkan pembukaan dan menyalin medan
+&nbsp;&nbsp;URI/URL dengan cepat.
+● Pengecaman biometrik untuk nyahkunci
+&nbsp;&nbsp;pantas (cap jari, kunci muka, ...).
+● Satu-Masa pengurusan Kata Laluan
+&nbsp;&nbsp;(HOTP/TOTP) untuk pengesahihan dua
+&nbsp;&nbsp;faktor (2FA).
+● Reka bentuk bahan dengan tema.
+● Isian Auto dan Integrasi.
+● Pengisian papan kekunci.
+● Templat dinamik.
+● Sejarah setiap entri.
+● Pengurusan tepat tetapan.

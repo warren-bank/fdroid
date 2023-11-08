@@ -1,0 +1,1 @@
+Shader viser en overlap bitmap på toppen af videoen. Overlay-bitmap trækkes med et Android-lærred og inkluderer den aktuelle ramme for præsentationsstempel for at vise, hvordan du får tidsstemplet for rammen, der aktuelt er i overfladen på overfladen.

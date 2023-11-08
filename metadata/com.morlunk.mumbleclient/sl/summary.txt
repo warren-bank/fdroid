@@ -1,0 +1,1 @@
+Momljni odjemalec za Android, ki uporablja implemento protokola Jumble.

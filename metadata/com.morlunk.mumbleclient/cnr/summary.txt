@@ -1,0 +1,1 @@
+Mumljavi klijent za androida koji koristi Skakatsku implementaciju.

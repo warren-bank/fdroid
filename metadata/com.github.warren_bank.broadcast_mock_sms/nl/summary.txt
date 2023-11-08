@@ -1,0 +1,1 @@
+Verzendt een mock SMS om de ontvangst van een nieuwe tekst (of gegevens) bericht na te bootsen.

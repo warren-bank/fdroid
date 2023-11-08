@@ -1,0 +1,13 @@
+Kopirano iz službene WebRTC izvorne kodne repo (oznaka: 1.0.28513).
+
+Koristi WebRTC izvorne API-je preko JNI.
+
+Funkcije uključuju mogućnost:
+
+● napraviti WebRTC video pozive
+&nbsp;&nbsp;korištenjem besplatnog javnog
+&nbsp;&nbsp;signaliziranja poslužitelja (https:
+&nbsp;&nbsp;//appr.tc)
+● izravno povezati 2 uređaja na istom
+&nbsp;&nbsp;LAN-u bez potrebe za signaliziranjem
+&nbsp;&nbsp;poslužitelja

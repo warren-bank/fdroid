@@ -1,0 +1,12 @@
+అధికారిక WebRTC source code repo (tag: 1.0.28513) నుండి కాపీ చేయబడింది.
+
+Uses WebRTC Native APIs via JNI.
+
+విశేషాలు:
+
+● వెబ్ RTC వీడియో కాల్స్ ను ఒక ఉచిత
+&nbsp;&nbsp;పబ్లిక్ సిగ్నాలింగ్ సర్వర్ (http: //
+&nbsp;&nbsp;www.
+● సిగ్నలింగ్ సర్వర్ అవసరం లేకుండా ఒకే
+&nbsp;&nbsp;LAN మీద నేరుగా 2 పరికరాలను
+&nbsp;&nbsp;అనుసంధానించండి.

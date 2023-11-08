@@ -1,0 +1,13 @@
+Features include:
+
+● Opus, CELT, and Speex codec support
+● Certificates
+● Voice activity
+● Bluetooth
+● Public servers
+● Comments
+● Administration
+● Overlay
+● Theming
+● Notifications
+● Orbot integration

@@ -1,0 +1,13 @@
+Funktioner är:
+
+● Opus, CELT och Speex codec-stöd
+● Certifikat
+● Röstaktivitet
+● Bluetooth
+● Offentliga servrar
+● Kommentarer
+● Administrering
+● Överlägg
+● TemaComment
+● Underrättelser
+● Orbotintegrering

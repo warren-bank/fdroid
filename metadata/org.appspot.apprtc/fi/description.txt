@@ -1,0 +1,12 @@
+Virallisen WebRTC-lähdekoodin repo (tunniste: 1.0.28513).
+
+Noutaa WebRTC-sovellusrajapinnan JNI :n kautta.
+
+Ominaisuuksiin kuuluu kyky:
+
+● Tee WebRTC-videopuhelu käyttämällä
+&nbsp;&nbsp;vapaata julkista viestipalvelinta
+&nbsp;&nbsp;(https: //appr.tc)
+● Yhdistää suoraan toisiinsa kaksi
+&nbsp;&nbsp;laitetta samassa lähiverkossa ilman
+&nbsp;&nbsp;viestipalvelimen tarvetta

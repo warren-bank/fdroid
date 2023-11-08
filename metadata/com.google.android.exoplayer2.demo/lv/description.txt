@@ -1,0 +1,1 @@
+Tā izmanto ExoPlayer, lai spēlētu vairākas testa plūsmas. To var izmantot kā sākuma punktu vai atsauces projektu, izstrādājot citus lietojumus, kas izmanto ExoPlayer bibliotēku.

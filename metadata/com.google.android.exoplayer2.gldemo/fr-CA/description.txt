@@ -1,0 +1,1 @@
+Le shader affiche un bitmap de chevauchement sur le dessus de la vidéo. Le bitmap de recouvrement est dessiné à l'aide d'un canevas Android, et inclut l'horodatage de présentation du cadre courant, pour montrer comment obtenir l'horodatage du cadre actuellement dans la texture de surface de l'écran.

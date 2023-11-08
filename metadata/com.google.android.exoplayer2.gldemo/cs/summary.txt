@@ -1,0 +1,1 @@
+ExoPlayer demo, který vykresluje video na GLSurfaceView a používá šikmo hlavní knihy.

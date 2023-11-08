@@ -1,0 +1,1 @@
+ExoPlayer demo, joka tekee videon GLSurfaceView-videolle ja käyttää GL-shaderia.

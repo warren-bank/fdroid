@@ -1,0 +1,1 @@
+Ia menggunakan ExoPlayer untuk memainkan sebilangan strim ujian. Ia boleh digunakan sebagai titik permulaan atau rujukan projek apabila membangunkan aplikasi lain yang membuat penggunaan pustaka ExoPlayer.

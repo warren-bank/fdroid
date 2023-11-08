@@ -1,0 +1,1 @@
+Mumble klientas Android, kad naudoja Jumble protokolo įgyvendinimą.

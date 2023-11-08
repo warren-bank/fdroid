@@ -1,0 +1,1 @@
+The shader menunjukkan peta bit bertindih di atas video. Peta bit overlay dilukis menggunakan kanvas Android, dan sertakan setem masa persembahan bingkai semasa, untuk menunjukkan bagaimana untuk mendapatkan setem masa bingkai yang kini dalam tekstur permukaan skrin off-skrin.

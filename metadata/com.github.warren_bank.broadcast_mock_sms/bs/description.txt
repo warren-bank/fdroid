@@ -1,0 +1,4 @@
+Ograničenja:
+
+● Samo radovi na verzijama Androida &lt;
+&nbsp;&nbsp;= 5.1 (Lollipop, API 22)

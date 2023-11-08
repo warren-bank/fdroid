@@ -1,0 +1,29 @@
+Versione trial di valutazione di VXG RTSP Player, che contiene una versione cripta dell'SDK VXG Mobile. La riproduzione è limitata a 2 minutes.
+
+Le funzioni includono:
+
+● Tipi di streaming supportati:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (supporto a flusso Multicast)
+&nbsp;&nbsp;○ HTTP - HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Registrazione dalla fotocamera dal
+&nbsp;&nbsp;vivo
+● Zoom digitale e immagine spostata
+● Miniature per flussi live
+● Supporto elenco canali M3U
+● Controllo elenco flussi facili
+&nbsp;&nbsp;○ aggiungere, eliminare e modificare i
+&nbsp;&nbsp;&nbsp;&nbsp;tuoi flussi
+● Anteprima video mentre sfoglia
+&nbsp;&nbsp;l'elenco delle fotocamere
+● Riproduzione per live HLS stream
+● Decoder hardware che utilizza
+&nbsp;&nbsp;l'accelerazione hardware con
+&nbsp;&nbsp;ottimizzazione del processore
+&nbsp;&nbsp;○ rendering ad alta velocità per
+&nbsp;&nbsp;&nbsp;&nbsp;piattaforma moderna
+● La decodifica multi core fornisce le
+&nbsp;&nbsp;prestazioni del dispositivo dual-core

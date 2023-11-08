@@ -1,0 +1,5 @@
+Limitaciones:
+
+● No soporta audio.
+● La secuencia de vídeo RTSP sólo juega
+&nbsp;&nbsp;en VLC. No seguro por qué.

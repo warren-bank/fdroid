@@ -1,0 +1,4 @@
+Rajoitukset:
+
+● Vain versiot Android - &lt; = 7.0
+&nbsp;&nbsp;(Nougat, API 24)

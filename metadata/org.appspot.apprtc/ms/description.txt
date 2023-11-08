@@ -1,0 +1,12 @@
+Disalin dari kod sumber WebRTC rasmi (tag: 1.0.28513).
+
+Guna WebRTC Tabii melalui JNI.
+
+Ciri-ciri termasuk keupayaan untuk:
+
+● buat panggilan video WebRTC
+&nbsp;&nbsp;menggunakan pelayan kunci awam bebas
+&nbsp;&nbsp;(https: //appr.tc)
+● menyambung semula 2 peranti pada LAN
+&nbsp;&nbsp;yang sama tanpa keperluan pelayan
+&nbsp;&nbsp;isyarat

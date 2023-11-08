@@ -1,0 +1,5 @@
+Limites:
+
+● Ne prend pas en charge l'audio.
+● Le flux vidéo RTSP ne joue que dans
+&nbsp;&nbsp;VLC. Pas sûr pourquoi.

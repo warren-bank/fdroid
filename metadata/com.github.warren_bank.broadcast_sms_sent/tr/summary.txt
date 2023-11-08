@@ -1,0 +1,1 @@
+Gönderilen iletiler için SMS ' ler sunar ve yerel olarak yinelenen bir kopya yayınlar.

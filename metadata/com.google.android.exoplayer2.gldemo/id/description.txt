@@ -1,0 +1,1 @@
+Shader menunjukkan bitmap tumpang tindih di atas video. Bitmap overlay digambar menggunakan kanvas Android, dan termasuk timestamp presentasi frame saat ini, untuk menunjukkan bagaimana mendapatkan timestamp dari frame yang saat ini berada dalam tekstur permukaan off-screen.

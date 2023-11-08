@@ -1,0 +1,7 @@
+Opombe:
+
+● MainActivity vsebuje besedno polje za
+&nbsp;&nbsp;ročno vnos URL-ja ali poti datoteke na
+&nbsp;&nbsp;podprti medij za predvajanje
+● Videodejavnost izvede dejansko
+&nbsp;&nbsp;predvajanje in jo lahko odpre Intent

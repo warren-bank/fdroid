@@ -1,0 +1,1 @@
+Demo de ExoPlayer que representa el vídeo en una GLSurfaceView y aplica un shader del LM.

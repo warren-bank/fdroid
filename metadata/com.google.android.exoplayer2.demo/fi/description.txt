@@ -1,0 +1,1 @@
+Se käyttää ExoPlayer pelata useita testivirtoja. Sitä voidaan käyttää aloituspisteenä tai vertailuprojektina kehitettäessä muita sovelluksia, jotka käyttävät ExoPlayer-kirjastoa.

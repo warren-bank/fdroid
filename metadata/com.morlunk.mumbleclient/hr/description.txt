@@ -1,0 +1,13 @@
+Funkcije uključuju:
+
+● Opus, CELT i Speex codec podrška
+● Certifikati
+● Glasovna aktivnost
+● Bluetooth
+● Javni poslužitelji
+● Komentari
+● Administracija
+● Prekrivanje
+● Theming
+● Obavijesti
+● Integracija orbota

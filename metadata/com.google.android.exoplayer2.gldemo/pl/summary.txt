@@ -1,0 +1,1 @@
+Demo programu ExoPlayer, które renderuje film wideo do GLSurfaceView i stosuje shadera GL.

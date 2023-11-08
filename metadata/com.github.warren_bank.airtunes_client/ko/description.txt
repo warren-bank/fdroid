@@ -1,0 +1,1 @@
+AirPort Express 또는 기타 AirTunes (버전 1) 수신기에 음악을 전송합니다.

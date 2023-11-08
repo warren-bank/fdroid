@@ -1,0 +1,22 @@
+VXG RTSP 播放器的评估试用版本，它包含 VXG Mobile SDK 的瘫痪版本。 回放限制为 2 分钟。
+
+功能包括 :
+
+● 支持的流类型:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (多点广播流支持)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● 从实时摄像头中记录
+● 数字变焦和图像转换
+● 实时流的缩略图
+● 支持 M3U 通道列表
+● 简单流列表控件
+&nbsp;&nbsp;○ 添加，删除和修改流
+● 在摄像头列表中浏览时预览视频
+● 实时 HLS 流的重放
+● 使用具有处理器优化的硬件加速的硬件解码器
+&nbsp;&nbsp;○ 现代平台的高速渲染
+● 多核解码提供双核装置的性能

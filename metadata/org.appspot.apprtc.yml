@@ -1,0 +1,27 @@
+# https://github.com/warren-bank/Android-AppRTCMobile/blob/v1.0.28513.01/android-studio-project/constants.gradle
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Connectivity
+- Development
+- Internet
+- Phone & SMS
+License: BSD-3-Clause
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/Android-AppRTCMobile.git
+SourceCode: https://github.com/warren-bank/Android-AppRTCMobile
+IssueTracker: https://github.com/warren-bank/Android-AppRTCMobile/issues
+
+AutoName: AppRTC demo
+Name: AppRTC demo
+WebSite: https://webrtc.googlesource.com/src/+/49fa4ea0e7533cac190e32f3f7f2de3876385e82/examples/androidapp/
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 1.0.28513.01
+CurrentVersionCode: 2
+UpdateCheckMode: None
+AutoUpdateMode: None

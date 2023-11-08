@@ -1,0 +1,1 @@
+Az Ugrás protokoll megvalósítást használó Android ügyfélügyfél.

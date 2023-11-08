@@ -1,0 +1,1 @@
+Acesta utilizează ExoPlayer pentru a reda un număr de fluxuri de testare. Acesta poate fi folosit ca un punct de plecare sau proiect de referință atunci când se dezvoltă alte aplicații care fac uz de biblioteca ExoPlayer.

@@ -1,0 +1,1 @@
+Le shader montre un bitmap de chevauchement en haut de la vidéo. Le bitmap de fond de page est dessiné à l'aide d'un canevas Android et inclut l'horodatage de présentation du châssis en cours, afin de montrer comment obtenir l'horodatage du cadre actuellement dans la texture de surface hors écran.

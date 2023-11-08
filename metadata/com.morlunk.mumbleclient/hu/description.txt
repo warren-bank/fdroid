@@ -1,0 +1,13 @@
+A szolgáltatások a következők:
+
+● Opus, CELT és Speex kodec támogatás
+● Tanúsítványok
+● Hangtevékenység
+● Bluetooth
+● Nyilvános szerverek
+● Megjegyzések
+● Igazgatás
+● Felfedés
+● Mennydörgés
+● Értesítések
+● Orbot integráció

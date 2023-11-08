@@ -1,0 +1,9 @@
+Poznámky:
+
+● MainActivity obsahuje textové pole pro
+&nbsp;&nbsp;ruční zadání adresy URL nebo cesty k
+&nbsp;&nbsp;souboru na podporovaná média pro
+&nbsp;&nbsp;přehrání
+● VideoActivity provádí skutečné
+&nbsp;&nbsp;přehrání a lze jej otevřít pomocí
+&nbsp;&nbsp;záměru

@@ -1,0 +1,1 @@
+Klien Mumble untuk Android yang menggunakan perlaksanaan protokol Jumble protokol.

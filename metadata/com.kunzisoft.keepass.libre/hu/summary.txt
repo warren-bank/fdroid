@@ -1,0 +1,1 @@
+Egyszerűsített jelszókezelő Android rendszerhez.

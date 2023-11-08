@@ -1,0 +1,28 @@
+VXG RTSP Player értékelési próba változata, amely a VXG Mobile SDK nyomorék változatát tartalmazza. A visszajátszás 2 percre van.
+
+A szolgáltatások a következők:
+
+● Támogatott adatfolyam típusok:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (multicast adatfolyam-támogatás)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Rögzítés élő kamerából
+● Digitális zoom és képváltás
+● Hüvelykkörmök élő patakokhoz
+● M3U csatorna lista támogatása
+● Easy adatfolyamlista vezérlőelem
+&nbsp;&nbsp;○ Folyamok hozzáadása, törlése és
+&nbsp;&nbsp;&nbsp;&nbsp;módosítása
+● Videó előképe a kamera felvételének
+&nbsp;&nbsp;böngészése közben
+● Újrajátszás élő HLS folyamra
+● Hardver dekóder a hardveres
+&nbsp;&nbsp;gyorsítással a processzor
+&nbsp;&nbsp;optimalizálásával
+&nbsp;&nbsp;○ Nagy sebességű előállítás a modern
+&nbsp;&nbsp;&nbsp;&nbsp;platformhoz
+● A többmagos dekódolás biztosítja a
+&nbsp;&nbsp;kétmagos eszköz teljesítményét

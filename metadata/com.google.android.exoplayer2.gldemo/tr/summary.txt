@@ -1,0 +1,1 @@
+Videoyu bir GLSurfaceView ile görsel olarak gerçekleştiren ExoPlayer gösterimi ve bir Büyük Defter shader kuralı uygulanır.

@@ -1,0 +1,14 @@
+Vlastnosti zahrnují:
+
+● Podpora funkce Opus, CELT a Speex
+&nbsp;&nbsp;kodeku
+● certifikáty
+● Hlasová aktivita
+● Bluetooth
+● Veřejné servery
+● Komentáře
+● Způsob podání
+● Překryv
+● Motivy
+● Oznamování
+● Integrace Orbot

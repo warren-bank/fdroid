@@ -1,0 +1,4 @@
+Omezení:
+
+● Pracuje pouze na verzích systému
+&nbsp;&nbsp;Android &lt; = 7.0 (Nougat, API 24)

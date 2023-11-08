@@ -1,0 +1,1 @@
+Rundsend en mock-tekst, der kan efterligne modtagelse af en ny tekst (eller data).

@@ -1,0 +1,27 @@
+Evaluation trial version of VXG RTSP Player, which contains a crippled version of the VXG Mobile SDK. Playback is limited to 2 minutes.
+
+Features include:
+
+● Supported types of streaming:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Multicast stream support)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Recording from live camera
+● Digital zoom and picture shifting
+● Thumbnails for live streams
+● Support M3U channel list
+● Easy streams list control
+&nbsp;&nbsp;○ add, delete and modify your streams
+● Preview video while browsing in camera
+&nbsp;&nbsp;list
+● Replay for live HLS stream
+● Hardware decoder using hardware
+&nbsp;&nbsp;acceleration with processor
+&nbsp;&nbsp;optimization
+&nbsp;&nbsp;○ high speed rendering for modern
+&nbsp;&nbsp;&nbsp;&nbsp;platform
+● Multi-core decoding provides the
+&nbsp;&nbsp;dual-core device’s performance

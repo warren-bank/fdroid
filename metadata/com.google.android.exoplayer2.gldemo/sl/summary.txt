@@ -1,0 +1,1 @@
+Predstavitev ExoPlayer, ki upodablja video v GLSurfaceView in uveljavi shader GK.

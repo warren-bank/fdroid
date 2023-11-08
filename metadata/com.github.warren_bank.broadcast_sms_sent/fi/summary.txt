@@ -1,0 +1,1 @@
+Obsyöttää SMS :lle lähetettyjä viestejä, ja paikallisesti lähetetään kopio.

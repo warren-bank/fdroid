@@ -1,0 +1,13 @@
+Dostępne są następujące funkcje:
+
+● Obsługa kodeków Opus, CELT i Speex
+● Certyfikaty
+● Aktywność głosowa
+● Bluetooth
+● Serwery publiczne
+● Komentarze
+● Administrowanie
+● Nakładka
+● Tematykę
+● Powiadomienia
+● Integracja z Orbotem

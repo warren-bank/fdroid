@@ -1,0 +1,22 @@
+VXG RTSP Player 的評估試用版，其中包含已損壞版本的 VXG Mobile SDK。 播放時間限制為 2 分鐘。
+
+特性包括：
+
+● 支援的串流類型：
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP （多重播送串流支援）
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● 來自即時攝影機的記錄
+● 數位變焦與圖片切換
+● 即時串流的縮圖
+● 支援 M3U 通道清單
+● Easy 串流清單控制項
+&nbsp;&nbsp;○ 新增、刪除和修改串流
+● 在相機清單中瀏覽時預覽影片
+● 重新播放即時 HLS 串流
+● 使用具有處理器優化的硬體加速的硬體解碼器
+&nbsp;&nbsp;○ 現代平臺的高速渲染
+● 多核心解碼提供雙核心裝置的性能

@@ -1,0 +1,1 @@
+Android-kirjaston libVLC-kirjaston suorituskyvyn minimisovellus.

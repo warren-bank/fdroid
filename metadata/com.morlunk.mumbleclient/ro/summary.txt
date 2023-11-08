@@ -1,0 +1,1 @@
+Client Mumble pentru Android care utilizează implementarea protocolului Jumble.

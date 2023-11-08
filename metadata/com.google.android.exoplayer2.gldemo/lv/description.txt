@@ -1,0 +1,1 @@
+Shader rāda pārklāšanās bitmap uz augšu no video. Overlay bitmap ir sastādīts, izmantojot Android audekls, un ietver pašreizējā kadra prezentācijas timestamp, lai parādītu, kā iegūt timestamp no rāmja šobrīd off-screen virsmas tekstūra.

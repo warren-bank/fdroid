@@ -1,0 +1,31 @@
+Leagan na trialach meastóireachta de VXG RTSP Imreoir, a bhfuil leagan camplála de na VXG Mobile SDK. Tá Playback teoranta do 2 nóiméad.
+
+Gnéithe:
+
+● Cineálacha tacaithe sruthú:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Tacaíocht srutha
+&nbsp;&nbsp;&nbsp;&nbsp;Ilchraolacháin)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Taifeadadh ó cheamara beo
+● Súmáil digiteach agus an pictiúr a
+&nbsp;&nbsp;loingeas
+● Mionsamhlacha do shruthanna beo
+● Tacaíocht M3U liosta
+● Éasca sruthú liosta rialú
+&nbsp;&nbsp;○ cuir le do shruthanna a scriosadh
+&nbsp;&nbsp;&nbsp;&nbsp;agus a mhodhnú
+● Réamhamharc físeán le linn brabhsáil i
+&nbsp;&nbsp;liosta ceamara
+● Replay le haghaidh sruth HLS beo
+● Crua-earraí decoder ag baint úsáide as
+&nbsp;&nbsp;crua-earraí luasú le próiseálas
+&nbsp;&nbsp;phróiseála
+&nbsp;&nbsp;○ Dhéanamh ardluais le haghaidh ardán
+&nbsp;&nbsp;&nbsp;&nbsp;nua-aimseartha
+● Soláthraíonn il-chroídhíchódaithe an
+&nbsp;&nbsp;fheidhmíocht dé-lárnach ar
+&nbsp;&nbsp;fheidhmíocht

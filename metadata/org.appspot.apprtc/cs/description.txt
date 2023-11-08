@@ -1,0 +1,12 @@
+Zkopírováno z oficiálního repo úložiště zdrojového kódu WebRTC (značka: 1.0.28513).
+
+Používá nativní rozhraní API WebRTC prostřednictvím JNI.
+
+Funkce zahrnují schopnost:
+
+● vytvořit audiovizuální volání WebRTC
+&nbsp;&nbsp;pomocí volného serveru pro signalizaci
+&nbsp;&nbsp;volných prostředků (https: //appr.tc)
+● přímé připojení 2 zařízení ve stejné
+&nbsp;&nbsp;síti LAN bez nutnosti signalizačního
+&nbsp;&nbsp;serveru

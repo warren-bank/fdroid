@@ -1,0 +1,1 @@
+Aplicație demo care prezintă integrarea ExoPlayer cu Google Cast.

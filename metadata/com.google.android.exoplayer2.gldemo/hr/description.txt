@@ -1,0 +1,1 @@
+Shader pokazuje preklapanje bit mape na vrhu videa. Bit mapa prekrivanja se iscrtće pomoću Android platna i uključuje trenutnu vremensku oznaku okvira prezentacije, da pokaže kako se koristi vremenska oznaka okvira koji je trenutno u teksturi izvan ekrana.

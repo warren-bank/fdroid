@@ -1,0 +1,4 @@
+الحدود :
+
+● يعمل فقط على نسخ Android < = 7.0
+&nbsp;&nbsp;(Nogat ، API 24)

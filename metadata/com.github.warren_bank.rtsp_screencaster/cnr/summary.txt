@@ -1,0 +1,1 @@
+Služi RTSP video protoku koji odražava ekran za prikaz uređaja.

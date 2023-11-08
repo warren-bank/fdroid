@@ -1,0 +1,1 @@
+Shader visar en överlappa bitmapp överst på videon. Överläggsbitmap ritas med en Android-arbetsyta och innehåller den aktuella ramens presentation med tidsstämpel, för att visa hur tidsstämpeln för ramen för närvarande befinner sig i avskärmningsytans struktur.

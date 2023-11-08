@@ -1,0 +1,1 @@
+Kratytuvas rodo sutapimo įkandimo į viršų vaizdo įrašą. Overlay bitmap yra traukiamas naudojant "Android" drobė, ir apima dabartinį rėmo pateikimo timestamp, parodyti, kaip gauti laiko antspaudas šiuo metu ne-ekrano paviršiaus tekstūros.

@@ -1,0 +1,1 @@
+Shader zobrazí prekrývanie bitmapy na vrchu videa. Bitová mapa prekrytia sa nakreslí pomocou pracovnej plochy Android a zahŕňa časovú značku prezentácie aktuálneho rámca, aby ste ukázali, ako získať časovú značku rámu, ktorý je aktuálne v textúrnej štruktúre povrchu obrazovky.

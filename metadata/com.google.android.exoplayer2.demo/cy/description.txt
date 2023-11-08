@@ -1,0 +1,1 @@
+Mae'n defnyddio EogPlayer i chwarae nifer o ffrydiau prawf. Gellir ei ddefnyddio fel man cychwyn neu brosiect cyfeirio wrth ddatblygu rhaglenni eraill sy'n gwneud defnydd o lyfrgell ExoPlayer.

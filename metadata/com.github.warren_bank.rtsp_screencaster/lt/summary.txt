@@ -1,0 +1,1 @@
+Naudojamas RTSP vaizdo srautas, kuris atspindi prietaiso ekrano ekraną.

@@ -1,0 +1,1 @@
+Utiliza ExoPlayer para reproducir una serie de secuencias de prueba. Se puede utilizar como punto de partida o proyecto de referencia al desarrollar otras aplicaciones que hacen uso de la biblioteca ExoPlayer.

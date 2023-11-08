@@ -1,0 +1,5 @@
+لہیان:
+
+● صرف لوڈ, اتارنا Android <= 5.1
+&nbsp;&nbsp;(Lollipop, API 22) کے ورژن پر کام کرتا
+&nbsp;&nbsp;ہے

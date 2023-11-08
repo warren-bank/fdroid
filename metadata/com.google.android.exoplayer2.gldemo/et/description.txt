@@ -1,0 +1,1 @@
+Shader näitab kattuvad bitmap peal video. Overlay Bitmap on koostatud kasutades Android lõuend, ja sisaldab praeguse raami esitlus ajatempel, et näidata, kuidas saada ajatempel raami praegu off-ekraan pinna tekstuur.

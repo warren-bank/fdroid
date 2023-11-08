@@ -1,0 +1,1 @@
+Menyiarkan SMS tiruan untuk meniru tanda terima dari pesan teks (atau data) baru.

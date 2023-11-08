@@ -1,0 +1,5 @@
+Limites:
+
+● Fonctionne uniquement sur les versions
+&nbsp;&nbsp;d'Android &lt; = 5.1 (Lollipop, API
+&nbsp;&nbsp;22)

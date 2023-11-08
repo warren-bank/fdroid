@@ -1,0 +1,1 @@
+Mumble client for Android, ktorý používa implementáciu Jumble protokolu.

@@ -1,0 +1,1 @@
+Bir dizi test akışı yürütmek için ExoPlayer kullanır. ExoPlayer kitaplığını kullanan diğer uygulamalar geliştirirken, başlangıç noktası ya da başvuru projesi olarak kullanılabilir.

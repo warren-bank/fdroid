@@ -1,0 +1,1 @@
+Preslikovalnik kaže prekrivanje bitne slike na vrhu videa. Prekrivna bitna slika je narisana s platnom Android in vključuje predstavvalni časovni žig trenutnega okvirja, ki prikazuje, kako dobiti časovni žig okvirja, ki je trenutno v teksturi zunaj zaslona.

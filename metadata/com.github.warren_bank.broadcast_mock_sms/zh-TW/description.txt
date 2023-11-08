@@ -1,0 +1,4 @@
+限制：
+
+● 僅適用於 Android <= 5.1 （Lollipop， API
+&nbsp;&nbsp;22）的版本

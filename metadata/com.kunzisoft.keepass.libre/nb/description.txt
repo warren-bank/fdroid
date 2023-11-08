@@ -1,0 +1,25 @@
+KeePassDX gjør det mulig å redigere krypterte data i en enkelt fil i Keepasset-format, og for å fylle ut skjemaer på en sikker måte.
+
+Funksjoner:
+
+● Opprett databasefiler, innlegg og
+&nbsp;&nbsp;grupper.
+● Støtte for .kdb og .kdbx-filer
+&nbsp;&nbsp;(versjon 1 til 4) med
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2-algoritme.
+● Kompatibel med majoriteten av
+&nbsp;&nbsp;alternative programmer (KeePass,
+&nbsp;&nbsp;KeePassXC, KeeWeb, ...).
+● Tillater åpning og kopiering av URI /
+&nbsp;&nbsp;URL-felt raskt.
+● Biometrisk anerkjennelse for rask
+&nbsp;&nbsp;utlåsing (fingeravtrykk, ansiktsslåse
+&nbsp;&nbsp;opp, ...).
+● Entidsstyring av passord (HOTP / TOTP)
+&nbsp;&nbsp;for to-faktorautentisering (2FA).
+● Materialdesign med temaer.
+● Auto-fyll og integrering.
+● Feltfylling av tastatur.
+● Dynamiske maler.
+● Historien om hvert innlegg.
+● Presis styring av innstillinger.

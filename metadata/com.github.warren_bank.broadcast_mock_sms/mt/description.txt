@@ -1,0 +1,4 @@
+Limitazzjonijiet:
+
+● Xogħlijiet biss fuq verżjonijiet ta '
+&nbsp;&nbsp;Android &lt; = 5.1 (Lollpop, API 22)

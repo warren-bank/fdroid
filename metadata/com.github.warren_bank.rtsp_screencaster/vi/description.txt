@@ -1,0 +1,5 @@
+Giới hạn:
+
+● Không hỗ trợ âm thanh.
+● Dòng video RTSP chỉ chơi trong VLC.
+&nbsp;&nbsp;Không biết tại sao.

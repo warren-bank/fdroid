@@ -1,0 +1,9 @@
+Note:
+
+● MainActivity conține un câmp de text
+&nbsp;&nbsp;pentru a introduce manual URL-ul sau
+&nbsp;&nbsp;calea de fișier către un suport media
+&nbsp;&nbsp;pentru redare
+● VideoActivity realizează redarea
+&nbsp;&nbsp;propriu-zisă și poate fi deschisă de
+&nbsp;&nbsp;către Intent

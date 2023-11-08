@@ -1,0 +1,9 @@
+Ghi chú:
+
+● MainActivity chứa một trường văn
+&nbsp;&nbsp;bản để nhập thủ công đường dẫn URL
+&nbsp;&nbsp;hoặc đường dẫn tập tin đến phương
+&nbsp;&nbsp;tiện được hô ̃ trợ cho phát lại
+● VideoHoạt động thực hiện phát lại
+&nbsp;&nbsp;thực tê ́, và có thể được mở bởi
+&nbsp;&nbsp;Intent

@@ -1,0 +1,7 @@
+Noti:
+
+● MainActivity fih kamp ta ' test li
+&nbsp;&nbsp;manwalment jidħol fil-URL jew passaġġ
+&nbsp;&nbsp;fajl lil midja sostnuta għall-pass
+● VideoActivity twettaq l-istap attwali,
+&nbsp;&nbsp;u tista ' tinfetaħ mill-Intenzjoni

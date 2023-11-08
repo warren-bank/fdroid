@@ -1,0 +1,9 @@
+Catatan:
+
+● MainAktivitas berisi bidang teks untuk
+&nbsp;&nbsp;secara manual memasukkan alamat URL
+&nbsp;&nbsp;atau jalur berkas ke media yang
+&nbsp;&nbsp;didukung untuk pemutaran
+● VideoAktivitas melakukan pemutaran
+&nbsp;&nbsp;yang sebenarnya, dan dapat dibuka oleh
+&nbsp;&nbsp;Intent

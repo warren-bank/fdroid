@@ -1,0 +1,1 @@
+Levitab SMS-süsteemi, et imiteerida uue teksti (või andmete) sõnumit.

@@ -1,0 +1,14 @@
+Zu den Features gehören:
+
+● Opus-, CELT-und
+&nbsp;&nbsp;Speex-Codec-Unterstützung
+● Zertifikate
+● Sprachaktivität
+● Bluetooth
+● Öffentliche Server
+● Kommentare
+● Verwaltung
+● Schablone
+● Theming
+● Benachrichtigungen
+● Orbot-Integration

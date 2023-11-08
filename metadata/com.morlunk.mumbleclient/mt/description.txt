@@ -1,0 +1,13 @@
+Il-karatteristiċi jinkludu:
+
+● Opus, CELT, u Speex codec support
+● Ċertifikati
+● Attività tal-vuċi
+● Bluetooth
+● Servers pubbliċi
+● Kummenti
+● Amministrazzjoni
+● Il-
+● Theming
+● Notifiki
+● Integrazzjoni tal-bot

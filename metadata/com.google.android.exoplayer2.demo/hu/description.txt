@@ -1,0 +1,1 @@
+ExoPlayer-t használ a tesztfolyamok számának lejátszásához. Az ExoPlayer függvénytárat használó egyéb alkalmazások fejlesztése során kiindulópontként vagy referenciaprojekként használható.

@@ -1,0 +1,12 @@
+Copiado da repo oficial de código fonte WebRTC (tag: 1.0.28513).
+
+Usa APIs Nativas do WebRTC via JNI.
+
+Os recursos incluem a capacidade de:
+
+● fazer chamadas de vídeo WebRTC usando
+&nbsp;&nbsp;um servidor de sinalização pública
+&nbsp;&nbsp;gratuito (https: //appr.tc)
+● conectar diretamente 2 dispositivos na
+&nbsp;&nbsp;mesma LAN sem a necessidade de um
+&nbsp;&nbsp;servidor de sinalização

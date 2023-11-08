@@ -1,0 +1,1 @@
+Serve un flusso video RTSP che rispecchia lo schermo del display del dispositivo.

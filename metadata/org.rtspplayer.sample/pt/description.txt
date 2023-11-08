@@ -1,0 +1,27 @@
+Avaliação de avaliação do VXG RTSP Player, que contém uma versão aleijada do SDK Mobile do VXG. A reprodução é limitada a 2 minutes.
+
+Os recursos incluem:
+
+● Tipos suportados de streaming:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Suporte de fluxo Multicast)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Gravação a partir de câmera viva
+● Zoom digital e deslocamento de imagem
+● Miniaturas para fluxos ao vivo
+● Suporte a lista de canais M3U
+● Controle de lista de fluxos fáceis
+&nbsp;&nbsp;○ add, delete e modifique seus fluxos
+● Preview vídeo enquanto navega em lista
+&nbsp;&nbsp;de câmeras
+● Reprodução para fluxo de HLS ao vivo
+● Decodificador de hardware usando
+&nbsp;&nbsp;aceleração de hardware com otimização
+&nbsp;&nbsp;do processador
+&nbsp;&nbsp;○ renderização de alta velocidade para
+&nbsp;&nbsp;&nbsp;&nbsp;plataforma moderna
+● Decodificação multi-core fornece o
+&nbsp;&nbsp;desempenho do dispositivo dual-core

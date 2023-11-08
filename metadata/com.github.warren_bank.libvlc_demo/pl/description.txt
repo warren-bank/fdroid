@@ -1,0 +1,10 @@
+Uwagi:
+
+● MainActivity zawiera pole tekstowe
+&nbsp;&nbsp;służące do ręcznego wprowadzania
+&nbsp;&nbsp;adresu URL lub ścieżki pliku do
+&nbsp;&nbsp;obsługiwanego nośnika w celu
+&nbsp;&nbsp;odtworzenia.
+● VideoActivity wykonuje odtwarzanie
+&nbsp;&nbsp;rzeczywiste i może być otwarty przez
+&nbsp;&nbsp;Intent

@@ -1,0 +1,13 @@
+Funktionerne omfatter:
+
+● Opus, CELT-og Speex codec-support
+● Certifikater
+● Stemmeaktivitet
+● Bluetooth
+● Offentlige servere
+● Kommentarer
+● Administration
+● Overlay
+● Tyndning
+● Adviseringer
+● Orbot integration

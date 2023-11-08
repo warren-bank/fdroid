@@ -1,0 +1,4 @@
+制限事項 :
+
+● Android &lt;= 5.1 (Lollipop、 API 22)
+&nbsp;&nbsp;のバージョンでのみ機能します。

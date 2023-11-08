@@ -1,0 +1,1 @@
+Sirve una corriente de vídeo RTSP que duplica la pantalla de visualización del dispositivo.

@@ -1,0 +1,11 @@
+Copied ó cód foinse oifigiúil WebRTC repo (clib: 1.0.28513).
+
+Úsáideann WebRTC Dhúchais APIs via JNI.
+
+Gnéithe a áirítear ar an gcumas chun:
+
+● Glaonna físeán WebRTC ag baint úsáide
+&nbsp;&nbsp;as freastalaí comhartha poiblí saor in
+&nbsp;&nbsp;aisce (https: //appr.tc)
+● Nasc díreach 2 feistí ar an LAN céanna
+&nbsp;&nbsp;gan an gá le freastalaí comhartha

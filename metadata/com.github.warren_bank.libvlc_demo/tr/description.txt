@@ -1,0 +1,9 @@
+Notlar:
+
+● MainActivity, kayıttan yürütme için
+&nbsp;&nbsp;desteklenen bir ortama URL ya da dosya
+&nbsp;&nbsp;yolunu manüel olarak girmek için bir
+&nbsp;&nbsp;metin alanı içerir.
+● VideoActivity, gerçek kayıttan yürütme
+&nbsp;&nbsp;işlemini gerçekleştirir ve Intent
+&nbsp;&nbsp;tarafından açılabilir

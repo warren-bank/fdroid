@@ -1,0 +1,12 @@
+Kopierte fra den offisielle WebRTC-kildekoden repo (tag: 1.0.28513).
+
+Bruker WebRTC Native-APIer via JNI.
+
+Funksjoner omfatter muligheten til å:
+
+● gjøre WebRTC-videosamtaler ved hjelp
+&nbsp;&nbsp;av en gratis offentlig signaliserende
+&nbsp;&nbsp;server (https: //lærling.tc)
+● direkte koble 2 enheter på samme LAN
+&nbsp;&nbsp;uten behov for en signaliserende
+&nbsp;&nbsp;server

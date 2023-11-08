@@ -1,0 +1,27 @@
+Phiên bản thử nghiệm đánh giá của VXG RTSP Player, trong đó có chứa một phiên bản bị hỏng của VXG Mobile SDK. Phát lại chỉ còn 2 phút.
+
+Tính năng bao gồm:
+
+● Kiểu dòng được hô ̃ trợ:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ Hỗ trợ dòng chảy UDP (Multicast
+&nbsp;&nbsp;&nbsp;&nbsp;stream)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Thu âm từ camera trực tiếp
+● Dịch chuyển hình ảnh và zoom số
+● Hình thu nhỏ cho dòng sống
+● Hỗ trợ danh sách kênh M3U
+● Điều khiển danh sách dòng chảy
+&nbsp;&nbsp;○ thêm, xóa và điều chỉnh dòng của
+&nbsp;&nbsp;&nbsp;&nbsp;bạn
+● Xem thử video trong khi duyệt trong
+&nbsp;&nbsp;danh sách máy ảnh
+● Phát lại cho dòng HLS trực tiếp
+● Bộ giải mã phần cứng sử dụng gia tốc
+&nbsp;&nbsp;phần cứng với tối ưu
+&nbsp;&nbsp;○ kết xuất tốc độ cao cho nền hiện đại
+● Giải mã đa lõi cung cấp hiệu năng của
+&nbsp;&nbsp;thiết bị lõi kép

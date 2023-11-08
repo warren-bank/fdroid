@@ -1,0 +1,27 @@
+KeePassDX dozvoljava uređivanje šifriranih podataka u jednoj datoteci u KeePass formatu i da se popuni u obrazima na siguran način.
+
+Funkcije:
+
+● Kreirajte datoteke baze podataka,
+&nbsp;&nbsp;unose i grupe.
+● Podrška za .kdb i .kdbx datoteke
+&nbsp;&nbsp;(verzija 1 do 4) s
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2
+&nbsp;&nbsp;algoritmom.
+● Kompatibilno s većinom alternativnih
+&nbsp;&nbsp;programa (KeePass, KeePassXC, KeeWeb,
+&nbsp;&nbsp;...).
+● Omogućuje brzo otvaranje i kopiranje
+&nbsp;&nbsp;URI-ja / URL polja.
+● Biometričko prepoznavanje za brzo
+&nbsp;&nbsp;otključavanje (otisak prsta,
+&nbsp;&nbsp;otključavanje lica, ...).
+● Jedno-vremensko upravljanje lozinkom
+&nbsp;&nbsp;(HOTP / TOTP) za provjeru
+&nbsp;&nbsp;autentičnosti s dva faktora (2FA).
+● Dizajn materijala s temama.
+● Samopopunjavanje i integracija.
+● Tipkovnica na tipkovnici.
+● Dinamički predlošci.
+● Povijest svakog unosa.
+● Precizno upravljanje postavkama.

@@ -1,0 +1,1 @@
+Aplicație minimă pentru a testa performanța bibliotecii libVLC pentru Android.

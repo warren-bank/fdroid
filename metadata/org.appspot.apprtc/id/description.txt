@@ -1,0 +1,12 @@
+Disalin dari kode sumber WebRTC resmi repo (tag: 1.0.28513).
+
+Menggunakan WebRTC API asli melalui JNI.
+
+Fitur-fitur mencakup kemampuan untuk:
+
+● buat panggilan video WebRTC dengan
+&nbsp;&nbsp;menggunakan server pensinyalan publik
+&nbsp;&nbsp;yang bebas (https: //appr.tc)
+● langsung menghubungkan 2 perangkat
+&nbsp;&nbsp;pada LAN yang sama tanpa perlu untuk
+&nbsp;&nbsp;server pensinyalan

@@ -1,0 +1,9 @@
+Pastabos:
+
+● Pagrindinė veikla apima teksto lauką,
+&nbsp;&nbsp;kad būtų galima rankiniu būdu įvesti
+&nbsp;&nbsp;URL arba failo kelią į palaikiuosiam
+&nbsp;&nbsp;grojimui
+● Videoaktyvumas atlieka tikrąjį
+&nbsp;&nbsp;atkūrimą, ir jį galima atidaryti
+&nbsp;&nbsp;Intent.

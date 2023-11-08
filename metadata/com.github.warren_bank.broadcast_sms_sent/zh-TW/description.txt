@@ -1,0 +1,4 @@
+限制：
+
+● 僅適用於 Android <= 7.0 （Nougat， API
+&nbsp;&nbsp;24）的版本

@@ -1,0 +1,1 @@
+Šader pokazuje preklapanje bit mape na vrhu videa. Bitmapa prekrivanja se iscrtava pomoću Android platna, a uključuje i vremensku oznaku trenutnog okvira, kako bi se prikazala kako dobiti vremensku oznaku okvira koji je trenutno u površinskoj teksturi sa isključenim ekranom.

@@ -1,0 +1,8 @@
+Huom.:
+
+● Pääaktiviteetti sisältää tekstikentän,
+&nbsp;&nbsp;joka syöttää URL-osoitteen tai
+&nbsp;&nbsp;tiedostopolun tuettuihin
+&nbsp;&nbsp;tallennusvälineisiin.
+● Videoaktiviteetti suorittaa todellisen
+&nbsp;&nbsp;toiston, ja se voidaan avata Intent -

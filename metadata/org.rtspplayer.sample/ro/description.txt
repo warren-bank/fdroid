@@ -1,0 +1,28 @@
+Versiunea de încercare de evaluare a VXG RTSP Player, care conține o versiune infirm a VXG Mobile SDK. Redarea este limitată la 2 minute.
+
+Caracteristicile includ:
+
+● Tipuri de streaming acceptate:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (suport flux Multicast)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Înregistrarea de la camera live
+● Zoom digital și schimbarea imaginii
+● Miniaturi pentru fluxuri live
+● Suport M3U lista de canale
+● Controlul listei de fluxuri ușoare
+&nbsp;&nbsp;○ adăugați, ștergeți și modificați
+&nbsp;&nbsp;&nbsp;&nbsp;fluxurile dvs.
+● Vizualizare video în timp ce navigați
+&nbsp;&nbsp;în lista de camere
+● Reluare pentru live HLS stream
+● Decodor hardware folosind accelerarea
+&nbsp;&nbsp;hardware-ului cu optimizarea
+&nbsp;&nbsp;procesorului
+&nbsp;&nbsp;○ randare de mare viteză pentru
+&nbsp;&nbsp;&nbsp;&nbsp;platforma modernă
+● Decodarea multi-core oferă performanța
+&nbsp;&nbsp;dispozitivului dual-core

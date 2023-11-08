@@ -1,0 +1,14 @@
+Caracteristicile includ:
+
+● Suport pentru Opus, CELT și Speex
+&nbsp;&nbsp;codec
+● Certificate
+● Activitatea vocală
+● Bluetooth
+● Servere publice
+● Comentarii
+● Administrare
+● Suprapunere
+● Theming
+● Notificări
+● Integrarea orbot

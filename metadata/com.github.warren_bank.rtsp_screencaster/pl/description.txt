@@ -1,0 +1,5 @@
+Ograniczenia:
+
+● Nie obsługuje audio.
+● Strumień wideo RTSP jest odtwarzający
+&nbsp;&nbsp;tylko w VLC. Nie wiem dlaczego.

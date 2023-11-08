@@ -1,0 +1,31 @@
+Version de test d'évaluation de VXG RTSP Player, qui contient une version infirmeuse du VXG Mobile SDK. La lecture est limitée à 2 minutes.
+
+Les fonctions incluent:
+
+● Types de diffusion en continu pris en
+&nbsp;&nbsp;charge:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (support de flux multidiffusion)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Enregistrement à partir d'une caméra
+&nbsp;&nbsp;en direct
+● Zoom numérique et changement d'image
+● Miniatures pour les flux en direct
+● Prise en charge de la liste de canaux
+&nbsp;&nbsp;M3U
+● Contrôle de liste des flux simples
+&nbsp;&nbsp;○ Ajouter, supprimer et modifier vos
+&nbsp;&nbsp;&nbsp;&nbsp;flux
+● Aperçu vidéo lors de la navigation
+&nbsp;&nbsp;dans la liste des caméras
+● Réexécution pour le flux HLS en direct
+● Décodage matériel à l'aide de
+&nbsp;&nbsp;l'accélération matérielle avec
+&nbsp;&nbsp;optimisation du processeur
+&nbsp;&nbsp;○ Rendu haute vitesse pour une
+&nbsp;&nbsp;&nbsp;&nbsp;plateforme moderne
+● Le décodage multicoeur fournit les
+&nbsp;&nbsp;performances de l'unité à deux coeurs

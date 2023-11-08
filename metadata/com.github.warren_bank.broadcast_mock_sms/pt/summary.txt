@@ -1,0 +1,1 @@
+Transmite um SMS mock para imitar o recebimento de uma nova mensagem de texto (ou dados).

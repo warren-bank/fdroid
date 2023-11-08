@@ -1,0 +1,1 @@
+O shader mostra um bitmap sobrevoado em cima do vídeo. O bitmap overlay é desenhado usando uma tela do Android, e inclui o timestamp de apresentação do quadro atual, para mostrar como obter o timestamp do quadro atualmente na textura de superfície fora de tela.

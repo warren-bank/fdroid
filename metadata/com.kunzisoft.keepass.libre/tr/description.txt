@@ -1,0 +1,25 @@
+KeePassDX, KeePass biçimindeki tek bir dosyada şifrelenmiş verilerin düzenlenmesini ve formların güvenli bir şekilde doldurulmasını sağlar.
+
+Özellikler:
+
+● Veri tabanı dosyaları, girişler ve
+&nbsp;&nbsp;gruplar oluşturun.
+● AES-Twofish-ChaCha20-Argon2
+&nbsp;&nbsp;algoritmasıyla .kdb ve .kdbx dosyaları
+&nbsp;&nbsp;(sürüm 1-4) desteği.
+● Alternatif programların (KeePass,
+&nbsp;&nbsp;KeePassXC, KeeWeb, ...) çoğunluğuna
+&nbsp;&nbsp;uyumlu.
+● URI/URL alanlarını hızla açıp
+&nbsp;&nbsp;kopyalamanıza olanak sağlar.
+● Hızlı kilit açma (parmak izi, yüz
+&nbsp;&nbsp;kilidi, ...) için biyometrik tanıma.
+● İki katsayılı kimlik doğrulaması (2FA)
+&nbsp;&nbsp;için bir Kerlik Parola yönetimi
+&nbsp;&nbsp;(HOTP/TOTP).
+● Temaları olan malzeme tasarımı.
+● Otomatik Doldurma ve Bütünleştirme.
+● Alan doldurma klavye.
+● Dinamik şablonlar.
+● Her girişin geçmişi.
+● Ayarların kesin yönetimi.

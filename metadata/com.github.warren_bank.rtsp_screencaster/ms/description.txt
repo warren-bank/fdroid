@@ -1,0 +1,5 @@
+Limitasi:
+
+● Tidak menyokong audio.
+● Strim video RTSP hanya dimainkan dalam
+&nbsp;&nbsp;VLC. Tidak pasti mengapa.

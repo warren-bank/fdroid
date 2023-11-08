@@ -1,0 +1,28 @@
+Verżjoni ta 'prova ta' evalwazzjoni ta ' VXG RTSP Player, li fiha verżjoni mdgħajjba tal-VXG Mobile SDK. Irrepeti hija limitata għal 2 minuti.
+
+Il-karatteristiċi jinkludu:
+
+● Tipi appoġġati ta ' streaming:
+&nbsp;&nbsp;○ RRTP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Multicast appoġġ stream)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Reġistrazzjoni minn kamera ħajjin
+● Zoom diġitali u l-bidla stampa
+● Thumbnaid għal flussi ħajjin
+● Appoġġ Lista kanal M3U
+● Flussi faċli lista kontroll
+&nbsp;&nbsp;○ iżżid, tħassar u timmodifika
+&nbsp;&nbsp;&nbsp;&nbsp;l-flussi tiegħek
+● Video preview waqt browsing fil-lista
+&nbsp;&nbsp;kamera
+● Replay għal kurrent HLS ħajjin
+● Hardware decoder bl-użu aċċelerazzjoni
+&nbsp;&nbsp;hardware ma ' ottimizzazzjoni
+&nbsp;&nbsp;proċessur
+&nbsp;&nbsp;○ veloċità għolja tirrendi
+&nbsp;&nbsp;&nbsp;&nbsp;għall-pjattaforma moderna
+● Dekodifikazzjoni multi-core tipprovdi
+&nbsp;&nbsp;l-prestazzjoni tat-tagħmir doppju

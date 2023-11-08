@@ -1,0 +1,13 @@
+Las características incluyen:
+
+● Soporte de codec Opus, CELT y Speex
+● Certificados
+● Actividad vocal
+● Bluetooth
+● Servidores públicos
+● Observaciones
+● Administración
+● Preformato
+● Theming
+● Notificaciones
+● Integración de Orbot

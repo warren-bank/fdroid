@@ -1,0 +1,1 @@
+Slúži na video prúd RTSP, ktorý zrkadlí obrazovku obrazovky zariadenia.

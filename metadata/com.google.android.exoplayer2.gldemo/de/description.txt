@@ -1,0 +1,1 @@
+Der Shader zeigt eine Überlappungsbitmap oben auf dem Video an. Das Overlay-Bitmap wird mithilfe eines Android-Erstellungsbereichs gezeichnet und enthält die Zeitmarke für die Darstellung des aktuellen Frames, um zu zeigen, wie die Zeitmarke des Rahmens abgerufen wird, der sich derzeit in der Off-Screen-Oberflächenstruktur befindet.

@@ -1,0 +1,1 @@
+Observerar SMS för sända meddelanden, och lokalt sänder en kopia av kopian.

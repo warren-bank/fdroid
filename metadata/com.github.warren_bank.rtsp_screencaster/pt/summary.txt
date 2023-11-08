@@ -1,0 +1,1 @@
+Serve um fluxo de vídeo RTSP que espelha a tela de exibição do dispositivo.

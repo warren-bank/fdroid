@@ -1,0 +1,1 @@
+Zobrazit proud sítě z IP kamer, video serverů a přehledových systémů.

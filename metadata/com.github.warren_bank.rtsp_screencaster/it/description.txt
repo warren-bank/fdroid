@@ -1,0 +1,5 @@
+Limitazioni:
+
+● Non supporta l'audio.
+● RTSP video stream gioca solo in VLC.
+&nbsp;&nbsp;Non certo il perché.

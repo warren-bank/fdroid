@@ -1,0 +1,12 @@
+Skopiowano z oficjalnego kodu źródłowego kodu źródłowego produktu WebRTC (znacznik: 1.0.28513).
+
+Używa rodzimych interfejsów API WebRTC za pośrednictwem JNI.
+
+Funkcje obejmują możliwość:
+
+● make WebRTC video calls using a free
+&nbsp;&nbsp;public signaling server (https:
+&nbsp;&nbsp;//appr.tc)
+● bezpośrednie podłączenie 2 urządzeń w
+&nbsp;&nbsp;tej samej sieci LAN bez konieczności
+&nbsp;&nbsp;stosowania serwera sygnalizacji

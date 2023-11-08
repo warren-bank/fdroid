@@ -1,0 +1,7 @@
+Märkused:
+
+● MainActivity sisaldab tekstivälja
+&nbsp;&nbsp;käsitsi sisestada URL-i või faili
+&nbsp;&nbsp;asukoht toetatud meedia taasesitus
+● Videotegevus sooritab tegeliku
+&nbsp;&nbsp;taasesituse ja saab avada Intent

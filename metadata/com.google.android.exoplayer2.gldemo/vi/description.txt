@@ -1,0 +1,1 @@
+Máy shader cho thấy một bitmap chồng chéo trên đỉnh video. Các bitmap được vẽ bằng cách sử dụng một tấm vải Android, và bao gồm dấu thời gian trình bày của khung hiện tại, để hiển thị cách để lấy dấu thời gian của khung hiện tại trong kết cấu bề mặt ngoài màn hình.

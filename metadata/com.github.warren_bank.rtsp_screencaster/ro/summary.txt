@@ -1,0 +1,1 @@
+Servește un flux video RTSP care oglindește ecranul de afișare a dispozitivului.

@@ -1,0 +1,9 @@
+Opmerkingen:
+
+● MainActivity bevat een tekstveld om
+&nbsp;&nbsp;handmatig de URL of het pad in te
+&nbsp;&nbsp;voeren naar een ondersteunde media
+&nbsp;&nbsp;voor het afspelen
+● VideoActivity voert het eigenlijke
+&nbsp;&nbsp;afspelen, en kan worden geopend door
+&nbsp;&nbsp;Intent

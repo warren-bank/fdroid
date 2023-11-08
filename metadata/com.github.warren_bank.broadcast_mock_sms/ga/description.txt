@@ -1,0 +1,5 @@
+Teorainneacha:
+
+● Ní oibríonn ach amháin ar leaganacha
+&nbsp;&nbsp;de Android & lt; = 5.1 (Lollipop, API
+&nbsp;&nbsp;22)

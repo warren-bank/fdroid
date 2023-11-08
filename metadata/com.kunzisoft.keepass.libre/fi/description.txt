@@ -1,0 +1,27 @@
+KeePassDX sallii koodattujen tietojen muokkausta yksittäiseen tiedostoon KeePass-muodossa ja täyttää lomakkeita suojatulla tavalla.
+
+Ominaisuudet:
+
+● Luo tietokantatiedostot, merkinnät ja
+&nbsp;&nbsp;ryhmät.
+● Tuki .kdb - ja .kdbx-tiedostoille
+&nbsp;&nbsp;(versio 1-4)
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2-algoritmin
+&nbsp;&nbsp;kanssa.
+● Yhteensopivana useimpien
+&nbsp;&nbsp;vaihtoehtoisten ohjelmien kanssa
+&nbsp;&nbsp;(KeePass, KeePassXC, KeeWeb, ...).
+● URI-osoitteen ja URL-osoitteen kentän
+&nbsp;&nbsp;avaus ja kopiointi nopeasti.
+● Nopean lukituksen biometrinen
+&nbsp;&nbsp;tunnistus (sormenjälki, kasvot auki,
+&nbsp;&nbsp;...).
+● Yhden ajan salasana (HOTP/TOTP) kahden
+&nbsp;&nbsp;tekijän todennusta varten (2FA).
+● Materiaalin suunnittelu teemojen
+&nbsp;&nbsp;kanssa.
+● AutoFill ja integraatio.
+● Kenttänäppäimistö.
+● Dynaamiset mallit.
+● Kunkin merkinnän historia.
+● Asetusten tarkka hallinta.

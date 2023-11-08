@@ -1,0 +1,11 @@
+Kopeeritud ametlik WebRTC lähtekoodi repo (tag: 1.0.28513).
+
+Kasutab WebRTC Native API kaudu JNI.
+
+Funktsioonide hulka kuuluvad võime:
+
+● teha WebRTC videokõnesid tasuta
+&nbsp;&nbsp;avaliku signalisatsiooniserveriga
+&nbsp;&nbsp;(https: //appr.tc)
+● otseselt ühendada 2 seadet sama LAN
+&nbsp;&nbsp;ilma signalisatsiooniserver

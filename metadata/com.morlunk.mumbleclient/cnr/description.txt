@@ -1,0 +1,13 @@
+Među značajkama su:
+
+● Ops, CELT i Speex kodek podrška.
+● Svjedodžbe
+● Aktivnost glasa.
+● Bluetooth
+● Javni serveri
+● Komentari
+● Administracija
+● Prekrivanje.
+● -Ming.
+● Obavijesti
+● Integracija orbota.

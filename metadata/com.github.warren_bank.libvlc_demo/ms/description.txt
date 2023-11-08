@@ -1,0 +1,9 @@
+Nota:
+
+● Maintiviti mengandungi medan teks
+&nbsp;&nbsp;untuk memasukkan laluan secara manual
+&nbsp;&nbsp;atau laluan fail ke media yang
+&nbsp;&nbsp;disokong untuk main balik
+● Maklumat Video melaksanakan main balik
+&nbsp;&nbsp;sebenar, dan boleh dibuka oleh
+&nbsp;&nbsp;Inkhemah

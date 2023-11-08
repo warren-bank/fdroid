@@ -1,0 +1,24 @@
+# https://github.com/warren-bank/Android-FlexboxLayout-demos/blob/r1.1.0.001/1-playground/build.gradle
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Development
+License: Apache-2.0
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/Android-FlexboxLayout-demos.git
+SourceCode: https://github.com/warren-bank/Android-FlexboxLayout-demos/tree/r1.1.0
+IssueTracker: https://github.com/warren-bank/Android-FlexboxLayout-demos/issues
+
+AutoName: FlexboxLayout Playground demo
+Name: FlexboxLayout Playground demo
+WebSite: https://github.com/google/flexbox-layout/tree/1.1.0/demo-playground
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: 1.0
+CurrentVersionCode: 1
+UpdateCheckMode: None
+AutoUpdateMode: None

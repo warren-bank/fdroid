@@ -1,0 +1,12 @@
+Kopiran sa zvaničnog "WebRTC" izvornog koda (oznaka: 1.0.28513).
+
+Koristi WebRTC Native API-je preko JNI.
+
+Karakteristike uključuju sposobnost da:
+
+● Napravite WebRTC video pozive
+&nbsp;&nbsp;koristeći besplatan server
+&nbsp;&nbsp;signalizacije (https: //appr. tc)
+● Direktno povezivanje 2 uređaja na
+&nbsp;&nbsp;istom LAN-u bez potrebe za signalnim
+&nbsp;&nbsp;serverom

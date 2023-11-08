@@ -1,0 +1,5 @@
+Piirangud:
+
+● Ei toeta heli.
+● RTSP videovoog mängib ainult VLC. Pole
+&nbsp;&nbsp;kindel miks.

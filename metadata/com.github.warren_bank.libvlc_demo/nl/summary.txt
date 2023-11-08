@@ -1,0 +1,1 @@
+Minimale app om de prestaties van de libVLC bibliotheek voor Android te testen.

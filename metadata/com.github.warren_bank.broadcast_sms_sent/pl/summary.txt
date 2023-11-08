@@ -1,0 +1,1 @@
+Służy do obserwowania wiadomości SMS na potrzeby wysyłania wiadomości, a lokalnie nadaje duplikat kopii.

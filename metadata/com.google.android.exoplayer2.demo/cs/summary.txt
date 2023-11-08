@@ -1,0 +1,1 @@
+Toto je hlavní demo aplikace ExoPlayer.

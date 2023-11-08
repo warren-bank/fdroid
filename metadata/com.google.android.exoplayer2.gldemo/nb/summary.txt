@@ -1,0 +1,1 @@
+ExoPlayer-demo som gjengir video til en GLSurfaceView og gjelder en GL-shader.

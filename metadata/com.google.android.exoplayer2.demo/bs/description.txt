@@ -1,0 +1,1 @@
+On koristi ExoPlayer za igranje niza testnih tokova. Može se koristiti kao početna tačka ili referentni projekat kada se razvijaju druge aplikacije koje koriste ExoPlayer biblioteku.

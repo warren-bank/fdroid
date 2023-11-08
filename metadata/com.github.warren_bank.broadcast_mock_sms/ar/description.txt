@@ -1,0 +1,4 @@
+الحدود :
+
+● يعمل فقط على نسخ Android < = 5.1
+&nbsp;&nbsp;(Lollipop, API 22)

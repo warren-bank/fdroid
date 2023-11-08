@@ -1,0 +1,4 @@
+제한사항:
+
+● Android < = 7.0의 버전 (Nougat, API 24)
+&nbsp;&nbsp;에서만 작동한다.

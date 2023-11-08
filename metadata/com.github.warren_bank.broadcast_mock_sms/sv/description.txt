@@ -1,0 +1,4 @@
+Begränsningar:
+
+● Endast fungerar på versioner av
+&nbsp;&nbsp;Android &lt; = 5.1 (Lollipop, API 22)

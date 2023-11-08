@@ -1,0 +1,1 @@
+Sjammen viser et overlappingbitmønster på toppen av videoen. Overleggingsbitmønsteret er tegnet ved hjelp av et Android-lerret, og omfatter gjeldende rammeets presentasjonstidsstempel, for å vise hvordan man får tidsstempelet for rammen for tiden i avskjerningsoverflaten.

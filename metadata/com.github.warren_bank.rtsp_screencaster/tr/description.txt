@@ -1,0 +1,5 @@
+Sınırlamalar:
+
+● Sesi desteklemiyor.
+● RTSP video akışı yalnızca VLC ' de
+&nbsp;&nbsp;oynar. Neden olduğunu bilmiyorum.

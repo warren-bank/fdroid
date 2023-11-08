@@ -1,0 +1,1 @@
+Šalje SMS-ove za poslane poruke, i lokalno emituje duplikat kopije.

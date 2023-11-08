@@ -1,0 +1,25 @@
+KepPardDX võimaldab krüptitud andmeid redigeerida ühes failis Keepassi formaadis ja täita kujul turvalises vormis.
+
+Omadused:
+
+● Loo andmebaasifailid, kirjed ja
+&nbsp;&nbsp;grupid.
+● Toetus .kdb ja .kdbx faile (versioon 1
+&nbsp;&nbsp;kuni 4) koos
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2 algoritm.
+● Ühildub enamiku alternatiivsete
+&nbsp;&nbsp;programmide (KeePass, KeepasXC,
+&nbsp;&nbsp;KeeWeb, ...).
+● Võimaldab kiiresti avada ja kopeerida
+&nbsp;&nbsp;URI/URL-i välju.
+● Biomeetriline tunnustus kiireks
+&nbsp;&nbsp;lukustamiseks (sõrmejälg, näolukk,
+&nbsp;&nbsp;...).
+● Üheaegsed paroolihaldus (HOTP/TOTP)
+&nbsp;&nbsp;kahefaktorile autentimiseks (2FA).
+● Materjal disain teemad.
+● Automaatne-Täida ja integratsiooni.
+● Välimine klaviatuur.
+● Dünaamilised mallid.
+● Iga kirje ajalugu.
+● Seadistuste täpne haldamine.

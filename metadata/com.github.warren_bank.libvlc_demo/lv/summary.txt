@@ -1,0 +1,1 @@
+Minimāla lietotne, lai pārbaudītu veiktspēju libVLC bibliotēkā Android.

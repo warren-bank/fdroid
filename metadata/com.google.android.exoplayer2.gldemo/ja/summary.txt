@@ -1,0 +1,1 @@
+ビデオを GLSurfaceView にレンダリングし、 GL シェーダを適用する ExoPlayer のデモ。

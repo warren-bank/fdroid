@@ -1,0 +1,4 @@
+Ierobežojumi:
+
+● Strādā tikai par Android versijām &lt;
+&nbsp;&nbsp;= 5.1 (Lollipop, API 22)

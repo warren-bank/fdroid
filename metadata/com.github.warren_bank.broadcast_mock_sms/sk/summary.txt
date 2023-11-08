@@ -1,0 +1,1 @@
+Vysiela mock SMS na napodobenie prijatia nového textu správy (alebo údajov).

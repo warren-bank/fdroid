@@ -1,0 +1,13 @@
+Omadused on järgmised:
+
+● Opus, CELT ja Speex codec toetus
+● Sertifikaadid
+● Hääletegevus
+● bluetooth
+● Avalikud serverid
+● Märkused
+● Manustamine
+● Ülekate
+● Teemad
+● Märguanded
+● Ortide integratsioon

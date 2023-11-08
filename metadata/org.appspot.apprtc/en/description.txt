@@ -1,0 +1,12 @@
+Copied from the official WebRTC source code repo (tag: 1.0.28513).
+
+Uses WebRTC Native APIs via JNI.
+
+Features include the ability to:
+
+● make WebRTC video calls using a free
+&nbsp;&nbsp;public signaling server
+&nbsp;&nbsp;(https://appr.tc)
+● directly connect 2 devices on the same
+&nbsp;&nbsp;LAN without the need for a signaling
+&nbsp;&nbsp;server

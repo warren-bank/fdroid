@@ -1,0 +1,1 @@
+Dodržiava SMS správy pre odoslané správy a lokálne vysiela duplicitnú kópiu.

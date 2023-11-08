@@ -1,0 +1,1 @@
+Observă SMS-uri pentru mesajele trimise, iar local difuzează o copie duplicat.

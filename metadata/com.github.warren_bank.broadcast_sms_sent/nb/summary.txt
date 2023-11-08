@@ -1,0 +1,1 @@
+Observerer SMS for tilsendt meldinger, og lokalt kringkaster en like kopi.

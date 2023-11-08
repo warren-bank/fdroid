@@ -1,0 +1,28 @@
+Skúšobná verzia skúšobnej verzie VXG RTSP Player, ktorá obsahuje zmrzačený verziu VXG Mobile SDK. Prehrávanie je obmedzené na 2 minúty.
+
+K funkciám patrí:
+
+● Podporované typy streamovania:
+&nbsp;&nbsp;○ RTSP
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (podpora toku Multicast)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS
+● Nahrávanie zo živej kamery
+● Digitálne oddialenie a posunutie
+&nbsp;&nbsp;obrazu
+● Miniatúry pre živé toky
+● Podpora zoznamu kanálov M3U
+● Ovládací prvok zoznam jednoduchých
+&nbsp;&nbsp;tokov údajov
+&nbsp;&nbsp;○ pridať, vymazať a upraviť vaše toky
+● Náhľad videa pri prezeraní zoznamu
+&nbsp;&nbsp;fotoaparátu
+● Replay pre live prúd HLS
+● Dekodér hardvéru pomocou akcelerácie
+&nbsp;&nbsp;hardvéru s optimalizáciou procesora
+&nbsp;&nbsp;○ vysokorýchlostné renderovanie pre
+&nbsp;&nbsp;&nbsp;&nbsp;modernú platformu
+● Multijadrové dekódovanie poskytuje
+&nbsp;&nbsp;výkon zariadenia s duálnym jadlom

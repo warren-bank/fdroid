@@ -1,0 +1,27 @@
+Probna verzija VXG RTSP Playera, koja sadrži obogaljenu verziju VXG mobilnog SDK-a. Igra je ograničena na 2 minute.
+
+Među značajkama su:
+
+● Podržane vrste streaming-a:
+&nbsp;&nbsp;○ Prevod i adaptacija:
+&nbsp;&nbsp;○ RTP
+&nbsp;&nbsp;○ UDP (Multipla stream podrška)
+&nbsp;&nbsp;○ HTTP-HLS
+&nbsp;&nbsp;○ RTMP
+&nbsp;&nbsp;○ MMS.
+● Snimaj iz live kamere.
+● Digitalni zoom i mijenjanje slike.
+● Sličice za žive potoke.
+● Podrška za M3U kanal
+● Laka kontrola spiska.
+&nbsp;&nbsp;○ Dodajte, brišite i modificirajte
+&nbsp;&nbsp;&nbsp;&nbsp;potoke.
+● Pregled video-a dok gledate u listu
+&nbsp;&nbsp;kamera
+● Replay za live HLS stream
+● Hardverski dekoder koji koristi
+&nbsp;&nbsp;hardversko ubrzanje sa optimizacijom
+&nbsp;&nbsp;procesora
+&nbsp;&nbsp;○ Velika brzina za modernu platformu.
+● Višejezgreni dekodiranje pruža
+&nbsp;&nbsp;performanse dvostrukog uređaja.

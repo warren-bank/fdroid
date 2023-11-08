@@ -1,0 +1,12 @@
+Copiwyd o'r cod ffynhonnell swyddogol swyddogol WebRTC (tag: 1.0.28513).
+
+Defnyddio APCRTC Brodorol drwy JNI.
+
+Mae nodweddion yn cynnwys y gallu i:
+
+● yn gwneud galwadau fideo WebRTC gan
+&nbsp;&nbsp;ddefnyddio gweinydd deialu i'r cyhoedd
+&nbsp;&nbsp;am ddim (https: //appr.tc)
+● yn uniongyrchol, mae cyswllt 2 yn cael
+&nbsp;&nbsp;ei osod ar yr un LAN heb fod angen
+&nbsp;&nbsp;arwyddo gweinydd

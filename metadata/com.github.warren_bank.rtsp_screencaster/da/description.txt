@@ -1,0 +1,5 @@
+Begrænsninger:
+
+● Det understøtter ikke lyd.
+● RTSP-videostrømmen spiller kun i VLC.
+&nbsp;&nbsp;Jeg ved ikke hvorfor.

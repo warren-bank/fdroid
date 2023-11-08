@@ -1,0 +1,27 @@
+KeePassDX tippermetti l-editjar ta ' data kriptata f'fajl wieħed fil-format KeePass, u biex timla l-formoli b'mod sigur.
+
+Karatteristiċi:
+
+● Oħloq fajls database, entrati, u
+&nbsp;&nbsp;gruppi.
+● Appoġġ għall .kdb u .kdbx fajls
+&nbsp;&nbsp;(verżjoni 1 sa 4) ma
+&nbsp;&nbsp;AES-Tfofish-ChatCha20-algoritmu
+&nbsp;&nbsp;Argon2.
+● Kompatibbli mal-maġġoranza ta '
+&nbsp;&nbsp;programmi alternattivi (KeePass,
+&nbsp;&nbsp;KeePassXC, KeeWeb, ...).
+● Jippermetti ftuħ u l-ikkopjar
+&nbsp;&nbsp;URI/oqsma URL malajr.
+● Rikonoxximent bijometriku għal ftuħ
+&nbsp;&nbsp;mgħaġġel (marki tas-swaba ', li
+&nbsp;&nbsp;jinfetaħ wiċċ, ...).
+● Ġestjoni tal-Password ta 'darba
+&nbsp;&nbsp;(HOTP/TOTP) għall-awtentikazzjoni ta'
+&nbsp;&nbsp;żewġ fatturi (2FA).
+● Disinn tal-materjal b'temi.
+● Auto-Imla u l-Integrazzjoni.
+● Keyboard tal-mili qasam.
+● Mudelli dinamiċi.
+● Storja ta ' kull entrata.
+● Ġestjoni preċiża ta ' settings.

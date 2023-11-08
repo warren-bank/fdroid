@@ -1,0 +1,13 @@
+Kopiert aus dem offiziellen WebRTC Quellcode repo (Tag: 1.0.28513).
+
+Verwendet die nativen WebRTC-APIs über JNI.
+
+Zu den Features gehören die folgenden Funktionen:
+
+● Machen Sie WebRTC-Videoanrufe mit
+&nbsp;&nbsp;einem freien öffentlichen
+&nbsp;&nbsp;Signalisierungsserver (https:
+&nbsp;&nbsp;//appr.tc)
+● 2 Geräte direkt am selben LAN
+&nbsp;&nbsp;anschließen, ohne dass ein
+&nbsp;&nbsp;Signalisierungsserver benötigt wird

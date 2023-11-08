@@ -1,0 +1,1 @@
+Emitiranje lažnog SMS-a kako bi se oponašao primitak nove poruke (ili podataka) poruke.

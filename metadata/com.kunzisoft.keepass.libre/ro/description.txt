@@ -1,0 +1,26 @@
+KeePassDX permite editarea de date criptate într-un singur fișier în format KeePass, și pentru a completa formulare într-un mod securizat.
+
+Caracteristici:
+
+● Creați fișiere de baze de date,
+&nbsp;&nbsp;intrări și grupuri.
+● Suport pentru fișiere .kdb și .kdbx
+&nbsp;&nbsp;(versiunea 1 la 4) cu algoritmul
+&nbsp;&nbsp;AES-Twofish-ChaCha20-Argon2.
+● Compatibil cu majoritatea programelor
+&nbsp;&nbsp;alternative (KeePass, KeePassXC,
+&nbsp;&nbsp;KeeWeb, ...).
+● Permite deschiderea și copierea rapidă
+&nbsp;&nbsp;a câmpurilor URI/URL.
+● Recunoaștere biometrică pentru
+&nbsp;&nbsp;deblocare rapidă (amprentă, deblocare
+&nbsp;&nbsp;a feței, ...).
+● One-Time Password management
+&nbsp;&nbsp;(HOTP/TOTP) for two-factor
+&nbsp;&nbsp;authentication (2FA).
+● Design material cu teme.
+● Auto-Completați și Integrare.
+● Tastatură de umplere.
+● Șabloane dinamice.
+● Istoria fiecărei intrări.
+● Gestionarea precisă a setărilor.

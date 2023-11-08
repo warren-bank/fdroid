@@ -1,0 +1,4 @@
+Limitazioni:
+
+● Solo le opere sulle versioni di
+&nbsp;&nbsp;Android &lt; = 7,0 (Nougat, API 24)

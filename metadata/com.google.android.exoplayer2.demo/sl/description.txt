@@ -1,0 +1,1 @@
+Uporablja ExoPlayer za predvajanja številnih preskusnih tokov. Pri razvijanjem drugih aplikacij, ki uporabljajo knjižnico ExoPlayer, jo lahko uporabite kot začetno ali referenčno projekt.

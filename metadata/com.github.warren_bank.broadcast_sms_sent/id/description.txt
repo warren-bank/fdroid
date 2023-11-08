@@ -1,0 +1,4 @@
+Batasan:
+
+● Hanya bekerja pada versi Android &lt;
+&nbsp;&nbsp;= 7.0 (Nougat, API 24)

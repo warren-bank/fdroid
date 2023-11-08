@@ -1,0 +1,1 @@
+A borotvált egy átfedést mutat a videó tetején. Az átfedő bitkép Android vászon használatával történik, és tartalmazza az aktuális keret megjelenítési időpecsétjét, hogy megjelenítse a keret aktuális időpecsétjének megjelenítését a külső felületszerkezeten.

@@ -1,0 +1,4 @@
+Limitazzjonijiet:
+
+● Xogħlijiet biss fuq verżjonijiet ta '
+&nbsp;&nbsp;Android &lt; = 7.0 (Nougat, API 24)

@@ -1,0 +1,1 @@
+Raida sms SMS, lai imitētu jauna teksta (vai datu) ziņojuma saņemšanu.

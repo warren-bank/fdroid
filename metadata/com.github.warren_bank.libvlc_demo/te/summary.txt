@@ -1,0 +1,1 @@
+Minimal app to test performance of the libVLC library for Android.
