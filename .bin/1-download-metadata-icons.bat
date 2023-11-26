@@ -42,6 +42,7 @@ call :do_download "org.proxydroid"                                              
 call :do_download "org.mushare.httper"                                              "https://github.com/warren-bank/fork-Android-Httper/raw/feature/01-periodic-requests-service/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "com.github.warren_bank.rtsp_ipcam_viewer"                        "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/raw/master/android-studio-project/RTSP-IPCam-Viewer/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "org.fdroid.fdroid"                                               "https://github.com/warren-bank/fork-Android-fdroidclient/raw/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+call :do_download "org.fdroid.basic"                                                "https://github.com/warren-bank/fork-Android-fdroidclient/raw/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
 
 goto :done
 
