@@ -261,6 +261,14 @@ Redirect 301 "/repo/fdroidclient-1.12.1-fork-v1.0.0-basic-release.apk"          
 RewriteRule "^/?repo/icons(?:-\d+)?/org\.fdroid\.basic(?:\.\d+)?\.png$"                                                                               "https://github.com/warren-bank/fork-Android-fdroidclient/raw/fork/1.18.0/v1.0.0/app/src/main/res/drawable-xxxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
+# com.looker.droidify
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/Droidify-0.5.9.5-fork-v1.0.0-release.apk"                                                                                         "https://github.com/warren-bank/fork-Android-Droidify/releases/download/fork/0.5.9.5/v1.0.0/Droidify-0.5.9.5-fork-v1.0.0-release.apk"
+
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.looker\.droidify(?:\.\d+)?\.png$"                                                                            "https://github.com/warren-bank/fork-Android-Droidify/raw/fork/0.5.9.5/v1.0.0/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" [L,R=301]
+
+# --------------------------------------------------------------------
 # com.github.warren_bank.rtsp_screencaster
 # --------------------------------------------------------------------
 
