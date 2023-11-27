@@ -1,0 +1,21 @@
+PIEZĪME: Pamata versija F-Droid Client ir samazināts funkciju komplekts (piemēram, nav blakus akciju un nav panikas funkciju). Tas ir vērsts uz Android 13 un var darīt bez uzraudzības atjauninājumus bez privileģēts paplašinājums vai saknes.
+
+F-Droid ir instalējams katalogs libre programmatūru progr Android. F-Droid klienta lietotne padara to viegli pārlūkot, instalēt un sekot līdzi jaunumiem ierīcē.
+
+Tas savieno jebkuru F-Droid savietojamu repozitoriju. Noklusētais repo notiek f-droid.org, kas satur tikai bona fide libre programmatūru.
+
+Android pati ir atvērta tādā nozīmē, ka jums ir brīvi uzstādīt APKs no jebkuras vietas vēlaties, bet ir daudz labu iemeslu, lai, izmantojot F-Droid kā jūsu libe programmatūras app vadītājs:
+
+● Saņemt paziņojumu, kad atjauninājumi
+&nbsp;&nbsp;ir pieejami
+● Pēc izvēles lejupielādēt un instalēt
+&nbsp;&nbsp;atjauninājumus automātiski
+● Sekot līdzi vecākām un beta versijām
+● Izfiltrēt programmas, kas nav
+&nbsp;&nbsp;savietojamas ar ierīci
+● Atrast lietotnes, izmantojot
+&nbsp;&nbsp;kategorijas un searchable aprakstus
+● Ar piekļuvi saistītie URL ziedojumiem,
+&nbsp;&nbsp;pirmkods utt.
+● Paliec droši, pārbaudot repo indeksu
+&nbsp;&nbsp;parakstus un APK hash

@@ -1,0 +1,11 @@
+Ātrs materiāls F-Diroid klients.
+
+Funkcijas:
+
+● Materiāls F-Droid stils
+● Nav kartes vai nepiemērotas animācijas
+● Ātrā repozitorija
+● Standarta Android komponenti un
+&nbsp;&nbsp;minimālas atkarības
+
+Tieša Foxy-Droid pielāgošana/modifikācija.

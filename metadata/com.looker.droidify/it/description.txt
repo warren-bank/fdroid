@@ -1,0 +1,12 @@
+Un client veloce F-Droid.
+
+Funzioni:
+
+● Materiale F-Droid style
+● Nessuna scheda o animazioni
+&nbsp;&nbsp;inappropriate
+● Sincronizzazione dei repository veloci
+● Componenti Android standard e
+&nbsp;&nbsp;dipendenze minimali
+
+Adattamento diretto / modifica di Fossi - Droid.

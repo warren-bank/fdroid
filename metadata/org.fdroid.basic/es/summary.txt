@@ -1,0 +1,1 @@
+La aplicación de cliente mínima para la tienda de aplicaciones que respeta la libertad y la privacidad.

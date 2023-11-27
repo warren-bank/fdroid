@@ -1,0 +1,11 @@
+Een snelle materiële F-Droid client.
+
+Functies:
+
+● Materiaal F-Droid stijl
+● Geen kaarten of ongepaste animaties
+● Synchronisatie van snelle repository's
+● Standaard Android-componenten en
+&nbsp;&nbsp;minimale afhankelijkheden
+
+Een directe aanpassing/wijziging van Foxy-Droid.

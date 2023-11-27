@@ -1,0 +1,1 @@
+Minimalna aplikacja kliencka dla sklepu App Store, która szanuje wolność i prywatność.

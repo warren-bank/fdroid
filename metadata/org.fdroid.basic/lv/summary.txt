@@ -1,0 +1,1 @@
+Minimālā klienta lietotne lietotņu veikalā, kas ciena brīvību un privātumu.

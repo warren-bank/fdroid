@@ -1,0 +1,22 @@
+NOT: F-Droid Client 'ın temel sürümü azaltılmış bir özellik kümesine sahiptir (örneğin, yakındaki paylaşıma gerek yoktur ve panik özelliği yoktur). Android 13 'i hedef alıyor ve ayrıcalıklı uzantı ya da kök olmadan gözetimsiz güncellemeler yapabilir.
+
+F-Droid, Android için libre yazılım uygulamalarının kurulabilir bir kataloğidir. F-Droid istemci uygulaması, aygıtınızdaki güncellemeleri göz atmanızı, kurmanızı ve izlemelerini kolaylaştırır.
+
+Bu, herhangi bir F-Droid uyumlu havuzlara bağlanır. Varsayılan repo, yalnızca bona fibre yazılımı içeren f-droid.org adresinde barındırılır.
+
+Android kendisi, dilediğiniz yerden APT 'leri kurmakta özgürsün, ancak F-Droid' in libre yazılım uygulama yöneticisi olarak kullanılmasının pek çok iyi nedeni olduğunu ifade eder:
+
+● Güncelleştirmeler kullanılabilir
+&nbsp;&nbsp;olduğunda bildirim al
+● İsteğe bağlı olarak güncelleştirmeleri
+&nbsp;&nbsp;otomatik olarak karşıdan yükleyip
+&nbsp;&nbsp;kurma
+● Eski ve beta sürümlerini takip et
+● Uygulamadaki süzgeç uygulama aygıtla
+&nbsp;&nbsp;uyumlu değil
+● Kategoriler ve aranabilir açıklamalar
+&nbsp;&nbsp;aracılığıyla uygulamaları bulma
+● Bağışlar, kaynak kodu vb. için
+&nbsp;&nbsp;ilişkili URL ' lere erişin
+● Repo dizin imzalarını ve APK haşlarını
+&nbsp;&nbsp;denetleyerek güvende kalın

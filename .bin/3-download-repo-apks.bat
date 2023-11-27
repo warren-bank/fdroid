@@ -32,10 +32,10 @@ call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases
 call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/Android-WebMonkey/releases
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-english-noAdBlock-release.apk"
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-english-withAdBlock-release.apk"
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-withAllLanguageTranslations-noAdBlock-release.apk"
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v03.00.01/WebMonkey-003.00.01-08API-withAllLanguageTranslations-withAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-english-noAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-english-withAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-withAllLanguageTranslations-noAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-withAllLanguageTranslations-withAdBlock-release.apk"
 
 rem :: https://github.com/warren-bank/Android-WebCast/releases
 call :do_download "https://github.com/warren-bank/Android-WebCast/releases/download/v05.01.00/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
@@ -107,6 +107,15 @@ call :do_download "https://github.com/warren-bank/fork-Android-Httper/releases/d
 
 rem :: https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases
 call :do_download "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases/download/v02.04.01/RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk"
+
+rem :: https://github.com/warren-bank/fork-Android-fdroidclient/releases
+call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.18.0/v1.0.0/fdroidclient-1.18.0-fork-v1.0.0-full-release.apk"
+call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.12.1/v1.0.0/fdroidclient-1.12.1-fork-v1.0.0-full-release.apk"
+call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.18.0/v1.0.0/fdroidclient-1.18.0-fork-v1.0.0-basic-release.apk"
+call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.12.1/v1.0.0/fdroidclient-1.12.1-fork-v1.0.0-basic-release.apk"
+
+rem :: https://github.com/warren-bank/fork-Android-Droidify/releases
+call :do_download "https://github.com/warren-bank/fork-Android-Droidify/releases/download/fork/0.5.9.5/v1.0.0/Droidify-0.5.9.5-fork-v1.0.0-release.apk"
 
 goto :done
 

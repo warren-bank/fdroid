@@ -1,0 +1,11 @@
+Szybki materiał F-Droid klienta.
+
+Funkcje:
+
+● Materiał F-Droid w stylu
+● Brak kart lub niewłaściwe animacje
+● Szybkie synchronizowanie repozytorium
+● Standardowe komponenty systemu Android
+&nbsp;&nbsp;i minimalne zależności
+
+Bezpośrednia adaptacja/modyfikacja Foxy-Droid.

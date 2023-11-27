@@ -1,0 +1,20 @@
+F-Droid je instalovatelný katalog softwarových aplikací pro libre pro Android. Klientská aplikace F-Droid umožňuje snadné prohlížení, instalaci a sledování aktualizací zařízení.
+
+Připojuje se k libovolným úložištím F-Droid. Výchozí repo je hostem na f-droid.org, který obsahuje pouze software v dobré víře libre.
+
+Android samotná je otevřena v tom smyslu, že můžete zdarma instalovat APKs odkudkoli si přejete, ale existuje mnoho dobrých důvodů pro použití F-Droid jako váš libre software app manager:
+
+● Získat oznámení, když jsou k dispozici
+&nbsp;&nbsp;aktualizace
+● Volitelně stáhněte a nainstalujte
+&nbsp;&nbsp;aktualizace automaticky
+● Udržujte přehled o starších a beta
+&nbsp;&nbsp;verzích
+● Odfiltrovat aplikace nekompatibilní se
+&nbsp;&nbsp;zařízením
+● Vyhledání aplikací prostřednictvím
+&nbsp;&nbsp;kategorií a prohledávatelných popisů
+● Přístup k přidruženým adresám URL pro
+&nbsp;&nbsp;dary, zdrojový kód atd.
+● Pobyt v bezpečí kontrolou repozitové
+&nbsp;&nbsp;indexové podpisy a hašování APK

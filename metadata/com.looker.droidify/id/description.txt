@@ -1,0 +1,12 @@
+Sebuah klien F-Droid material cepat.
+
+Fitur:
+
+● Gaya F-Droid material
+● Tidak ada kartu atau animasi yang
+&nbsp;&nbsp;tidak pantas
+● Sinkronisasi repositori cepat
+● Komponen Android standar dan
+&nbsp;&nbsp;dependensi-dependensi minimal
+
+Sebuah adaptasi langsung/modifikasi dari Foxy-Droid.

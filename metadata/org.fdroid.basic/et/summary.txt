@@ -1,0 +1,1 @@
+Rakenduse poe minimaalne kliendirakendus, mis austab vabadust ja privaatsust.

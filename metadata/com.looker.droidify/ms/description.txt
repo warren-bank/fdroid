@@ -1,0 +1,12 @@
+Klien F-Droid yang pantas.
+
+Fitur:
+
+● Gaya F-Droid material
+● Tiada kad atau animasi yang tidak
+&nbsp;&nbsp;sesuai
+● Pensintesis repositori pantas
+● Komponen Android piawai dan dependensi
+&nbsp;&nbsp;minimum
+
+Adaptasi langsung/pengubahsuaian Foxy-Droid.

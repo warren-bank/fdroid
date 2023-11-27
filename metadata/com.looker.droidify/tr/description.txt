@@ -1,0 +1,12 @@
+Hızlı bir F-Droid müşterisi.
+
+Özellikler:
+
+● Malzeme F-Droid stili
+● Kartlar ya da uygunsuz canlandırmalar
+&nbsp;&nbsp;yok
+● Hızlı havuz eşitleme
+● Standart Android bileşenleri ve en
+&nbsp;&nbsp;düşük bağımlılıklar
+
+Foxy-Droid ' in doğrudan bir uyarlaması/modifikasyonları.

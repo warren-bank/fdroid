@@ -1,0 +1,19 @@
+F-Droid je namestljiv katalog aplikacij za libre programske opreme za Android. Z aplikacijo odjemalca F-Droid lahko brskate, namestite in spremljalite posodobitve v napravi.
+
+Povezuje se z vsemi repozitoriji, ki so združljivi s F-Droid. Privzeti repo je gostovano na naslovu f-droid.org, ki vsebuje samo programsko opremo bona fide libre software.
+
+Sam Android je odprt v smislu, da lahko namestite APKs od koder koli želite, vendar obstaja veliko dobrih razlogov za uporabo izdelka F-Droid kot vašega upravljalnika aplikacij za libre programske opreme:
+
+● Dobite obvestilo, ko so posodobitve na
+&nbsp;&nbsp;voljo
+● Izbirno prenesite in namestite
+&nbsp;&nbsp;posodobitve samodejno
+● Spremljite starejše in beta različice
+● Filtriranje aplikacij, ki niso
+&nbsp;&nbsp;združljive z napravo
+● Iskanje aplikacij po kategorijah in
+&nbsp;&nbsp;opisih, ki omogočajo iskanje
+● Dostopite do povezanih URL-jev za
+&nbsp;&nbsp;donacije, izvorno kodo itd.
+● Bodite varni tako, da preverite zapise
+&nbsp;&nbsp;povratnega indeksa in APAR-je APK

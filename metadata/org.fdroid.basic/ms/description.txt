@@ -1,0 +1,21 @@
+NOTE: Versi asas bagi Klien F-Droid mempunyai set ciri yang dikurangkan (cth. tiada perkongsian berdekatan dan tiada ciri panik). Ia mensasarkan Android 13 dan boleh melakukan update tanpa sambungan tanpa sambungan atau akar.
+
+F-Droid adalah katalog boleh dipasang bagi apps perisian libre untuk Android. Aplikasi klien F-Droid menjadikan ia mudah untuk melayari, pasang, dan menyimpan trek kemas kini pada peranti anda.
+
+Ia disambungkan ke mana-mana repositori serasi F-Droid. Repo piawai dihoskan di f-droid.org, yang mengandungi hanya bona fide libre software.
+
+Android sendiri adalah terbuka dalam rasa bahawa anda bebas untuk memasang APKs dari mana sahaja anda mahu, tetapi terdapat banyak alasan yang baik untuk menggunakan F-Droid sebagai pengurus aplikasi perisian libre anda:
+
+● Dapatkan diberitahu bila kemaskini
+&nbsp;&nbsp;tersedia
+● Muat turun secara automatik dan pasang
+&nbsp;&nbsp;kemaskini secara automatik
+● Kekalkan senarai versi yang lebih tua
+&nbsp;&nbsp;dan beta
+● Tapis apps tidak serasi dengan peranti
+● Cari apps melalui kategori dan
+&nbsp;&nbsp;keterangan boleh gelintar
+● Capai URL yang berkaitan untuk
+&nbsp;&nbsp;sumbangan, kod sumber dll.
+● Kekal selamat dengan memeriksa
+&nbsp;&nbsp;tandatangan indeks repo dan APK hashes

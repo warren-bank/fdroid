@@ -1,0 +1,20 @@
+LƯI Ý: Phiên bản cơ bản của F-Droid Client có bộ tính năng giảm (ví dụ: không có thị phần gần đó và không có tính năng hoảng loạn). Nó nhắm đến Android 13 và có thể không tham dự các bản cập nhật mà không có phần mở rộng hay gốc.
+
+F-Droid là một danh mục cài đặt các ứng dụng phần mềm libre cho Android. Ứng dụng máy khách F-Droid giúp dê ̃ dàng duyệt, cài đặt và theo dõi các cập nhật trên thiết bị của bạn.
+
+Nó kết nối đến bất kỳ kho lưu trữ tương thích F-Droid nào. Repo mặc định được lưu trữ tại f-droid.org, chỉ chứa phần mềm bona fide.
+
+Bản thân Android đang mở theo nghĩa là bạn được tự do cài đặt APK từ bất cứ đâu bạn muốn, nhưng có nhiều lý do tốt để sử dụng F-Droid như là trình quản lý ứng dụng phần mềm libre của bạn:
+
+● Nhận thông báo khi cập nhật có sẵn
+● Tùy chọn tải xuống và cài đặt cập
+&nbsp;&nbsp;nhật tự động
+● Theo dõi các phiên bản cũ và beta
+● Lọc các ứng dụng không tương thích với
+&nbsp;&nbsp;thiết bị
+● Tìm ứng dụng qua danh mục và mô tả có
+&nbsp;&nbsp;thể tìm
+● Truy cập URL liên kết để quyên
+&nbsp;&nbsp;tặng, mã nguồn v.v.
+● Giữ an toàn bằng cách kiểm tra chữ ký
+&nbsp;&nbsp;chỉ mục repo và APK hashes

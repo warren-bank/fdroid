@@ -1,0 +1,1 @@
+Minimalna aplikacija klijenta za spremište aplikacija koje poštuje slobodu i privatnost.

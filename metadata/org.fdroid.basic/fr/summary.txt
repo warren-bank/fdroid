@@ -1,0 +1,1 @@
+L'application client minimale pour l'App Store qui respecte la liberté et la vie privée.

@@ -1,0 +1,23 @@
+NOTE: Tá an leagan bunúsach de Cliant Fíor gné laghdaithe (m.sh. scair in aice láimhe agus gan aon ghné phaipeacha). Tá sé le spriocanna Android 13 agus is féidir a dhéanamh gan freastal ar nuashonruithe gan síneadh nó fréamhaithe pribhléide.
+
+Is FFFFIs catalóg inláimhsithe de apps bogearraí libre le haghaidh Android. Déanann an app cliant F-Droid sé éasca le brabhsáil, a shuiteáil, agus a choinneáil ar rian na nuashonruithe ar do ghléas.
+
+Nascann sé le haon repositéalta comhoiriúnach le haon-Droid. Is é an repo réamhshocraithe óstáil ag f-droid.org, a bhfuil ach amháin bogearraí libre bona fide.
+
+Android féin ar oscailt sa chiall go bhfuil tú saor in aisce a shuiteáil APKs ó aon áit ar mian leat, ach tá go leor cúiseanna maithe le haghaidh ag baint úsáide as F-Droid mar do bhainisteoir bogearraí apbre bogearraí:
+
+● Faigh fógra nuair a bheidh
+&nbsp;&nbsp;nuashonruithe ar fáil
+● Íoslódáil agus suiteáil nuashonruithe
+&nbsp;&nbsp;go huathoibríoch go huathoibríoch
+● Coinnigh rian de leaganacha níos sine
+&nbsp;&nbsp;agus deta
+● Scagaire amach apps nach bhfuil ag luí
+&nbsp;&nbsp;leis an gléas
+● Aimsigh apps trí catagóirí agus
+&nbsp;&nbsp;tuairiscí inchuaird
+● Rochtain a bhaineann URLanna a
+&nbsp;&nbsp;bhaineann le deonacháin, cód foinse
+&nbsp;&nbsp;srl.
+● Fanacht sábháilte ag seiceáil
+&nbsp;&nbsp;comhartha innéacs repo agus APK hashes

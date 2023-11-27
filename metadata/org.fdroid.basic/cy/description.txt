@@ -1,0 +1,22 @@
+NODER: Mae gan y fersiwn Sylfaenol o Dibynnydd F-Droid set o nodwedd wedi'i osod (e.e. dim cyfran gyfagos a dim nodweddion panig). Mae'n targedu Android 13 ac yn gallu cael eu diweddaru heb estyniad breintiedig neu gwraidd.
+
+Mae S-Droid yn gatalog gosod ar gyfer apiau meddalwedd llyfrgellog ar gyfer Android. Mae'r ap cleient F-Droid yn ei gwneud yn hawdd pori, gosod, a chadw golwg ar y diweddariadau ar eich dyfais.
+
+Mae'n cysylltu ag unrhyw storfeydd sy'n addas i Droid. Mae'r ateb rhagosodedig yn cael ei gynnal yn f-droid.org, sy'n cynnwys meddalwedd llyfrgelle yn unig.
+
+Mae Android ei hun yn agored yn yr ystyr eich bod yn rhydd i osod APKs o unrhyw le rydych yn ei ddymuno, ond mae llawer o resymau da dros ddefnyddio F-Droid fel eich rheolwr offer meddalwedd meddalwedd:
+
+● Cael gwybod pan fydd diweddariadau ar
+&nbsp;&nbsp;gael
+● Llwytho i lawr yn ddewisol a gosod
+&nbsp;&nbsp;diweddariadau yn awtomatig
+● Cadw golwg ar fersiynau cyfredol a
+&nbsp;&nbsp;beta
+● Hidlo apiau sy'n anghydnaws â'r
+&nbsp;&nbsp;ddyfais
+● Canfod apiau drwy gategorïau a
+&nbsp;&nbsp;disgrifiadau chwiliadwy
+● Mynediad at URLau cysylltiedig ar
+&nbsp;&nbsp;gyfer rhoddion, cod ffynhonnell etc.
+● Aros yn ddiogel drwy wirio ail fynegai
+&nbsp;&nbsp;llofnodion a APK hashes

@@ -19,7 +19,7 @@ if exist "%log_filepath%" del "%log_filepath%"
 call :do_download "com.github.warren_bank.exoplayer_airplay_receiver"               "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/raw/v03/android-studio-project/ExoPlayer-AirPlay-Receiver/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.mock_location"                            "https://github.com/warren-bank/Android-Mock-Location/raw/service/android-studio-project/Mock-my-GPS/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.mock_location.service.microg_nlp_backend" "https://github.com/warren-bank/Android-Mock-Location/raw/service/android-studio-project/Mock-my-GPS-UnifiedNlp-Backend/src/main/res/drawable/launcher.png"
-call :do_download "com.github.warren_bank.webmonkey"                                "https://github.com/warren-bank/Android-WebMonkey/raw/v03/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png"
+call :do_download "com.github.warren_bank.webmonkey"                                "https://github.com/warren-bank/Android-WebMonkey/raw/v04/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.webcast"                                  "https://github.com/warren-bank/Android-WebCast/raw/05-webcast-filename-media3/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png"
 call :do_download "com.github.warren_bank.nodejs_frontend"                          "https://github.com/warren-bank/Android-NodeJS-Frontend/raw/master/android-studio-project/NodeJS-Frontend/src/main/res/mipmap-xxxhdpi/launcher.png"
 call :do_download "com.github.warren_bank.tiny_television_time_tracker"             "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/raw/fork/tmdb/android-studio-project/TV-Tracker/src/main/res/drawable-v21/icon.png"
@@ -41,6 +41,9 @@ call :do_download "com.github.warren_bank.bonjour_webrtc"                       
 call :do_download "org.proxydroid"                                                  "https://github.com/warren-bank/fork-Android-proxydroid/raw/no-ads/android-studio-project/proxydroid/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "org.mushare.httper"                                              "https://github.com/warren-bank/fork-Android-Httper/raw/feature/01-periodic-requests-service/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "com.github.warren_bank.rtsp_ipcam_viewer"                        "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/raw/master/android-studio-project/RTSP-IPCam-Viewer/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+call :do_download "org.fdroid.fdroid"                                               "https://github.com/warren-bank/fork-Android-fdroidclient/raw/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+call :do_download "org.fdroid.basic"                                                "https://github.com/warren-bank/fork-Android-fdroidclient/raw/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+call :do_download "com.looker.droidify"                                             "https://github.com/warren-bank/fork-Android-Droidify/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
 
 goto :done
 

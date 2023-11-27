@@ -1,0 +1,21 @@
+PASTABA: Bazinė versija F-Droid Client turi sumažintą savybių rinkinį (pvz. nėra šalia, o ne panikos funkcijos). Jis tikslinius Android 13 ir gali padaryti be priežiūros atnaujinimus be privilegijuoto pratęsimo ar šaknis.
+
+F-Droid yra montuotina "Android" programinės įrangos programėlių katalogas. The F-Droid client app leidžia lengvai naršyti, įdiegti, ir sekti atnaujinimus savo prietaisu.
+
+Ji prisijungia prie bet kurio F-Droid, suderinančios kaupyklų. Numatytasis atpirkimo sandoris yra patalpa adresu f-droid.org, kuriame yra tik bona fide libre programinė įranga.
+
+"Android" yra atvira ta prasme, kad jūs esate laisvas įdiegti APKs iš bet kur norite, bet yra daug gerų priežasčių naudojant F-Droid kaip jūsų libre programinės įrangos app Manager:
+
+● Gauti pranešimą, kai atnaujinimai yra
+&nbsp;&nbsp;prieinami
+● Pasirinktinai atsisiųsti ir įdiegti
+&nbsp;&nbsp;atnaujinimus automatiškai
+● Sekti senesnių ir beta versijų
+● Filtruoti programėles, nesuderinamas
+&nbsp;&nbsp;su prietaisu
+● Ieškokite programėlių per kategorijas
+&nbsp;&nbsp;ir ieškokite aprašymų
+● Priėjimas prie susijusių URL dovanoms,
+&nbsp;&nbsp;kodo kodui ir kt.
+● Būkite saugūs patikrinti atpirkimo
+&nbsp;&nbsp;indeksų parašų ir APK brūkšneliai

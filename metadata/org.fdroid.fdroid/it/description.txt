@@ -1,0 +1,20 @@
+F-Droid è un catalogo installabile di app software libre per Android. L'app client F-Droid rende facile sfogliare, installare e tenere traccia degli aggiornamenti sul proprio dispositivo.
+
+Si connette a qualsiasi repository compatibile F-Droid. Il ripo predefinito è ospitato all'indirizzo f-droid.org, che contiene solo software in buona fede libre.
+
+Android stesso è aperto nel senso che sei libero di installare APKs da qualsiasi cosa desideri, ma ci sono molti buoni motivi per usare F-Droid come tuo gestore di app software libre:
+
+● Ricevi notifica quando gli
+&nbsp;&nbsp;aggiornamenti sono disponibili
+● Opzionalmente scarica e installa
+&nbsp;&nbsp;automaticamente gli aggiornamenti
+● Tieni traccia delle versioni più
+&nbsp;&nbsp;vecchie e beta
+● Filtra le app incompatibili con il
+&nbsp;&nbsp;dispositivo
+● Trova app tramite categorie e
+&nbsp;&nbsp;descrizioni ricercabili
+● Accedi agli URL associati per le
+&nbsp;&nbsp;donazioni, il codice sorgente etc.
+● Resta al sicuro controllando le firme
+&nbsp;&nbsp;dell'indice di repo e le hash APK

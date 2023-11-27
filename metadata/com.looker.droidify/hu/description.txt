@@ -1,0 +1,12 @@
+Egy gyors anyagú F-Droid ügyfél.
+
+Jellemzők:
+
+● Anyag F-Droid stílus
+● Nincs kártya vagy nem megfelelő
+&nbsp;&nbsp;animáció
+● Gyors lerakat szinkronizálása
+● Szabványos Android összetevők és
+&nbsp;&nbsp;minimális függőségek
+
+A Foxy-Droid közvetlen alkalmazkodása/módosítása.

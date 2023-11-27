@@ -1,0 +1,12 @@
+Ein schneller Material F-Droid Client.
+
+Merkmale:
+
+● Material F-Droid Stil
+● Keine Karten oder unpassende
+&nbsp;&nbsp;Animationen
+● Schnelle Repository-Synchronisation
+● Standard-Android-Komponenten und
+&nbsp;&nbsp;minimale Abhängigkeiten
+
+Eine direkte Anpassung/Modifikation von Foxy-Droid.

@@ -1,0 +1,12 @@
+Pikainen F-Droidiasiakas.
+
+Ominaisuudet:
+
+● Materiaalin F-Droidin tyyli
+● Ei kortteja tai sopimattomia
+&nbsp;&nbsp;animaatioita
+● Nopea tietovaraston synkronointi
+● Standardin Android-komponentit ja
+&nbsp;&nbsp;vähimmäisriippuvuudet
+
+Suora sopeutuminen/muuttaminen Foxy-Droid.

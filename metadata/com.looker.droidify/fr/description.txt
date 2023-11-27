@@ -1,0 +1,12 @@
+Un client rapide F-Droid.
+
+Caractéristiques:
+
+● Style F-Droid du matériau
+● Pas de cartes ou d'animations
+&nbsp;&nbsp;inappropriées
+● Synchronisation de référentiel rapide
+● Composants Android standard et
+&nbsp;&nbsp;dépendances minimales
+
+Une adaptation / modification directe de Foxy-Droid.

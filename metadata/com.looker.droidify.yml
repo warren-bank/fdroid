@@ -1,0 +1,26 @@
+# https://github.com/warren-bank/fork-Android-Droidify/blob/fork/0.5.9.5/v1.0.0/build-logic/structure/src/main/kotlin/DefaultConfig.kt
+# https://github.com/warren-bank/fork-Android-Droidify/tree/main/metadata/en-US
+# https://gitlab.com/fdroid/fdroiddata/-/blob/master/metadata/com.looker.droidify.yml
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- System
+License: GPL-3.0-or-later
+AuthorName: Warren R Bank
+AuthorEmail: warren.r.bank@gmail.com
+
+RepoType: git
+Repo: https://github.com/warren-bank/fork-Android-Droidify.git
+SourceCode: https://github.com/warren-bank/fork-Android-Droidify/tree/fork/0.5.9.5/main
+IssueTracker: https://github.com/warren-bank/fork-Android-Droidify/issues
+
+AutoName: Droid-ify
+Name: Droid-ify
+WebSite: ''
+RequiresRoot: false
+
+AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
+CurrentVersion: fork/0.5.9.5/v1.0.0
+CurrentVersionCode: 5095100
+UpdateCheckMode: None
+AutoUpdateMode: None

@@ -1,0 +1,18 @@
+F-Droid on paigaldatav kataloog libre tarkvara rakendusi Android. Rakendus F-Droid võimaldab hõlpsalt sirvida, paigaldada ja jälgida teie seadme värskendusi.
+
+See ühendab kõiki F-Droid ühilduvaid hoidlaid. Vaikimisi repo asub aadressil f-droid.org, mis sisaldab ainult bona fide libre tarkvara.
+
+Android ise on avatud mõttes, et teil on tasuta installida APKs alates ükskõik kust soovite, kuid seal on palju häid põhjuseid, kasutades F-Droid oma libre tarkvara app manager:
+
+● Teatakse, kui värskendused on saadaval
+● Soovi korral allalaadimine ja
+&nbsp;&nbsp;installimine automaatselt
+● Jälgige vanemaid ja beetaversioone
+● Filtreeri välja rakendustega
+&nbsp;&nbsp;kokkusobimatud rakendused
+● Rakenduste otsimine kategooriate ja
+&nbsp;&nbsp;otsitavate kirjelduste kaudu
+● Juurdepääs seotud URL-id annetuste,
+&nbsp;&nbsp;lähtekoodi jne
+● Püsige turvaliselt, kontrollides
+&nbsp;&nbsp;repodeksi allkirju ja APK hass

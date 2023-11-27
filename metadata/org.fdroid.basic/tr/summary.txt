@@ -1,0 +1,1 @@
+hürriyet ve gizliliğe saygı duyan app store için minimal istemci uygulaması.

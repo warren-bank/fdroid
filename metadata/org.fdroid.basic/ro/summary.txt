@@ -1,0 +1,1 @@
+Aplicația client minim pentru magazinul de aplicații care respectă libertatea și confidențialitatea.

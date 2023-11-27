@@ -1,0 +1,11 @@
+Rýchly F-Droid klient.
+
+Funkcie:
+
+● Štýl F-Droid materiálu
+● Žiadne karty ani nevhodné animácie
+● Synchronizácia rýchleho archívu
+● Štandardné komponenty Android a
+&nbsp;&nbsp;minimálne závislosti
+
+Priama adaptacia/modifikácia Foxy-Droid.

@@ -1,0 +1,1 @@
+Minimaliai klientas programėlė, skirta app laikyti, kad gerbia laisvę ir privatumą.

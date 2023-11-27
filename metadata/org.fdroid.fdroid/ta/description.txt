@@ -1,0 +1,19 @@
+F-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.
+
+இது எந்த F-Droid பொருத்தமான மறுபடியும் இணைக்கிறது. முன்னிருப்பு மறுபடியும் f-droid.org, which contains only bona fide libre software.
+
+நீ விரும்பும் எங்கும் இருந்து APKs நிறுவுவதற்கு நீங்கள் இலவசமாக, ஆனால் F-Droid யை உங்கள் நூலகம் மென்பொருள் ஆப் மேலாளராக பயன்படுத்துவதற்கு பல நல்ல காரணங்கள் உள்ளன:
+
+● புதுப்பிப்புகள் கிடைக்கும் பொழுது
+&nbsp;&nbsp;அறிவிப்பை பெறவும்
+● விருப்பமான பதிவிறக்கம் தானாகவே
+&nbsp;&nbsp;புதுப்பிக்கவும்
+● பழைய மற்றும் பீட்டா பதிப்புகளின்
+&nbsp;&nbsp;தடத்தை வைத்திரு
+● சாதனத்துடன் பொருத்தமான ஆபிஸ் வடிகட்டி
+● வகைகளையும் தேடும் விவரங்களையும் வழியாக
+&nbsp;&nbsp;தேடவும்
+● அனுமதிக்கப்பட்ட URLகளை கொடுக்க, மூல
+&nbsp;&nbsp;குறியீடு ஆகியவற்றை அணுகவும்.
+● சேவையகத்தால் பாதுகாப்பாக சேமித்து
+&nbsp;&nbsp;வைத்துக் கொள்ளவும்.

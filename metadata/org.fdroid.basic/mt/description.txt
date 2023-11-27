@@ -1,0 +1,23 @@
+NOTA: Il-verżjoni bażika tal-Klijent ta 'Droid għandha sett ta' karatteristika mnaqqsa (eż. l-ebda sehem fil-qrib u l-ebda karatteristika ta ' paniku). Hija timmira Android 13 u tista ' tagħmel aġġornamenti waħedhom mingħajr estensjoni privileġġat jew għerq.
+
+F-Droid huwa katalogu installable ta ' apps software libre għall Android. Il-Fd-Droid klijent app jagħmilha faċli biex jibbrawżjaw, jinstallaw, u jżommu track ta ' aġġornamenti fuq l-apparat tiegħek.
+
+Dan jgħaqqad ma 'kwalunkwe repożitorji kompatibbli f' F-Droid. L-repo default huwa ospitat fuq f-droid.org, li fih biss bona fide software libre.
+
+Android innifsu huwa miftuħ fis-sens li inti huma ħielsa li jinstallaw APKs minn kullimkien inti tixtieq, iżda hemm ħafna raġunijiet tajba għall-użu F-Droid bħala l-maniġer tal-app tas-software libre tiegħek:
+
+● Tiġi notifikata meta l-aġġornamenti
+&nbsp;&nbsp;jkunu disponibbli
+● B ' mod fakultattiv tniżżel u
+&nbsp;&nbsp;tinstalla aġġornamenti awtomatikament
+● Żomm track ta ' verżjonijiet anzjani u
+&nbsp;&nbsp;beta
+● Il-filter out apps inkompatibbli
+&nbsp;&nbsp;mat-tagħmir
+● Sib apps permezz ta 'kategoriji u
+&nbsp;&nbsp;deskrizzjonijiet ta' tiftix
+● Il-URLs assoċjati mal-aċċess
+&nbsp;&nbsp;għad-donazzjonijiet, il-kodiċi
+&nbsp;&nbsp;tas-sors, eċċ.
+● Soġġorn sikur billi jiġu ċċekkjati
+&nbsp;&nbsp;l-firem tal-indiċi repo u l-hmied APK

@@ -1,0 +1,11 @@
+Klient F-Droid pro rychlý materiál.
+
+Vlastnosti:
+
+● Styl F-Droid materiálu
+● Žádné karty nebo nevhodné animace
+● Rychlá synchronizace úložiště
+● Standardní komponenty Android a
+&nbsp;&nbsp;minimální závislosti
+
+Přímá úprava/změna Foxy-Droid.

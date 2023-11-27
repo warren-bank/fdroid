@@ -1,0 +1,21 @@
+POZNÁMKA: Základná verzia klienta F-Droid má zníženú množinu funkcií (napr. žiadny blízky zdieľanie a žiadna funkcia paniky). Zameriava sa na Android 13 a môže robiť neobsluhované aktualizácie bez privilegovaného rozšírenia alebo root.
+
+F-Droid je inštalovateľný katalóg softvérových aplikácií libre pre Android. Klientska aplikácia F-Droid uľahčuje prehľadávanie, inštaláciu a sledovanie aktualizácií vo vašom zariadení.
+
+Pripája sa k ľubovoľným archívom kompatibilným s F-Droid. Predvolená repo obchod je hostená na f-droid.org, ktorá obsahuje iba softvér bona fide libre.
+
+Samotný systém Android je otvorený v tom zmysle, že môžete voľne inštalovať APKs z ľubovoľného miesta, ale existuje veľa dobrých dôvodov na používanie programu F-Droid ako správcu aplikačného softvéru libre:
+
+● Získať upozornenie pri dostupných
+&nbsp;&nbsp;aktualizovaní
+● Voliteľne automaticky sťahovať a
+&nbsp;&nbsp;inštalovať aktualizácie
+● Sledujte staršie verzie a verzie beta
+● Vyfiltrujte aplikácie, ktoré nie sú
+&nbsp;&nbsp;kompatibilné so zariadením
+● Vyhľadávanie aplikácií prostredníctvom
+&nbsp;&nbsp;kategórií a vyhľadávateľných popisov
+● Prístup k adresám URL pre darcovstvo,
+&nbsp;&nbsp;zdrojový kód atď.
+● Zostaňte v bezpečí kontrolou podpisov
+&nbsp;&nbsp;v repo indexe a hashes APK

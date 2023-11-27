@@ -1,0 +1,25 @@
+REMARQUE: La version de base de F-Droid Client a un jeu de fonctions réduit (par exemple, pas de partage et pas de fonction de panique). Il cible Android 13 et peut faire des mises à jour sans surveillance ou root.
+
+F-Droid est un catalogue installable de logiciels libres pour Android. L'application client F-Droid facilite l'exploration, l'installation et le suivi des mises à jour sur votre appareil.
+
+Il se connecte à tous les référentiels compatibles F-Droid. Le référentiel par défaut est hébergé sur f-droid.org, qui ne contient que des logiciels libres de bonne foi.
+
+Android lui-même est ouvert en ce sens que vous êtes libre d'installer des APKs à partir de n'importe où vous le souhaitez, mais il y a de nombreuses bonnes raisons d'utiliser F-Droid comme votre gestionnaire d'application de logiciel libre:
+
+● Reçois des notifications lorsque des
+&nbsp;&nbsp;mises à jour sont
+● Télécharger et installer
+&nbsp;&nbsp;automatiquement les mises à jour
+&nbsp;&nbsp;automatiquement
+● Garder le suivi des versions bêta et
+&nbsp;&nbsp;bêta
+● Filtrer les applications incompatibles
+&nbsp;&nbsp;avec le périphérique
+● Trouver des applications par
+&nbsp;&nbsp;catégories et descriptions
+&nbsp;&nbsp;consultables
+● Accès aux URL associées pour les dons,
+&nbsp;&nbsp;code source, etc.
+● Restez en sécurité en vérifiant les
+&nbsp;&nbsp;signatures d'index repo et les
+&nbsp;&nbsp;hachages APK

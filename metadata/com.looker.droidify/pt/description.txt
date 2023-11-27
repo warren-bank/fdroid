@@ -1,0 +1,11 @@
+Um cliente rápido F-Droid de material.
+
+Recursos:
+
+● Material F-Droid style
+● Sem cartões ou animações inapropriadas
+● Syncing de repositório rápido
+● Componentes padrão do Android e
+&nbsp;&nbsp;dependências mínimas
+
+Uma adaptação / modificação direta de Foxy-Droid.

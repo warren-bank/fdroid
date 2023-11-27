@@ -1,0 +1,1 @@
+Minimalna odjemalska aplikacija za shrambo aplikacij, ki spoštuje svobodo in zasebnost.

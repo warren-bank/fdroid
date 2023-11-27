@@ -1,0 +1,19 @@
+F-Droid je kataloški katalog aplikacija libre softvera za Android. Aplikacija klijenta F-Droid olakšava pregled, instalaciju i praćenje promjena na uređaju.
+
+Povezuje se sa svim F-droid kompatibilnim repozitorijom. Default repo je domaćin na f-droid.org, koji sadrži samo "bona fide libre" softver.
+
+Sam Android je otvoren u smislu da ste slobodni da instalirate APK sa bilo gdje želite, ali postoji mnogo dobrih razloga za korištenje F-Droid kao vaš libre softver app manager:
+
+● Primite obavijest kada su ažuriranja
+&nbsp;&nbsp;dostupna
+● Neobavezno preuzimati i instaliraj
+&nbsp;&nbsp;ažuriranja automatski
+● Prati starije i beta verzije
+● Filtrirajte aplikacije koje nisu
+&nbsp;&nbsp;kompatibilne s uređajem
+● Pronađite aplikacije putem kategorija
+&nbsp;&nbsp;i pretražljivi opisi
+● Pristupi pridruženim URL-ovima za
+&nbsp;&nbsp;donacije, izvorni kod itd.
+● Budite sigurni provjeravanjem repo
+&nbsp;&nbsp;indeksa potpisa i APK hashes

@@ -1,0 +1,12 @@
+Một máy khách F-Droid nhanh.
+
+Tính năng:
+
+● Kiểu tài liệu F-Droid
+● Không có thẻ hay hoạt hình không thích
+&nbsp;&nbsp;hợp
+● Ðồng bộ vùng chứa nhanh
+● Các thành phần Android tiêu chuẩn và
+&nbsp;&nbsp;phụ thuộc
+
+Một phiên bản chuyển thể/sửa đổi trực tiếp của Foxy-Droid.

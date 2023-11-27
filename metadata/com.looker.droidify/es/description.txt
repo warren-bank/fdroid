@@ -1,0 +1,12 @@
+Un cliente rápido de material F-Droid.
+
+Características:
+
+● Material F-Droid de material
+● Sin tarjetas o animaciones
+&nbsp;&nbsp;inapropiadas
+● Sincronización de repositorio rápido
+● Componentes estándar de Android y
+&nbsp;&nbsp;dependencias mínimas
+
+Adaptación/modificación directa de Foxy-Droid.

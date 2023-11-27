@@ -1,0 +1,12 @@
+Kiire materiaalne F-Droid klient.
+
+Omadused:
+
+● Materjal F-Droid stiilis
+● Ei mingeid kaarte ega sobimatuid
+&nbsp;&nbsp;animatsioone
+● Kiirhoidla sünkroniseerimine
+● Standard Android komponendid ja
+&nbsp;&nbsp;minimaalne sõltuvused
+
+Fexy-Drodi otsene kohandamine/muutmine.

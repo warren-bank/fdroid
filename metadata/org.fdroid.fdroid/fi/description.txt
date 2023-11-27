@@ -1,0 +1,20 @@
+F-Droid on Android-sovelluksen libre-sovellusten asettelu. F-Droid-työasemaohjelman avulla voit selata, asentaa ja seurata laitteesi päivityksiä.
+
+Se liittyy yhteensopiviin tietovarastoihin. Oletusparannus on f-droid.org, joka sisältää vain bona fide libre -ohjelmiston.
+
+Android itsessään on avoin siinä mielessä, että olet vapaa asentaa APK, mistä tahansa haluat, mutta on monia hyviä syitä käyttää F-Droid kuin libre ohjelmiston sovelluksen johtaja:
+
+● Ilmoita, kun päivitykset ovat
+&nbsp;&nbsp;käytettävissä
+● Tallenna ja asenna päivitykset
+&nbsp;&nbsp;automaattisesti
+● Seurataan vanhempia ja beetaversioita
+● Laitteen kanssa yhteensopimaton
+&nbsp;&nbsp;suodatin
+● Etsi sovelluksia luokkiin ja
+&nbsp;&nbsp;hakukelpoisiin kuvauksiin
+● Käyttöön liittyvät URL-osoitteet
+&nbsp;&nbsp;lahjoituksia, lähdekoodia jne.
+● Pysy turvassa tarkistamalla
+&nbsp;&nbsp;repohakemiston allekirjoitukset ja
+&nbsp;&nbsp;APK-hassit

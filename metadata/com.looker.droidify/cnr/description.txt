@@ -1,0 +1,12 @@
+Brzi materijal F-Droid klijent.
+
+Karakteristike:
+
+● Materijal u stilu F-Droida.
+● Bez kartica ili neprikladnih
+&nbsp;&nbsp;animacija.
+● Prevod i adaptacija:
+● Standardne androidne komponente i
+&nbsp;&nbsp;minimalne zavisnosti.
+
+Direktna adaptacija/modifikacija Foxy-Droida.

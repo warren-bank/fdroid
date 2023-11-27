@@ -1,0 +1,12 @@
+Brzi materijalni F-Droid klijent.
+
+Funkcije:
+
+● Stil F-Droidni materijal
+● Nema kartica ili neprikladana
+&nbsp;&nbsp;animacija
+● Sinkroniziranje brzih spremišta
+● Standardne Android komponente i
+&nbsp;&nbsp;minimalne zavisnosti
+
+Direktna prilagodba / modifikacija Foxy-Droida.

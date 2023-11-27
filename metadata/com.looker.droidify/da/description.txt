@@ -1,0 +1,12 @@
+En hurtig materiel F-Droid-klient.
+
+Funktioner:
+
+● MaterialeF-Droide-type
+● Ingen kort eller upassende animationer
+● Synsynkronisering af hurtigt
+&nbsp;&nbsp;opbevaringssted
+● Standard Android-komponenter og
+&nbsp;&nbsp;minimale afhængigheder
+
+En direkte tilpasning / ændring af Foxy-Droid.

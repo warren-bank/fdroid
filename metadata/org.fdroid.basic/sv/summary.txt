@@ -1,0 +1,1 @@
+Den minimala klientappen för applagret som respekterar frihet och integritet.

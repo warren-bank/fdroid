@@ -1,0 +1,12 @@
+A quick materjal F-Droid client.
+
+Karatteristiċi:
+
+● Materjal ta ' F-Droid
+● Ebda kards jew animazzjonijiet mhux
+&nbsp;&nbsp;xierqa
+● Sinteżi tar-repożitorju veloċi
+● Komponenti standard Android u
+&nbsp;&nbsp;dipendenzi minimi
+
+Adattament dirett/modifika ta ' Foxy-Droid.

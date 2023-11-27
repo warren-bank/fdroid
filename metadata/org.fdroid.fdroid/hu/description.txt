@@ -1,0 +1,19 @@
+Az F-Droid az Android libre szoftveralkalmazások telepíthető katalógusa. Az F-Droid ügyfél app megkönnyíti a böngészés, telepítés és az eszköz frissítéseinek nyomon követését.
+
+Az egyik F-Droid kompatibilis lerakathoz csatlakozik. Az alapértelmezett repo a f-droid.org címen található, amely csak bona fide libre szoftvert tartalmaz.
+
+Az Android önmagában nyitva áll abban az értelemben, hogy szabadon telepítheti az APK-kat a kívánt helyről, de számos jó oka van az F-Droid használatára libre szoftver alkalmazáskezelőként:
+
+● Értesítés a frissítések elérhetőekor
+● A frissítések automatikus letöltése és
+&nbsp;&nbsp;telepítése
+● Idősebb és béta változatok nyomon
+&nbsp;&nbsp;követése
+● Az eszközzel nem kompatibilis
+&nbsp;&nbsp;alkalmazások szűrése
+● Alkalmazások keresése kategóriák és
+&nbsp;&nbsp;kereshető leírások segítségével
+● Hozzáférési URL címek elérése
+&nbsp;&nbsp;adományokhoz, forráskód stb.
+● A repo index aláírások és az APK-k
+&nbsp;&nbsp;kivonatai ellenőrzés alatt maradnak.

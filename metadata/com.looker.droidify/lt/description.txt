@@ -1,0 +1,12 @@
+Greita medžiaga F-Droid klientas.
+
+Savybės:
+
+● Medžiaga F-Droid stilius
+● Nėra kortelių ar netinkamų animacijų
+● Greitas saugyklos sinchronizavimo
+&nbsp;&nbsp;sinchronizavimo
+● Standartiniai "Android" komponentai ir
+&nbsp;&nbsp;minimalios priklausomybių
+
+Tiesioginis Foksi-Droid pritaikymas ir (arba) pakeitimas.
