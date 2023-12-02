@@ -1,4 +1,4 @@
-# https://github.com/warren-bank/Android-WebMonkey/blob/v04.00.02/android-studio-project/constants.gradle
+# https://github.com/warren-bank/Android-WebMonkey/blob/v04.00.03/android-studio-project/constants.gradle
 # https://f-droid.org/archive/categories.txt
 
 Categories:
@@ -18,7 +18,7 @@ WebSite: https://warren-bank.github.io/Android-WebMonkey/index.html
 RequiresRoot: false
 
 AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
-CurrentVersion: 004.00.02-08API
-CurrentVersionCode: 4000208
+CurrentVersion: 004.00.03-08API
+CurrentVersionCode: 4000308
 UpdateCheckMode: None
 AutoUpdateMode: None
