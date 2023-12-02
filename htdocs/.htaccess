@@ -51,12 +51,12 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location\.ser
 # com.github.warren_bank.webmonkey
 # --------------------------------------------------------------------
 
-Redirect 301 "/repo/WebMonkey-004.00.02-08API-english-noAdBlock-release.apk"                                                                          "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-english-noAdBlock-release.apk"
-Redirect 301 "/repo/WebMonkey-004.00.02-08API-english-withAdBlock-release.apk"                                                                        "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-english-withAdBlock-release.apk"
-Redirect 301 "/repo/WebMonkey-004.00.02-08API-withAllLanguageTranslations-noAdBlock-release.apk"                                                      "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-withAllLanguageTranslations-noAdBlock-release.apk"
-Redirect 301 "/repo/WebMonkey-004.00.02-08API-withAllLanguageTranslations-withAdBlock-release.apk"                                                    "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-withAllLanguageTranslations-withAdBlock-release.apk"
+Redirect 301 "/repo/WebMonkey-004.00.03-08API-english-noAdBlock-release.apk"                                                                          "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.03/WebMonkey-004.00.03-08API-english-noAdBlock-release.apk"
+Redirect 301 "/repo/WebMonkey-004.00.03-08API-english-withAdBlock-release.apk"                                                                        "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.03/WebMonkey-004.00.03-08API-english-withAdBlock-release.apk"
+Redirect 301 "/repo/WebMonkey-004.00.03-08API-withAllLanguageTranslations-noAdBlock-release.apk"                                                      "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.03/WebMonkey-004.00.03-08API-withAllLanguageTranslations-noAdBlock-release.apk"
+Redirect 301 "/repo/WebMonkey-004.00.03-08API-withAllLanguageTranslations-withAdBlock-release.apk"                                                    "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.03/WebMonkey-004.00.03-08API-withAllLanguageTranslations-withAdBlock-release.apk"
 
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webmonkey(?:\.\d+)?\.png$"                                                              "https://github.com/warren-bank/Android-WebMonkey/raw/v04.00.02/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webmonkey(?:\.\d+)?\.png$"                                                              "https://github.com/warren-bank/Android-WebMonkey/raw/v04.00.03/android-studio-project/WebMonkey/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.webcast
