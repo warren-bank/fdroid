@@ -1,4 +1,4 @@
-# https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/blob/v3.4.5/android-studio-project/constants.gradle
+# https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/blob/v3.4.7/android-studio-project/constants.gradle
 
 Categories:
 - Multimedia
@@ -17,7 +17,7 @@ WebSite: http://webcast-reloaded.surge.sh/airplay_sender.html
 RequiresRoot: false
 
 AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
-CurrentVersion: 003.04.05-16API
-CurrentVersionCode: 3040516
+CurrentVersion: 003.04.07-16API
+CurrentVersionCode: 3040716
 UpdateCheckMode: None
 AutoUpdateMode: None
