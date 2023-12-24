@@ -109,10 +109,9 @@ rem :: https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases
 call :do_download "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases/download/v02.04.01/RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/fork-Android-fdroidclient/releases
+call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.2.2/v1.0.0/fdroidclient-1.02.2-fork-v1.0.0-release.apk"
 call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.18.0/v1.0.0/fdroidclient-1.18.0-fork-v1.0.0-full-release.apk"
-call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.12.1/v1.0.0/fdroidclient-1.12.1-fork-v1.0.0-full-release.apk"
 call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.18.0/v1.0.0/fdroidclient-1.18.0-fork-v1.0.0-basic-release.apk"
-call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.12.1/v1.0.0/fdroidclient-1.12.1-fork-v1.0.0-basic-release.apk"
 
 rem :: https://github.com/warren-bank/fork-Android-Droidify/releases
 call :do_download "https://github.com/warren-bank/fork-Android-Droidify/releases/download/fork/0.5.9.5/v1.0.0/Droidify-0.5.9.5-fork-v1.0.0-release.apk"
