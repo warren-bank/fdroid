@@ -39,19 +39,27 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.exoplayer_airplay_
 # com.github.warren_bank.mock_location
 # --------------------------------------------------------------------
 
-Redirect 301 "/repo/Mock-my-GPS-002.03.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk"                                    "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk"
-Redirect 301 "/repo/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"                  "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"
-Redirect 301 "/repo/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"                "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"
+Redirect 301 "/repo/Mock-my-GPS-002.04.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk"                                    "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-002.04.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk"
+Redirect 301 "/repo/Mock-my-GPS-002.04.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"                  "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-002.04.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"
+Redirect 301 "/repo/Mock-my-GPS-002.04.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"                "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-002.04.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"
 
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location(?:\.\d+)?\.png$"                                                          "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.03.01/android-studio-project/Mock-my-GPS/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location(?:\.\d+)?\.png$"                                                          "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.04.01/android-studio-project/Mock-my-GPS/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.mock_location.service.microg_nlp_backend
 # --------------------------------------------------------------------
 
-Redirect 301 "/repo/Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk"                                           "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk"
+Redirect 301 "/repo/Mock-my-GPS-UnifiedNlp-Backend-002.04.01-09API-withAllLanguageTranslations-release.apk"                                           "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-UnifiedNlp-Backend-002.04.01-09API-withAllLanguageTranslations-release.apk"
 
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location\.service\.microg_nlp_backend(?:\.\d+)?\.png$"                             "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.03.01/android-studio-project/Mock-my-GPS-UnifiedNlp-Backend/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location\.service\.microg_nlp_backend(?:\.\d+)?\.png$"                             "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.04.01/android-studio-project/Mock-my-GPS-UnifiedNlp-Backend/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# com.github.warren_bank.mock_location.silently
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/Mock-Silently-002.04.01-01API-withAllLanguageTranslations-release.apk"                                                            "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-Silently-002.04.01-01API-withAllLanguageTranslations-release.apk"
+
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mock_location\.silently(?:\.\d+)?\.png$"                                                "https://github.com/warren-bank/Android-Mock-Location/raw/service/v02.04.01/android-studio-project/Mock-Silently/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.webmonkey
