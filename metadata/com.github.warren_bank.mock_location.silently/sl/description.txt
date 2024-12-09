@@ -1,0 +1,4 @@
+Dodajte predhodno konfigurijene dodatke po meri, da implicitno geo-Intents in eksplicitno odprete v " Mock my GPS".
+
+Datoteka README vključuje dokumentacijo za seznam podprtih ekstraktu po meri:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

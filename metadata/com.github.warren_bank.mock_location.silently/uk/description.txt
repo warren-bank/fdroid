@@ -1,0 +1,4 @@
+Додати попередньо налаштовані нетипові додаткові елементи до неявних гео-Intents, і явно відкриті у "Mock my GPS".
+
+Файл README включає в себе документацію для списку підтримуваних нетипових пунктів:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

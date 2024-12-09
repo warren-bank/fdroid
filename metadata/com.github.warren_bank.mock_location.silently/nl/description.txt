@@ -1,0 +1,4 @@
+Voeg vooraf geconfigureerde aangepaste extra's toe aan impliciete geo-Intents en open deze expliciet in "Mock my GPS".
+
+De README bevat documentatie voor de lijst van ondersteunde aangepaste extra's:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

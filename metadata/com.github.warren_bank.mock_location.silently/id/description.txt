@@ -1,0 +1,4 @@
+Tambahkan ekstra kustom pra-konfigurasi ke geo-Intent implisit, dan secara eksplisit terbuka dalam "Mock GPS saya".
+
+README termasuk dokumentasi untuk daftar tambahan yang disesuaikan:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

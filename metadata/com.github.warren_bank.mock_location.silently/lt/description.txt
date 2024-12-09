@@ -1,0 +1,4 @@
+Pridėti iš anksto sukonfigūruoti užsakymą priedai į numanomas geo-Intents, ir aiškiai atidaryti "Mock mano GPS".
+
+Į README įtraukta dokumentacija paremtų pasirinktinių exas sąrašo:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

@@ -1,0 +1,4 @@
+Önceden yapılandırılmış özel ekstraları örtülü jeo-İnçalara ekleyin ve "GPS 'imi Ock my GPS"' de açık bir şekilde açın.
+
+README, desteklenen özel ekstralar listesine ilişkin belgeleri içerir:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

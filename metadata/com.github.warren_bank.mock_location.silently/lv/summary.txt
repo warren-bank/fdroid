@@ -1,0 +1,1 @@
+Kompanjons "Mock my GPS". Lietderība integrācijai ar trešās puses programmatūru.

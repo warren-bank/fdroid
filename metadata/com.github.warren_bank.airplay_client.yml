@@ -1,4 +1,4 @@
-# https://github.com/warren-bank/Android-AirPlay-Client/blob/v0.5.5/android-studio-project/constants.gradle
+# https://github.com/warren-bank/Android-AirPlay-Client/blob/v0.5.6/android-studio-project/constants.gradle
 # https://f-droid.org/archive/categories.txt
 
 Categories:
@@ -20,7 +20,7 @@ WebSite: ''
 RequiresRoot: false
 
 AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
-CurrentVersion: 000.05.05-14API
-CurrentVersionCode: 50514
+CurrentVersion: 000.05.06-14API
+CurrentVersionCode: 50614
 UpdateCheckMode: None
 AutoUpdateMode: None

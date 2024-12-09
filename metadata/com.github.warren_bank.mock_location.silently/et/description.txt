@@ -1,0 +1,4 @@
+Lisa eelkonfigureeritud kohandatud extras kaudse geo-Intelkide ja selgelt avatud "Mock minu GPS".
+
+README sisaldab dokumentatsiooni toetatud kohandatud väljatõmbamise kohta:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

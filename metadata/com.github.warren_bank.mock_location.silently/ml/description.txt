@@ -1,0 +1,5 @@
+"Mock my GPS" (Mock my GPS) " ല് പരസ്പരം തുറക്കുക.
+
+പിന്തുണയുള്ള ഇഷ്ടപ്പെട്ട എക്സ്ട്രാസിന്റെ ലിസ്റ്റിനായി README ഡോക്യുമെന്റേഷൻ ഉൾക്കൊള്ളുന്നു:
+&nbsp;&nbsp;#intents
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location

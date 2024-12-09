@@ -1,0 +1,5 @@
+முன்-வடிவமைக்கப்பட்ட தனிப்பயன் பிரிவுகளைச் சேர்க்க, "Mock my GPS" இல் வெளிச்செல்லும்.
+
+README ஆதரிக்கப்படாத தனிப்பயன் உரிமைகளின் பட்டியலுக்கான ஆவணங்களும் அடங்கும்:
+&nbsp;&nbsp;#intents
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location

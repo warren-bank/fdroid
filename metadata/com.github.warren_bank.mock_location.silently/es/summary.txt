@@ -1,0 +1,1 @@
+Compañero de "Mock my GPS". Utilidad para la integración con software de terceros.

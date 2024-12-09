@@ -1,0 +1,1 @@
+Kawan untuk "Mock GPS saya". Utiliti untuk integrasi dengan perisian ke-3-party.

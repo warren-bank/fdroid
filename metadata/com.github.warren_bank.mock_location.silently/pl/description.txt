@@ -1,0 +1,4 @@
+Dodaj wstępnie skonfigurowane niestandardowe dodatki do niejawnych geo-intencji i jawnie otwórz w "Mock my GPS".
+
+Plik README zawiera dokumentację na temat listy obsługiwanych niestandardowych dodatków:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

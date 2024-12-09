@@ -1,0 +1,1 @@
+Acompanhante para "Mock meu GPS". Utilitário para integração com softwares de terceira parte.

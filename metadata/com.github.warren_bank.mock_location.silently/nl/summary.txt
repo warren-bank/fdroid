@@ -1,0 +1,1 @@
+Metgezel voor "Mock my GPS". Hulpprogramma voor integratie met software van derden.

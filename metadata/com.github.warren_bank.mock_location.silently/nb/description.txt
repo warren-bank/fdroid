@@ -1,0 +1,4 @@
+Legg til forhåndskonfigurerte tilpassede statister til implisitte geo-Intelt, og eksplisitt åpne i "Mock min GPS".
+
+README omfatter dokumentasjon for liste over støttede tilpassede statister:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

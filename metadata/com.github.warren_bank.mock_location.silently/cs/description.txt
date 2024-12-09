@@ -1,0 +1,4 @@
+Přidejte předkonfigurované přizpůsobené doplňky do implicitních geok-Intentů a explicitně otevřete v "Mock my GPS".
+
+Soubor README obsahuje dokumentaci pro seznam podporovaných vlastních extrakomů:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

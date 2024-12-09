@@ -1,0 +1,1 @@
+Pratitelj za "Mock moj GPS". Pomoćni program za integraciju s softverom treće strane.

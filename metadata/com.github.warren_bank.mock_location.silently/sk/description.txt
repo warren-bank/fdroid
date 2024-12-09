@@ -1,0 +1,4 @@
+Pridajte predkonfigurované vlastné extrakty do implicitných geo-Intents, a explicitne otvorte v "Mock my GPS".
+
+Súbor README obsahuje dokumentáciu pre zoznam podporovaných voliteľných extras:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

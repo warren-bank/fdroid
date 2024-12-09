@@ -1,0 +1,1 @@
+Towarzysz dla "Mock mój GPS". Program narzędziowy do integracji z oprogramowaniem innych firm.

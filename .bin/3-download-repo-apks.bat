@@ -19,26 +19,33 @@ if exist "%log_filepath%" del "%log_filepath%"
 if not exist "%repo_dir%" mkdir "%repo_dir%"
 
 rem :: https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-noDecoderExtensions-release.apk"
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-arm64-v8a-release.apk"
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-armeabi-v7a-release.apk"
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.5/ExoPlayer-AirPlay-Receiver-003.04.05-16API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-noDecoderExtensions-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-withDecoderExtensions-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-withDecoderExtensions-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"
+
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-noDecoderExtensions-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-withDecoderExtensions-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-withDecoderExtensions-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"
 
 rem :: https://github.com/warren-bank/Android-Mock-Location/releases
-call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk"
-call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"
-call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"
-call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-002.04.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-002.04.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-002.04.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-UnifiedNlp-Backend-002.04.01-09API-withAllLanguageTranslations-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-Silently-002.04.01-01API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/Android-WebMonkey/releases
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-english-noAdBlock-release.apk"
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-english-withAdBlock-release.apk"
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-withAllLanguageTranslations-noAdBlock-release.apk"
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.00.02/WebMonkey-004.00.02-08API-withAllLanguageTranslations-withAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.09.02/WebMonkey-004.09.02-11API-english-noAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.09.02/WebMonkey-004.09.02-11API-english-withAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.09.02/WebMonkey-004.09.02-11API-withAllLanguageTranslations-noAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.09.02/WebMonkey-004.09.02-11API-withAllLanguageTranslations-withAdBlock-release.apk"
 
 rem :: https://github.com/warren-bank/Android-WebCast/releases
-call :do_download "https://github.com/warren-bank/Android-WebCast/releases/download/v05.01.00/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebCast/releases/download/v05.02.00/WebCast-005.02.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
 
 rem :: https://github.com/warren-bank/Android-NodeJS-Frontend/releases
 call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-arm64-v8a-release.apk"
@@ -47,12 +54,12 @@ call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releas
 call :do_download "https://github.com/warren-bank/Android-NodeJS-Frontend/releases/download/v1.0.2/NodeJS-Frontend-001.00.02-19API-withAllLanguageTranslations-x86_64-release.apk"
 
 rem :: https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases
-call :do_download "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.24-09API/TV-Tracker-008.00.24-09API-english-release.apk"
-call :do_download "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.24-09API/TV-Tracker-008.00.24-09API-withAllLanguageTranslations-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.26-09API/TV-Tracker-008.00.26-09API-english-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Tiny-Television-Time-Tracker/releases/download/tmdb/008.00.26-09API/TV-Tracker-008.00.26-09API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/Android-Bookmarks/releases
-call :do_download "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.01-09API/Bookmarks-002.00.01-09API-withUserRuntimePermissions-english-release.apk"
-call :do_download "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.01-09API/Bookmarks-002.00.01-09API-withUserRuntimePermissions-withAllLanguageTranslations-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.03-09API/Bookmarks-002.00.03-09API-withUserRuntimePermissions-english-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Bookmarks/releases/download/002.00.03-09API/Bookmarks-002.00.03-09API-withUserRuntimePermissions-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/Android-MyPlaces/releases
 call :do_download "https://github.com/warren-bank/Android-MyPlaces/releases/download/v05.00.05/MyPlaces-release.apk"
@@ -62,8 +69,8 @@ call :do_download "https://github.com/warren-bank/fork-Java-OneClipboard/release
 call :do_download "https://github.com/warren-bank/fork-Java-OneClipboard/releases/download/improvements/v3.1.3/OneClipboardAndroidClient-3.01.03-release.apk"
 
 rem :: https://github.com/warren-bank/Android-AirPlay-Client/releases
-call :do_download "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.5/AirPlay-Client-000.05.05-14API-english-release.apk"
-call :do_download "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.5/AirPlay-Client-000.05.05-14API-withAllLanguageTranslations-release.apk"
+call :do_download "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.6/AirPlay-Client-000.05.06-14API-english-release.apk"
+call :do_download "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.6/AirPlay-Client-000.05.06-14API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/Android-Locale-Changer/releases
 call :do_download "https://github.com/warren-bank/Android-Locale-Changer/releases/download/v1.1.0/Locale-Changer-release.apk"
@@ -91,6 +98,11 @@ call :do_download "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/
 call :do_download "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/releases/download/v1.1.3/PTT-Bluetooth-Speaker-Sender-001.01.03-10API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/Android-Bonjour-WebRTC/releases
+call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-x86_64-release.apk"
+
 call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-arm64-v8a-release.apk"
 call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-armeabi-v7a-release.apk"
 call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86-release.apk"
@@ -109,10 +121,9 @@ rem :: https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases
 call :do_download "https://github.com/warren-bank/Android-RTSP-IPCam-Viewer/releases/download/v02.04.01/RTSP-IPCam-Viewer-002.04.01-16API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/fork-Android-fdroidclient/releases
+call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.2.2/v1.0.0/fdroidclient-1.02.2-fork-v1.0.0-release.apk"
 call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.18.0/v1.0.0/fdroidclient-1.18.0-fork-v1.0.0-full-release.apk"
-call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.12.1/v1.0.0/fdroidclient-1.12.1-fork-v1.0.0-full-release.apk"
 call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.18.0/v1.0.0/fdroidclient-1.18.0-fork-v1.0.0-basic-release.apk"
-call :do_download "https://github.com/warren-bank/fork-Android-fdroidclient/releases/download/fork/1.12.1/v1.0.0/fdroidclient-1.12.1-fork-v1.0.0-basic-release.apk"
 
 rem :: https://github.com/warren-bank/fork-Android-Droidify/releases
 call :do_download "https://github.com/warren-bank/fork-Android-Droidify/releases/download/fork/0.5.9.5/v1.0.0/Droidify-0.5.9.5-fork-v1.0.0-release.apk"

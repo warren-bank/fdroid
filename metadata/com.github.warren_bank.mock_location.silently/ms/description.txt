@@ -1,0 +1,4 @@
+Tambah pengekstrakan suai pra-konfigur untuk implicit geo-Inkhemah, dan secara eksplisit terbuka dalam "Mock GPS saya".
+
+README merangkumi dokumentasi untuk senarai tambahan suai yang disokong:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

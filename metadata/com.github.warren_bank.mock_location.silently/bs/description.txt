@@ -1,0 +1,4 @@
+Dodajte unaprijed konfigurirane dodatne dodatke za implicitne geo-namjere i izričito otvarajte u "Mock moj GPS".
+
+README sadrži dokumentaciju za listu podržanih statista:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

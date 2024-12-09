@@ -1,0 +1,4 @@
+Lägg till förkonfigurerade anpassade extraheringar till implicita geo-Intents, och uttryckligen öppna i "Mock min GPS".
+
+I README finns dokumentation för listan med hanterade specialstatister:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

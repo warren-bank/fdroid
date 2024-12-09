@@ -1,0 +1,4 @@
+Előre konfigurált egyéni extrák hozzáadása implicit geo-Intensekhez, és kifejezetten a "Mock a GPS" - ben.
+
+A README tartalmazza a támogatott egyéni extrák listáját:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

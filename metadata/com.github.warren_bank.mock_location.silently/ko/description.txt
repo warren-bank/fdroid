@@ -1,0 +1,4 @@
+미리 구성된 커스텀 엑스트라들을 암시적인 지오-Intents에 추가하고, "Mock my GPS" 에서 명시적으로 연다.
+
+README에는 지원되는 사용자 정의 엑스트라 목록에 대한 문서가 포함되어 있다.
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

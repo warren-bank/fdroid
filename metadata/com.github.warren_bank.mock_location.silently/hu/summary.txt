@@ -1,0 +1,1 @@
+A "Mock a GPS-em" lovagja. Kisegítő a külső szoftverekkel való integrációhoz.

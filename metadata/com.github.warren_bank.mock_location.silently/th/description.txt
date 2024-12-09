@@ -1,0 +1,6 @@
+เพิ่มเนื้อหาพิเศษที่กำหนดเองที่กำหนดคอนฟิกล่วงหน้าไปยัง implicit geo-Intents และเปิดใน "Mock my GPS" อย่างชัดเจน
+
+README ประกอบด้วยเอกสารคู่มือสำหรับรายการเพิ่มเติมที่กำหนดเองที่สนับสนุน:
+&nbsp;&nbsp;#intents
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location/~
+&nbsp;&nbsp;#

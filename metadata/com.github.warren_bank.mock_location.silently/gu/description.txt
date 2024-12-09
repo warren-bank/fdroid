@@ -1,0 +1,5 @@
+પૂર્વ-રૂપરેખાંકિત થયેલ વૈવિધ્યપૂર્ણ વૈવિધ્યપૂર્ણ વિગતો ઉમેરો, અને "Mock my GPS" માં ખુલ્લી રીતે ખુલ્લી છે.
+
+README એ આધારભૂત વૈવિધ્યપૂર્ણ પ્રવેશની યાદી માટે દસ્તાવેજીકરણ સમાવે છે:
+&nbsp;&nbsp;#intents
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location

@@ -1,0 +1,4 @@
+在 " Mock my GPS " 中添加预先配置的定制外定制项到隐式 geo-Intent 并显式打开。
+
+自述文件包含受支持定制外件列表的文档 :
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

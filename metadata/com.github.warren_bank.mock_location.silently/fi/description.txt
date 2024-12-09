@@ -1,0 +1,4 @@
+Lisää ennalta määritetyt mukautetut lisäosat epäsuoriin geo-Inteltsiin ja avaa nimenomaisesti "Mock my GPS" -merkintä.
+
+README sisältää dokumentaation tuetuista mukautetuista lisäosista:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

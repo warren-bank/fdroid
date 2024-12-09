@@ -1,4 +1,4 @@
-# https://github.com/warren-bank/Android-Mock-Location/blob/service/v02.03.01/android-studio-project/constants.gradle
+# https://github.com/warren-bank/Android-Mock-Location/blob/service/v02.04.01/android-studio-project/constants.gradle
 # https://f-droid.org/archive/categories.txt
 
 Categories:
@@ -19,7 +19,7 @@ WebSite: ''
 RequiresRoot: false
 
 AllowedAPKSigningKeys: 7c2a9c3e54cff3cbe6f9f7293aeec465403b2350e03ff85cd0dd32a23d001cee
-CurrentVersion: 002.03.01
-CurrentVersionCode: 2030100
+CurrentVersion: 002.04.01
+CurrentVersionCode: 2040100
 UpdateCheckMode: None
 AutoUpdateMode: None

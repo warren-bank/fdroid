@@ -1,0 +1,4 @@
+Adăugați figuranți personalizați pre-configurați la geo-Incorturi implicite și deschideți în mod explicit în "Mock my GPS".
+
+README include documentația pentru lista de extra-uri personalizate acceptate:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

@@ -1,0 +1,4 @@
+Fügen Sie vorkonfigurierte benutzerdefinierte Extras zu impliziten Geo-Intents hinzu und öffnen Sie explizit in "Mock my GPS".
+
+Die Readme-Datei enthält die Dokumentation für die Liste der unterstützten Sonderausstattungen:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

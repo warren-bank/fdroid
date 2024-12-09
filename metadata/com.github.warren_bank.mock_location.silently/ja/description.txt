@@ -1,0 +1,4 @@
+事前に構成されたカスタム・エキストラを暗黙のジオインテントに追加し、「Mock my GPS 」で明示的に開きます。
+
+この README には、サポートされているカスタム・エキストラのリストについての資料
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

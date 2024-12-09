@@ -1,0 +1,5 @@
+భూ-ఇన్టెంట్స్కు పూర్వము-configured custom extras to implicit geo-Intents, and explicitly open in "Mock my GPS".
+
+README కు మద్దతునిచ్చిన ఆచార్యుల జాబితాకు డాక్యుమెంటేషన్:
+&nbsp;&nbsp;#intents
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location

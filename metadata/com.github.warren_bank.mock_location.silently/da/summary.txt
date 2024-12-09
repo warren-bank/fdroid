@@ -1,0 +1,1 @@
+Ledsaget for "Mock my GPS". Facilitet til integrering med tredjepartssoftware.

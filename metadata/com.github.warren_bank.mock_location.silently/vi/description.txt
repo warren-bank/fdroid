@@ -1,0 +1,4 @@
+Bổ sung thêm các tùy chỉnh đã được cấu hình trước cho các geo-Intents ẩn, và mở ra một cách rõ ràng trong "Mock my GPS".
+
+REDME bao gồm tài liệu cho danh sách các bổ sung tùy chỉnh được hỗ trợ:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

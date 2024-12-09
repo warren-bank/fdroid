@@ -1,0 +1,5 @@
+පෙර-සැකසූ රුචි අරුචිය එකතු කරන්න භූ-බුද්ධිමතාට, සහ පැහැදිලි ලෙස විවෘත කරන්න "Mock my GPS".
+
+README සහාය දක්වන චායාරුප ලැයිස්තුව සඳහා ලේඛණ ඇතුලත් වේ:
+&nbsp;&nbsp;#intents
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location

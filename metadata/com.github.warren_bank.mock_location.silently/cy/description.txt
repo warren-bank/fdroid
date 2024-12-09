@@ -1,0 +1,4 @@
+Ychwanegu ychwanegion a ffurfweddwyd ymlaen llaw sydd ymhlyg yn yr geto-Inbyll, ac yn agored yn benodol yn "Mock my GPS".
+
+Mae 'r README yn cynnwys dogfennaeth ar gyfer y rhestr o' r ychwanegion a gynhelir:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

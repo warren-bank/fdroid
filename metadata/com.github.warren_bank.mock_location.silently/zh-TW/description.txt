@@ -1,0 +1,4 @@
+在「模擬我的 GPS 」中，新增預先配置的自訂 extras 至隱含的「地理 - Intent 」，並明確開啟。
+
+README 包含支援自訂額外項目清單的說明文件：
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

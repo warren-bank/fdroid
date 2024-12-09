@@ -1,0 +1,4 @@
+הוספת ניצבים מותאמים מראש כדי משתמע גיאו-אוהלים, ופתוח במפורש ב "Mock GPS שלי".
+
+README כולל תיעוד עבור רשימת התוספות המותאמות:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

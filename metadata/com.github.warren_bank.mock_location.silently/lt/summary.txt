@@ -1,0 +1,1 @@
+Kompanionas už "Mock mano GPS". Naudingumas integruojant į 3-osios šalies programinę įrangą.

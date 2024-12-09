@@ -1,0 +1,5 @@
+पूर्व-कन्फिगर गरिएको अनुकूल बाह्य रूपमा भू-इन्टेन्ट लागू गर्नुहोस्, र "Mock my GPS" मा स्पष्ट रूपमा खुला.
+
+README ले समर्थित अनुकूल उद्धरण सूचीका लागि मिसिलिकरण समावेश गर्दछ:
+&nbsp;&nbsp;#intents
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location

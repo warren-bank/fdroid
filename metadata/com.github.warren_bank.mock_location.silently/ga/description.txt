@@ -1,0 +1,4 @@
+Cuir an-chumraithe saincheaptha go hintuigthe geo-Intents intuigthe, agus go sainráite oscailte i "Mock mo GPS".
+
+Áirítear leis an README doiciméadú ar an liosta de na hasanna saincheaptha a dtacaítear leis:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

@@ -1,0 +1,4 @@
+Adicione extras personalizados pré-configurados para implantes geo-Intentos, e explicitamente abertos em "Mock my GPS".
+
+O README inclui documentação para a lista de extras personalizados suportados:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents

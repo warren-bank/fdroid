@@ -1,0 +1,1 @@
+Spremljevalec za "Mock moj GPS". Pripomoček za integracijo s programsko opremo drugih proizvajalcev.

@@ -1,0 +1,1 @@
+Spoločník pre "Mock my GPS". Pomocný program pre integráciu so softvérom tretej strany.

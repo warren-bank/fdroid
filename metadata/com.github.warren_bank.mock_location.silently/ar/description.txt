@@ -1,0 +1,4 @@
+قم باضافة excustom تم توصيفه مسبقا الى Go-Incالخيام الضمني ، وقم بفتحه بوضوح في "Mock الخاص بي GPS".
+
+تتضمن README الوثائق الخاصة بكشف excustom المهيأ الذي يتم دعمه :
+&nbsp;&nbsp;https://github.com/warren-Bank/Android-Mock-المكان#intents

@@ -1,0 +1,4 @@
+Żid pre-konfigurati custom exas to impliċiti geo-Instants, u espliċitament miftuħa fil-"Mock tiegħi GPS".
+
+Ir-README jinkludi dokumentazzjoni għal-lista ta ' ekstras tad-dwana appoġġjata:
+&nbsp;&nbsp;https://github.com/warren-bank/Android-Mock-Location#intents
