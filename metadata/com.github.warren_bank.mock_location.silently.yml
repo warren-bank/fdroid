@@ -13,8 +13,8 @@ Repo: https://github.com/warren-bank/Android-Mock-Location.git
 SourceCode: https://github.com/warren-bank/Android-Mock-Location/tree/service
 IssueTracker: https://github.com/warren-bank/Android-Mock-Location/issues
 
-AutoName: Mock my GPS UnifiedNlp Backend
-Name: Mock my GPS UnifiedNlp Backend
+AutoName: Mock Silently
+Name: Mock Silently
 WebSite: ''
 RequiresRoot: false
 

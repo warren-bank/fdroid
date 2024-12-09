@@ -32,10 +32,11 @@ call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Rece
 call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"
 
 rem :: https://github.com/warren-bank/Android-Mock-Location/releases
-call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk"
-call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"
-call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"
-call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-UnifiedNlp-Backend-002.03.01-09API-withAllLanguageTranslations-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-002.04.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-002.04.01-19API-withAllLanguageTranslations-withGooglePlayServicesFusedLocationProvider-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-002.04.01-19API-withAllLanguageTranslations-withHuaweiMobileServicesFusedLocationProvider-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-my-GPS-UnifiedNlp-Backend-002.04.01-09API-withAllLanguageTranslations-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-Silently-002.04.01-01API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/Android-WebMonkey/releases
 call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.09.02/WebMonkey-004.09.02-11API-english-noAdBlock-release.apk"
