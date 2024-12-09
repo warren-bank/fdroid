@@ -68,9 +68,9 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webmonkey(?:\.\d+)
 # com.github.warren_bank.webcast
 # --------------------------------------------------------------------
 
-Redirect 301 "/repo/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"                                                      "https://github.com/warren-bank/Android-WebCast/releases/download/v05.01.00/WebCast-005.01.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
+Redirect 301 "/repo/WebCast-005.02.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"                                                      "https://github.com/warren-bank/Android-WebCast/releases/download/v05.02.00/WebCast-005.02.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
 
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webcast(?:\.\d+)?\.png$"                                                                "https://github.com/warren-bank/Android-WebCast/raw/v05.01.00/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.webcast(?:\.\d+)?\.png$"                                                                "https://github.com/warren-bank/Android-WebCast/raw/v05.02.00/android-studio-project/WebCast/src/main/res/mipmap-xxxhdpi/ic_launcher_black.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # com.github.warren_bank.nodejs_frontend
