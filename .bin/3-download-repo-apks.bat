@@ -19,11 +19,17 @@ if exist "%log_filepath%" del "%log_filepath%"
 if not exist "%repo_dir%" mkdir "%repo_dir%"
 
 rem :: https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.7/ExoPlayer-AirPlay-Receiver-003.04.07-16API-withAllLanguageTranslations-noDecoderExtensions-release.apk"
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.7/ExoPlayer-AirPlay-Receiver-003.04.07-16API-withAllLanguageTranslations-withDecoderExtensions-arm64-v8a-release.apk"
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.7/ExoPlayer-AirPlay-Receiver-003.04.07-16API-withAllLanguageTranslations-withDecoderExtensions-armeabi-v7a-release.apk"
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.7/ExoPlayer-AirPlay-Receiver-003.04.07-16API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"
-call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.7/ExoPlayer-AirPlay-Receiver-003.04.07-16API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-noDecoderExtensions-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-withDecoderExtensions-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-withDecoderExtensions-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.7.0/ExoPlayer-AirPlay-Receiver-003.07.00-21API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"
+
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-noDecoderExtensions-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-withDecoderExtensions-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-withDecoderExtensions-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-withDecoderExtensions-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases/download/v3.4.8/ExoPlayer-AirPlay-Receiver-003.04.08-16API-withAllLanguageTranslations-withDecoderExtensions-x86_64-release.apk"
 
 rem :: https://github.com/warren-bank/Android-Mock-Location/releases
 call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.03.01/Mock-my-GPS-002.03.01-03API-withAllLanguageTranslations-withAospLocationProviders-release.apk"
