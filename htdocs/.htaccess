@@ -214,12 +214,17 @@ RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.ptt_bluetooth_spea
 # com.github.warren_bank.bonjour_webrtc
 # --------------------------------------------------------------------
 
+Redirect 301 "/repo/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-arm64-v8a-release.apk"                                                 "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-arm64-v8a-release.apk"
+Redirect 301 "/repo/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-armeabi-v7a-release.apk"                                               "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-armeabi-v7a-release.apk"
+Redirect 301 "/repo/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-x86-release.apk"                                                       "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-x86-release.apk"
+Redirect 301 "/repo/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-x86_64-release.apk"                                                    "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-x86_64-release.apk"
+
 Redirect 301 "/repo/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-arm64-v8a-release.apk"                                                 "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-arm64-v8a-release.apk"
 Redirect 301 "/repo/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-armeabi-v7a-release.apk"                                               "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-armeabi-v7a-release.apk"
 Redirect 301 "/repo/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86-release.apk"                                                       "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86-release.apk"
 Redirect 301 "/repo/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86_64-release.apk"                                                    "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86_64-release.apk"
 
-RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.bonjour_webrtc(?:\.\d+)?\.png$"                                                         "https://github.com/warren-bank/Android-Bonjour-WebRTC/raw/v01.03.09/android-studio-project/Bonjour-WebRTC/src/main/res/drawable/launcher.png" [L,R=301]
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.bonjour_webrtc(?:\.\d+)?\.png$"                                                         "https://github.com/warren-bank/Android-Bonjour-WebRTC/raw/v01.04.00/android-studio-project/Bonjour-WebRTC/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
 # org.proxydroid
