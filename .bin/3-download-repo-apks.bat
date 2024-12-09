@@ -97,6 +97,11 @@ call :do_download "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/
 call :do_download "https://github.com/warren-bank/Android-PTT-Bluetooth-Speaker/releases/download/v1.1.3/PTT-Bluetooth-Speaker-Sender-001.01.03-10API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/Android-Bonjour-WebRTC/releases
+call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.04.00/Bonjour-WebRTC-001.04.00-21API-withAllLanguageTranslations-x86_64-release.apk"
+
 call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-arm64-v8a-release.apk"
 call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-armeabi-v7a-release.apk"
 call :do_download "https://github.com/warren-bank/Android-Bonjour-WebRTC/releases/download/v01.03.09/Bonjour-WebRTC-001.03.09-16API-withAllLanguageTranslations-x86-release.apk"
