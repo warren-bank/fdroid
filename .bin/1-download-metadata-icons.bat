@@ -33,6 +33,7 @@ call :do_download "org.appspot.apprtc"                                          
 call :do_download "com.google.android.apps.flexbox"                                 "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0/1-playground/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "com.google.android.flexbox.apps.catgallery"                      "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "org.rtspplayer.sample"                                           "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/raw/master/VideoExpertsGroup-RTSPPlayer/src/main/res/drawable-xxhdpi/app.png"
+call :do_download "net.slions.fulguris.full.fdroid"                                 "https://github.com/Slion/Fulguris/raw/Fulguris-v1.9.30/app/src/slionsFullFdroid/res/mipmap-xxxhdpi/ic_launcher.png"
 
 goto :done
 

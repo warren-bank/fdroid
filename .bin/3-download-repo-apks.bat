@@ -73,6 +73,9 @@ call :do_download "https://github.com/warren-bank/Android-FlexboxLayout-demos/re
 rem :: https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/releases
 call :do_download "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/releases/download/v4.2.10/VideoExpertsGroup-RTSPPlayer-release.apk"
 
+rem :: https://github.com/warren-bank/Android-browsers-LSPatch-ChromeXt/releases
+call :do_download "https://github.com/warren-bank/Android-browsers-LSPatch-ChromeXt/releases/download/fulguris_1.9.30/net.slions.fulguris.full.fdroid_230-426-lspatched.apk"
+
 goto :done
 
 :do_download
