@@ -1,0 +1,1 @@
+Teste 'HttpsURLConnection' pentru diagnosticarea erorilor de conectare SSL/TLS.

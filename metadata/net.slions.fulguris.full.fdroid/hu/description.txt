@@ -1,0 +1,40 @@
+Jellemzők:
+
+● A "ChromeXt" UserScript és DevTools
+&nbsp;&nbsp;támogatást ad hozzá a webböngészőkhöz:
+&nbsp;&nbsp;● Chromium alapján
+&nbsp;&nbsp;● WebView alapján
+
+Háttér:
+
+● A "ChromeXt" egy olyan modul, amely a
+&nbsp;&nbsp;"Xmodellt" keretrendszerrel ellátott,
+&nbsp;&nbsp;gyökerező eszközökön használható.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● A "LSPatch" egy eszköz az egyedi APK
+&nbsp;&nbsp;fájlok javításához és a "Xképviselt"
+&nbsp;&nbsp;modulok beágyazásához.
+&nbsp;&nbsp;Ez lehetővé teszi, hogy root nélkül
+&nbsp;&nbsp;használják őket.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● A "Fulguris Webböngésző" a WebView-n
+&nbsp;&nbsp;alapul.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Használat:
+
+● UserScript telepítése:
+&nbsp;&nbsp;● URL megnyitása egy böngésző lapon
+&nbsp;&nbsp;● Lehúzza az oldalt az újratöltésre,
+&nbsp;&nbsp;&nbsp;&nbsp;Ha az oldal kezdetben megjelenik: "A
+&nbsp;&nbsp;&nbsp;&nbsp;kódszerkesztő blokkolva van"
+&nbsp;&nbsp;● Kattintson a "megerősíteni" gombra a
+&nbsp;&nbsp;&nbsp;&nbsp;telepítéshez
+
+● UserScript eltávolítása:
+&nbsp;&nbsp;● Nyissa meg az URL címet:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● Kattintson a "szemét" ikonra a neve
+&nbsp;&nbsp;&nbsp;&nbsp;mellett

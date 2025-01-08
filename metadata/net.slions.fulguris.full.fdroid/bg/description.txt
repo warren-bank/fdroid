@@ -1,0 +1,44 @@
+Характеристики:
+
+● "ChromeXt" добавя поддръжка на
+&nbsp;&nbsp;UserScript и DevTools към уеб
+&nbsp;&nbsp;браузъри:
+&nbsp;&nbsp;● на базата на хром
+&nbsp;&nbsp;● based on WebView
+
+Фон:
+
+● "ChromeXt" е модул, който се използва
+&nbsp;&nbsp;за вкоренени устройства с рамката
+&nbsp;&nbsp;"Xposed".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" е инструмент за поставяне на
+&nbsp;&nbsp;индивидуални APK файлове и вграждане
+&nbsp;&nbsp;на "Xложени" модули.
+&nbsp;&nbsp;Това им позволява да бъдат използвани,
+&nbsp;&nbsp;без да изискват корен.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "FULGURIS WEB BROWSER" се основава на
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Употреба:
+
+● за инсталиране на UserScript:
+&nbsp;&nbsp;● Отворете URL адреса си в раздела на
+&nbsp;&nbsp;&nbsp;&nbsp;браузъра
+&nbsp;&nbsp;● плъзнете страницата надолу, за да
+&nbsp;&nbsp;&nbsp;&nbsp;презареждането,
+&nbsp;&nbsp;&nbsp;&nbsp;ако страницата се покаже
+&nbsp;&nbsp;&nbsp;&nbsp;първоначално: "редактор на код е
+&nbsp;&nbsp;&nbsp;&nbsp;блокиран"
+&nbsp;&nbsp;● щракнете върху "Потвърдете" за
+&nbsp;&nbsp;&nbsp;&nbsp;инсталиране
+
+● за премахване на UserScript:
+&nbsp;&nbsp;● Отворете URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● щракнете върху иконата "Боклук" до
+&nbsp;&nbsp;&nbsp;&nbsp;нейното име

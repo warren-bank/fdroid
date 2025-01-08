@@ -1,0 +1,40 @@
+विशेषताहरू:
+
+● "ChromeXt" ले वेब ब्राउजरहरूलाई
+&nbsp;&nbsp;प्रयोगकर्ता स्क्रिप्ट र DevTools
+&nbsp;&nbsp;समर्थन थप्दछ:
+&nbsp;&nbsp;● क्रोमियम मा आधारित
+&nbsp;&nbsp;● वेबदृश्यमा आधारित
+
+पृष्ठभूमि:
+
+● "क्रोमेक्स्ट" ले "एक्सपोट" फ्रेमवर्क
+&nbsp;&nbsp;भएको यन्त्रमा प्रयोग गर्ने मोड्युल हो.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" व्यक्तिगत APK फाइलहरू प्याच
+&nbsp;&nbsp;गर्ने उपकरण हो र "Xposed" मोड्युलहरू
+&nbsp;&nbsp;एम्बेड.
+&nbsp;&nbsp;यसले तिनीहरूलाई जलको आवश्यकता बिना
+&nbsp;&nbsp;प्रयोग गर्न अनुमति दिन्छ.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "फुलगुराँस वेब ब्राउजर" वेबव्यू मा
+&nbsp;&nbsp;आधारित छ.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+प्रयोग:
+
+● प्रयोगकर्ता स्क्रिप्ट स्थापना गर्न:
+&nbsp;&nbsp;● ब्राउजर ट्याबमा यसको URL खोल्नुहोस्
+&nbsp;&nbsp;● पुन: लोड गर्न पृष्ठ तल,
+&nbsp;&nbsp;&nbsp;&nbsp;यदि पृष्ठ सुरुमा प्रदर्शन गर्दछ भने:
+&nbsp;&nbsp;&nbsp;&nbsp;"सङ्केत सम्पादक अवरुद्ध छ"
+&nbsp;&nbsp;● स्थापना गर्न "पुष्टि गर्नुहोस्"
+&nbsp;&nbsp;&nbsp;&nbsp;क्लिक गर्नुहोस्
+
+● प्रयोगकर्ता स्क्रिप्ट हटाउन:
+&nbsp;&nbsp;● यूआरएल खोल्नुहोस्:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● यसको नाम बाहेक "रद्दीटोकरी" प्रतिमा
+&nbsp;&nbsp;&nbsp;&nbsp;क्लिक गर्नुहोस्

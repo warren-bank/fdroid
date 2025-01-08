@@ -1,0 +1,1 @@
+Tīmekļa pārlūkprogramma "LSPatch" patrulē, lai iekļautu "ChromeXt", nepieprasot saknes.

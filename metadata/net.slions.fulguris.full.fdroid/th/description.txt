@@ -1,0 +1,38 @@
+คุณลักษณะ:
+
+● "ChromeXt" เพิ่มการสนับสนุน User
+&nbsp;&nbsp;Script และ Dev Tools
+&nbsp;&nbsp;เข้ากับเว็บเบราว์เซอร์:
+&nbsp;&nbsp;● อ้างอิงตาม Chromium
+&nbsp;&nbsp;● โดยอิงตาม Web View
+
+พื้นหลัง:
+
+● "ChromeXt"
+&nbsp;&nbsp;เป็นโมดูลที่จะใช้บนอุปกรณ์ที่มีรากเหง้าด้วยเฟรมเวิร์ก
+&nbsp;&nbsp;"Xposed"
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" เป็นเครื่องมือในการแพตช์ไฟล์
+&nbsp;&nbsp;APK แต่ละไฟล์และฝังโมดูล "Xposed"
+&nbsp;&nbsp;ซึ่งจะอนุญาตให้ใช้โดยไม่ต้องใช้ root
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" มีที่มาจาก Web
+&nbsp;&nbsp;View
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+การใช้งาน:
+
+● เพื่อติดตั้งสคริปต์ผู้ใช้:
+&nbsp;&nbsp;● เปิด URL ในแท็บเบราว์เซอร์
+&nbsp;&nbsp;● ปัดเพจลงเพื่อโหลดใหม่
+&nbsp;&nbsp;&nbsp;&nbsp;ถ้าเพจเริ่มต้นจะแสดง:
+&nbsp;&nbsp;&nbsp;&nbsp;"เอดิเตอร์โค้ดถูกบล็อก"
+&nbsp;&nbsp;● คลิก "ยืนยัน" เพื่อติดตั้ง
+
+● เมื่อต้องการลบสคริปต์ผู้ใช้:
+&nbsp;&nbsp;● เปิด URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● คลิกที่ไอคอน "ถังขยะ"
+&nbsp;&nbsp;&nbsp;&nbsp;ที่อยู่ด้านข้างชื่อ

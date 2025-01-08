@@ -1,0 +1,36 @@
+-Oslobodite ukuse.
+
+● InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt je u paketu kao interna
+&nbsp;&nbsp;&nbsp;&nbsp;biblioteka.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● Neka se odvoje od APK za svaku ABI.
+
+● SSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt se učitava iz zajedničke
+&nbsp;&nbsp;&nbsp;&nbsp;aplikacije.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● Vraća se na korištenje zadanog
+&nbsp;&nbsp;&nbsp;&nbsp;izvornog pružatelja sigurnosti kada
+&nbsp;&nbsp;&nbsp;&nbsp;je bilo:
+&nbsp;&nbsp;&nbsp;&nbsp;● Ova aplikacija nije dostupna.
+&nbsp;&nbsp;&nbsp;&nbsp;● Ova aplikacija nije potpisana od
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strane povjerljivog izvora.
+
+Pregled:
+
+● Davatelj obezbjeđenja je u paketu s
+&nbsp;&nbsp;Androidom.
+&nbsp;&nbsp;● Zastario je u starim verzijama
+&nbsp;&nbsp;&nbsp;&nbsp;Androida.
+&nbsp;&nbsp;● Na primjer:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x ne podržava TLS 1.2.
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 je zahtevan od strane
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Let's Encrypt" korijenskog
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;certifikata
+
+● Conscrypt je biblioteka.
+&nbsp;&nbsp;● Provodi mnoge moderne skupove sa
+&nbsp;&nbsp;&nbsp;&nbsp;šiframa.
+&nbsp;&nbsp;● Direktno u model Java sigurnosti kao
+&nbsp;&nbsp;&nbsp;&nbsp;preferirani dobavljač

@@ -1,0 +1,39 @@
+الخصائص :
+
+● "ChromeXt" يقوم باضافة دعم UserScript
+&nbsp;&nbsp;و DevTools الى برامج استعراض الانترنت
+&nbsp;&nbsp;:
+&nbsp;&nbsp;● مبنية على مادة الكروم
+&nbsp;&nbsp;● بناء على WebView
+
+الخلفية :
+
+● "ChromeXt" هو نميطة لاستخدامها على
+&nbsp;&nbsp;الأجهزة المتجذرة مع إطار "Xrat".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" هو أداة لتصحيح ملفات APK
+&nbsp;&nbsp;الفردية وتضمين وحدات برامج "Xseed".
+&nbsp;&nbsp;يسمح هذا لهم باستخدامهم بدون الحاجة
+&nbsp;&nbsp;الى الدليل الرئيسي.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Flwurion Web Browser" يعتمد على
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+الاستخدام :
+
+● لتركيب UserScript :
+&nbsp;&nbsp;● فتح عنوان URL الخاص به في علامة
+&nbsp;&nbsp;&nbsp;&nbsp;التبويب لبرنامج الاستعراض
+&nbsp;&nbsp;● تحميل الصفحة لأسفل لاعادة التحميل ،
+&nbsp;&nbsp;&nbsp;&nbsp;اذا كانت الصفحة تعرض في باديء الأمر
+&nbsp;&nbsp;&nbsp;&nbsp;: "rotide rotide robeditor"
+&nbsp;&nbsp;● اضغط "تأكيد" للتركيب
+
+● لازالة UserScript :
+&nbsp;&nbsp;● فتح عنوان URL :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● اضغط على شارة "حافظة المحذوفات"
+&nbsp;&nbsp;&nbsp;&nbsp;بجانب الاسم الخاص بها

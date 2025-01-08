@@ -1,0 +1,1 @@
+Testirajte 'HttpsURLConnection' da dijagnosticirate SSL/TLS greške u vezi.

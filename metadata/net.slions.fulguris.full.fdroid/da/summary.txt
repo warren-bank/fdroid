@@ -1,0 +1,1 @@
+Webbrowser, der er lappet af "LSPatch" for at indlejret "ChromeXt" uden at kræve rod.

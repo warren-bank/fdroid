@@ -1,0 +1,27 @@
+# https://github.com/Slion/Fulguris/tree/Fulguris-v1.9.30
+# https://github.com/Slion/Fulguris/blob/Fulguris-v1.9.30/app/build.gradle#L122-L123
+# https://f-droid.org/en/packages/net.slions.fulguris.full.fdroid/
+# https://gitlab.com/fdroid/fdroiddata/tree/master/metadata/net.slions.fulguris.full.fdroid.yml
+# https://f-droid.org/archive/categories.txt
+
+Categories:
+- Internet
+License: MPL-2.0
+AuthorName: Stéphane Lenclud
+AuthorEmail: github@lenclud.com
+
+RepoType: git
+Repo: https://github.com/Slion/Fulguris.git
+SourceCode: https://github.com/Slion/Fulguris
+IssueTracker: https://github.com/Slion/Fulguris/issues
+
+AutoName: Fulguris Web Browser
+Name: Fulguris Web Browser
+WebSite: ''
+RequiresRoot: false
+
+AllowedAPKSigningKeys: c081890cf2a1adf13e56d7b50a4f3d8edb35b7c46d6ccc732dd997b7e433be1d
+CurrentVersion: 1.9.30
+CurrentVersionCode: 230
+UpdateCheckMode: None
+AutoUpdateMode: None

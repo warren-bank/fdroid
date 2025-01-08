@@ -1,0 +1,38 @@
+Kiadási aromák:
+
+● WithInternalConscryptSecurityProvider
+&nbsp;&nbsp;● A Conscrypt belső könyvtárként van
+&nbsp;&nbsp;&nbsp;&nbsp;csomagolva
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● Külön APK-t ad ki minden egyes ABI
+&nbsp;&nbsp;&nbsp;&nbsp;számára
+
+● SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● A Conscrypt megosztott alkalmazásból
+&nbsp;&nbsp;&nbsp;&nbsp;van betöltve
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● Visszaesik az alapértelmezett natív
+&nbsp;&nbsp;&nbsp;&nbsp;biztonsági szolgáltató használatára,
+&nbsp;&nbsp;&nbsp;&nbsp;ha:
+&nbsp;&nbsp;&nbsp;&nbsp;● Ez az alkalmazás nem érhető el
+&nbsp;&nbsp;&nbsp;&nbsp;● Ezt az alkalmazást nem egy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;megbízható forrás írja alá
+
+áttekintése:
+
+● Az alapértelmezett natív biztonsági
+&nbsp;&nbsp;szolgáltató az Android rendszerben van
+&nbsp;&nbsp;● Elavult az Android régi
+&nbsp;&nbsp;&nbsp;&nbsp;változataiban
+&nbsp;&nbsp;● Például:
+&nbsp;&nbsp;&nbsp;&nbsp;● Az Android 4.x nem támogatja a TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 változatot
+&nbsp;&nbsp;&nbsp;&nbsp;● A TLS 1.2-et a "Titkosítás"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyökértanúsítvány szükséges
+
+● A Conscrypt egy könyvtár
+&nbsp;&nbsp;● Sok modern rejtjelkészletet
+&nbsp;&nbsp;&nbsp;&nbsp;valósítja meg
+&nbsp;&nbsp;● Közvetlenül a Java biztonsági
+&nbsp;&nbsp;&nbsp;&nbsp;modellbe kerül, mint preferált
+&nbsp;&nbsp;&nbsp;&nbsp;szolgáltató

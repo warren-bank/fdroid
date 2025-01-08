@@ -1,0 +1,1 @@
+Teste'HttpsURLConnection'pour diagnostiquer les erreurs de connexion SSL/TLS.

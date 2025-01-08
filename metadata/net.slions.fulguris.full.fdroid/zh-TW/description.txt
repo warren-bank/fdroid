@@ -1,0 +1,34 @@
+特性：
+
+● "ChromeXt" 將 UserScript 和 DevTools
+&nbsp;&nbsp;支援新增到網頁瀏覽器上：
+&nbsp;&nbsp;● 在鉻的基礎上
+&nbsp;&nbsp;● 基於 WebView
+
+背景：
+
+● 「ChromXt
+&nbsp;&nbsp;」是一個模組，用來在具有「Xposed」架構的植根裝置上使用。
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" 是修補個別 APK 檔案並嵌入 "Xposed "
+&nbsp;&nbsp;模組的工具。
+&nbsp;&nbsp;這可讓它們在不需要 root使用者的情況下使用。
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● 「Fullguris Web 瀏覽器」是以 WebView為基礎。
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+用法：
+
+● to install a UserScript：
+&nbsp;&nbsp;● 在瀏覽器標籤中開啟其 URL
+&nbsp;&nbsp;● 將頁面滑動以重新載入，
+&nbsp;&nbsp;&nbsp;&nbsp;if the page 最初顯示： "Code editor is
+&nbsp;&nbsp;&nbsp;&nbsp;blockedis "
+&nbsp;&nbsp;● 按一下「確認」以安裝
+
+● 移除 UserScript：
+&nbsp;&nbsp;● 開啟 URL：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● 按一下其名稱旁邊的 "垃圾桶" 圖示

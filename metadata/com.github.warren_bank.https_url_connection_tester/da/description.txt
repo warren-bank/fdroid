@@ -1,0 +1,37 @@
+Frigivelsesvarianter:
+
+● withInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt is bundled som et internt
+&nbsp;&nbsp;&nbsp;&nbsp;bibliotek
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● frigiver en separat APK for hver ABI
+
+● withSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt is indlæses from a shared
+&nbsp;&nbsp;&nbsp;&nbsp;app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● falder tilbage for at bruge den
+&nbsp;&nbsp;&nbsp;&nbsp;indbyggede sikkerhedsudbyder, når
+&nbsp;&nbsp;&nbsp;&nbsp;enten:
+&nbsp;&nbsp;&nbsp;&nbsp;● denne app er ikke tilgængelig
+&nbsp;&nbsp;&nbsp;&nbsp;● denne app er ikke signeret af en
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;betroet kilde
+
+Oversigt:
+
+● Standardudbyderen af den indbyggede
+&nbsp;&nbsp;sikkerhedsudbyder er bundtet i Android
+&nbsp;&nbsp;● er forældet i gamle versioner af
+&nbsp;&nbsp;&nbsp;&nbsp;Android
+&nbsp;&nbsp;● for eksempel:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x understøtter ikke TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 er påkrævet af
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rodcertifikatet "Lad os Kryptér"
+
+● Consckryppt er et bibliotek
+&nbsp;&nbsp;● implementerer mange moderne
+&nbsp;&nbsp;&nbsp;&nbsp;kodesuiter
+&nbsp;&nbsp;● plukker direkte ind i
+&nbsp;&nbsp;&nbsp;&nbsp;Java-sikkerhedsmodellen som
+&nbsp;&nbsp;&nbsp;&nbsp;foretrukket udbyder

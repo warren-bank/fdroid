@@ -1,0 +1,1 @@
+Testijiet "httpsURLKonnessjoni" biex jiġu djanjostikati żbalji ta ' konnessjoni SSL/TLS.

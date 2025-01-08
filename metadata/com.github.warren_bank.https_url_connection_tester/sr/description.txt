@@ -1,0 +1,36 @@
+Укуси издања:
+
+● InternalConscriptSecurityProvider
+&nbsp;&nbsp;● Conscrypt је у пакету као унутрашња
+&nbsp;&nbsp;&nbsp;&nbsp;библиотека
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● отпушта посебан АПК за сваку АБИ
+
+● ShareedExternalConsrypturryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt је учитан из заједничке
+&nbsp;&nbsp;&nbsp;&nbsp;апликације
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● Враћа се и користи подразумевани
+&nbsp;&nbsp;&nbsp;&nbsp;добављач за безбедност, када је
+&nbsp;&nbsp;&nbsp;&nbsp;било:
+&nbsp;&nbsp;&nbsp;&nbsp;● ова апликација није доступна
+&nbsp;&nbsp;&nbsp;&nbsp;● ова апликација није потписана од
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;стране поузданог извора
+
+Преглед:
+
+● Подразумевани добављач за безбедност
+&nbsp;&nbsp;матерњи је у пакету у Андроиду
+&nbsp;&nbsp;● је застарела у старим верзијама
+&nbsp;&nbsp;&nbsp;&nbsp;Андроида
+&nbsp;&nbsp;● на пример:
+&nbsp;&nbsp;&nbsp;&nbsp;● Андроид 4.x не подржава TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 је потребан од стране
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Хајде да Encrocir" root
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;цертификат
+
+● Conscrypt је библиотека
+&nbsp;&nbsp;● Примењује многе модерне шифре за
+&nbsp;&nbsp;&nbsp;&nbsp;шифровање
+&nbsp;&nbsp;● Директно улази у модел Јава
+&nbsp;&nbsp;&nbsp;&nbsp;безбедности као приоритетни добављач

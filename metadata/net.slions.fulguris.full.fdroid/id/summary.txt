@@ -1,0 +1,1 @@
+Peramban web ditambal oleh "LSPatch" untuk embed "ChromeXt" tanpa memerlukan root.

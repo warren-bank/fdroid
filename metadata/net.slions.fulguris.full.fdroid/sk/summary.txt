@@ -1,0 +1,1 @@
+Webový prehliadač opravený "LSPatch" na vloženie "ChromeXt" bez nutnosti koreňa.

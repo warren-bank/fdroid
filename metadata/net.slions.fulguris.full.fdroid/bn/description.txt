@@ -1,0 +1,40 @@
+বৈশিষ্ট্য:
+
+● "ChromeXt" ওয়েব ব্রাউজারে UserScript
+&nbsp;&nbsp;এবং DevTools সমর্থন যোগ করেছে:
+&nbsp;&nbsp;● ক্রোমিয়ামের উপর ভিত্তি করে
+&nbsp;&nbsp;● ওয়েব-ভিউ ভিত্তিক
+
+পটভূমি:
+
+● "ক্রোমেক্সট" হল "Xposed" কাঠামোর সাথে
+&nbsp;&nbsp;রোড ডিভাইস ব্যবহার করার জন্য একটি
+&nbsp;&nbsp;মডিউল.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" ব্যক্তিগত এপিকে ফাইল প্যাচ
+&nbsp;&nbsp;করার একটি টুল এবং "Xposed" মডিউল যুক্ত
+&nbsp;&nbsp;করা.
+&nbsp;&nbsp;এটি তাদেরকে রুট প্রয়োজন ছাড়াই
+&nbsp;&nbsp;ব্যবহার করতে দেয়.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "ফুলগুরিস ওয়েব ব্রাউজার" ওয়েবভিউ
+&nbsp;&nbsp;ভিত্তিক.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+ব্যবহার:
+
+● একটি UserScript ইনস্টল করা হবে:
+&nbsp;&nbsp;● ব্রাউজার ট্যাবে তার URL খুলুন
+&nbsp;&nbsp;● এই পৃষ্ঠাটি পুনরায় লোড করতে হবে,
+&nbsp;&nbsp;&nbsp;&nbsp;যদি পৃষ্ঠাটি প্রাথমিকভাবে প্রদর্শন
+&nbsp;&nbsp;&nbsp;&nbsp;করে: "কোড সম্পাদক রুদ্ধ করা হয়"
+&nbsp;&nbsp;● ইনস্টল করার জন্য "নিশ্চিত করুন"
+&nbsp;&nbsp;&nbsp;&nbsp;ক্লিক করুন
+
+● একটি ইউসারস্ক্রিপ্ট অপসারণ করা হবে:
+&nbsp;&nbsp;● ইউ-আর-এল খোলো:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● এর নামের পাশে "আবর্জনা" আইকন ক্লিক
+&nbsp;&nbsp;&nbsp;&nbsp;করুন

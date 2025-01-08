@@ -1,0 +1,1 @@
+"ChromeXt" öğesini kök gerektirmeden yerleştirmek için "LSPatch" tarafından yama yapılan Web tarayıcısı.

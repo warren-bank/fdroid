@@ -1,0 +1,39 @@
+Funksjoner:
+
+● "ChromeXt" legger til UserScript og
+&nbsp;&nbsp;DevTools-støtte til nettnettlesere:
+&nbsp;&nbsp;● basert på Chromium
+&nbsp;&nbsp;● basert på WebView
+
+Bakgrunn:
+
+● "ChromeXt" er en modul å bruke på
+&nbsp;&nbsp;rootede enheter med "Xposerte"
+&nbsp;&nbsp;rammeverk.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" er et verktøy for å rette
+&nbsp;&nbsp;individuell APK-filer og bygge inn
+&nbsp;&nbsp;"Xposerte" moduler.
+&nbsp;&nbsp;Dette gjør at de kan brukes uten å
+&nbsp;&nbsp;kreve rot.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguruer Nettleser" er basert på
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Bruk:
+
+● for å installere et UserScript:
+&nbsp;&nbsp;● åpne sin URL i en nettleserfane
+&nbsp;&nbsp;● sveipe siden ned for å lade,
+&nbsp;&nbsp;&nbsp;&nbsp;hvis siden i utgangspunktet vises:
+&nbsp;&nbsp;&nbsp;&nbsp;"Koderedaktør er blokkert"
+&nbsp;&nbsp;● klikk på "bekreft" for å installere
+
+● for å fjerne et UserScript:
+&nbsp;&nbsp;● åpne URLen:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● klikk på "søppel"-ikonet ved siden
+&nbsp;&nbsp;&nbsp;&nbsp;av navnet sitt

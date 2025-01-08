@@ -1,0 +1,39 @@
+Funkcije:
+
+● "ChromeXt" doda podporo za UserScript
+&nbsp;&nbsp;in DevTools za spletne brskalnike:
+&nbsp;&nbsp;● ki temelji na kromu
+&nbsp;&nbsp;● glede na WebView
+
+Ozadje:
+
+● "ChromeXt" je modul, ki se uporablja
+&nbsp;&nbsp;na zakoreninjenih napravah z ogrodje
+&nbsp;&nbsp;"Xpostavljena".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" je orodje za popravek
+&nbsp;&nbsp;posameznih datotek APK in vdelave
+&nbsp;&nbsp;modulov "Xpostavljena".
+&nbsp;&nbsp;To jim omogoča, da se uporabljajo brez
+&nbsp;&nbsp;potrebe po korenu.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" temelji na
+&nbsp;&nbsp;WebView-u.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Uporaba:
+
+● za namestitev UserScript:
+&nbsp;&nbsp;● odpri svoj URL na zavihku brskalnika
+&nbsp;&nbsp;● povleče stran, da se znova naloži,
+&nbsp;&nbsp;&nbsp;&nbsp;če se stran prvotno prikaže:
+&nbsp;&nbsp;&nbsp;&nbsp;"Urejevalnik kode je blokiran"
+&nbsp;&nbsp;● kliknite "potrdi", če želite
+&nbsp;&nbsp;&nbsp;&nbsp;namestiti
+
+● za odstranitev UserScript:
+&nbsp;&nbsp;● odpri URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● kliknite ikono "koš" poleg imena

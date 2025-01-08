@@ -1,0 +1,37 @@
+Omadused:
+
+● "ChromeXt" lisab UserScripti ja
+&nbsp;&nbsp;DevToolsi toetust veebilehitsejatele:
+&nbsp;&nbsp;● põhineb kroom
+&nbsp;&nbsp;● Põhineb WebView
+
+Taust:
+
+● "ChromeXt" on moodul, mis kasutab
+&nbsp;&nbsp;juurdunud seadmeid koos "Xpose"
+&nbsp;&nbsp;raamistikuga.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPAtch" on tööriist üksikute APK
+&nbsp;&nbsp;failide ja embed "Xposed" moodulitele.
+&nbsp;&nbsp;See võimaldab neid kasutada ilma root
+&nbsp;&nbsp;nõudmata.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" põhineb
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Kasutamine:
+
+● Kasutaja skript:
+&nbsp;&nbsp;● avada oma URL brauseris tab
+&nbsp;&nbsp;● libistage lehe uuesti laadimiseks,
+&nbsp;&nbsp;&nbsp;&nbsp;Kui lehekülg alguses näitab:
+&nbsp;&nbsp;&nbsp;&nbsp;"Kooderedaktor on blokeeritud"
+&nbsp;&nbsp;● kliki "kinnita", et paigaldada
+
+● Kasutaja skript:
+&nbsp;&nbsp;● URL-i avamine:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● kliki "praht" ikooni kõrval oma nime

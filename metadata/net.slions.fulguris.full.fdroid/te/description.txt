@@ -1,0 +1,40 @@
+విశేషాలు:
+
+● "ChromeXt" వెబ్ బ్రౌజర్లకు UserScript
+&nbsp;&nbsp;మరియు DevTools మద్దతును చేస్తోంది:
+&nbsp;&nbsp;● క్రోమియం ఆధారంగా
+&nbsp;&nbsp;● వెబ్ వీలుపై ఆధారపడిన
+
+బ్యాక్గ్రౌండ్:
+
+● "ChromeXt" ఒక మాడ్యూల్ "Xposed"
+&nbsp;&nbsp;ఫ్రేమ్తో రోడ్ చేయబడిన పరికరాల మీద
+&nbsp;&nbsp;ఉపయోగించడానికి ఒక మాడ్యూల్.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" వ్యక్తిగత APK ఫైల్స్ మరియు
+&nbsp;&nbsp;ఎంబెడ్ "Xposed" మాడ్యూల్స్ కు ఒక
+&nbsp;&nbsp;సాధనం.
+&nbsp;&nbsp;ఇది వాటిని వేరు అభ్యర్ధన లేకుండా
+&nbsp;&nbsp;ఉపయోగించుటకు అనుమతిస్తుంది.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" is based on
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+వాడుకరి:
+
+● UserScript స్థాపించుటకు:
+&nbsp;&nbsp;● ఒక బ్రౌజర్ టాబ్ లో దాని URL తెరువండి
+&nbsp;&nbsp;● తిరిగి లోడ్ చేయడానికి పేజీ డౌన్
+&nbsp;&nbsp;&nbsp;&nbsp;వేసుకోవాలి,
+&nbsp;&nbsp;&nbsp;&nbsp;ముందుగా పేజీ ప్రవేసించినట్లయితే:
+&nbsp;&nbsp;&nbsp;&nbsp;"కోడ్ ఎడిటర్ బ్లాక్"
+&nbsp;&nbsp;● స్థాపించడానికి "నిర్ధారిత" నొక్కండి
+
+● ఒక UsertScript తొలగించుటకు:
+&nbsp;&nbsp;● URL తెరువుము:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● దాని పేరుతో "trash" ప్రతిమను
+&nbsp;&nbsp;&nbsp;&nbsp;నొక్కండి

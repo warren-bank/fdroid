@@ -1,0 +1,1 @@
+Tester 'HttpsURLConnection' til diagnosticering af SSL/TLS-forbindelsesfejl.

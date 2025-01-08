@@ -1,0 +1,37 @@
+Ochuny vydání:
+
+● withInternalConsryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt je v balíku jako interní
+&nbsp;&nbsp;&nbsp;&nbsp;knihovna
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● uvolní oddělený APK pro každý ABI
+
+● withedSharedExternalConcryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● ConConcrypt is loaded from a shared
+&nbsp;&nbsp;&nbsp;&nbsp;app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● vrátí se k použití výchozího
+&nbsp;&nbsp;&nbsp;&nbsp;nativního poskytovatele zabezpečení,
+&nbsp;&nbsp;&nbsp;&nbsp;když:
+&nbsp;&nbsp;&nbsp;&nbsp;● tato aplikace není k dispozici
+&nbsp;&nbsp;&nbsp;&nbsp;● Tato aplikace není podepsána
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;důvěryhodným zdrojem
+
+Přehled:
+
+● Výchozí nativní poskytovatel
+&nbsp;&nbsp;zabezpečení je sdružený v balíku
+&nbsp;&nbsp;Android
+&nbsp;&nbsp;● je zastaralý ve starých verzích
+&nbsp;&nbsp;&nbsp;&nbsp;systému Android
+&nbsp;&nbsp;● například:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x nepodporuje TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 je požadováno kořenovým
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;certifikátem "Let's Encrypt"
+
+● Conscrypt je knihovna
+&nbsp;&nbsp;● implementuje mnoho moderních
+&nbsp;&nbsp;&nbsp;&nbsp;šifrovacích sad
+&nbsp;&nbsp;● připojit se přímo k modelu
+&nbsp;&nbsp;&nbsp;&nbsp;zabezpečení Java jako
+&nbsp;&nbsp;&nbsp;&nbsp;upřednostňovaný poskytovatel

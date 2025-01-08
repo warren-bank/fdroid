@@ -1,0 +1,39 @@
+Rhyddhau Blas:
+
+● Dadgryptio SConscaster
+&nbsp;&nbsp;● Mae consclas yn cael ei bwlsio fel
+&nbsp;&nbsp;&nbsp;&nbsp;llyfrgell fewnol
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● rhyddhau APK ar wahân ar gyfer pob
+&nbsp;&nbsp;&nbsp;&nbsp;ABI
+
+● Name
+&nbsp;&nbsp;● Mae ' r conscop wedi ei lwytho o ap
+&nbsp;&nbsp;&nbsp;&nbsp;a rennir
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● yn dychwelyd i ddefnyddio'r Darparwr
+&nbsp;&nbsp;&nbsp;&nbsp;Diogelwch brodorol rhagosodedig pan
+&nbsp;&nbsp;&nbsp;&nbsp;fo naill ai:
+&nbsp;&nbsp;&nbsp;&nbsp;● nid yw'r ap ar gael
+&nbsp;&nbsp;&nbsp;&nbsp;● nid yw'r ap yn cael ei lofnodi gan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ffynhonnell y gellir ymddiried
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ynddi
+
+Trosolwg:
+
+● mae'r darparydd diogelwch brodorol
+&nbsp;&nbsp;rhagosodedig yn cael ei fwndelwyd yn
+&nbsp;&nbsp;Android
+&nbsp;&nbsp;● yn hen hen fersiynau Android
+&nbsp;&nbsp;● er enghraifft:
+&nbsp;&nbsp;&nbsp;&nbsp;● Nid yw Android 4.x yn cynnal TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. 2
+&nbsp;&nbsp;&nbsp;&nbsp;● Mae SSL 1 yn ei gwneud yn ofynnol
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gan y dystysgrif gwraidd "Gadewch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i"
+
+● Llyfrgell yn llyfrgell
+&nbsp;&nbsp;● rhoi llawer o switiau seiffr modern
+&nbsp;&nbsp;● pluen yn uniongyrchol i mewn i fodel
+&nbsp;&nbsp;&nbsp;&nbsp;Diogelwch Java fel y darparwr a
+&nbsp;&nbsp;&nbsp;&nbsp;ffafrir

@@ -1,0 +1,42 @@
+Caracteristici:
+
+● "ChromeXt" adaugă suport UserScript și
+&nbsp;&nbsp;DevTools pentru browsere web:
+&nbsp;&nbsp;● Pe bază de crom
+&nbsp;&nbsp;● Bazat pe WebView
+
+Context:
+
+● "ChromeXt" este un modul de a utiliza
+&nbsp;&nbsp;pe dispozitive înrădăcinate cu cadrul
+&nbsp;&nbsp;"Xposed".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" este un instrument pentru a
+&nbsp;&nbsp;patch-uri fișiere APK individuale și
+&nbsp;&nbsp;încorporați module "Xposed".
+&nbsp;&nbsp;Acest lucru le permite să fie
+&nbsp;&nbsp;utilizate fără a necesita rădăcină.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" se bazează pe
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Utilizare:
+
+● pentru a instala un UserScript:
+&nbsp;&nbsp;● deschide URL-ul său într-un tab de
+&nbsp;&nbsp;&nbsp;&nbsp;browser
+&nbsp;&nbsp;● glisați pagina în jos pentru a
+&nbsp;&nbsp;&nbsp;&nbsp;reîncărca,
+&nbsp;&nbsp;&nbsp;&nbsp;dacă pagina afişează iniţial:
+&nbsp;&nbsp;&nbsp;&nbsp;"Editor de cod este blocat"
+&nbsp;&nbsp;● faceți clic pe "confirm" pentru a
+&nbsp;&nbsp;&nbsp;&nbsp;instala
+
+● pentru a elimina un UserScript:
+&nbsp;&nbsp;● deschide URL-ul:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● faceți clic pe pictograma "gunoi" pe
+&nbsp;&nbsp;&nbsp;&nbsp;lângă numele său

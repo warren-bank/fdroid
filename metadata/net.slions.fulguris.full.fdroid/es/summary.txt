@@ -1,0 +1,1 @@
+Navegador web parcheado por "LSPatch" para incrustar "ChromeXt" sin necesidad de root.

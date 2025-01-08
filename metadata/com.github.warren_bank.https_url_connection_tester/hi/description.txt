@@ -1,0 +1,37 @@
+रिलीज फ्लेवर्स:
+
+● इन्टर्नशिप ।
+&nbsp;&nbsp;● कोनिक्रिप्ट को एक आंतरिक पुस्तकालय
+&nbsp;&nbsp;&nbsp;&nbsp;के रूप में बंडल किया गया है
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● प्रत्येक ABI के लिए एक अलग एपीके (
+
+● जो भी हो, उसके
+&nbsp;&nbsp;पीछे-पीछे-से-बचाव-कर-बचाव-प्रदाता
+&nbsp;&nbsp;● कोनिक्रिप्ट एक साझा एप्लिकेशन से लोड
+&nbsp;&nbsp;&nbsp;&nbsp;किया गया है
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● जब या तो डिफ़ॉल्ट मूल सुरक्षा
+&nbsp;&nbsp;&nbsp;&nbsp;प्रदाता का उपयोग करने के लिए वापस
+&nbsp;&nbsp;&nbsp;&nbsp;आता है:
+&nbsp;&nbsp;&nbsp;&nbsp;● यह एप्लिकेशन उपलब्ध नहीं है
+&nbsp;&nbsp;&nbsp;&nbsp;● यह ऐप एक विश्वसनीय स्रोत द्वारा
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;हस्ताक्षरित नहीं है
+
+सिंहावलोकन:
+
+● डिफ़ॉल्ट स्थानीय सुरक्षा प्रदाता को
+&nbsp;&nbsp;एंड्रॉयड में बंडल किया गया है
+&nbsp;&nbsp;● एंड्रॉयड के पुराने संस्करणों में
+&nbsp;&nbsp;&nbsp;&nbsp;पुरानी है
+&nbsp;&nbsp;● के लिए:
+&nbsp;&nbsp;&nbsp;&nbsp;● Droid 4.x टीएलएस 1.2 का समर्थन
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;नहीं करता
+&nbsp;&nbsp;&nbsp;&nbsp;● टीएलएस 1.2 की आवश्यकता है "लेट के
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;एनक्रिप्ट" रूट प्रमाणपत्र के
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;द्वारा
+
+● सजातीय पुस्तकालय एक पुस्तकालय है ।
+&nbsp;&nbsp;● कई आधुनिक सिफर सूट्स उपकरण
+&nbsp;&nbsp;● सीधे जावा सुरक्षा मॉडल में प्लग को
+&nbsp;&nbsp;&nbsp;&nbsp;पसंदीदा प्रदाता के रूप में

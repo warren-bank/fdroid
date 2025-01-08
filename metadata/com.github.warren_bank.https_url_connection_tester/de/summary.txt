@@ -1,0 +1,1 @@
+Testen Sie 'HttpsURLConnection', um SSL/TLS-Verbindungsfehler zu diagnostizieren.

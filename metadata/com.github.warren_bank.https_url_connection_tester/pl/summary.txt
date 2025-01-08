@@ -1,0 +1,1 @@
+Testuje wartość HttpsURLConnection w celu zdiagnozowania błędów połączenia SSL/TLS.

@@ -1,0 +1,35 @@
+Sprosti okuse:
+
+● z InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt je v svežnju v svežnju kot
+&nbsp;&nbsp;&nbsp;&nbsp;notranja knjižnica
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● izda ločeno APK za vsak ABI
+
+● s
+&nbsp;&nbsp;SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt je naložen iz aplikacije v
+&nbsp;&nbsp;&nbsp;&nbsp;skupni rabi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● vrne nazaj za uporabo privzetega
+&nbsp;&nbsp;&nbsp;&nbsp;izvirnega ponudnika zaščite, če:
+&nbsp;&nbsp;&nbsp;&nbsp;● ta aplikacija ni na voljo
+&nbsp;&nbsp;&nbsp;&nbsp;● ta aplikacija ni podpisala
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;overjeni izvor
+
+Pregled:
+
+● privzeti izvirni ponudnik zaščite je v
+&nbsp;&nbsp;svežnju v sistemu Android
+&nbsp;&nbsp;● je zastarele v starejših različiijih
+&nbsp;&nbsp;&nbsp;&nbsp;Android
+&nbsp;&nbsp;● na primer:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x ne podpira TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 zahteva korensko digitalno
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;potrdilo "Let's Encrypt"
+
+● Conscrypt je knjižnica
+&nbsp;&nbsp;● implementira veliko sodobnih naborov
+&nbsp;&nbsp;&nbsp;&nbsp;šifer
+&nbsp;&nbsp;● vtiče neposredno v model varnosti
+&nbsp;&nbsp;&nbsp;&nbsp;Java kot prednostni ponudnik

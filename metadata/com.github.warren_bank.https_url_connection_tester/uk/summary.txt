@@ -1,0 +1,1 @@
+Перевіряє HttpsURLConnection для діагностики помилок з ' єднання SSL/TLS.

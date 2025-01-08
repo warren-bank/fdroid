@@ -1,0 +1,1 @@
+Navegador web pateado por "LSPatch" para embasar "ChromeXt" sem precisar de root.

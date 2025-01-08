@@ -1,0 +1,39 @@
+Fitur:
+
+● "ChromeXt" tambah sokongan UserScript
+&nbsp;&nbsp;dan DevAlatan ke Sesawang browsers:
+&nbsp;&nbsp;● berdasarkan Chromium
+&nbsp;&nbsp;● Berdasarkan WebView
+
+Latar belakang:
+
+● "ChromeXt" ialah sebuah modul yang
+&nbsp;&nbsp;digunakan pada peranti yang dibingkai
+&nbsp;&nbsp;dengan rangka kerja "Xuse".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" adalah alat untuk tampal
+&nbsp;&nbsp;fail APK individu dan modul terbenam
+&nbsp;&nbsp;"Xls".
+&nbsp;&nbsp;Ini membolehkan mereka digunakan tanpa
+&nbsp;&nbsp;memerlukan root.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Pelayar Sesawang Fulguris" adalah
+&nbsp;&nbsp;berdasarkan WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Penggunaan:
+
+● untuk memasang UserScript:
+&nbsp;&nbsp;● buka URL dalam tab pelayar
+&nbsp;&nbsp;● Putar halaman ke bawah untuk
+&nbsp;&nbsp;&nbsp;&nbsp;dimuatkan semula,
+&nbsp;&nbsp;&nbsp;&nbsp;Jika halaman bermula dengan paparan:
+&nbsp;&nbsp;&nbsp;&nbsp;"Editor Kod telah disekat"
+&nbsp;&nbsp;● klik "sahkan" untuk dipasang
+
+● untuk membuang UserScript:
+&nbsp;&nbsp;● buka URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● klik ikon "trash" di sisi namanya

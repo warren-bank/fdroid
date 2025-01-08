@@ -1,0 +1,1 @@
+Tes 'HttpsURLConnection' untuk mendiagnosa kesalahan koneksi SSL/TLS.

@@ -1,0 +1,27 @@
+릴리스 플래버스:
+
+● InternalConscryptSecurityProvider의 내부
+&nbsp;&nbsp;● Conscrypt는 내부 라이브러리로 번들된다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● 각 ABI에 대해 별도의 APK를 릴리스한다.
+
+● SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● 공유 애플리케이션에서 Conscrypt를 로드한다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● 다음 중 하나를 수행할 때 기본 원시 보안 제공자를 사용하려면
+&nbsp;&nbsp;&nbsp;&nbsp;다음을 수행하십시오.
+&nbsp;&nbsp;&nbsp;&nbsp;● 이 앱은 사용할 수 없습니다.
+&nbsp;&nbsp;&nbsp;&nbsp;● 이 앱은 신뢰할 수 있는 소스에 의해 서명되지 않습니다.
+
+개요:
+
+● 기본 원시 보안 제공자는 Android에 번들로 제공됩니다.
+&nbsp;&nbsp;● 이전 버전의 Android 에서는 구식이다.
+&nbsp;&nbsp;● 예:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x는 TLS 1.2를 지원하지 않는다.
+&nbsp;&nbsp;&nbsp;&nbsp;● "Let's Encrypt" 루트 인증서에 의해 TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2가 필요하다.
+
+● Conscrypt는 라이브러리이다.
+&nbsp;&nbsp;● 많은 현대 암호 제품을 구현합니다.
+&nbsp;&nbsp;● 자바 보안 모델을 선호하는 제공자로 직접 연결합니다.

@@ -1,0 +1,40 @@
+خصوصیات:
+
+● "ChromeXt" UserScript اور Devٹولز ویب
+&nbsp;&nbsp;براؤزرز کی حمایت میں اضافہ کر دیتی ہے:
+&nbsp;&nbsp;● کرومیم پر آدھارت
+&nbsp;&nbsp;● ویبلنک پر آدھارت
+
+پس منظر:
+
+● "ChromeXt" "Xposed" فریم ورک کے ساتھ
+&nbsp;&nbsp;جڑیں آلات پر استعمال کرنے کے لئے ایک
+&nbsp;&nbsp;ماڈیول ہے.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" ایک آلہ ہے پیچ انفرادی APK
+&nbsp;&nbsp;فائلوں اور embed "Xposed" ماڈیولز.
+&nbsp;&nbsp;یہ انہیں جڑ سے اکھاڑنے کے لئے انومتی
+&nbsp;&nbsp;دیتا ہے.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris ویب براؤزر" ویب سائٹ پر مبنی
+&nbsp;&nbsp;ہے.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+بابا:
+
+● ایک UserScript انسٹال کرنے کے لئے:
+&nbsp;&nbsp;● ایک براؤزر ٹیب میں اس کے یو آر ایل
+&nbsp;&nbsp;&nbsp;&nbsp;کھولیں
+&nbsp;&nbsp;● تیزی سے ڈاؤن لوڈ کرنے کے لئے نیچے
+&nbsp;&nbsp;&nbsp;&nbsp;صفحہ
+&nbsp;&nbsp;&nbsp;&nbsp;اگر صفحے کو ابتدائی طور پر ظاہر کیا
+&nbsp;&nbsp;&nbsp;&nbsp;جائے تو "کوڈ ایڈیٹر" بلاک ہے.
+&nbsp;&nbsp;● انسٹال کرنے کے لئے "تصدیق"
+
+● ایک UserScript ہٹانے کے لئے:
+&nbsp;&nbsp;● یو آر ایل کھول دیں:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● اپنے نام کے سوا "ردی کی ٹوکری" آئکن
+&nbsp;&nbsp;&nbsp;&nbsp;کلک کریں

@@ -1,0 +1,38 @@
+Arômes d'édition:
+
+● withInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt est intégré en tant que
+&nbsp;&nbsp;&nbsp;&nbsp;bibliothèque interne
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● libère un APK distinct pour chaque
+&nbsp;&nbsp;&nbsp;&nbsp;ABI
+
+● withSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt est chargé à partir d'une
+&nbsp;&nbsp;&nbsp;&nbsp;application partagée
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● revient à utiliser le fournisseur de
+&nbsp;&nbsp;&nbsp;&nbsp;sécurité natif par défaut lorsque:
+&nbsp;&nbsp;&nbsp;&nbsp;● cette application n'est pas
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;disponible
+&nbsp;&nbsp;&nbsp;&nbsp;● cette application n'est pas signée
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;par une source fiable
+
+Présentation:
+
+● le fournisseur de sécurité natif par
+&nbsp;&nbsp;défaut est intégré à Android
+&nbsp;&nbsp;● est obsolète dans les anciennes
+&nbsp;&nbsp;&nbsp;&nbsp;versions d'Android
+&nbsp;&nbsp;● par exemple:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x ne prend pas en charge
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 est requis par le
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;certificat racine "Let's Encrypt"
+
+● Conscrypt est une bibliothèque
+&nbsp;&nbsp;● met en oeuvre de nombreuses suites
+&nbsp;&nbsp;&nbsp;&nbsp;de chiffrement moderne
+&nbsp;&nbsp;● se branche directement dans le
+&nbsp;&nbsp;&nbsp;&nbsp;modèle de sécurité Java comme
+&nbsp;&nbsp;&nbsp;&nbsp;fournisseur préféré

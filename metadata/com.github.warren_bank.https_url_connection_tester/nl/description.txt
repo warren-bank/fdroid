@@ -1,0 +1,36 @@
+Release-smaken:
+
+● met InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt wordt gebundeld als een
+&nbsp;&nbsp;&nbsp;&nbsp;interne bibliotheek
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● voor elke ABI een afzonderlijke APK
+
+● metSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt wordt geladen vanuit een
+&nbsp;&nbsp;&nbsp;&nbsp;gemeenschappelijke app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● is terug om de standaard native
+&nbsp;&nbsp;&nbsp;&nbsp;Security Provider te gebruiken als:
+&nbsp;&nbsp;&nbsp;&nbsp;● deze app is niet beschikbaar
+&nbsp;&nbsp;&nbsp;&nbsp;● deze app is niet ondertekend door
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;een vertrouwde bron
+
+Overzicht:
+
+● de standaard native Security Provider
+&nbsp;&nbsp;is gebundeld in Android
+&nbsp;&nbsp;● is verouderd in oude versies van
+&nbsp;&nbsp;&nbsp;&nbsp;Android
+&nbsp;&nbsp;● bijvoorbeeld:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x ondersteunt geen TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 is vereist door het "Let's
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encrypt" root certificaat
+
+● Conscrypt is een bibliotheek
+&nbsp;&nbsp;● implementeert veel moderne
+&nbsp;&nbsp;&nbsp;&nbsp;versleutelingsprogramma's
+&nbsp;&nbsp;● direct in het Java-beveiligingsmodel
+&nbsp;&nbsp;&nbsp;&nbsp;worden aangesloten als de
+&nbsp;&nbsp;&nbsp;&nbsp;voorkeursprovider

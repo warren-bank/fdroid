@@ -1,0 +1,35 @@
+නිදහස් කරන්න Flavors:
+
+● WithInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt යනු අභ්යන්තර පුස්තකාලයක්
+&nbsp;&nbsp;&nbsp;&nbsp;ලෙස බන්ධනය වේ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● එක් අයෙකුට වෙනම APK එකක් නිකුත්
+&nbsp;&nbsp;&nbsp;&nbsp;කරනවා.
+
+● SharedExternalconscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt is loaded from a shared
+&nbsp;&nbsp;&nbsp;&nbsp;app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● එක්කෝ පෙරනිමි ස්වදේශික ආරක්ෂක
+&nbsp;&nbsp;&nbsp;&nbsp;සපයන්නා පාවිච්චි කරන්න වැටෙනවා:
+&nbsp;&nbsp;&nbsp;&nbsp;● මෙම යෙදුම නොපවතී.
+&nbsp;&nbsp;&nbsp;&nbsp;● මෙම යෙදුම විශ්වාසවන්ත මූලාශ්රයකින්
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;අත්සන් නොකෙරේ
+
+सिंहावलोकन:
+
+● පෙරනිමි දේශන ආරක්ෂක සපයන්නා
+&nbsp;&nbsp;ඇන්ඩ්රොයිඩ් වල බන්ධන
+&nbsp;&nbsp;● ඇන්ඩ්රොයිඩ් වල පරණ සංස්කරණවල
+&nbsp;&nbsp;&nbsp;&nbsp;පිටුවහලක් වෙනවා
+&nbsp;&nbsp;● උදාහරණයක් ලෙස:
+&nbsp;&nbsp;&nbsp;&nbsp;● ඇන්ඩ්රොයිඩ් 4.x ට සහය නොදක්වන TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 අවශ්ය වන්නේ "Let's
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encrypt" root සහතිකය
+
+● Conscrypt යනු පුස්තකාලයක්
+&nbsp;&nbsp;● බොහෝ නවීන කේශල සූත් ර
+&nbsp;&nbsp;● ප්ලග් සෘජුවම ජාවා ආරක්ෂණ ආකෘතියට
+&nbsp;&nbsp;&nbsp;&nbsp;අභිප් රදාය ලෙස

@@ -1,0 +1,1 @@
+Testirajte se na SSL/TLS greške u vezi.

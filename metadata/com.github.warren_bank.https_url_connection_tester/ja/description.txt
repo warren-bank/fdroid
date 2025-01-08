@@ -1,0 +1,27 @@
+リリース・フレーバー:
+
+● 相互関係のないセキュリティー・プロバイダー
+&nbsp;&nbsp;● 暗号化解除は内部ライブラリーとしてバンドルされています
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● それぞれの ABI ごとに別個の APK を解放する
+
+● 外部共有暗号化暗号化デフォルト・セキュリティー・プロバイダー
+&nbsp;&nbsp;● Conscrypt が共有アプリケーションからロードされました
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● 以下のいずれかの場合、デフォルトのネイティブ・セキュリティー・プロバイダーが使用される
+&nbsp;&nbsp;&nbsp;&nbsp;● このアプリは使用できません
+&nbsp;&nbsp;&nbsp;&nbsp;● このアプリは信頼できるソースによって署名されていない
+
+概要:
+
+● デフォルトのネイティブ・セキュリティー・プロバイダーは Android
+&nbsp;&nbsp;にバンドルされています
+&nbsp;&nbsp;● Android の旧バージョンでは古くなっています
+&nbsp;&nbsp;● 例えば、
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x は TLS 1.2 をサポートしません。
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;は、「暗号化されている」ルート証明書によって要求されます。
+
+● 「暗号化」はライブラリーです
+&nbsp;&nbsp;● 多くの現代の暗号スイートを実装する
+&nbsp;&nbsp;● 優先プロバイダーとして Java セキュリティー・モデルに直接接続

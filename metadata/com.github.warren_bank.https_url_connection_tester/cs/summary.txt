@@ -1,0 +1,1 @@
+Testy 'HttpsURLConnection' slouží k diagnostice chyb připojení SSL/TLS.

@@ -1,0 +1,1 @@
+Przeglądarka internetowa opatentowana przez "LSPatch" do osadzania "ChromeXt" bez wymagania użytkownika root.

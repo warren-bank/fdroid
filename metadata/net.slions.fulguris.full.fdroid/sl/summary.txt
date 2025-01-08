@@ -1,0 +1,1 @@
+Spletni brskalnik, ki ga zakrli "LSPatch", da vdela "ChromeXt", ne da bi zahteval koren.

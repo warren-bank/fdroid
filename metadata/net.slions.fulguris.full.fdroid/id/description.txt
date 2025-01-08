@@ -1,0 +1,41 @@
+Fitur:
+
+● "ChromeXt" menambahkan dukungan
+&nbsp;&nbsp;UserScript dan DevTools pada
+&nbsp;&nbsp;penjelajah web:
+&nbsp;&nbsp;● berdasarkan pada Chromium
+&nbsp;&nbsp;● berdasarkan WebView
+
+Latar Belakang:
+
+● "ChromeXt" adalah modul untuk
+&nbsp;&nbsp;digunakan pada perangkat berakar
+&nbsp;&nbsp;dengan kerangka "Xposed".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" adalah alat untuk menambal
+&nbsp;&nbsp;berkas APK individu dan embed modul
+&nbsp;&nbsp;"Xposed".
+&nbsp;&nbsp;Hal ini memungkinkan mereka untuk
+&nbsp;&nbsp;digunakan tanpa memerlukan root.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" didasarkan pada
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Penggunaan:
+
+● untuk menginstal aplikasi
+&nbsp;&nbsp;● buka URL nya di tab browser
+&nbsp;&nbsp;● geser halaman ke bawah untuk memuat
+&nbsp;&nbsp;&nbsp;&nbsp;ulang,
+&nbsp;&nbsp;&nbsp;&nbsp;jika halaman awalnya menampilkan:
+&nbsp;&nbsp;&nbsp;&nbsp;"Editor Kode diblokir"
+&nbsp;&nbsp;● klik "konfirmasi" untuk memasang
+
+● untuk menghapus
+&nbsp;&nbsp;● Buka URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● klik ikon "sampah" di samping
+&nbsp;&nbsp;&nbsp;&nbsp;namanya

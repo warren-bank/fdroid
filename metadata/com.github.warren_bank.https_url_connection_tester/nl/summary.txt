@@ -1,0 +1,1 @@
+Test 'HttpsURLConnection' om SSL/TLS-verbindingsfouten te diagnosticeren.

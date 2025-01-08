@@ -1,0 +1,25 @@
+釋放特性：
+
+● withInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt 已組合為內部程式庫
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● 釋放每一個 ABI 的個別 APK
+
+● withSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt 已從共用應用程式載入
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● 回復為使用預設原生安全提供者：
+&nbsp;&nbsp;&nbsp;&nbsp;● 此應用程式無法使用
+&nbsp;&nbsp;&nbsp;&nbsp;● 此應用程式未由授信來源簽署
+
+概述：
+
+● 預設原生安全提供者已組合在 Android 中
+&nbsp;&nbsp;● 在 Android 舊版本中已過時
+&nbsp;&nbsp;● 例如：
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x 不支援 TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 是由「讓我們加密」主要憑證所需要的
+
+● Conscrypt 是檔案庫
+&nbsp;&nbsp;● 實作許多現代密碼組合
+&nbsp;&nbsp;● 直接插在 Java 安全模型中作為偏好的提供者

@@ -1,0 +1,38 @@
+Vapauta Flavors:
+
+● InternalConscryptSecurityProvider-toimittaja
+&nbsp;&nbsp;● Conscrypt on yhdistetty
+&nbsp;&nbsp;&nbsp;&nbsp;sisäkirjastoon
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● Vapauttaa erillisen APK :n kunkin
+&nbsp;&nbsp;&nbsp;&nbsp;ABI -
+
+● Sisältää
+&nbsp;&nbsp;SharedExternalConscryptOrdefaultSecuritypalveluntarjoajan
+&nbsp;&nbsp;● Conscrypt on ladattu
+&nbsp;&nbsp;&nbsp;&nbsp;yhteissovelluksesta
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● Palaa takaisin käyttämään
+&nbsp;&nbsp;&nbsp;&nbsp;oletusarvona olevaa
+&nbsp;&nbsp;&nbsp;&nbsp;turvallisuustoimittajaa, kun:
+&nbsp;&nbsp;&nbsp;&nbsp;● Tämä sovellus ei ole käytettävissä
+&nbsp;&nbsp;&nbsp;&nbsp;● Luotettu lähde ei ole
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;allekirjoittanut tätä sovellusta
+
+Yleiskuvaus:
+
+● Paikallinen suojaustoimittaja on
+&nbsp;&nbsp;liitetty Android-laitteistoon
+&nbsp;&nbsp;● On vanhentunut Androidin vanhoissa
+&nbsp;&nbsp;&nbsp;&nbsp;versioissa
+&nbsp;&nbsp;● Esimerkiksi:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x ei tue TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lausetta
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 on pakollinen "Let's
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encrypt" -pääsertifikaatissa
+
+● Conscrypt on kirjasto
+&nbsp;&nbsp;● Toteuttaa monia moderneja
+&nbsp;&nbsp;&nbsp;&nbsp;salakirjoitusta
+&nbsp;&nbsp;● Plugs suoraan Java-suojausmalliin
+&nbsp;&nbsp;&nbsp;&nbsp;ensisijaisena toimittajana

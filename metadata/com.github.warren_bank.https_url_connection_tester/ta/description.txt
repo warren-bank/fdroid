@@ -1,0 +1,36 @@
+வெளியீட்டை வெளியீடு:
+
+● இடைமுகப்பொருட்களை திரும்ப காட்டு
+&nbsp;&nbsp;● Conscrypt is bundled as an internal
+&nbsp;&nbsp;&nbsp;&nbsp;library
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● ஒவ்வொரு ABI க்கு ஒரு தனிப்பட்ட APK ஐ
+&nbsp;&nbsp;&nbsp;&nbsp;வெளியிடுகிறது.
+
+● SharedExternalnalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt is loaded from a shared
+&nbsp;&nbsp;&nbsp;&nbsp;app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● முன்னிருப்பு தானியங்கி பாதுகாப்பு
+&nbsp;&nbsp;&nbsp;&nbsp;வலைத்தளத்தை பயன்படுத்துவதற்கு
+&nbsp;&nbsp;&nbsp;&nbsp;திரும்பவும்:
+&nbsp;&nbsp;&nbsp;&nbsp;● இந்த பயன்பாடு கிடைக்கவில்லை
+&nbsp;&nbsp;&nbsp;&nbsp;● இந்த பயன்பாடு ஒரு நம்பகமான
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;மூலத்தால் கையெழுத்திடப்படவில்லை
+
+மேல் பார்க்கவும்:
+
+● முன்னிருப்பு கொள்கை பாதுகாப்பு
+&nbsp;&nbsp;வழங்குநர் ஆராய்டோவில்
+&nbsp;&nbsp;பிணைக்கப்பட்டுள்ளது.
+&nbsp;&nbsp;● ஆன்ட்ராய்ட் பழைய பதிப்புக்களில்
+&nbsp;&nbsp;&nbsp;&nbsp;வெளிவருகின்றது.
+&nbsp;&nbsp;● உதாரணமாக:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x TLS 1.2 ஆதரவு இல்லை.
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 "லின் மறையாக்க" மூல
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;சான்றிதழ் தேவைப்படுகிறது
+
+● Conscrypt ஒரு நூலகம்
+&nbsp;&nbsp;● பல நவீன சிகிச்சை சுட்டிகள்
+&nbsp;&nbsp;● விருப்பமான வழங்கி என ஜாவா பாதுகாப்பு
+&nbsp;&nbsp;&nbsp;&nbsp;மாதிரியில் நேரடியாக செருகு

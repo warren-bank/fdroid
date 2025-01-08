@@ -1,0 +1,35 @@
+Ispuštanje Okusa:
+
+● InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscript je grupiran kao interna
+&nbsp;&nbsp;&nbsp;&nbsp;biblioteka
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● Otpušta odvojenu APK za svaku ABI
+
+● SSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscript se učitava iz zajedničke
+&nbsp;&nbsp;&nbsp;&nbsp;aplikacije
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● će se vratiti da koristi default
+&nbsp;&nbsp;&nbsp;&nbsp;izvorni sigurnosni dobavljač kada je
+&nbsp;&nbsp;&nbsp;&nbsp;bilo:
+&nbsp;&nbsp;&nbsp;&nbsp;● Ova aplikacija nije dostupna.
+&nbsp;&nbsp;&nbsp;&nbsp;● Ova aplikacija nije potpisana od
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strane povjerljivog izvora.
+
+Pregled:
+
+● Uobičajeni lokalni sigurnosni
+&nbsp;&nbsp;dobavljač je u paketu s Androidom
+&nbsp;&nbsp;● Zastario je u starim verzijama
+&nbsp;&nbsp;&nbsp;&nbsp;Androida.
+&nbsp;&nbsp;● Na primjer:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x ne podržava TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 je potreban za root
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;certifikat "Let's Encrypt"
+
+● Conscrypt je knjižnica
+&nbsp;&nbsp;● Implementira mnoge moderne skupove
+&nbsp;&nbsp;&nbsp;&nbsp;šifri.
+&nbsp;&nbsp;● Uključuje se direktno u model Java
+&nbsp;&nbsp;&nbsp;&nbsp;sigurnosti kao preferirani dobavljač

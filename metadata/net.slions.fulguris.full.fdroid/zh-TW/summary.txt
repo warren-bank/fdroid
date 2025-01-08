@@ -1,0 +1,1 @@
+Web 瀏覽器已透過 "LSPatch " 修補，以內嵌不需要 root的 "ChromeXt" 。

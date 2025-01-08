@@ -1,0 +1,39 @@
+Funktioner:
+
+● "ChromeXt" tilføjer UserScript og
+&nbsp;&nbsp;DevTools-support til webbrowsere:
+&nbsp;&nbsp;● baseret på Chromium
+&nbsp;&nbsp;● baseret på WebView
+
+Baggrund:
+
+● "ChromeXt" er et modul, der skal
+&nbsp;&nbsp;bruges på rodfæstede enheder med den
+&nbsp;&nbsp;"Xposed"-struktur.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" er et værktøj til at lappe
+&nbsp;&nbsp;individuelle APK-filer og indlejret
+&nbsp;&nbsp;"Xposed"-moduler.
+&nbsp;&nbsp;Dette gør det muligt for dem at blive
+&nbsp;&nbsp;brugt uden root-autorisation.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" er baseret på
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Anvendelse:
+
+● for at installere en UserScript:
+&nbsp;&nbsp;● åbn dens URL i en browserfane
+&nbsp;&nbsp;● Svømme siden ned for at genindlæse,
+&nbsp;&nbsp;&nbsp;&nbsp;Hvis siden i første omgang vises:
+&nbsp;&nbsp;&nbsp;&nbsp;"Code editor is blokeret"
+&nbsp;&nbsp;● klik på "bekræft" for at installere
+
+● for at fjerne et UserScript:
+&nbsp;&nbsp;● Åbn URL ' en:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● klik på ikonen "trash" ved siden af
+&nbsp;&nbsp;&nbsp;&nbsp;dens navn

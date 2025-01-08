@@ -1,0 +1,44 @@
+സവിശേഷതകൾ:
+
+● "ChromeXT" UserScript and DevTools
+&nbsp;&nbsp;പിന്തുണയും വെബ് ബ്രൌസറുകളിലേക്ക്
+&nbsp;&nbsp;കൂട്ടുന്നു:
+&nbsp;&nbsp;● ക്രോമിയം അടിസ്ഥാനമാക്കി
+&nbsp;&nbsp;● വെബ് കാഴ്ച അടിസ്ഥാനമാക്കി
+
+പശ്ചാത്തലം:
+
+● "ക്രോമിക്സ്" (ChromeXT) "Xposed"
+&nbsp;&nbsp;ചട്ടക്കൂട് ഉപയോഗിച്ച് റൂട്ടിഡ്
+&nbsp;&nbsp;ഡിവൈസുകളെ ഉപയോഗിക്കാൻ ഒരു മൊഡ്യൂൾ ആണ്.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" എന്നത് വ്യക്തിപരമായ APK
+&nbsp;&nbsp;ഫയലുകളുള്ള ഒരു ഉപകരണമാണ്. "Xposed"
+&nbsp;&nbsp;മൊഡ്യൂളുകളെ എംബെഡ് ചെയ്യുക.
+&nbsp;&nbsp;ഇത് അവയെ റൂട്ട് ഇല്ലാതെ ഉപയോഗിക്കാൻ
+&nbsp;&nbsp;അനുവദിക്കുന്നു.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" WebView-ന്
+&nbsp;&nbsp;ആധിപത്യമാണ്.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+ഉപയോഗം:
+
+● UserScript ഇന്സ്റ്റോള് ചെയ്യാന്:
+&nbsp;&nbsp;● ഒരു ബ്രൌസര് ടാബില് അതിന്റെ URL
+&nbsp;&nbsp;&nbsp;&nbsp;തുറക്കുക
+&nbsp;&nbsp;● വീണ്ടും ലോഡ് ചെയ്യാനായി താള്
+&nbsp;&nbsp;&nbsp;&nbsp;താഴ്ത്തി,
+&nbsp;&nbsp;&nbsp;&nbsp;പേജ് ആദ്യം
+&nbsp;&nbsp;&nbsp;&nbsp;പ്രദര്ശിപ്പിക്കുകയാണെങ്കില്: "കോഡ്
+&nbsp;&nbsp;&nbsp;&nbsp;എഡിറ്റര് ബ്ലോക്ക് ചെയ്യപ്പെടുന്നു"
+&nbsp;&nbsp;● ഇന്സ്റ്റോള് ചെയ്യാന് "സ്ഥിരീകരണം"
+&nbsp;&nbsp;&nbsp;&nbsp;ക്ലിക്ക് ചെയ്യുക
+
+● Userസ്ക്രിപ്റ്റ് നീക്കം ചെയ്യാന്:
+&nbsp;&nbsp;● URL തുറക്കുക:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● "ചവറ്റുകുട്ട" ചിഹ്നം അതിന്റെ പേരില്
+&nbsp;&nbsp;&nbsp;&nbsp;ക്ലിക്ക് ചെയ്യുക

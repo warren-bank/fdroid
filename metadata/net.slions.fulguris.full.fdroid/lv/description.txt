@@ -1,0 +1,42 @@
+Funkcijas:
+
+● "ChromeXt" papildina Lietotājskriptu
+&nbsp;&nbsp;un DevTools atbalstu tīmekļa
+&nbsp;&nbsp;pārlūkprogrammām:
+&nbsp;&nbsp;● pamatojoties uz hroma
+&nbsp;&nbsp;● balstīta uz WebView
+
+Vispārīga informācija
+
+● "ChromeXt" ir modulis, ko izmantot uz
+&nbsp;&nbsp;iesakņotām ierīcēm ar "Xpoint"
+&nbsp;&nbsp;ietvaru.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" ir rīks atsevišķu APK failu
+&nbsp;&nbsp;ielāšanai un iemieso "Xpoed" moduļus.
+&nbsp;&nbsp;Tas ļauj tos izmantot, nepieprasot
+&nbsp;&nbsp;saknes.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" pamatā ir
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Lietošana:
+
+● instalēt Lietotājskriptu:
+&nbsp;&nbsp;● atvērt savu URL pārlūkprogrammas
+&nbsp;&nbsp;&nbsp;&nbsp;cilnē
+&nbsp;&nbsp;● pārvelciet lapu uz leju, lai
+&nbsp;&nbsp;&nbsp;&nbsp;pārlādētu,
+&nbsp;&nbsp;&nbsp;&nbsp;ja lapa sākotnēji parāda: "Kodu
+&nbsp;&nbsp;&nbsp;&nbsp;redaktors ir bloķēts"
+&nbsp;&nbsp;● klikšķiniet "apstiprināt", lai
+&nbsp;&nbsp;&nbsp;&nbsp;instalētu
+
+● lai noņemtu lietotāja skriptu:
+&nbsp;&nbsp;● atver URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● noklikšķiniet uz "trash" ikonas
+&nbsp;&nbsp;&nbsp;&nbsp;blakus tās nosaukumu

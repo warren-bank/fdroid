@@ -1,0 +1,34 @@
+מאפיינים:
+
+● "ChromeXt" מוסיף תמיכה של UserScript
+&nbsp;&nbsp;ו-DevTools לדפדפני אינטרנט:
+&nbsp;&nbsp;● מבוסס על Chromium
+&nbsp;&nbsp;● מבוסס על WebView
+
+רקע:
+
+● "ChromeXt" הוא מודול לשימוש בהתקנים
+&nbsp;&nbsp;מושרשים עם מסגרת "Xposed".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" הוא כלי לתיקון קבצי APK
+&nbsp;&nbsp;נפרדים ולהטביע מודולים "Xמודח".
+&nbsp;&nbsp;כך ניתן להשתמש בהם ללא צורך בשורש.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "הדפדפן של פולונקה" מבוסס על WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+שימוש:
+
+● כדי להתקין קובץ Script:
+&nbsp;&nbsp;● לפתוח את ה-URL שלו בלשונית דפדפן
+&nbsp;&nbsp;● להוריד את הדף כדי לטעון מחדש.
+&nbsp;&nbsp;&nbsp;&nbsp;אם הדף מוצג לראשונה: "עורך הקוד
+&nbsp;&nbsp;&nbsp;&nbsp;חסום"
+&nbsp;&nbsp;● לחצו על "אישור" כדי להתקין
+
+● כדי לסלק קובץ Script:
+&nbsp;&nbsp;● לפתוח את ה-URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● לחצו על האיקון "סל" ליד שמו.

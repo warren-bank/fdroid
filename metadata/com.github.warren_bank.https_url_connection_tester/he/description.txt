@@ -1,0 +1,31 @@
+טעמים לגרסה:
+
+● WithInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt הוא ארוז כספריה פנימית
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● משחרר APK נפרד עבור כל ABI
+
+● WithSharedExternalConההצפנה
+&nbsp;&nbsp;OrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt נטען מיישום משותף
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● חוזר כדי להשתמש בספק ברירת המחדל של
+&nbsp;&nbsp;&nbsp;&nbsp;ספק האבטחה כאשר:
+&nbsp;&nbsp;&nbsp;&nbsp;● יישום זה אינו זמין.
+&nbsp;&nbsp;&nbsp;&nbsp;● יישום זה אינו חתום ע " י מקור
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מהימן
+
+סקירה כללית:
+
+● ספק האבטחה הטבעי המוגדר כברירת מחדל
+&nbsp;&nbsp;הוא מאוגד Android
+&nbsp;&nbsp;● מיושן בגרסאות ישנות של Android
+&nbsp;&nbsp;● לדוגמה:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x אינו תומך TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 דרוש על ידי אישור היסוד של
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"בואו להצפין"
+
+● Conscrypt היא ספריה
+&nbsp;&nbsp;● מיישם סוויטות צופן מודרניות רבות
+&nbsp;&nbsp;● אטמי ישירות לתוך מודל האבטחה של Java
+&nbsp;&nbsp;&nbsp;&nbsp;בתור ספק מועדף

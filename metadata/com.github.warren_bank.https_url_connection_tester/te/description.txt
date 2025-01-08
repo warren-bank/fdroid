@@ -1,0 +1,36 @@
+విడుదల Flavors:
+
+● ఎన్ ఇంటర్నటిల్ కాన్స్క్విప్ట్
+&nbsp;&nbsp;సెక్యూరిటీ ప్రొవైడర్
+&nbsp;&nbsp;● Conscrypt is bundled as an internal
+&nbsp;&nbsp;&nbsp;&nbsp;library
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● ప్రతి ABI కొరకు ఒక ప్రత్యేక APK ను
+&nbsp;&nbsp;&nbsp;&nbsp;విడుదల చేస్తుంది.
+
+● SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● కాన్స్ప్లోట్ ఒక పంపిణీ యాప్ నుండి
+&nbsp;&nbsp;&nbsp;&nbsp;లోడ్ చేయబడినది
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● స్వదేశీ సెక్యూరిటీ ప్రొవైడర్ ను
+&nbsp;&nbsp;&nbsp;&nbsp;ఉపయోగించుటకు తిరిగి వస్తుంది:
+&nbsp;&nbsp;&nbsp;&nbsp;● ఈ అప్డేట్ అందుబాటలో లేదు
+&nbsp;&nbsp;&nbsp;&nbsp;● ఈ ఆప్ను ఒక విశ్వసనీయ మూలం ద్వారా
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;సంతకం చేయబడలేదు.
+
+ఓవర్ వీక్షణం:
+
+● అన్వేర్డ్ లో ప్రతీ దేశమైన భద్రతా
+&nbsp;&nbsp;ప్రొవైడర్ బృందం.
+&nbsp;&nbsp;● ఆండ్రాయిడ్ యొక్క పాత వెర్షన్లలో ఔట్.
+&nbsp;&nbsp;● ఉదాహరణకు:
+&nbsp;&nbsp;&nbsp;&nbsp;● ఆండ్రాయిడ్ 4.x TLS 1.2 మద్దతును
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;లేదు.
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 "లెట్ ఎన్క్రిప్ట్" రూట్
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;సర్టిఫికేట్ ద్వారా అవసరమవుతుంది.
+
+● Conscrypt is a library
+&nbsp;&nbsp;● అనేక ఆధునిక సిఫర్ సూట్లను అమలు
+&nbsp;&nbsp;&nbsp;&nbsp;చేస్తోంది.
+&nbsp;&nbsp;● ప్లగ్స్ నేరుగా జావా సెక్యూరిటీ
+&nbsp;&nbsp;&nbsp;&nbsp;మోడల్లోకి ప్రముఖమైన ప్రొవైడర్ గా

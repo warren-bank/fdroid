@@ -18,6 +18,16 @@ if exist "%log_filepath%" del "%log_filepath%"
 
 if not exist "%repo_dir%" mkdir "%repo_dir%"
 
+rem :: https://github.com/warren-bank/Android-WebViewClientObserver/releases
+call :do_download "https://github.com/warren-bank/Android-WebViewClientObserver/releases/download/v2.0.0/WebViewClientObserver-002.00.00-03API-release.apk"
+
+rem :: https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases
+call :do_download "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-01API-withSharedExternalConscryptOrDefaultSecurityProvider-release.apk"
+call :do_download "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-arm64-v8a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-armeabi-v7a-release.apk"
+call :do_download "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-x86-release.apk"
+call :do_download "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-x86_64-release.apk"
+
 rem :: https://github.com/warren-bank/Android-RTSP-ScreenCaster/releases
 call :do_download "https://github.com/warren-bank/Android-RTSP-ScreenCaster/releases/download/v01.01.05/RTSP-ScreenCaster-release.apk"
 
@@ -62,6 +72,9 @@ call :do_download "https://github.com/warren-bank/Android-FlexboxLayout-demos/re
 
 rem :: https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/releases
 call :do_download "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/releases/download/v4.2.10/VideoExpertsGroup-RTSPPlayer-release.apk"
+
+rem :: https://github.com/warren-bank/Android-browsers-LSPatch-ChromeXt/releases
+call :do_download "https://github.com/warren-bank/Android-browsers-LSPatch-ChromeXt/releases/download/fulguris_1.9.30/net.slions.fulguris.full.fdroid_230-426-lspatched.apk"
 
 goto :done
 

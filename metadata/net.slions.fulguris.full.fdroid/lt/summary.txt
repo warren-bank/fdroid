@@ -1,0 +1,1 @@
+Žiniatinklio naršyklė užklijavo "LSPatch", kad apimtų "ChromeXt", nereikalaujant šaknų.

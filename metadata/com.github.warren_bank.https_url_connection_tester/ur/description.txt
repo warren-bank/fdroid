@@ -1,0 +1,34 @@
+رہائی Flavors:
+
+● WithInternalConscryptSecurityبشرطیکہ
+&nbsp;&nbsp;● ایک اندرونی لائبریری کے طور پر کیا
+&nbsp;&nbsp;&nbsp;&nbsp;جاتا ہے Conscrypt
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● ہر ABI کے لئے ایک علیحدہ APK ریلیز
+
+● WithSharedExternalConscryptorDefaultSecurityبشرطیکہ
+&nbsp;&nbsp;● ایک مشترکہ ایپ سے Conscrypt بھری
+&nbsp;&nbsp;&nbsp;&nbsp;ہوئی ہے
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● جب یا تو پہلے سے طے شدہ اسے سیکورٹی
+&nbsp;&nbsp;&nbsp;&nbsp;فراہم کرنے کے لئے واپس آتا ہے:
+&nbsp;&nbsp;&nbsp;&nbsp;● یہ ایپ دستیاب نہیں ہے
+&nbsp;&nbsp;&nbsp;&nbsp;● اس ایپ پر ایک وشوسنیہ ثروت ہے.
+
+Overview:
+
+● پہلے سے طے شدہ اسے سیکورٹی فراہم
+&nbsp;&nbsp;کنندہ, اتارنا Android میں بنڈل آ رہا
+&nbsp;&nbsp;ہے
+&nbsp;&nbsp;● لوڈ, اتارنا Android کے پرانے ورژن
+&nbsp;&nbsp;&nbsp;&nbsp;میں پرانا ہے
+&nbsp;&nbsp;● مثلا:
+&nbsp;&nbsp;&nbsp;&nbsp;● اینڈرائیڈ 4.x TLS 1.2 کی سپورٹ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;نہیں کرتا
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 کو "چلو Encrypt" جڑ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;سرٹیفکیٹ کی ضرورت ہوتی ہے
+
+● Conscrypt ایک لائبریری ہے
+&nbsp;&nbsp;● متعدد جدید ترین صفر سوئٹ
+&nbsp;&nbsp;● جاوا سیکورٹی ماڈل میں براہ راست پلگ
+&nbsp;&nbsp;&nbsp;&nbsp;ان ترجیحی فراہم کنندہ

@@ -1,0 +1,1 @@
+A 'HttpsURLConnection' teszt SSL/TLS kapcsolati hibák diagnosztizálása.

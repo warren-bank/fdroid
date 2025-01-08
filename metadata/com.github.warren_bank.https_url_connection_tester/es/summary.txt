@@ -1,0 +1,1 @@
+Prueba 'HttpURLConnection' para diagnosticar errores de conexión SSL/TLS.

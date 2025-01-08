@@ -1,0 +1,1 @@
+يتم اختبار 'HttpsURLConnection' لتشخيص أخطاء وصلة SSL/TLS.

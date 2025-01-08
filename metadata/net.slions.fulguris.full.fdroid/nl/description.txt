@@ -1,0 +1,43 @@
+Functies:
+
+● "ChromeXt" voegt UserScript en
+&nbsp;&nbsp;DevTools ondersteuning aan
+&nbsp;&nbsp;webbrowsers:
+&nbsp;&nbsp;● op basis van chroom
+&nbsp;&nbsp;● gebaseerd op WebView
+
+Achtergrond:
+
+● "ChromeXt" is een module voor gebruik
+&nbsp;&nbsp;op basis van apparaten met het
+&nbsp;&nbsp;"Xposed" framework.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" is een hulpmiddel om
+&nbsp;&nbsp;individuele APK-bestanden patch en
+&nbsp;&nbsp;embed "Xposed" modules.
+&nbsp;&nbsp;Hierdoor kunnen ze worden gebruikt
+&nbsp;&nbsp;zonder dat root nodig is.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" is gebaseerd op
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Syntaxis:
+
+● om een UserScript te installeren:
+&nbsp;&nbsp;● De URL openen in een browsertabblad
+&nbsp;&nbsp;● Veeg de pagina omlaag om opnieuw te
+&nbsp;&nbsp;&nbsp;&nbsp;laden,
+&nbsp;&nbsp;&nbsp;&nbsp;als de pagina in eerste keer wordt
+&nbsp;&nbsp;&nbsp;&nbsp;weergegeven: "Code editor is
+&nbsp;&nbsp;&nbsp;&nbsp;geblokkeerd"
+&nbsp;&nbsp;● klik op "bevestigen" om te
+&nbsp;&nbsp;&nbsp;&nbsp;installeren
+
+● om een UserScript te verwijderen:
+&nbsp;&nbsp;● Open de URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● klik op het "prullenbakpictogram"
+&nbsp;&nbsp;&nbsp;&nbsp;naast de naam

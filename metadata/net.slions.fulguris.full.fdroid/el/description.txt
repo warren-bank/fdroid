@@ -1,0 +1,45 @@
+Χαρακτηριστικά:
+
+● Το "ChromeXt" προσθέτει υποστήριξη
+&nbsp;&nbsp;UserScript και DevTools σε προγράμματα
+&nbsp;&nbsp;πλοήγησης:
+&nbsp;&nbsp;● βάσει του Chromium
+&nbsp;&nbsp;● βάσει του WebView
+
+Ιστορικό:
+
+● Το "ChromeXt" είναι μια ενότητα που
+&nbsp;&nbsp;χρησιμοποιείται σε ριζωμένες συσκευές
+&nbsp;&nbsp;με το πλαίσιο "Xposed".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" είναι ένα εργαλείο για να
+&nbsp;&nbsp;επιδιορθώσει μεμονωμένα αρχεία APK και
+&nbsp;&nbsp;ενσωματωμένες "Xposed" ενότητες.
+&nbsp;&nbsp;Αυτό τους επιτρέπει να
+&nbsp;&nbsp;χρησιμοποιούνται χωρίς να απαιτείται
+&nbsp;&nbsp;ρίζα.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● Το "Fulguris Web Browser" βασίζεται
+&nbsp;&nbsp;στο WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Χρήση:
+
+● για να εγκαταστήσετε ένα UserScript:
+&nbsp;&nbsp;● Άνοιγμα της διεύθυνσης URL σε
+&nbsp;&nbsp;&nbsp;&nbsp;καρτέλα του προγράμματος πλοήγησης
+&nbsp;&nbsp;● σαρώστε τη σελίδα για να
+&nbsp;&nbsp;&nbsp;&nbsp;επαναφορτώσετε,
+&nbsp;&nbsp;&nbsp;&nbsp;αν η σελίδα εμφανίζεται αρχικά:
+&nbsp;&nbsp;&nbsp;&nbsp;"Έχει αποκλειστεί η λειτουργία
+&nbsp;&nbsp;&nbsp;&nbsp;επεξεργασίας κώδικα"
+&nbsp;&nbsp;● πατήστε "επιβεβαίωση" για
+&nbsp;&nbsp;&nbsp;&nbsp;εγκατάσταση
+
+● για αφαίρεση ενός UserScript:
+&nbsp;&nbsp;● Ανοίξτε το URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● πατήστε στο εικονίδιο "Κάδος
+&nbsp;&nbsp;&nbsp;&nbsp;ανακύκλωσης" δίπλα στο όνομά του

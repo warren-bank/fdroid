@@ -1,0 +1,1 @@
+Web pretražitelj koji je zakrpao "LSPatch" za umetanje "ChromeXt" bez potrebe za root.

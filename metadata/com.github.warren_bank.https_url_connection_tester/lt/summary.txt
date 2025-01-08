@@ -1,0 +1,1 @@
+Bandymai "" HtthttsURLConnection " diagnozuoti SSL/TLS sujungimo klaidas.

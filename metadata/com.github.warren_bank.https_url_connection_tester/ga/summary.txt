@@ -1,0 +1,1 @@
+Tástálacha 'httpsURLLS' chun earráidí nasc SSL/TLS a dhianú.

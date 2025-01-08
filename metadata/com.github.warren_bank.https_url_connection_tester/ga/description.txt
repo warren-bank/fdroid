@@ -1,0 +1,40 @@
+Scaoileadh Flavors:
+
+● Cumraíocht san Earnáil
+&nbsp;&nbsp;isteach-InternalConleptName
+&nbsp;&nbsp;● Tá Comhrá Comhrá le leabharlann mar
+&nbsp;&nbsp;&nbsp;&nbsp;leabharlann inmheánach
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● rescaill APK ar leith do gach ABI ar
+&nbsp;&nbsp;&nbsp;&nbsp;leith
+
+● Coinníonn sé an t-aon cheann de na
+&nbsp;&nbsp;hAiltireName
+&nbsp;&nbsp;● Tá comhrá á luchtú ó app roinnte
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● Tá sé ar ais chun úsáid a bhaint as
+&nbsp;&nbsp;&nbsp;&nbsp;an Soláthar Slándála réamhshocraithe
+&nbsp;&nbsp;&nbsp;&nbsp;dúchasach nuair:
+&nbsp;&nbsp;&nbsp;&nbsp;● Níl an app ar fáil
+&nbsp;&nbsp;&nbsp;&nbsp;● Níl an app sínithe ag foinse
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iontaofa
+
+Forbhreathnú:
+
+● Tá an Soláthraithe Slándála Dúchasacha
+&nbsp;&nbsp;bundled i Android
+&nbsp;&nbsp;● Tá leagtha amach i roinnt leaganacha
+&nbsp;&nbsp;&nbsp;&nbsp;de Android
+&nbsp;&nbsp;● mar shampla:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x nach bhfuil tacaíocht
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● Filleann TLS 1.2 Is gá ag an ""
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let Criptigh " deimhniú
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forúsáideora
+
+● Is leabharlann an tleabharlann
+&nbsp;&nbsp;● Cur síos go leor suitín
+&nbsp;&nbsp;&nbsp;&nbsp;nua-aimseartha
+&nbsp;&nbsp;● plugs go díreach isteach sa Samhail
+&nbsp;&nbsp;&nbsp;&nbsp;Slándála Java mar an Soláthraithe
+&nbsp;&nbsp;&nbsp;&nbsp;réamhiarchurtha

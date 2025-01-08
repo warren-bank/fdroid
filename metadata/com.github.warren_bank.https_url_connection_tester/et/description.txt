@@ -1,0 +1,34 @@
+Vabasta maitsed:
+
+● With InternalconscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt on komplekteeritud
+&nbsp;&nbsp;&nbsp;&nbsp;siseraamatukogu
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● eraldab eraldi APK iga ABI kohta
+
+● Koos
+&nbsp;&nbsp;SharedExternalConscryptOrdefaultSecurityProvider
+&nbsp;&nbsp;● Conskrypt on laaditud jagatud
+&nbsp;&nbsp;&nbsp;&nbsp;rakendusest
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● on tagasi, et kasutada vaikimisi
+&nbsp;&nbsp;&nbsp;&nbsp;kohaliku turvalisuse pakkuja kui
+&nbsp;&nbsp;&nbsp;&nbsp;kas:
+&nbsp;&nbsp;&nbsp;&nbsp;● Rakendus ei ole saadaval
+&nbsp;&nbsp;&nbsp;&nbsp;● See rakendus ei ole signeerimata
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usaldusallikaga
+
+Ülevaade:
+
+● vaikimisi emalik Security Provider on
+&nbsp;&nbsp;komplekteeritud Android
+&nbsp;&nbsp;● on aegunud vana versiooni Android
+&nbsp;&nbsp;● näiteks:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x ei toeta TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 on nõutav "Let's Encrypt"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;juursertifikaat
+
+● Conskrypt on raamatukogu
+&nbsp;&nbsp;● rakendab palju kaasaegse šifr sviiti
+&nbsp;&nbsp;● Pistikud otse Java Turvamudeli
+&nbsp;&nbsp;&nbsp;&nbsp;eelistatud Provider

@@ -1,0 +1,1 @@
+Web-Browser durch "LSPatch" gepatcht, um "ChromeXt" einzubetten, ohne root zu benötigen.

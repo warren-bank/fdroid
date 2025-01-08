@@ -1,0 +1,41 @@
+Funktioner:
+
+● "ChromeXt" lägger till UserScript-och
+&nbsp;&nbsp;DevTools-funktioner för webbläsare:
+&nbsp;&nbsp;● baserat på Chromium
+&nbsp;&nbsp;● baserad på webbvy
+
+Bakgrund:
+
+● "ChromeXt" är en modul som ska
+&nbsp;&nbsp;användas på rotade enheter med
+&nbsp;&nbsp;"Xponerad"-ramverket.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" är ett verktyg för att
+&nbsp;&nbsp;koppla enskilda APK-filer och bädda in
+&nbsp;&nbsp;"Xposerade" moduler.
+&nbsp;&nbsp;Detta gör att de kan användas utan att
+&nbsp;&nbsp;kräva root.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Webbläsare" är baserad på
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Användning:
+
+● för att installera ett UserScript:
+&nbsp;&nbsp;● öppna URL-adressen i en
+&nbsp;&nbsp;&nbsp;&nbsp;webbläsarflik
+&nbsp;&nbsp;● svepa ned sidan för att ladda om,
+&nbsp;&nbsp;&nbsp;&nbsp;om sidan initialt visas:
+&nbsp;&nbsp;&nbsp;&nbsp;"Kodredigerare är blockerad"
+&nbsp;&nbsp;● Klicka på "Bekräfta" om du vill
+&nbsp;&nbsp;&nbsp;&nbsp;installera
+
+● för att ta bort ett UserScript:
+&nbsp;&nbsp;● Öppna webbadressen:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● klicka på "papperskorgen" bredvid
+&nbsp;&nbsp;&nbsp;&nbsp;namnet

@@ -1,0 +1,1 @@
+వెబ్ బ్రౌజర్ను "LSPatch" by embed to embed "ChromeXt" by requiring root.

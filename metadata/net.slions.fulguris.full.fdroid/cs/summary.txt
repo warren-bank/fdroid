@@ -1,0 +1,1 @@
+Webový prohlížeč byl opraven pomocí "LSPatch" pro vložení "ChromeXt" bez nutnosti root.

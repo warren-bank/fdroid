@@ -1,0 +1,42 @@
+Funkcie:
+
+● "ChromeXt" pridáva podporu UserScript
+&nbsp;&nbsp;a DevTools na webové prehliadače:
+&nbsp;&nbsp;● založené na Chromite
+&nbsp;&nbsp;● založené na WebView
+
+Pozadie:
+
+● "ChromeXt" je modul, ktorý sa používa
+&nbsp;&nbsp;na základe zakorenených zariadení s
+&nbsp;&nbsp;rámcom "Xposed".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" (LSPatch) je nástroj na
+&nbsp;&nbsp;opravu jednotlivých súborov APK a
+&nbsp;&nbsp;vložených modulov "Xposed".
+&nbsp;&nbsp;To im umožňuje používať sa bez
+&nbsp;&nbsp;vyžadovania koreňa.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" je založený na
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Použitie:
+
+● na inštaláciu UserScript:
+&nbsp;&nbsp;● otvoriť svoju adresu URL na karte
+&nbsp;&nbsp;&nbsp;&nbsp;prehliadača
+&nbsp;&nbsp;● potiahnutím prstom smerom nadol, aby
+&nbsp;&nbsp;&nbsp;&nbsp;ste ju mohli znova načítať,
+&nbsp;&nbsp;&nbsp;&nbsp;ak sa na začiatku stránka zobrazí:
+&nbsp;&nbsp;&nbsp;&nbsp;"Editor kódu je zablokovaný"
+&nbsp;&nbsp;● kliknite na "potvrdiť", ak chcete
+&nbsp;&nbsp;&nbsp;&nbsp;inštalovať
+
+● na odstránenie UserScript:
+&nbsp;&nbsp;● otvoriť URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● kliknite na ikonu "koša" vedľa jeho
+&nbsp;&nbsp;&nbsp;&nbsp;názvu

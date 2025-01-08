@@ -1,0 +1,1 @@
+Atkļūdošanas informācija lapai, kas ielādēta "WebView", tiek parādīta kā HTML pievienotais DOM elements.

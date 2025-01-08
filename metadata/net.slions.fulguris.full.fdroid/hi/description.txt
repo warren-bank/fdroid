@@ -1,0 +1,42 @@
+विशेषताएं:
+
+● "Chromxt", वेब ब्राउज़रों के लिए
+&nbsp;&nbsp;यूज़स्क्रिप्ट और डेवटूल्स का समर्थन
+&nbsp;&nbsp;करता है:
+&nbsp;&nbsp;● क्रोमियम पर आधारित
+&nbsp;&nbsp;● वेबव्यू पर आधारित
+
+पृष्ठभूमि:
+
+● "ChromeXt" एक ऐसा मॉड्यूल है जो निहित
+&nbsp;&nbsp;उपकरणों पर "प्रस्तुत" ढांचे के साथ
+&nbsp;&nbsp;प्रयोग किया जाता है.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSपैच" व्यक्तिगत APK फ़ाइलों को पैच
+&nbsp;&nbsp;करने के लिए एक उपकरण है और "Xaded"
+&nbsp;&nbsp;मॉड्यूल एम्बेड किया जाता है.
+&nbsp;&nbsp;यह उन्हें रूट की आवश्यकता के बिना
+&nbsp;&nbsp;इस्तेमाल किया जा सकता है.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "फुलगुरहै वेब ब्राउज़र" वेबव्यू पर
+&nbsp;&nbsp;आधारित है.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+उपयोगः
+
+● एक उपयोक्ता को स्थापित करने के लिए:
+&nbsp;&nbsp;● अपने यूआरएल को ब्राउज़र टैब में
+&nbsp;&nbsp;&nbsp;&nbsp;खोलें
+&nbsp;&nbsp;● पृष्ठ को पुनः लोड करने के लिए नीचे
+&nbsp;&nbsp;&nbsp;&nbsp;स्वाप करें
+&nbsp;&nbsp;&nbsp;&nbsp;यदि पृष्ठ प्रारंभ में प्रदर्शित करता
+&nbsp;&nbsp;&nbsp;&nbsp;है: "कोड संपादक अवरुद्ध है"
+&nbsp;&nbsp;● संस्थापित करने के लिए "पुष्टि करें"
+
+● एक उपयोक्ता को हटाने के लिए:
+&nbsp;&nbsp;● यूआरएल खोलें:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● "रद्दी" आइकन को अपने नाम के बगल में
+&nbsp;&nbsp;&nbsp;&nbsp;क्लिक करें

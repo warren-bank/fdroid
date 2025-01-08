@@ -1,0 +1,31 @@
+รีลีสรสTag:
+
+● ที่มี Internal Conscrypt Security
+&nbsp;&nbsp;Provider
+&nbsp;&nbsp;● Conscrypt ถูกบันเดิลเป็นไลบรารีภายใน
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● ปล่อย APK แยกสำหรับแต่ละ ABI
+
+● ที่มี Shared External Conscrypt Or
+&nbsp;&nbsp;Default Security Provider
+&nbsp;&nbsp;● Conscrypt ถูกโหลดจากแอ็พที่แบ่งใช้
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● Falls back เพื่อใช้ default Security
+&nbsp;&nbsp;&nbsp;&nbsp;Provider ดีฟอลต์เมื่อ:
+&nbsp;&nbsp;&nbsp;&nbsp;● แอ็พนี้ไม่พร้อมใช้งาน
+&nbsp;&nbsp;&nbsp;&nbsp;● แอ็พนี้ไม่ได้ลงนามโดยแหล่งที่มาที่เชื่อถือได้
+
+ภาพรวม:
+
+● Security Provider
+&nbsp;&nbsp;ดีฟอลต์พื้นฐานถูกบันเดิลใน Android
+&nbsp;&nbsp;● ล้าสมัยแล้วในเวอร์ชันเก่าของ Android
+&nbsp;&nbsp;● ตัวอย่างเช่น:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4. x ไม่สนับสนุน TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 ต้องการโดยใบรับรองราก
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Let's Encrypt"
+
+● Conscrypt เป็นไลบรารี
+&nbsp;&nbsp;● นำชุดไซต์ไซเฟอร์สมัยใหม่ไปใช้งาน
+&nbsp;&nbsp;● ปลั๊กอินเข้ากับโมเดล Java Security
+&nbsp;&nbsp;&nbsp;&nbsp;เป็น Provider ที่ต้องการโดยตรง

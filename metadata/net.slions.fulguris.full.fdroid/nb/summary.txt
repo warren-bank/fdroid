@@ -1,0 +1,1 @@
+Nettleseren lappet sammen av "LSPatch" for å bygge inn "ChromeXt" uten å kreve rot.

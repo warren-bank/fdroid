@@ -1,0 +1,41 @@
+Savybės:
+
+● "ChromeXt" priduria UserScript ir
+&nbsp;&nbsp;DevTools interneto naršyklių
+&nbsp;&nbsp;palaikymas:
+&nbsp;&nbsp;● pagrįsta chromo
+&nbsp;&nbsp;● paremta WebView
+
+Fono spalva:
+
+● "ChromeXt" yra modulis, skirtas
+&nbsp;&nbsp;naudoti įsišaknintam prietaisu, kurio
+&nbsp;&nbsp;sistema yra "Xind" sistema.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" yra priemonė, skirta
+&nbsp;&nbsp;individualiems APK failams ir įterpti
+&nbsp;&nbsp;"Xinaled" moduliams.
+&nbsp;&nbsp;Tai leidžia juos naudoti
+&nbsp;&nbsp;nereikalaujant šaknų.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "FulGuriis Web naršyklė" yra pagrįsta
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Naudojimas:
+
+● įdiegti UserScript:
+&nbsp;&nbsp;● atverti savo URL naršyklės kortelėje
+&nbsp;&nbsp;● perbraukite puslapį žemyn, kad būtų
+&nbsp;&nbsp;&nbsp;&nbsp;galima perkrauti,
+&nbsp;&nbsp;&nbsp;&nbsp;jei puslapis iš pradžių rodo: "Kodas
+&nbsp;&nbsp;&nbsp;&nbsp;redaktorius yra užblokuotas"
+&nbsp;&nbsp;● spustelėkite "Patvirtinti" įdiegti
+
+● pašalinti UserScript:
+&nbsp;&nbsp;● Atverti URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● spustelėkite "šiukšliadėžę"
+&nbsp;&nbsp;&nbsp;&nbsp;piktogramą šalia jos pavadinimo

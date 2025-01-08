@@ -1,0 +1,1 @@
+Tests 'HttpsURLConnection' to diagnose SSL/TLS connection errors.

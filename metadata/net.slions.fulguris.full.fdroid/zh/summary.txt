@@ -1,0 +1,1 @@
+由 "LSPatch " 修补的 Web 浏览器嵌入 "ChrometXt" 而不需要 root用户。

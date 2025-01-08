@@ -1,0 +1,40 @@
+ગુણધર્મો:
+
+● "ChromeXt" વેબ બ્રાઉઝર્સ માટે
+&nbsp;&nbsp;UserScript અને DevTools આધાર ઉમેરે છે:
+&nbsp;&nbsp;● ક્રોમિયમ પર આધારિત
+&nbsp;&nbsp;● WebView પર આધારિત
+
+પાશ્વભાગ:
+
+● "ChromeXt" એ "Xposed" ફ્રેમવર્ક સાથે
+&nbsp;&nbsp;રોડ થયેલ ઉપકરણોમાં વાપરવા માટેનું
+&nbsp;&nbsp;મોડ્યુલ છે.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" એ વ્યક્તિગત APK ફાઇલોને પેચ
+&nbsp;&nbsp;કરવા માટેનું સાધન છે અને "Xposed"
+&nbsp;&nbsp;મોડ્યુલ્સ છે.
+&nbsp;&nbsp;આ તેમને રુટ જરૂરી વગર વાપરવાની પરવાનગી
+&nbsp;&nbsp;આપે છે.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "ફુલગુરસ વેબ બ્રાઉઝર" વેબવ્યુ પર
+&nbsp;&nbsp;આધારિત છે.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+વપરાશ:
+
+● UserScript ને સ્થાપિત કરવા માટે:
+&nbsp;&nbsp;● બ્રાઉઝર ટેબમાં તેનું URL ખોલો
+&nbsp;&nbsp;● પુન: લોડ કરવા માટે પાનું ઝડપ કરો,
+&nbsp;&nbsp;&nbsp;&nbsp;જો પાનું શરૂઆતમાં દર્શાવે છે: "કોડ
+&nbsp;&nbsp;&nbsp;&nbsp;સંપાદક બ્લોક થયેલ છે"
+&nbsp;&nbsp;● સ્થાપિત કરવા માટે "ખાતરી કરો" ક્લિક
+&nbsp;&nbsp;&nbsp;&nbsp;કરો
+
+● UserScript ને દૂર કરવા માટે:
+&nbsp;&nbsp;● URL ખોલો:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● તેના નામની બાજુ "trash" ચિહ્નને
+&nbsp;&nbsp;&nbsp;&nbsp;ક્લિક કરો

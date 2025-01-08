@@ -1,0 +1,42 @@
+റിലീസ് ഫ്ലാവേഴ്സ്:
+
+● InternalConscryptSecurityProvider
+&nbsp;&nbsp;withInternalConscryptSecurityComment
+&nbsp;&nbsp;● ആന്തരിക ഗ്രന്ഥാലയമായി
+&nbsp;&nbsp;&nbsp;&nbsp;കോൺസ്ക്രിപ്റ്റ് ബൂട്ട്
+&nbsp;&nbsp;&nbsp;&nbsp;ചെയ്യപ്പെടുന്നു.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● ഓരോ എയ്ബിഐ തമ്മിൽ ഒരു പ്രത്യേക എ.
+&nbsp;&nbsp;&nbsp;&nbsp;പി. കെ.
+
+● SharedExternalconscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● പങ്കുവെക്കുന്ന ആപ്പിളില് നിന്നും
+&nbsp;&nbsp;&nbsp;&nbsp;കോണ്സ്ക്രിപ്റ്റ് ലഭ്യമാണ്
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● ഒന്നുകില് സ്വതന്ത്ര തദ്ദേശീയ
+&nbsp;&nbsp;&nbsp;&nbsp;സെക്യൂരിറ്റി പ്രൊവിഡര്
+&nbsp;&nbsp;&nbsp;&nbsp;ഉപയോഗിക്കുവാന് പോകുന്നു:
+&nbsp;&nbsp;&nbsp;&nbsp;● ഈ ആപ്പ് ലഭ്യമല്ല
+&nbsp;&nbsp;&nbsp;&nbsp;● ഈ ആപ്പ് ഒരു വിശ്വസ്തമായ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;സ്രോതസ്സില് ഒപ്പിട്ടിട്ടില്ല
+
+ദൃശ്യം:
+
+● ആൻഡ്രോയിഡിൽ സ്വതന്ത്ര തദ്ദേശീയ
+&nbsp;&nbsp;സെക്യൂരിറ്റി പ്രൊവിഡർ ബൂട്ട്
+&nbsp;&nbsp;ചെയ്യപ്പെടുന്നു.
+&nbsp;&nbsp;● ആൻഡ്രോയിഡിന്റെ പഴയ പതിപ്പുകളിൽ
+&nbsp;&nbsp;&nbsp;&nbsp;പുറത്തുപോകുന്നു.
+&nbsp;&nbsp;● ഉദാഹരണത്തിന്:
+&nbsp;&nbsp;&nbsp;&nbsp;● ആൻഡ്രോയിഡ് 4.x TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;പിന്തുണയ്ക്കുന്നില്ല.
+&nbsp;&nbsp;&nbsp;&nbsp;● "നമുക്ക് എന്ക്രിപ്റ്റ്" റൂട്ട്
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;സര്ട്ടിഫിക്കറ്റ് അനുസരിച്ച് TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 ആവശ്യമാണ്
+
+● കോണ്സ്ക്രിപ്റ്റ് ഒരു ലൈബ്രറി
+&nbsp;&nbsp;● പല ആധുനിക സിഫര് സ്യൂട്ടുകള്
+&nbsp;&nbsp;&nbsp;&nbsp;ഉള്ക്കൊള്ളുന്നു.
+&nbsp;&nbsp;● ജാവ സെക്യൂരിറ്റി മോഡലിലേക്ക്
+&nbsp;&nbsp;&nbsp;&nbsp;നേരിട്ട് അവതരിപ്പിച്ച പ്രൊവിഡറായി
+&nbsp;&nbsp;&nbsp;&nbsp;പ്ലഗുകൾ

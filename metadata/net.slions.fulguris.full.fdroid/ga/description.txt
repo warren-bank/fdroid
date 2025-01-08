@@ -1,0 +1,42 @@
+Gnéithe:
+
+● "CromeXt" adds úsáideoir úsáideora
+&nbsp;&nbsp;agus tacaíocht DevUirlisí do
+&nbsp;&nbsp;bhrabhsálaithe gréasáin:
+&nbsp;&nbsp;● based on Chromium
+&nbsp;&nbsp;● bunaithe ar WebView
+
+Cúlra:
+
+● "CromeXt" Is modúl chun úsáid a bhaint
+&nbsp;&nbsp;as feistí fréamhaithe leis an gcreat
+&nbsp;&nbsp;"Xmolta".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● Is é "LSPatch" uirlis a phócadh
+&nbsp;&nbsp;comhaid APK aonair agus bred "Xmolta"
+&nbsp;&nbsp;modúil.
+&nbsp;&nbsp;Ligeann sé seo iad a úsáid gan a
+&nbsp;&nbsp;cheangal fréamh.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Tá Fulguris Brabhsálaí Gréasáin"
+&nbsp;&nbsp;bunaithe ar WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Úsáid:
+
+● a shuiteáil Script úsáideora:
+&nbsp;&nbsp;● oscailt a URL i gcluaisín brabhsálaí
+&nbsp;&nbsp;● swipe an leathanach síos a
+&nbsp;&nbsp;&nbsp;&nbsp;athluchtú,
+&nbsp;&nbsp;&nbsp;&nbsp;má thaispeánann an leathanach de
+&nbsp;&nbsp;&nbsp;&nbsp;ghnáth: "Tá eagarthóir Cód
+&nbsp;&nbsp;&nbsp;&nbsp;blocáilte"
+&nbsp;&nbsp;● cliceáil "deimhnigh" a shuiteáil
+
+● chun script úsáideora a bhaint:
+&nbsp;&nbsp;● Oscail an URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● cliceáil ar an deilbhín "trash"
+&nbsp;&nbsp;&nbsp;&nbsp;deilbhín a ainm

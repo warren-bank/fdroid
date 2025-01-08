@@ -1,0 +1,35 @@
+પ્રકાશિત ફ્લેવરો:
+
+● WithInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt એ આંતરિક લાઇબ્રેરી તરીકે
+&nbsp;&nbsp;&nbsp;&nbsp;ભંગાવેલ છે
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● દરેક એબી માટે અલગ એપીકે (APK) ને
+&nbsp;&nbsp;&nbsp;&nbsp;પ્રકાશિત કરે છે.
+
+● SharedExternalconscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt એ વહેંચાયેલ કાર્યક્રમ
+&nbsp;&nbsp;&nbsp;&nbsp;માંથી લોડ થયેલ છે
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● જ્યારે ક્યાંતો મૂળભૂત મૂળ સુરક્ષા
+&nbsp;&nbsp;&nbsp;&nbsp;પોષણકર્તાને વાપરવા માટે પાછો આવે છે:
+&nbsp;&nbsp;&nbsp;&nbsp;● આ કાર્યક્રમ ઉપલબ્ધ નથી
+&nbsp;&nbsp;&nbsp;&nbsp;● આ કાર્યક્રમ વિશ્ર્વાસુ સ્ત્રોત
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;દ્વારા હસ્તાક્ષર થયેલ નથી
+
+ઓવરવ્યુ:
+
+● મૂળભૂત મૂળ સુરક્ષા પોષણકર્તા એડુએન્દ્ર
+&nbsp;&nbsp;માં ભેગા થયેલ છે
+&nbsp;&nbsp;● એનએન્ડર્ડની જૂની આવૃત્તિઓમાં શરૂઆત
+&nbsp;&nbsp;&nbsp;&nbsp;થયેલ છે
+&nbsp;&nbsp;● દાખલા તરીકે:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x એ TLS 1.2 ને આધાર આપતુ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;નથી
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 એ "લેટ એનક્રિપ્ટ" રુટ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;પ્રમાણપત્ર દ્વારા જરૂરી છે
+
+● Conscrypt એ લાઇબ્રેરી છે
+&nbsp;&nbsp;● ઘણા આધુનિક સાયફર સુઇટ્સને અપનાવે છે
+&nbsp;&nbsp;● સીધુ જ જાવા સુરક્ષા મોડેલ માં
+&nbsp;&nbsp;&nbsp;&nbsp;પ્લગઇને પસંદ થયેલ પૂરુ પાડનાર તરીકે

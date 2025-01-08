@@ -1,0 +1,35 @@
+Atbrīvot Aromatizētājus:
+
+● ar InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt ir bundled kā iekšējā
+&nbsp;&nbsp;&nbsp;&nbsp;bibliotēka
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● izdala atsevišķu APK katram ABI
+
+● ar
+&nbsp;&nbsp;SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt ielādē no koplietošanas
+&nbsp;&nbsp;&nbsp;&nbsp;lietotnes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● ir atpakaļ, lai izmantotu
+&nbsp;&nbsp;&nbsp;&nbsp;noklusējuma vietējo drošības
+&nbsp;&nbsp;&nbsp;&nbsp;sniedzēju, ja nu:
+&nbsp;&nbsp;&nbsp;&nbsp;● Šī lietotne nav pieejama
+&nbsp;&nbsp;&nbsp;&nbsp;● šo lietotni nav parakstījis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uzticams avots
+
+Pārskats:
+
+● noklusējuma dzimtā drošības sniedzējs
+&nbsp;&nbsp;ir bundled in Android
+&nbsp;&nbsp;● ir novecojusi vecās versijas Android
+&nbsp;&nbsp;● Piemēram:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x neatbalsta TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 pieprasa "Let's Encrypt"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;saknes sertifikātu
+
+● Conscrypt ir bibliotēka
+&nbsp;&nbsp;● īsteno daudzas mūsdienu cipher
+&nbsp;&nbsp;&nbsp;&nbsp;suites
+&nbsp;&nbsp;● aizbāšana tieši Java drošības modelī
+&nbsp;&nbsp;&nbsp;&nbsp;kā vēlamais Providers

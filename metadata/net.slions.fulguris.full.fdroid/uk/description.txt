@@ -1,0 +1,41 @@
+Можливості:
+
+● "ChromeXt" додає підтримку UserScript
+&nbsp;&nbsp;і DevTools до веб-браузерів:
+&nbsp;&nbsp;● на основі Chromium
+&nbsp;&nbsp;● на основі WebView
+
+Тло:
+
+● "ChromeXt"-це модуль для використання
+&nbsp;&nbsp;на пристроях з фреймворком "Xposed".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch"-це інструмент для
+&nbsp;&nbsp;виправлення окремих файлів APK і
+&nbsp;&nbsp;вбудованих модулів "Xposed".
+&nbsp;&nbsp;Це дозволяє використовувати їх без
+&nbsp;&nbsp;імені користувача root.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" базується на
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Використання:
+
+● щоб встановити скрипт користувача:
+&nbsp;&nbsp;● відкрити адресу URL на вкладці
+&nbsp;&nbsp;&nbsp;&nbsp;переглядача
+&nbsp;&nbsp;● Перезавантажити сторінку вниз, щоб
+&nbsp;&nbsp;&nbsp;&nbsp;перезавантажити
+&nbsp;&nbsp;&nbsp;&nbsp;якщо сторінка спочатку показує:
+&nbsp;&nbsp;&nbsp;&nbsp;"Редактор коду заблоковано"
+&nbsp;&nbsp;● Натисніть кнопку "підтвердити", щоб
+&nbsp;&nbsp;&nbsp;&nbsp;встановити
+
+● щоб вилучити скрипт користувача:
+&nbsp;&nbsp;● відкрити адресу URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● натисніть кнопку "смітник" поряд з
+&nbsp;&nbsp;&nbsp;&nbsp;її назвою

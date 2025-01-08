@@ -1,0 +1,1 @@
+Ladiace informácie pre stránku zavedenej v WebView sa zobrazujú ako HTML v prependovaní elemente DOM.

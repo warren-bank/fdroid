@@ -1,0 +1,38 @@
+Karatteristiċi:
+
+● "ChromeXt" żżid Userrept u DevGħodod
+&nbsp;&nbsp;appoġġ għall-web browsers:
+&nbsp;&nbsp;● ibbażat fuq il-Kromju
+&nbsp;&nbsp;● based on WebView
+
+Sfond:
+
+● Il-"ChromeXt" huwa modulu li għandu
+&nbsp;&nbsp;jintuża fuq apparat b'għeruq mal-qafas
+&nbsp;&nbsp;"Xroti".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● 'LSPatch' hija għodda għall-garża ta
+&nbsp;&nbsp;'fajls APK individwali u l-moduli'
+&nbsp;&nbsp;Ximped '.
+&nbsp;&nbsp;Dan jippermettilhom li jintużaw
+&nbsp;&nbsp;mingħajr ma jeħtieġu l-għerq.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguaris Web Browser" huwa bbażat
+&nbsp;&nbsp;fuq WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Użu:
+
+● biex tinstalla Userrept:
+&nbsp;&nbsp;● tiftaħ il-URL tagħha fil tab browser
+&nbsp;&nbsp;● swipe l-paġna 'l isfel biex jerġa'
+&nbsp;&nbsp;&nbsp;&nbsp;jekk il-paġna inizjalment turi:
+&nbsp;&nbsp;&nbsp;&nbsp;"L-editur tal-kodiċi jiġi mblukkat"
+&nbsp;&nbsp;● ikklikkja "tikkonferma" li tinstalla
+
+● biex tneħħi Userrept:
+&nbsp;&nbsp;● tiftaħ il-URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● ikklikkja l-"Trash" icon ħdejn ismu

@@ -1,0 +1,38 @@
+Yayın Tatları:
+
+● withInternalConscrypSecurityProvider
+&nbsp;&nbsp;● Conscrypt, iç kitaplık olarak
+&nbsp;&nbsp;&nbsp;&nbsp;paketlendi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● her bir ABI için ayrı bir APK
+&nbsp;&nbsp;&nbsp;&nbsp;serbest bırakır
+
+● withSharedExternalConscrypOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt paylaşılan bir uygulamadan
+&nbsp;&nbsp;&nbsp;&nbsp;yüklendi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● Aşağıdaki durumlarda varsayılan
+&nbsp;&nbsp;&nbsp;&nbsp;yerel güvenlik sağlayıcısını
+&nbsp;&nbsp;&nbsp;&nbsp;kullanmaya geri döner:
+&nbsp;&nbsp;&nbsp;&nbsp;● bu uygulama kullanılamıyor
+&nbsp;&nbsp;&nbsp;&nbsp;● bu uygulama güvenilir bir kaynak
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tarafından imzalanmış değil
+
+Genel Bakış:
+
+● Varsayılan yerel Güvenlik Sağlayıcısı,
+&nbsp;&nbsp;Android işletim sistemi içinde
+&nbsp;&nbsp;paketlenmiştir.
+&nbsp;&nbsp;● Android 'in eski sürümlerinden
+&nbsp;&nbsp;&nbsp;&nbsp;modası geçmiş
+&nbsp;&nbsp;● örneğin:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x, TLS 1.2 'i
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desteklemez
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2, "Let's Encrypt" kök
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sertifikasına göre gereklidir
+
+● Conscrypt bir kitaplık
+&nbsp;&nbsp;● birçok modern şifre suiti uygular
+&nbsp;&nbsp;● Tercih edilen sağlayıcı olarak
+&nbsp;&nbsp;&nbsp;&nbsp;doğrudan Java Security modeline
+&nbsp;&nbsp;&nbsp;&nbsp;fişler

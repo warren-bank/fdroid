@@ -1,0 +1,43 @@
+Merkmale:
+
+● "ChromeXt" fügt Webbrowsern
+&nbsp;&nbsp;UserScript-und DevTools-Unterstützung
+&nbsp;&nbsp;hinzu:
+&nbsp;&nbsp;● basierend auf Chromium
+&nbsp;&nbsp;● basierend auf WebView
+
+Hintergrund:
+
+● "ChromeXt" ist ein Modul, das auf
+&nbsp;&nbsp;verwurzelten Geräten mit dem "Xposed"
+&nbsp;&nbsp;-Framework verwendet werden kann.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" ist ein Werkzeug, um
+&nbsp;&nbsp;einzelne APK-Dateien zu patchen und
+&nbsp;&nbsp;"Xposed" -Module einzubetten.
+&nbsp;&nbsp;Auf diese Weise können sie verwendet
+&nbsp;&nbsp;werden, ohne dass Root benötigt wird.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" basiert auf
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Verwendung:
+
+● um ein UserScript zu installieren:
+&nbsp;&nbsp;● URL in einer Browserregisterkarte
+&nbsp;&nbsp;&nbsp;&nbsp;öffnen
+&nbsp;&nbsp;● wischen Sie die Seite nach unten, um
+&nbsp;&nbsp;&nbsp;&nbsp;erneut zu laden,
+&nbsp;&nbsp;&nbsp;&nbsp;Wenn die Seite zunächst angezeigt
+&nbsp;&nbsp;&nbsp;&nbsp;wird: "Code-Editor ist blockiert"
+&nbsp;&nbsp;● Klicken Sie zum Installieren auf
+&nbsp;&nbsp;&nbsp;&nbsp;"Bestätigen"
+
+● um ein UserScript zu entfernen:
+&nbsp;&nbsp;● Öffnen Sie die URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● Klicken Sie auf das Symbol
+&nbsp;&nbsp;&nbsp;&nbsp;"Papierkorb" neben dem Namen

@@ -1,0 +1,1 @@
+Testuje 'HttpsURLConnection', ak chcete diagnostikovať chyby pripojenia SSL/TLS.

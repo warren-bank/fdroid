@@ -1,0 +1,1 @@
+Preizkusi 'HttpsURLConnection' za diagnosticiranje napak povezav SSL/TLS.

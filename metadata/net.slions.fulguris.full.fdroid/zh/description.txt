@@ -1,0 +1,33 @@
+功能部件 :
+
+● "ChrometXt " 将 UserScript 和 DevTools
+&nbsp;&nbsp;支持添加到 Web 浏览器:
+&nbsp;&nbsp;● 基于铬
+&nbsp;&nbsp;● 基于 WebView
+
+背景 :
+
+● " ChrometXt" 是一个模块，用于使用 " Xposed"
+&nbsp;&nbsp;框架在根设备上使用。
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● " LSPatch" 是用于修补个别 APK 文件并嵌入 "Xposed "
+&nbsp;&nbsp;模块的工具。
+&nbsp;&nbsp;这允许在不需要 root用户的情况下使用它们。
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● " Fulguris Web 浏览器 " 基于 WebView。
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+用法:
+
+● 以安装 UserScript:
+&nbsp;&nbsp;● 在浏览器选项卡中打开其 URL
+&nbsp;&nbsp;● 将页面向下滑动以重新装入，
+&nbsp;&nbsp;&nbsp;&nbsp;如果页面最初显示 : "代码编辑器被阻止"
+&nbsp;&nbsp;● 单击 "确认" 以安装
+
+● 要除去 UserScript:
+&nbsp;&nbsp;● 打开 URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● 单击其名称旁边的 "废纸篓" 图标

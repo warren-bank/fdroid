@@ -1,0 +1,1 @@
+Тестове "HttpsURLConnection" за диагностициране на грешки на SSL/TLS.

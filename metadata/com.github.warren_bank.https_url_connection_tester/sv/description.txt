@@ -1,0 +1,39 @@
+Släpp ut flasorer:
+
+● InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt är paketerad som ett
+&nbsp;&nbsp;&nbsp;&nbsp;internt bibliotek
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● frigör en separat APK för varje ABI
+
+● med
+&nbsp;&nbsp;SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt har lästs in från en delad
+&nbsp;&nbsp;&nbsp;&nbsp;app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● återgår till att använda den
+&nbsp;&nbsp;&nbsp;&nbsp;förvalda inbyggda
+&nbsp;&nbsp;&nbsp;&nbsp;behörighetsleverantören när antingen
+&nbsp;&nbsp;&nbsp;&nbsp;● appen är inte tillgänglig
+&nbsp;&nbsp;&nbsp;&nbsp;● appen är inte signerad av en
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tillförlitlig källa
+
+Översikt:
+
+● den förvalda inbyggda
+&nbsp;&nbsp;behörighetsleverantören är paketerad i
+&nbsp;&nbsp;Android
+&nbsp;&nbsp;● är föråldrad i gamla versioner av
+&nbsp;&nbsp;&nbsp;&nbsp;Android
+&nbsp;&nbsp;● till exempel:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x stöder inte TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 krävs enligt
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rotcertifikatet för "Let's
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encrypt"
+
+● Conscrypt är ett bibliotek
+&nbsp;&nbsp;● implementerar många moderna
+&nbsp;&nbsp;&nbsp;&nbsp;cipher-sviter
+&nbsp;&nbsp;● pluggar direkt in i
+&nbsp;&nbsp;&nbsp;&nbsp;Java-säkerhetsmodellen som den
+&nbsp;&nbsp;&nbsp;&nbsp;föredragna leverantören

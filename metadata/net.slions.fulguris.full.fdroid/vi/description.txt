@@ -1,0 +1,40 @@
+Tính năng:
+
+● "ChromeXt" thêm UserScript và hỗ trợ
+&nbsp;&nbsp;DevTools cho các trình duyệt web:
+&nbsp;&nbsp;● dựa trên Chromium
+&nbsp;&nbsp;● dựa trên WebView
+
+Nền:
+
+● "ChromeXt" là một module để sử dụng
+&nbsp;&nbsp;trên các thiết bị bắt nguồn với khung
+&nbsp;&nbsp;"Xposed".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" là một công cụ để vá các tập
+&nbsp;&nbsp;tin APK riêng lẻ và nhúng các module
+&nbsp;&nbsp;"Xposed".
+&nbsp;&nbsp;Điều này cho phép chúng được sử dụng
+&nbsp;&nbsp;mà không yêu cầu rễ.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" dựa trên
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Sử dụng:
+
+● để cài đặt UserScript:
+&nbsp;&nbsp;● mở URL của nó trong tab trình
+&nbsp;&nbsp;&nbsp;&nbsp;duyệt
+&nbsp;&nbsp;● Tải trang xuống để nạp lại,
+&nbsp;&nbsp;&nbsp;&nbsp;nếu trang ban đầu trang hiển thị:
+&nbsp;&nbsp;&nbsp;&nbsp;"Trình chỉnh sửa mã bị chặn"
+&nbsp;&nbsp;● nhấp "xác nhận" để cài đặt
+
+● để gơ ̃ bỏ UserScript:
+&nbsp;&nbsp;● mở URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● nhấp biểu tượng "rác" bên cạnh
+&nbsp;&nbsp;&nbsp;&nbsp;tên của nó

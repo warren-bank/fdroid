@@ -1,0 +1,39 @@
+Perisa Keluaran:
+
+● InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt adalah bundled sebagai
+&nbsp;&nbsp;&nbsp;&nbsp;pustaka dalaman
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● releases APK yang berasingan untuk
+&nbsp;&nbsp;&nbsp;&nbsp;setiap ABI
+
+● &
+&nbsp;&nbsp;SharedExternalConscryptConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt dimuatkan dari aplikasi
+&nbsp;&nbsp;&nbsp;&nbsp;terkongsi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● jatuh semula untuk menggunakan
+&nbsp;&nbsp;&nbsp;&nbsp;penyedia keselamatan tabii lalai
+&nbsp;&nbsp;&nbsp;&nbsp;bila sama ada:
+&nbsp;&nbsp;&nbsp;&nbsp;● Aplikasi ini tidak tersedia
+&nbsp;&nbsp;&nbsp;&nbsp;● Aplikasi ini tidak ditandatangani
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oleh sumber yang dipercayai
+
+Paparan bertindih:
+
+● Penyedia keselamatan tabii lalai
+&nbsp;&nbsp;adalah bundled dalam Android
+&nbsp;&nbsp;● adalah outbertarikh dalam versi lama
+&nbsp;&nbsp;&nbsp;&nbsp;Android
+&nbsp;&nbsp;● Sebagai contoh:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x tidak menyokong TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 diperlukan oleh sijil root
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Let's Encrypt"
+
+● Conscrypt adalah pustaka
+&nbsp;&nbsp;● melaksanakan pelbagai tulisan sifer
+&nbsp;&nbsp;&nbsp;&nbsp;moden
+&nbsp;&nbsp;● Pemalam terus ke dalam model
+&nbsp;&nbsp;&nbsp;&nbsp;Keselamatan Java sebagai penyedia
+&nbsp;&nbsp;&nbsp;&nbsp;digemari

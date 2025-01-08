@@ -1,0 +1,1 @@
+Xét nghiệm 'HttpsURLConnection' để chẩn đoán các lỗi kết nối SSL/TLS.

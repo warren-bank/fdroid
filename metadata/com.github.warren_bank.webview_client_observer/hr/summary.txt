@@ -1,0 +1,1 @@
+Obslužuje događaje 'WebViewClient'.

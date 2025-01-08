@@ -1,0 +1,35 @@
+Release Flavors:
+
+● withInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt is bundled as an internal
+&nbsp;&nbsp;&nbsp;&nbsp;library
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● releases a separate APK for each ABI
+
+● withSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt is loaded from a shared
+&nbsp;&nbsp;&nbsp;&nbsp;app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● falls back to use the default native
+&nbsp;&nbsp;&nbsp;&nbsp;Security Provider when either:
+&nbsp;&nbsp;&nbsp;&nbsp;● this app isn't available
+&nbsp;&nbsp;&nbsp;&nbsp;● this app isn't signed by a trusted
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;source
+
+Overview:
+
+● the default native Security Provider
+&nbsp;&nbsp;is bundled in Android
+&nbsp;&nbsp;● is outdated in old versions of
+&nbsp;&nbsp;&nbsp;&nbsp;Android
+&nbsp;&nbsp;● for example:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x does not support TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 is required by the "Let's
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encrypt" root certificate
+
+● Conscrypt is a library
+&nbsp;&nbsp;● implements many modern cipher suites
+&nbsp;&nbsp;● plugs directly into the Java
+&nbsp;&nbsp;&nbsp;&nbsp;Security model as the preferred
+&nbsp;&nbsp;&nbsp;&nbsp;Provider

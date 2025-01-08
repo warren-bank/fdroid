@@ -1,0 +1,36 @@
+Освобождаващи предпазили:
+
+● с InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt е групиран като вътрешна
+&nbsp;&nbsp;&nbsp;&nbsp;библиотека
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● издава отделна APK за всяка ABI
+
+● с
+&nbsp;&nbsp;SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt е зареден от поделено
+&nbsp;&nbsp;&nbsp;&nbsp;приложение
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● се връща, за да използва стандартния
+&nbsp;&nbsp;&nbsp;&nbsp;доставчик на защита по подразбиране,
+&nbsp;&nbsp;&nbsp;&nbsp;когато:
+&nbsp;&nbsp;&nbsp;&nbsp;● това приложение не е достъпно
+&nbsp;&nbsp;&nbsp;&nbsp;● Това приложение не е подписано от
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;доверен източник
+
+Общ преглед:
+
+● подразбиращият се местен доставчик на
+&nbsp;&nbsp;защита е групиран в Android
+&nbsp;&nbsp;● е остарял в стари версии на Android
+&nbsp;&nbsp;● например:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x не поддържа TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 се изисква от основния
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;сертификат "Да Encrypt"
+
+● Conscrypt е библиотека
+&nbsp;&nbsp;● изпълнява много съвременни шифър
+&nbsp;&nbsp;&nbsp;&nbsp;апартаменти
+&nbsp;&nbsp;● Приплъзване директно към модела за
+&nbsp;&nbsp;&nbsp;&nbsp;защита на Java като предпочитан
+&nbsp;&nbsp;&nbsp;&nbsp;доставчик

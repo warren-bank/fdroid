@@ -1,0 +1,1 @@
+Webbläsare lagrad av LSPatch för att bädda in "chromeXt" utan att kräva root.

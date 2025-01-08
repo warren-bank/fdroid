@@ -1,0 +1,1 @@
+Browser web patch-uri de "LSPatch" pentru a încorpora "ChromeXt", fără a necesita rădăcină.

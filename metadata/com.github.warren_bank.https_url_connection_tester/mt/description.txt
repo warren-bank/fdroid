@@ -1,0 +1,36 @@
+Togħmiet Rilaxx:
+
+● bi InternalConscratytSecurityprovider
+&nbsp;&nbsp;● Conscratypt huwa raggruppat bħala
+&nbsp;&nbsp;&nbsp;&nbsp;librerija interna
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● rilaxxi APK separat għal kull ABI
+
+● b '
+&nbsp;&nbsp;SharedExternalConscratptOrDefaultSecurityprovider
+&nbsp;&nbsp;● Conscrattypt huwa mgħobbi minn app
+&nbsp;&nbsp;&nbsp;&nbsp;maqsuma
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● jaqa 'lura biex juża l-Fornitur ta'
+&nbsp;&nbsp;&nbsp;&nbsp;Sigurtà nattiva default meta jew:
+&nbsp;&nbsp;&nbsp;&nbsp;● din l-app ma tkunx disponibbli
+&nbsp;&nbsp;&nbsp;&nbsp;● din l-app ma tkunx iffirmata minn
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sors ta ' fiduċja
+
+Ħarsa ġenerali:
+
+● il-Fornitur ta 'Sigurtà Nazzjonali
+&nbsp;&nbsp;default jiġi raggruppat f' Android
+&nbsp;&nbsp;● huwa antikat fil-verżjonijiet qodma
+&nbsp;&nbsp;&nbsp;&nbsp;ta ' Android
+&nbsp;&nbsp;● per eżempju:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x ma tappoġġiex TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 hija meħtieġa mill-"Ejja
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encrypt" ċertifikat għerq
+
+● Conscratypt huwa librerija
+&nbsp;&nbsp;● jimplimenta bosta settijiet ta '
+&nbsp;&nbsp;&nbsp;&nbsp;cipher moderni
+&nbsp;&nbsp;● plugs direttament fil-mudell ta '
+&nbsp;&nbsp;&nbsp;&nbsp;Sigurtà Java bħala l-Fornitur
+&nbsp;&nbsp;&nbsp;&nbsp;preferut

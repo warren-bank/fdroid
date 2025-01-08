@@ -1,0 +1,1 @@
+Web browser patched από "LSPatch" να ενσωματώσει "ChromeXt" χωρίς να απαιτείται ρίζα.

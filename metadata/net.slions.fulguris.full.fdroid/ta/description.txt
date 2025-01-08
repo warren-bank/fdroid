@@ -1,0 +1,44 @@
+தன்மைகள்:
+
+● "ChromeXt" இணைய உலாவிகளுக்கு
+&nbsp;&nbsp;UserScript and DevTools ஆதரவு
+&nbsp;&nbsp;சேர்க்கிறது:
+&nbsp;&nbsp;● கிரோமியம் அடிப்படையிலான
+&nbsp;&nbsp;● WebView-এর அடிப்படையில்
+
+பின்னணி
+
+● "ChromeXt" (ChromeXt) "Xposed"
+&nbsp;&nbsp;சட்டத்துடன் ரோட் செய்யப்பட்ட
+&nbsp;&nbsp;சாதனைகளில் பயன்படுத்த ஒரு கூறு.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" தனிப்பட்ட APK கோப்புகளுக்கான
+&nbsp;&nbsp;ஒரு கருவி மற்றும் "Xposed" தொகுதிகளை
+&nbsp;&nbsp;எடுத்துக்கொள்கிறது.
+&nbsp;&nbsp;இது அவற்றை வேட்டை தேவையில்லாமல்
+&nbsp;&nbsp;பயன்படுத்துவதற்கு அனுமதிக்கிறது.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" is based on
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+பயன்பாடு:
+
+● UserScript ஐ நிறுவவும்:
+&nbsp;&nbsp;● வலைப்பதிவுத் தத்தலில் URL ஐ
+&nbsp;&nbsp;&nbsp;&nbsp;திறக்கவும்
+&nbsp;&nbsp;● பக்கத்தை மறு ஏற்றுவதற்கு கீழே
+&nbsp;&nbsp;&nbsp;&nbsp;விட்டு,
+&nbsp;&nbsp;&nbsp;&nbsp;பக்கம் ஆரம்பத்தில் தெரியும் என்றால்:
+&nbsp;&nbsp;&nbsp;&nbsp;"குறியீடு திருத்தி
+&nbsp;&nbsp;&nbsp;&nbsp;தடைசெய்யப்பட்டுள்ளது"
+&nbsp;&nbsp;● நிறுவுவதற்கு "உறுதிபடுத்து" என்பதை
+&nbsp;&nbsp;&nbsp;&nbsp;க்ளிக் செய்யவும்
+
+● ஒரு பயனர் நிரலை நீக்க:
+&nbsp;&nbsp;● URL திறக்கவும்:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● "Trash" சின்னத்தை அதன் பெயருடன்
+&nbsp;&nbsp;&nbsp;&nbsp;க்ளிக் செய்யவும்

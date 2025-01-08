@@ -1,0 +1,37 @@
+Разновидности выпуска:
+
+● withInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt входит в состав внутренней
+&nbsp;&nbsp;&nbsp;&nbsp;библиотеки
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● выпускает отдельный APK для каждого
+&nbsp;&nbsp;&nbsp;&nbsp;ABI
+
+● Провайдер
+&nbsp;&nbsp;SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Concrypt загружается из общего
+&nbsp;&nbsp;&nbsp;&nbsp;приложения
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● В случае необходимости использовать
+&nbsp;&nbsp;&nbsp;&nbsp;стандартный поставщик защиты по
+&nbsp;&nbsp;&nbsp;&nbsp;умолчанию:
+&nbsp;&nbsp;&nbsp;&nbsp;● это приложение не доступно
+&nbsp;&nbsp;&nbsp;&nbsp;● это приложение не подписано
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;надежным источником
+
+Обзор:
+
+● Стандартный поставщик защиты по
+&nbsp;&nbsp;умолчанию входит в состав Android
+&nbsp;&nbsp;● устарела в старых версиях Android
+&nbsp;&nbsp;● например:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x не поддерживает TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 требуется для корневого
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;сертификата "Let's Encrypt"
+
+● Conscrypt-библиотека
+&nbsp;&nbsp;● реализует много современных
+&nbsp;&nbsp;&nbsp;&nbsp;комплектов шифров
+&nbsp;&nbsp;● прямо в модель защиты Java как
+&nbsp;&nbsp;&nbsp;&nbsp;предпочтительный провайдер

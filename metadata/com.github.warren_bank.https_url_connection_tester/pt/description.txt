@@ -1,0 +1,35 @@
+Sabores De Liberação:
+
+● withInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt é empacotado como uma
+&nbsp;&nbsp;&nbsp;&nbsp;biblioteca interna
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● libera um APK separado para cada ABI
+
+● withSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● O conscrypt é carregado a partir de
+&nbsp;&nbsp;&nbsp;&nbsp;um app compartilhado
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● cai de volta para usar o Provedor de
+&nbsp;&nbsp;&nbsp;&nbsp;Segurança nativa padrão quando:
+&nbsp;&nbsp;&nbsp;&nbsp;● este app não está disponível
+&nbsp;&nbsp;&nbsp;&nbsp;● este app não é assinado por uma
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fonte confiável
+
+Visão geral:
+
+● o Provedor de Segurança nativa padrão
+&nbsp;&nbsp;é empacoado no Android
+&nbsp;&nbsp;● é ultrapassado em versões antigas do
+&nbsp;&nbsp;&nbsp;&nbsp;Android
+&nbsp;&nbsp;● por exemplo:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x não suporta TLS 1,2
+&nbsp;&nbsp;&nbsp;&nbsp;● O TLS 1,2 é necessário pelo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;certificado raiz "Let's Encrypt"
+
+● Conscrypt é uma biblioteca
+&nbsp;&nbsp;● implementa muitas suites cifradas
+&nbsp;&nbsp;&nbsp;&nbsp;modernas
+&nbsp;&nbsp;● plugue diretamente no modelo de
+&nbsp;&nbsp;&nbsp;&nbsp;Segurança Java como o Provedor
+&nbsp;&nbsp;&nbsp;&nbsp;preferido

@@ -1,0 +1,38 @@
+Tipos de actualización:
+
+● withInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt se empaqueta como una
+&nbsp;&nbsp;&nbsp;&nbsp;biblioteca interna
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● libera un APK separado para cada ABI
+
+● withSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt se carga desde una
+&nbsp;&nbsp;&nbsp;&nbsp;aplicación compartida
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● vuelve a utilizar el proveedor de
+&nbsp;&nbsp;&nbsp;&nbsp;seguridad nativo predeterminado
+&nbsp;&nbsp;&nbsp;&nbsp;cuando:
+&nbsp;&nbsp;&nbsp;&nbsp;● esta aplicación no está disponible
+&nbsp;&nbsp;&nbsp;&nbsp;● esta aplicación no está firmada
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;por una fuente de confianza
+
+Visión general:
+
+● el proveedor de seguridad nativo
+&nbsp;&nbsp;predeterminado está empaquetado en
+&nbsp;&nbsp;Android
+&nbsp;&nbsp;● está obsoleto en versiones antiguas
+&nbsp;&nbsp;&nbsp;&nbsp;de Android
+&nbsp;&nbsp;● por ejemplo:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x no da soporte a TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 es necesario para el
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;certificado raíz "Let's Encrypt"
+
+● Conscrypt es una biblioteca
+&nbsp;&nbsp;● implementa muchas suites de cifrado
+&nbsp;&nbsp;&nbsp;&nbsp;modernas
+&nbsp;&nbsp;● se conecta directamente al modelo de
+&nbsp;&nbsp;&nbsp;&nbsp;seguridad Java como el proveedor
+&nbsp;&nbsp;&nbsp;&nbsp;preferido

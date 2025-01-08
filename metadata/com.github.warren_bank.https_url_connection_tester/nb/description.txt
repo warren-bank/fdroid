@@ -1,0 +1,36 @@
+Frigi Flakinger:
+
+● withInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Konscrypt er bunnet som et internt
+&nbsp;&nbsp;&nbsp;&nbsp;bibliotek
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● slipper en egen APK for hver ABI
+
+● withSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Konscrypt er lastet inn fra en delt
+&nbsp;&nbsp;&nbsp;&nbsp;app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● faller tilbake for å bruke standard
+&nbsp;&nbsp;&nbsp;&nbsp;intern sikkerhetsleverandør når
+&nbsp;&nbsp;&nbsp;&nbsp;enten:
+&nbsp;&nbsp;&nbsp;&nbsp;● denne appen er ikke tilgjengelig
+&nbsp;&nbsp;&nbsp;&nbsp;● denne appen er ikke signert av en
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;klarert kilde
+
+Oversikt:
+
+● standard intern sikkerhetsleverandør
+&nbsp;&nbsp;er bunnet i Android
+&nbsp;&nbsp;● er utdatert i gamle versjoner av
+&nbsp;&nbsp;&nbsp;&nbsp;Android
+&nbsp;&nbsp;● for eksempel:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x støtter ikke TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 kreves av "La oss Krypter"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rotsertifikat
+
+● Konscrypt er et bibliotek
+&nbsp;&nbsp;● implementerer mange moderne
+&nbsp;&nbsp;&nbsp;&nbsp;kryptersuiter
+&nbsp;&nbsp;● plugger direkte inn i
+&nbsp;&nbsp;&nbsp;&nbsp;Java-sikkerhetsmodellen som
+&nbsp;&nbsp;&nbsp;&nbsp;foretrukket leverandør

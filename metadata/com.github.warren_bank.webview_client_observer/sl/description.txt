@@ -1,0 +1,1 @@
+Informacije o razhroščeju za stran, ki je naložena v "WebView", so prikazane kot HTML v predpopenranem elementu DOM.

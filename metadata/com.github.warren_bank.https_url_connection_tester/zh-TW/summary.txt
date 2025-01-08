@@ -1,0 +1,1 @@
+測試 'HttpsURLConnection' 以診斷 SSL/TLS 連線錯誤。

@@ -1,0 +1,41 @@
+Özellikler:
+
+● "ChromeXt", web tarayıcılarına
+&nbsp;&nbsp;UserScript ve DevTools desteği ekler:
+&nbsp;&nbsp;● Chromium 'a dayalı
+&nbsp;&nbsp;● WebView tabanlı
+
+Arka plan:
+
+● "ChromeXt", "Xdirt" çerçevesiyle köklü
+&nbsp;&nbsp;aygıtlarda kullanılacak bir modüldür.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch", tek tek APK dosyalarını
+&nbsp;&nbsp;yama uygulama ve "Xpodled" modülleri
+&nbsp;&nbsp;yerleştirmeye yönelik bir araçtır.
+&nbsp;&nbsp;Bu, kök gerektirmeden kullanılmasına
+&nbsp;&nbsp;olanak sağlar.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Tarayıcısı", WebView
+&nbsp;&nbsp;temel alınarak kuruludur.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Kullanım:
+
+● UserScript kurmak için:
+&nbsp;&nbsp;● URL adresini bir tarayıcı sekmesinde
+&nbsp;&nbsp;&nbsp;&nbsp;aç
+&nbsp;&nbsp;● Sayfayı yeniden yüklemek için
+&nbsp;&nbsp;&nbsp;&nbsp;sayfayı aşağı doğru kaydırın,
+&nbsp;&nbsp;&nbsp;&nbsp;Sayfa başlangıçta görüntüleniyorsa:
+&nbsp;&nbsp;&nbsp;&nbsp;"Kod düzenleyicisi engellenir"
+&nbsp;&nbsp;● kurmak için "Onayla" düğmesini
+&nbsp;&nbsp;&nbsp;&nbsp;tıklatın
+
+● UserScript 'i kaldırmak için:
+&nbsp;&nbsp;● URL ' yi açın:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● adının yanındaki "çöp kutusu"
+&nbsp;&nbsp;&nbsp;&nbsp;simgesini tıklatın

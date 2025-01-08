@@ -1,0 +1,41 @@
+Функције:
+
+● "HromeXt" додаје UserScript и Devools
+&nbsp;&nbsp;подршку за веб прегледаче:
+&nbsp;&nbsp;● базирано на Чромијуму
+&nbsp;&nbsp;● заснован на ВебВјуу
+
+Позадина:
+
+● HromeXt је модул који се користи на
+&nbsp;&nbsp;укорењеним уређајима са "XsDest"
+&nbsp;&nbsp;оквиром.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPASch" је алат за паљење
+&nbsp;&nbsp;појединачних APK датотека и уграђени
+&nbsp;&nbsp;"Xpied" модули.
+&nbsp;&nbsp;Ово им омогућава да се користе без
+&nbsp;&nbsp;потребе за кореном.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● Fulgurie Web прегледач је базиран на
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Употреба:
+
+● да инсталира Усерскрипт:
+&nbsp;&nbsp;● отвори свој URL у картици прегледача
+&nbsp;&nbsp;● превуците страницу да бисте поново
+&nbsp;&nbsp;&nbsp;&nbsp;учитали,
+&nbsp;&nbsp;&nbsp;&nbsp;Ако страница у почетку приказује:
+&nbsp;&nbsp;&nbsp;&nbsp;"уређивач кода је блокиран"
+&nbsp;&nbsp;● кликните на "потврди" да бисте
+&nbsp;&nbsp;&nbsp;&nbsp;инсталирали
+
+● да уклони UserScript:
+&nbsp;&nbsp;● отвори URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● кликните на икону "отпад" поред
+&nbsp;&nbsp;&nbsp;&nbsp;њеног имена

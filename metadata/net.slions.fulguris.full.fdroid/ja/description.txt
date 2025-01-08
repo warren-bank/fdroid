@@ -1,0 +1,35 @@
+特徴
+
+● 「ChromeXt 」は、ウェブブラウザに UserScript と
+&nbsp;&nbsp;DevTools のサポートを追加している。
+&nbsp;&nbsp;● クロミウムに基づく
+&nbsp;&nbsp;● WebView に基づく
+
+背景:
+
+● " ChromeXt " は、 " Xposed"
+&nbsp;&nbsp;フレームワークを持つルートデバイスで使用するモジュールである。
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● " LSPatch " は、個々の APK ファイルをパッチし、 "
+&nbsp;&nbsp;Xposed" モジュールを埋め込むためのツールである。
+&nbsp;&nbsp;これにより、ルートを必要とせずに使用できます。
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● 「 Fulguris Web ブラウザー」は、
+&nbsp;&nbsp;WebViewをベースにしています。
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+使用法:
+
+● ユーザー・スクリプトをインストールするには、
+&nbsp;&nbsp;● ブラウザー・タブで URL を開く
+&nbsp;&nbsp;● ページをスワイプして再ロードします。
+&nbsp;&nbsp;&nbsp;&nbsp;ページが最初に表示される場合 :
+&nbsp;&nbsp;&nbsp;&nbsp;「コード・エディターはブロックされます」
+&nbsp;&nbsp;● 「確認」をクリックしてインストール
+
+● ユーザースクリプトを削除するには
+&nbsp;&nbsp;● 次の URL を開きます。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● 名前の横にある「ごみ箱」アイコンをクリックする。

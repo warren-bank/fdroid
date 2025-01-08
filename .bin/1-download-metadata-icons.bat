@@ -16,6 +16,8 @@ set wget_opts=%wget_opts% -nc
 if not exist "%log_dirpath%" mkdir "%log_dirpath%"
 if exist "%log_filepath%" del "%log_filepath%"
 
+call :do_download "com.github.warren_bank.webview_client_observer"                  "https://github.com/warren-bank/Android-WebViewClientObserver/raw/master/android-studio-project/WebViewClientObserver/src/main/res/drawable/launcher.png"
+call :do_download "com.github.warren_bank.https_url_connection_tester"              "https://github.com/warren-bank/Android-HttpsURLConnectionTester/raw/master/android-studio-project/HttpsURLConnectionTester/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.rtsp_screencaster"                        "https://github.com/warren-bank/Android-RTSP-ScreenCaster/raw/master/android-studio-project/libscreening-examples/RTSP-ScreenCaster/src/main/res/drawable/launcher.png"
 call :do_download "com.github.warren_bank.airtunes_client"                          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AirPlay_Audio_logo.svg/240px-AirPlay_Audio_logo.svg.png"
 call :do_download "com.github.warren_bank.broadcast_mock_sms"                       "https://github.com/warren-bank/Android-Broadcast-Mock-SMS/raw/master/android-studio-project/Broadcast-Mock-SMS/src/main/res/drawable/ic_launcher.png"
@@ -31,6 +33,7 @@ call :do_download "org.appspot.apprtc"                                          
 call :do_download "com.google.android.apps.flexbox"                                 "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0/1-playground/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "com.google.android.flexbox.apps.catgallery"                      "https://github.com/warren-bank/Android-FlexboxLayout-demos/raw/r1.1.0/2-cat-gallery/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
 call :do_download "org.rtspplayer.sample"                                           "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/raw/master/VideoExpertsGroup-RTSPPlayer/src/main/res/drawable-xxhdpi/app.png"
+call :do_download "net.slions.fulguris.full.fdroid"                                 "https://github.com/Slion/Fulguris/raw/Fulguris-v1.9.30/app/src/slionsFullFdroid/res/mipmap-xxxhdpi/ic_launcher.png"
 
 goto :done
 

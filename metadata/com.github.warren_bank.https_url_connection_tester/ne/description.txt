@@ -1,0 +1,34 @@
+बिमोचन Flavors:
+
+● इन्टरनल कन्सक्रिप्टसेक्युरिटि प्रदायक
+&nbsp;&nbsp;● कन्क्रिप्ट आन्तरिक पुस्तकालयको रूपमा
+&nbsp;&nbsp;&nbsp;&nbsp;बांडिएको छ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● प्रत्येक एबीआईका लागि छुट्टै एपीके
+&nbsp;&nbsp;&nbsp;&nbsp;निष्कासन जारी
+
+● SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● साझा एपबाट कन्क्रिप्ट लोड गरिएको छ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● या त कहिले डिफल्ट देशी सुरक्षा
+&nbsp;&nbsp;&nbsp;&nbsp;प्रदायकको उपयोग गर्न फर्कन्छ:
+&nbsp;&nbsp;&nbsp;&nbsp;● यो एप उपलब्ध छैन
+&nbsp;&nbsp;&nbsp;&nbsp;● यो एप विश्वस्त स्रोत द्वारा
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;हस्ताक्षरित छैन
+
+सिंहावलोकन:
+
+● पूर्वनिर्धारित स्थानीय सुरक्षा प्रदायक
+&nbsp;&nbsp;एन्ड्रोइडमा बन्डल छ
+&nbsp;&nbsp;● एन्ड्रोइडको पुरानो संस्करणमा
+&nbsp;&nbsp;&nbsp;&nbsp;आउटडेटेड छ
+&nbsp;&nbsp;● उदाहरणका लागि:
+&nbsp;&nbsp;&nbsp;&nbsp;● एन्ड्रोइड ४.x TLS 1.2 समर्थन
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;गर्दैन
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 आवश्यक छ "चलो Encrypt" रूट
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;सर्टिफिकेट
+
+● कन्क्रिप्ट एउटा लाइब्रेरी हो
+&nbsp;&nbsp;● इम्प्लांट्स धेरै आधुनिक सिफर सूट
+&nbsp;&nbsp;● रुचाइएका प्रदायकका रूपमा जाभा
+&nbsp;&nbsp;&nbsp;&nbsp;सुरक्षा मोडलमा सिधै प्लग

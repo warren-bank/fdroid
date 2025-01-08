@@ -1,0 +1,1 @@
+A 'WebView' - ban betöltött oldal hibakeresési információi HTML-ként jelennek meg az előpért DOM elemekben.

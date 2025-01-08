@@ -1,0 +1,41 @@
+Rodzaje uwalniania:
+
+● Element
+&nbsp;&nbsp;InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt znajduje się w pakiecie
+&nbsp;&nbsp;&nbsp;&nbsp;jako biblioteka wewnętrzna
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● zwalnia osobny APK dla każdego ABI
+
+● Właściwość
+&nbsp;&nbsp;withSharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt jest ładowany ze
+&nbsp;&nbsp;&nbsp;&nbsp;współużytkowanej aplikacji
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● z powrotem należy użyć domyślnego
+&nbsp;&nbsp;&nbsp;&nbsp;rodzimego dostawcy zabezpieczeń,
+&nbsp;&nbsp;&nbsp;&nbsp;gdy:
+&nbsp;&nbsp;&nbsp;&nbsp;● ta aplikacja jest niedostępna
+&nbsp;&nbsp;&nbsp;&nbsp;● Ta aplikacja nie jest podpisana
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;przez zaufane źródło
+
+Przegląd:
+
+● domyślny rodzimy dostawca zabezpieczeń
+&nbsp;&nbsp;jest dostarczany w pakiecie w systemie
+&nbsp;&nbsp;Android
+&nbsp;&nbsp;● jest przestarzała w starych wersjach
+&nbsp;&nbsp;&nbsp;&nbsp;systemu Android
+&nbsp;&nbsp;● na przykład:
+&nbsp;&nbsp;&nbsp;&nbsp;● System Android 4.x nie obsługuje
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;protokołu TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● Protokół TLS 1.2 jest wymagany
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;przez główny certyfikat "Let's
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encrypt"
+
+● Conscrypt jest biblioteką
+&nbsp;&nbsp;● implementuje wiele nowoczesnych
+&nbsp;&nbsp;&nbsp;&nbsp;zestawów algorytmów szyfrowania
+&nbsp;&nbsp;● podłączanie bezpośrednio do modelu
+&nbsp;&nbsp;&nbsp;&nbsp;zabezpieczeń Java jako preferowanego
+&nbsp;&nbsp;&nbsp;&nbsp;dostawcy

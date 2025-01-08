@@ -1,0 +1,38 @@
+විශේෂාංග:
+
+● "ChromeXt" වෙබ් බ්රවුසරයට UserScript
+&nbsp;&nbsp;හා DevTools සහාය එකතු කරනවා:
+&nbsp;&nbsp;● ක්රෝමියම් මත පදනම් වූ
+&nbsp;&nbsp;● WebView මත පදනම්ව
+
+පසුබිම:
+
+● "ChromeXt" යනු "Xposed" රාමුව සමග රොක්
+&nbsp;&nbsp;වූ උපකරණ මත භාවිතා කරන මොඩියුලයක් වේ.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" a tool to patch individual
+&nbsp;&nbsp;APK files and embed "Xposed" modules.
+&nbsp;&nbsp;මෙය ඔවුන්ට මූල ඉල්ලුම් කිරීමකින් තොරව
+&nbsp;&nbsp;භාවිතා කිරීමට ඉඩ සලසයි.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "ෆුල්ගුරු වෙබ් බ්රවුසරය" වෙබ් දර්ශනය
+&nbsp;&nbsp;අනුව
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+භාවිතය:
+
+● UserScript එකක් ස්ථාපනය කරන්න:
+&nbsp;&nbsp;● ගවේශක ටැබයක URL විවෘත කරන්න
+&nbsp;&nbsp;● පිටුව නැවත පූරණය කරන්න,
+&nbsp;&nbsp;&nbsp;&nbsp;මුල් පිටුව සංස්කරණය කරන්න නම්: "කේත
+&nbsp;&nbsp;&nbsp;&nbsp;සංස්කාරකය අවහිර"
+&nbsp;&nbsp;● ස්ථාපනය කිරීමට "තහවුරු කරන්න" ක්ලික්
+&nbsp;&nbsp;&nbsp;&nbsp;කරන්න
+
+● UserScript ඉවත් කිරීමට:
+&nbsp;&nbsp;● URL විවෘත කරන්න:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● එහි නම අසලින් "කුණු" අයිකනය ක්ලික්
+&nbsp;&nbsp;&nbsp;&nbsp;කරන්න

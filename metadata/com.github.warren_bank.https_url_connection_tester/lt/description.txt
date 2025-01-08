@@ -1,0 +1,36 @@
+Išleidimo Kvapiųjų Medžiagų:
+
+● Be InternalnscryptSecurityPro
+&nbsp;&nbsp;● Sąryšis yra susiejamas kaip vidinė
+&nbsp;&nbsp;&nbsp;&nbsp;biblioteka
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● išleidžia atskirą APK už kiekvieną
+&nbsp;&nbsp;&nbsp;&nbsp;ABI
+
+● Shoreredexternalsusideda
+&nbsp;&nbsp;cryptOrDefaultSecurityProperty
+&nbsp;&nbsp;● Sąryšis įkeltas iš bendros
+&nbsp;&nbsp;&nbsp;&nbsp;programėlės
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● patenka atgal naudoti numatytąjį
+&nbsp;&nbsp;&nbsp;&nbsp;gimtoji Security Provider, kai:
+&nbsp;&nbsp;&nbsp;&nbsp;● Ši programa nėra prieinama
+&nbsp;&nbsp;&nbsp;&nbsp;● ši programa nėra pasirašyta
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patikimo šaltinio
+
+Apžvalga:
+
+● Numatytasis vietinis Security Provider
+&nbsp;&nbsp;yra paketas "Android"
+&nbsp;&nbsp;● yra pasenęs senosios versijos
+&nbsp;&nbsp;&nbsp;&nbsp;"Android"
+&nbsp;&nbsp;● Pavyzdžiui:
+&nbsp;&nbsp;&nbsp;&nbsp;● "Android 4.x" neremia TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 reikalaujama pagal "Let's
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encrypt" šakninį sertifikatą
+
+● Sąryšis yra biblioteka
+&nbsp;&nbsp;● Įgyvendina daug modernių cipher
+&nbsp;&nbsp;&nbsp;&nbsp;suites
+&nbsp;&nbsp;● kištukai tiesiai į Java Saugumo
+&nbsp;&nbsp;&nbsp;&nbsp;modelį, kaip pageidaujamą Tiekėjas

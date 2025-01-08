@@ -1,0 +1,31 @@
+الغاء اتاحة النكهات :
+
+● withInternalConsCryptSecurityProvider
+&nbsp;&nbsp;● تم تجميع وحدة التشفير كمكتبة داخلية
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● لاطلاق APK منفصل لكل ABI
+
+● withSharedExternalConsCryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● تم تحميل ConsCrypt من تطبيق مشترك
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● يتم التراجع مرة أخرى لاستخدام مورد
+&nbsp;&nbsp;&nbsp;&nbsp;السرية الأصلي المفترض عندما يكون :
+&nbsp;&nbsp;&nbsp;&nbsp;● هذا التطبيق غير متاح
+&nbsp;&nbsp;&nbsp;&nbsp;● هذا التطبيق غير موقع بواسطة مصدر
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;موثوق به
+
+نبذة عامة :
+
+● تم تجميع جهة اتاحة السرية المحلية
+&nbsp;&nbsp;المفترضة في Andrid
+&nbsp;&nbsp;● قديم في نسخ قديمة من أندرويد
+&nbsp;&nbsp;● فعلى سبيل المثال :
+&nbsp;&nbsp;&nbsp;&nbsp;● لا يقوم Android 4.x بدعم TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● يتم طلب TLS 1.2 بواسطة شهادة
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"السماح بالتشفير"
+
+● تعد وحدة التشفير عبارة عن مكتبة
+&nbsp;&nbsp;● تقوم بتنفيذ العديد من طرق التشفير
+&nbsp;&nbsp;&nbsp;&nbsp;الحديثة
+&nbsp;&nbsp;● يتم توصيله مباشرة في نموذج سرية Java
+&nbsp;&nbsp;&nbsp;&nbsp;باعتباره جهة الاتاحة المفضلة

@@ -1,0 +1,1 @@
+'HttpsURLConnection' 을 테스트하여 SSL/TLS 연결 오류를 진단한다.

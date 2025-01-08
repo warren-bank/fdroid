@@ -1,0 +1,39 @@
+Ominaisuudet:
+
+● "ChromeXt" lisää UserScript-ja
+&nbsp;&nbsp;DevTools-tuen Web-selaimiin:
+&nbsp;&nbsp;● Chromiumin perusteella
+&nbsp;&nbsp;● WebView'n perusteella
+
+Taustaa:
+
+● "ChromeXt" on moduuli, jota käytetään
+&nbsp;&nbsp;määritetuissa laitteissa, joissa on
+&nbsp;&nbsp;Xehdotettu kehys.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" on työkalu, jolla voidaan
+&nbsp;&nbsp;paikantaa yksittäisiä APK-tiedostoja
+&nbsp;&nbsp;ja liittää Xehdotettuihin moduuleihin.
+&nbsp;&nbsp;Näin niitä voidaan käyttää
+&nbsp;&nbsp;tarvitsematta juuria.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" perustuu
+&nbsp;&nbsp;WebView'iin.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Käyttö:
+
+● Asenna UserScript-tiedosto:
+&nbsp;&nbsp;● Avaa URL-osoite selainvälilehdessä
+&nbsp;&nbsp;● Pyyhkäistä sivu ladattavaksi,
+&nbsp;&nbsp;&nbsp;&nbsp;Jos sivu tulee ensin näkyviin:
+&nbsp;&nbsp;&nbsp;&nbsp;"Koodi muokkausohjelma on estetty"
+&nbsp;&nbsp;● Asenna napsauttamalla "Vahvistakaa"
+
+● Poistaa UserScript-tiedoston:
+&nbsp;&nbsp;● Avaa URL-osoite:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● Napsauta sen nimen vieressä olevaa
+&nbsp;&nbsp;&nbsp;&nbsp;roska-kuvaketta

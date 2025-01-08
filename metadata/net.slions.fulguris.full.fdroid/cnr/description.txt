@@ -1,0 +1,40 @@
+Karakteristike:
+
+● "ChromeXt" dodaje podršku za
+&nbsp;&nbsp;UserScript i DevTools u web
+&nbsp;&nbsp;pretražiteljima:
+&nbsp;&nbsp;● Na osnovu Kromijuma.
+&nbsp;&nbsp;● Na osnovu WebView-a
+
+Pozadina:
+
+● "ChromeXT" je modul koji se koristi na
+&nbsp;&nbsp;ukorijenjenim uređajima sa okvirom
+&nbsp;&nbsp;"Xed".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "Lspatch" je alat za krpanje
+&nbsp;&nbsp;pojedinačnih APK datoteka i ugraditi
+&nbsp;&nbsp;"Xposed" modula.
+&nbsp;&nbsp;To im omogućava da se koriste bez
+&nbsp;&nbsp;potrebe za korijenom.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● "Fulguris Web Browser" je baziran na
+&nbsp;&nbsp;WebViewu.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Upotreba:
+
+● Da bih instalirao UserScript:
+&nbsp;&nbsp;● Otvori svoj URL u kartici.
+&nbsp;&nbsp;● Prevucite stranicu da biste ponovo
+&nbsp;&nbsp;&nbsp;&nbsp;učitali,
+&nbsp;&nbsp;&nbsp;&nbsp;Ako se stranica na početku prikaže:
+&nbsp;&nbsp;&nbsp;&nbsp;"Urednik kod je blokiran"
+&nbsp;&nbsp;● Klikni na "potvrdi".
+
+● Da uklonim UserScript:
+&nbsp;&nbsp;● Otvori taj URL:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● Klikni na "smeće" pored imena.

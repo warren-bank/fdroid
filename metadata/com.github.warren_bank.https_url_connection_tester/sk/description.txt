@@ -1,0 +1,40 @@
+Krajiny, ktoré prežili:
+
+● Funkcia
+&nbsp;&nbsp;withInternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt je zbalená ako interná
+&nbsp;&nbsp;&nbsp;&nbsp;knižnica
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● uvoľni samostatnú APK pre každý ABI
+
+● s
+&nbsp;&nbsp;SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt je načítaný z zdieľanej
+&nbsp;&nbsp;&nbsp;&nbsp;aplikácie
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● vráti sa späť na použitie
+&nbsp;&nbsp;&nbsp;&nbsp;predvoleného natívneho poskytovateľa
+&nbsp;&nbsp;&nbsp;&nbsp;zabezpečenia, ak:
+&nbsp;&nbsp;&nbsp;&nbsp;● táto appka nie je k dispozícii
+&nbsp;&nbsp;&nbsp;&nbsp;● táto appka nie je podpísaná
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dôveryhodným zdrojom
+
+Prehľad:
+
+● Predvolený natívny poskytovateľ
+&nbsp;&nbsp;zabezpečenia sa dodáva v systéme
+&nbsp;&nbsp;Android
+&nbsp;&nbsp;● je zastaraný v starých verziách
+&nbsp;&nbsp;&nbsp;&nbsp;Android
+&nbsp;&nbsp;● napríklad:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x nepodporuje TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 sa vyžaduje podľa
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;koreňového certifikátu "Let's
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encrypt"
+
+● Conscrypt je knižnica
+&nbsp;&nbsp;● implementuje veľa moderných sád
+&nbsp;&nbsp;&nbsp;&nbsp;šifier
+&nbsp;&nbsp;● sa pripája priamo do modelu
+&nbsp;&nbsp;&nbsp;&nbsp;zabezpečenia jazyka Java ako
+&nbsp;&nbsp;&nbsp;&nbsp;preferovaný poskytovateľ

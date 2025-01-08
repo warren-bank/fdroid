@@ -1,0 +1,41 @@
+Nodweddion:
+
+● Mae "cromeXt" yn ychwanegu Cymorth
+&nbsp;&nbsp;Defnyddiwr a Chymorth DevTools i
+&nbsp;&nbsp;borwyr gwe:
+&nbsp;&nbsp;● yn seiliedig ar Chemium
+&nbsp;&nbsp;● yn seiliedig ar WebView
+
+Cefndir:
+
+● Mae "cromeXt" yn fodiwl i'w ddefnyddio
+&nbsp;&nbsp;ar ddyfeisiau sydd wedi ei wreiddio
+&nbsp;&nbsp;gyda'r fframwaith "Xprospecation".
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/ChromeXt
+
+● "LSPatch" yw offeryn i osod ffeiliau
+&nbsp;&nbsp;APK unigol a mewnblannu "XD"".
+&nbsp;&nbsp;Mae hyn yn caniatáu iddynt gael eu
+&nbsp;&nbsp;defnyddio heb angen gwraidd.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/JingMatrix/LSPatch
+
+● Mae "Forguis We" yn seiliedig ar
+&nbsp;&nbsp;WebView.
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Slion/Fulguris
+
+Defnydd:
+
+● i osod Sgript Defnyddiwr:
+&nbsp;&nbsp;● agor y LAU mewn tab porwr
+&nbsp;&nbsp;● llusgo y dudalen i lawr i
+&nbsp;&nbsp;&nbsp;&nbsp;ail-lwytho,
+&nbsp;&nbsp;&nbsp;&nbsp;os yw'r dudalen yn dangos ar y
+&nbsp;&nbsp;&nbsp;&nbsp;dechrau: "Mae'r golygydd Cod wedi ei
+&nbsp;&nbsp;&nbsp;&nbsp;rwystro"
+&nbsp;&nbsp;● cliciwch "cadarnhau" i osod
+
+● i gael gwared ar y Defnyddiwr:
+&nbsp;&nbsp;● agor y LAU:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://jingmatrix.github.io/ChromeXt/
+&nbsp;&nbsp;● cliciwch yr eicon "sbwriel" wrth
+&nbsp;&nbsp;&nbsp;&nbsp;ymyl ei enw

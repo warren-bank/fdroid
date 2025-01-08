@@ -1,0 +1,1 @@
+A "LSPatch" által a "ChromeXt" felirattal ellátott webböngésző gyökér nélkül.

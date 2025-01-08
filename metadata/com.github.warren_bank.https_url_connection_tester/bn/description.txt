@@ -1,0 +1,35 @@
+রিলিজ ফ্ল্যাভারস:
+
+● WithInternalConscryptSecurityProvider
+&nbsp;&nbsp;● কনক্রিপ্ট একটি অভ্যন্তরীণ লাইব্রেরী
+&nbsp;&nbsp;&nbsp;&nbsp;হিসাবে বান্ডিত
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● প্রতিটি এবিআই-এর জন্য আলাদা একটি
+&nbsp;&nbsp;&nbsp;&nbsp;এপিকে প্রকাশ করে
+
+● SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● একটি শেয়ার অ্যাপ থেকে কনক্রিপ্ট লোড
+&nbsp;&nbsp;&nbsp;&nbsp;করা হচ্ছে
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● যখন হয় ডিফল্ট স্থানীয় সিকিউরিটি
+&nbsp;&nbsp;&nbsp;&nbsp;প্রোভাইডার ব্যবহার করতে হবে:
+&nbsp;&nbsp;&nbsp;&nbsp;● এই অ্যাপটি পাওয়া যাচ্ছে না
+&nbsp;&nbsp;&nbsp;&nbsp;● এই অ্যাপটি একটি বিশ্বস্ত সূত্রের
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;দ্বারা স্বাক্ষরিত নয়
+
+ওভারভিউ:
+
+● অ্যানড্রয়েডে ডিফল্ট মাতৃস্থানীয়
+&nbsp;&nbsp;সিকিউরিটি প্রোভাইডার বিদায়
+&nbsp;&nbsp;● অ্যানড্রয়েডের পুরোনো সংস্করণে
+&nbsp;&nbsp;&nbsp;&nbsp;বহিরাগত
+&nbsp;&nbsp;● উদাহরণস্বরূপ:
+&nbsp;&nbsp;&nbsp;&nbsp;● অ্যানড্রয়েড ৪.x টিএলএস ১.২ সমর্থন
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;করে না
+&nbsp;&nbsp;&nbsp;&nbsp;● টিএলএস ১.২ "আসুন এনক্রিপ্ট" রুট
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;সার্টিফিকেট দ্বারা আবশ্যক
+
+● কনক্রিপ্ট একটি লাইব্রেরী
+&nbsp;&nbsp;● অনেক আধুনিক সাইফার স্যুট
+&nbsp;&nbsp;● পছন্দসই সরবরাহকারী হিসেবে সরাসরি
+&nbsp;&nbsp;&nbsp;&nbsp;জাভা নিরাপত্তা মডেলে প্লাগ করা

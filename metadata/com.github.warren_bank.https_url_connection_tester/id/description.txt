@@ -1,0 +1,38 @@
+Rilis Flavors:
+
+● Dengan IBM, Anda tidak dapat
+&nbsp;&nbsp;menggunakan Layanan Cloud untuk tujuan
+&nbsp;&nbsp;lain.
+&nbsp;&nbsp;● Conscrypt dibundel sebagai
+&nbsp;&nbsp;&nbsp;&nbsp;perpustakaan internal.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● rilis APK terpisah untuk setiap ABI
+
+● $-$dari ${\cHC4$\" \" \" $\" \" \" \"
+&nbsp;&nbsp;● Conscrypt dimuat dari aplikasi
+&nbsp;&nbsp;&nbsp;&nbsp;bersama
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● jatuh kembali untuk menggunakan
+&nbsp;&nbsp;&nbsp;&nbsp;penyedia layanan bawaan asli saat
+&nbsp;&nbsp;&nbsp;&nbsp;ini:
+&nbsp;&nbsp;&nbsp;&nbsp;● aplikasi ini tidak tersedia
+&nbsp;&nbsp;&nbsp;&nbsp;● aplikasi ini tidak ditandatangani
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oleh sumber terpercaya
+
+Ikhtisar:
+
+● Penyedia Keamanan Asli Standar yang
+&nbsp;&nbsp;dibundel dalam Android
+&nbsp;&nbsp;● adalah ketinggalan dalam versi lama
+&nbsp;&nbsp;&nbsp;&nbsp;dari Android
+&nbsp;&nbsp;● sebagai contoh:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x tidak mendukung TLS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 diperlukan oleh sertifikat
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;root "Let's Encrypt"
+
+● Conscrypt adalah sebuah perpustakaan
+&nbsp;&nbsp;● menerapkan banyak suites cipher
+&nbsp;&nbsp;&nbsp;&nbsp;modern
+&nbsp;&nbsp;● plugs langsung ke model Keamanan
+&nbsp;&nbsp;&nbsp;&nbsp;Java sebagai Penyedia pilihan

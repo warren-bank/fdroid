@@ -1,0 +1,1 @@
+Testi "HttpsURLConnection", lai diagnosticētu SSL/TLS savienojumu kļūdas.

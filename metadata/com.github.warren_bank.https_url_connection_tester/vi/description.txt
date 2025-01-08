@@ -1,0 +1,34 @@
+Vị trí phát hành:
+
+● withwithInternalConscrypSecurityProvider
+&nbsp;&nbsp;● Conscrypt đi kèm như một thư viện
+&nbsp;&nbsp;&nbsp;&nbsp;nội bộ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● Phát hành APK riêng cho mỗi ABI
+
+● WithSharededExternalConscottOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt được tải tư ̀ một ứng
+&nbsp;&nbsp;&nbsp;&nbsp;dụng chia sẻ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● phải trở lại để sử dụng Trình
+&nbsp;&nbsp;&nbsp;&nbsp;cung cấp bảo mật bản địa mặc định
+&nbsp;&nbsp;&nbsp;&nbsp;khi:
+&nbsp;&nbsp;&nbsp;&nbsp;● ứng dụng này không có sẵn
+&nbsp;&nbsp;&nbsp;&nbsp;● ứng dụng này không được ký bởi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nguồn tin cậy
+
+Tổng quan:
+
+● Nhà cung cấp bảo mật bản địa mặc định
+&nbsp;&nbsp;được đóng gói trong Android
+&nbsp;&nbsp;● đã lỗi thời trong các phiên bản cũ
+&nbsp;&nbsp;&nbsp;&nbsp;của Android
+&nbsp;&nbsp;● Ví dụ:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x không hỗ trợ TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 được yêu cầu bằng chứng
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nhận gốc "Let's Encrypt"
+
+● Conscrypt là thư viện
+&nbsp;&nbsp;● hiện thực nhiều bản mật mã hiện đại
+&nbsp;&nbsp;● plugs trực tiếp vào mô hình Java
+&nbsp;&nbsp;&nbsp;&nbsp;Security như Nhà cung cấp ưu tiên

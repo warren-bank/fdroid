@@ -1,0 +1,36 @@
+Flavori Izdanja:
+
+● s InternalConscryptSecurityProvider
+&nbsp;&nbsp;● Conscrypt je pakirana kao interna
+&nbsp;&nbsp;&nbsp;&nbsp;knjižnica
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/google/conscrypt/
+&nbsp;&nbsp;● otpušta zasebne APK za svaki ABI
+
+● s
+&nbsp;&nbsp;SharedExternalConscryptOrDefaultSecurityProvider
+&nbsp;&nbsp;● Conscrypt se učitava iz dijeljene
+&nbsp;&nbsp;&nbsp;&nbsp;aplikacije
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://f-droid.org/packages/com.mendhak.conscryptprovider/
+&nbsp;&nbsp;● vraća se natrag za korištenje
+&nbsp;&nbsp;&nbsp;&nbsp;default lokalnog dobavljača
+&nbsp;&nbsp;&nbsp;&nbsp;sigurnosti kada bilo:
+&nbsp;&nbsp;&nbsp;&nbsp;● ova aplikacija nije dostupna
+&nbsp;&nbsp;&nbsp;&nbsp;● ova aplikacija nije potpisana od
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pouzdanog izvora
+
+Pregled:
+
+● default lokalni pružatelj usluge
+&nbsp;&nbsp;sigurnosti je pakirana u Android
+&nbsp;&nbsp;● je zastarjeto u starim verzijama
+&nbsp;&nbsp;&nbsp;&nbsp;Androida
+&nbsp;&nbsp;● na primjer:
+&nbsp;&nbsp;&nbsp;&nbsp;● Android 4.x ne podržava TLS 1.2
+&nbsp;&nbsp;&nbsp;&nbsp;● TLS 1.2 je potreban od strane root
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;certifikata "Let's Encrypt"
+
+● Conscrypt je knjižnica
+&nbsp;&nbsp;● implementira mnogo modernih šifri
+&nbsp;&nbsp;&nbsp;&nbsp;šifri
+&nbsp;&nbsp;● umetke izravno u Java Security model
+&nbsp;&nbsp;&nbsp;&nbsp;kao preferirani dobavljač
