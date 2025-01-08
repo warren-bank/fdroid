@@ -39,10 +39,10 @@ call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases
 call :do_download "https://github.com/warren-bank/Android-Mock-Location/releases/download/service/v02.04.01/Mock-Silently-002.04.01-01API-withAllLanguageTranslations-release.apk"
 
 rem :: https://github.com/warren-bank/Android-WebMonkey/releases
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.09.02/WebMonkey-004.09.02-11API-english-noAdBlock-release.apk"
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.09.02/WebMonkey-004.09.02-11API-english-withAdBlock-release.apk"
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.09.02/WebMonkey-004.09.02-11API-withAllLanguageTranslations-noAdBlock-release.apk"
-call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.09.02/WebMonkey-004.09.02-11API-withAllLanguageTranslations-withAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.11.00/WebMonkey-004.11.00-11API-english-noAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.11.00/WebMonkey-004.11.00-11API-english-withAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.11.00/WebMonkey-004.11.00-11API-withAllLanguageTranslations-noAdBlock-release.apk"
+call :do_download "https://github.com/warren-bank/Android-WebMonkey/releases/download/v04.11.00/WebMonkey-004.11.00-11API-withAllLanguageTranslations-withAdBlock-release.apk"
 
 rem :: https://github.com/warren-bank/Android-WebCast/releases
 call :do_download "https://github.com/warren-bank/Android-WebCast/releases/download/v05.02.00/WebCast-005.02.00-16API-withAllLanguageTranslations-withAdBlock-release.apk"
