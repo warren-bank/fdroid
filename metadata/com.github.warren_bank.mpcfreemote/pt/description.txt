@@ -1,0 +1,17 @@
+Os recursos incluem:
+
+● Descubra "Media Player Classic" (MPC)
+&nbsp;&nbsp;receptores na mesma LAN
+● Navegar no sistema de arquivos remoto
+&nbsp;&nbsp;para localizar a mídia A/V, e iniciar
+&nbsp;&nbsp;a reprodução
+● Enviar comandos para controlar a
+&nbsp;&nbsp;maioria dos aspectos da reprodução
+● Totalmente compatível com
+&nbsp;&nbsp;"ExoAirPlayer"
+
+Créditos:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Cliente VLC para Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

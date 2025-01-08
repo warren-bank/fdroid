@@ -1,0 +1,17 @@
+Серед можливостей:
+
+● Відкрити список приймачів "Media
+&nbsp;&nbsp;Player Classic" (MPC) у тій самій
+&nbsp;&nbsp;мережі
+● Перегляньте віддалену файлову систему,
+&nbsp;&nbsp;щоб знайти A/ V-носій і розпочати
+&nbsp;&nbsp;відтворення
+● Надсилати команди для керування
+&nbsp;&nbsp;більшістю аспектів відтворення
+● Повністю сумісний з "ExoAirPlayer"
+
+Подяки:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Клієнт VLC для Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

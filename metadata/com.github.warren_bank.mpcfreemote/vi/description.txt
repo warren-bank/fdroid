@@ -1,0 +1,17 @@
+Tính năng bao gồm:
+
+● Khám phá "Media Player Classic" (MPC)
+&nbsp;&nbsp;nhận trên cùng mạng LAN
+● Duyệt hệ thống tập tin từ xa để tìm
+&nbsp;&nbsp;phương tiện truyền thông A/V, và bắt
+&nbsp;&nbsp;đầu phát lại
+● Gửi lệnh kiểm soát hầu hết các
+&nbsp;&nbsp;khía cạnh của phát lại
+● Hoàn toàn tương thích với
+&nbsp;&nbsp;"ExoAirPlayer"
+
+Ghi chú:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Máy khách VLC dành cho Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

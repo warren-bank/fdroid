@@ -1,0 +1,17 @@
+மேற்கோள்கள்:
+
+● Discover "Media Player Classic" (MPC)
+&nbsp;&nbsp;Recvers on the same LAN
+● தொலைதூர கோப்பு அமைப்பை A/V ஊடகத்தை
+&nbsp;&nbsp;கண்டுபிடவும், மற்றும் பின்னணியை
+&nbsp;&nbsp;துவக்கவும்
+● பின்னணியில் பெரும்பாலான கூறுகளைக்
+&nbsp;&nbsp;கட்டுப்படுத்துவதற்கு ஆணைகளை அனுப்பு
+● "ExoAirPlayer" உடன் முழுமையான
+&nbsp;&nbsp;பொருத்தம்
+
+உருவாக்குபவர்:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Android க்கான VLC வாடிக்கையாளர்
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

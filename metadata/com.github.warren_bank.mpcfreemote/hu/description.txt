@@ -1,0 +1,17 @@
+A szolgáltatások a következők:
+
+● Az azonos LAN-on lévő "Media Player
+&nbsp;&nbsp;Classic" (MPC) fogadók feltérképezése
+● A távoli fájlrendszer tallózása az A/V
+&nbsp;&nbsp;adathordozó megkereséséhez és
+&nbsp;&nbsp;visszajátszás kezdeményezéséhez
+● Parancsok küldése a visszajátszás
+&nbsp;&nbsp;legtöbb aspektusának vezérléséhez
+● Teljesen kompatibilis az
+&nbsp;&nbsp;"ExoAirPlayer" - vel
+
+Hitelesítési adatok:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC ügyfél Android rendszerhez
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

@@ -1,0 +1,15 @@
+Omadused on järgmised:
+
+● Avasta "Media Player Classic" (MPC)
+&nbsp;&nbsp;vastuvõtjad samal LAN
+● Võrgufailisüsteemi sirvimine, et
+&nbsp;&nbsp;leida/V meedia, ja algatada taasesitus
+● Käskude saatmine, et kontrollida
+&nbsp;&nbsp;esituse kõige rohkem aspekte
+● Ühildub täielikult "ExoAirPlayer"
+
+Autorid:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC klient Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

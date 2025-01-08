@@ -1,0 +1,17 @@
+К функциям относятся:
+
+● Обнаружение получателей "Classic Media
+&nbsp;&nbsp;Player Classic" (MPC) в одной
+&nbsp;&nbsp;локальной сети
+● Просмотрите удаленную файловую систему
+&nbsp;&nbsp;для поиска носителей A/V и инициируйте
+&nbsp;&nbsp;воспроизведение
+● Команды отправки для управления
+&nbsp;&nbsp;большинством аспектов воспроизведения
+● Полностью совместим с "ExoAirPlayer"
+
+Кредиты:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Клиент VLC для Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

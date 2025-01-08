@@ -1,0 +1,12 @@
+功能包括 :
+
+● 在同一 LAN 上发现 "媒体播放器经典" (MPC) 接收器
+● 浏览远程文件系统以查找 A/V 介质，并启动回放
+● 发送命令以控制回放的大多数方面
+● 与 "ExoAirPlayer" 完全兼容
+
+学分 :
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;用于 Android 的 VLC 客户机
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

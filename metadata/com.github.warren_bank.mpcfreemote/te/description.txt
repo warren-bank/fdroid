@@ -1,0 +1,16 @@
+విశేషాలు:
+
+● అదే LAN మీద డిస్కవర్ "Media Player
+&nbsp;&nbsp;Classic" (MPC) రిసీవర్లు
+● A/V మాధ్యమాన్ని కనుగొనడానికి రిమోట్
+&nbsp;&nbsp;ఫైల్ వ్యవస్థను బ్రౌన్ చేయుము, మరియు
+&nbsp;&nbsp;ప్లేబాక్ ను ప్రారంభించుము
+● ప్లేబాక్ యొక్క ఎక్కువ అంశాలను
+&nbsp;&nbsp;నియంత్రించుటకు ఆదేశాలను పంపించు
+● "ExoAirPlayer" తో పూర్తి అనుకూలంగా
+
+క్రిడ్స్:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Android కొరకు VLC క్లయింట్
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

@@ -1,0 +1,16 @@
+વિશિષ્ટતાનો સમાવેશ થાય છે:
+
+● સમાન LAN પર "મીડિયા પ્લેયર ક્લાસિક"
+&nbsp;&nbsp;(MPC) મેળવેલ છે
+● A/V મીડિયાને શોધવા માટે દૂરસ્થ ફાઇલ
+&nbsp;&nbsp;સિસ્ટમને બ્રાઉઝ કરો, અને પ્લેબેક
+&nbsp;&nbsp;પ્રારંભ કરો
+● પ્લેબેકના મોટા ભાગના પાસાઓને નિયંત્રિત
+&nbsp;&nbsp;કરવા માટે આદેશો મોકલો
+● "ExoAirPlayer" સાથે સંપૂર્ણપણે સુસંગત
+
+Credits:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Android માટે VLC ક્લાઇન્ટ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

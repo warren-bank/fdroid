@@ -1,0 +1,15 @@
+คุณลักษณะรวมถึง:
+
+● ค้นพบ "Media Player Classic" (MPC)
+&nbsp;&nbsp;receiver บน LAN เดียวกัน
+● เรียกดูระบบไฟล์รีโมตเพื่อค้นหาสื่อบันทึก
+&nbsp;&nbsp;A/V และเริ่มต้นการเล่น
+● ส่งคำสั่งเพื่อควบคุมลักษณะการเล่นส่วนใหญ่
+● เข้ากันได้อย่างสมบูรณ์กับ "Exo
+&nbsp;&nbsp;AirPlayer"
+
+สร้างมันขึ้นมา
+
+● VlcFree รีโมท
+&nbsp;&nbsp;&nbsp;&nbsp;ไคลเอ็นต์ VLC สำหรับ Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

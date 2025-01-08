@@ -1,0 +1,16 @@
+Dostępne są następujące funkcje:
+
+● Wykryj odbiorniki "Media Player
+&nbsp;&nbsp;Classic" (MPC) w tej samej sieci LAN
+● Przeglądaj zdalny system plików, aby
+&nbsp;&nbsp;znaleźć nośnik A/V, i zainicjuj
+&nbsp;&nbsp;odtwarzanie
+● Wysyłanie komend do sterowania
+&nbsp;&nbsp;większością aspektów odtwarzania
+● W pełni kompatybilny z "ExoAirPlayer"
+
+Kredyty:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Klient VLC dla systemu Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

@@ -1,0 +1,16 @@
+Funkcijos apima:
+
+● Atraskite "Media Player Classic" (MPC)
+&nbsp;&nbsp;imtuvus ant to paties LAN
+● Naršykite nuotolinę failų sistemą, kad
+&nbsp;&nbsp;raskite A/V žiniasklaidą, ir pradėkite
+&nbsp;&nbsp;grojimą
+● Siųsti komandas valdyti svarbiausius
+&nbsp;&nbsp;grojimo aspektus
+● Visiškai suderinama su "ExoAirPlayer"
+
+Kreditai:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC klientas Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

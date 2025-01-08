@@ -1,0 +1,16 @@
+Il-karatteristiċi jinkludu:
+
+● Skopri "Media Player Classic" (MPC)
+&nbsp;&nbsp;riċevituri fuq l-istess LAN
+● Jibbrawżjaw is-sistema fajl remot biex
+&nbsp;&nbsp;isibu A/V media, u jibdew iqabbad
+● Ibgħat jikkmanda biex jikkontrolla
+&nbsp;&nbsp;l-biċċa l-kbira ta '
+● Kompatibbli bis-sħiħ ma '
+&nbsp;&nbsp;"EżoAirPlayer"
+
+Krediti:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC klijent għall Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

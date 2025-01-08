@@ -1,0 +1,14 @@
+המאפיינים כוללים:
+
+● איתור "נגן מדיה קלאסית" (MPC) מקלטים
+&nbsp;&nbsp;באותה רשת LAN
+● עיינו במערכת הקבצים המרוחקת לאיתור
+&nbsp;&nbsp;מדיה א/V, והיזום השמעה
+● שליחת פקודות לשליטה ברוב היבטי ההשמעה
+● מתאים באופן מלא ל - "ExoAirPlayer"
+
+קרירות:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;לקוח VLC עבור Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

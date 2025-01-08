@@ -1,0 +1,16 @@
+විශේෂාංග ඇතුලත් කිරීම:
+
+● Discover "Media Player Classic" (MPC)
+&nbsp;&nbsp;Recvers on the same LAN
+● A/V මාධ්ය සොයාගැනීමට දුරස්ථ ගොනු
+&nbsp;&nbsp;පද්ධතිය ගවේශනය කරන්න, සහ වාදනය ආරම්භ
+&nbsp;&nbsp;කරන්න
+● වාදනයේ බොහෝ පැතිකඩ පාලනය කිරීමට විධාන
+&nbsp;&nbsp;එවන්න
+● "ExoAirPlayer" සමග සම්පූර්ණයෙන් අනුකූල
+
+Credits:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;ඇන්ඩ්රොයිඩ් සඳහා වූ VLC සේවාදායකය
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

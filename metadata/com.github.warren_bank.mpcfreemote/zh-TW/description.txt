@@ -1,0 +1,12 @@
+特性包括：
+
+● 在同一個 LAN 上探索「媒體播放程式典型」（MPC）接收器
+● 瀏覽遠端檔案系統以尋找 A/V 媒體，並起始播放
+● 傳送指令以控制播放的大部分層面
+● 完全相容於 "ExoAirPlayer"
+
+Credits ：
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;適用於 Android 的 VLC 用戶端
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

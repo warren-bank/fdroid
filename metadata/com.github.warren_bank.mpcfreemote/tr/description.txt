@@ -1,0 +1,16 @@
+Özellikler şunları içerir:
+
+● Aynı LAN ' da "Media Player Classic"
+&nbsp;&nbsp;(MPC) alıcılarını keşfedin
+● A/V ortamını bulmak için uzak dosya
+&nbsp;&nbsp;sistemine göz atın ve kayıttan
+&nbsp;&nbsp;yürütmeyi başlatın
+● Kayıttan yürütmenin en çok yönünü
+&nbsp;&nbsp;denetlemek için komutlar gönder
+● "ExoAirPlayer" ile tam uyumlu
+
+Alacaklar:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Android için VLC istemcisi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

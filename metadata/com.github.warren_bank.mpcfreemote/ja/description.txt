@@ -1,0 +1,14 @@
+機能には、
+
+● 同じ LAN 上にある「メディア・プレイヤー・クラシック」 (MPC)
+&nbsp;&nbsp;受信側をディスカバーする
+● リモート・ファイル・システムを参照して A/V
+&nbsp;&nbsp;メディアを検出し、再生を開始します
+● 再生のほとんどの側面を制御するコマンドを送信する
+● 「 ExoAirPlayer」との完全互換性
+
+履修単位 :
+
+● VlcFreemote ( 航空 )
+&nbsp;&nbsp;&nbsp;&nbsp;Android 用の VLC クライアント
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

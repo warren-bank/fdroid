@@ -1,0 +1,16 @@
+تتضمن الخصائص :
+
+● اكتشاف ملفات استقبال "Media Player
+&nbsp;&nbsp;Classic" (MPC) على نفس LAN
+● قم بتصفح نظام الملفات عن بعد لايجاد
+&nbsp;&nbsp;وسط التخزين A/V ، وبدء تشغيل اعادة
+&nbsp;&nbsp;التشغيل
+● ارسال أوامر للتحكم في معظم جوانب اعادة
+&nbsp;&nbsp;التشغيل
+● متوافق بالكامل مع "ExotAirPlayer"
+
+أرصدة دائنة :
+
+● VlcFموى
+&nbsp;&nbsp;&nbsp;&nbsp;وحدة VLC التابعة الى Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

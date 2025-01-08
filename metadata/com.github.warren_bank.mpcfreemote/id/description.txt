@@ -1,0 +1,16 @@
+Fitur-fitur mencakup:
+
+● Temukan penerima "Media Player
+&nbsp;&nbsp;Classic" (MPC) pada LAN yang sama.
+● Ramban sistem berkas jarak jauh untuk
+&nbsp;&nbsp;menemukan media A/V, dan mulai memutar
+● Kirim perintah untuk mengontrol
+&nbsp;&nbsp;sebagian besar aspek dari pemutaran
+● Sepenuhnya kompatibel dengan
+&nbsp;&nbsp;"ExoAirPlayer"
+
+Kredit:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Klien VLC untuk Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

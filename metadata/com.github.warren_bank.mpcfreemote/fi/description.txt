@@ -1,0 +1,17 @@
+Ominaisuuksiin kuuluu:
+
+● Discover "Media Player Classic" (MPC)
+&nbsp;&nbsp;-vastaanottimet samassa lähiverkossa
+● Selaa etätiedostojärjestelmä
+&nbsp;&nbsp;A/V-tallennusvälineen avulla ja aloita
+&nbsp;&nbsp;toisto
+● Lähetä komentoja hallinnan useimmille
+&nbsp;&nbsp;osa-alueille
+● Täysin yhteensopiva ExoAirPlayerin
+&nbsp;&nbsp;kanssa
+
+Valtuustiedot:
+
+● Vlcfreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC-työasema Android-laitteella
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

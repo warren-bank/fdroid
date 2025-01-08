@@ -1,0 +1,16 @@
+Vlastnosti zahrnují:
+
+● Discover "Media Player Classic" (MPC)
+&nbsp;&nbsp;receivers on the same LAN
+● Procházejte vzdáleným systémem souborů
+&nbsp;&nbsp;a vyhledejte A/V média a inicializujte
+&nbsp;&nbsp;přehrávání.
+● Odeslat příkazy pro ovládání většiny
+&nbsp;&nbsp;aspektů přehrávání
+● Plně kompatibilní s "ExoAirPlayer"
+
+Poděkování:
+
+● VcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Klient VLC pro Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

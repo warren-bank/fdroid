@@ -1,0 +1,12 @@
+Features include:
+
+* Discover "Media Player Classic" (MPC) receivers on the same LAN
+* Browse the remote file system to find A/V media, and initiate playback
+* Send commands to control most aspects of playback
+* Fully compatible with "ExoAirPlayer"
+
+Credits:
+
+* VlcFreemote
+    VLC client for Android
+      https://github.com/nicolasbrailo/VlcFreemote

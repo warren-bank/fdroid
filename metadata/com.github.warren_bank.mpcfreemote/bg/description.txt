@@ -1,0 +1,16 @@
+Характеристиките включват:
+
+● Открийте "Media Player Classic" (MPC)
+&nbsp;&nbsp;приемници на същия LAN
+● Прегледайте отдалечената файлова
+&nbsp;&nbsp;система, за да намерите AA/V носител,
+&nbsp;&nbsp;и започнете възпроизвеждане
+● Изпращане на команди за контрол на
+&nbsp;&nbsp;повечето аспекти на възпроизвеждане
+● Напълно съвместима с "ExoAirPlayer"
+
+Кредити:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC клиент за Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

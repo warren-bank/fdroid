@@ -1,0 +1,16 @@
+Οι λειτουργίες περιλαμβάνουν:
+
+● Ανακαλύψτε "Media Player Classic"
+&nbsp;&nbsp;(MPC) δέκτες στο ίδιο LAN
+● Περιηγείστε το απομακρυσμένο σύστημα
+&nbsp;&nbsp;αρχείων για να βρείτε τα μέσα A/V και
+&nbsp;&nbsp;ξεκινείστε την αναπαραγωγή
+● Αποστολή εντολών για τον έλεγχο των
+&nbsp;&nbsp;περισσότερων πτυχών της αναπαραγωγής
+● Πλήρως συμβατό με "ExoAirPlayer"
+
+Μονάδες:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Πελάτης VLC για Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

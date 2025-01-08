@@ -1,0 +1,16 @@
+Funkcije uključuju:
+
+● Otkrij "Medijski kuyer klasični" (MPC)
+&nbsp;&nbsp;primatelji na istom LAN-u
+● Pregledajte udaljeni sistem datoteka
+&nbsp;&nbsp;da pronađete A/V medij i započnete
+&nbsp;&nbsp;reprodukciju
+● Slanje naredbi za kontrolu većine
+&nbsp;&nbsp;aspekti reprodukcije
+● Potpuno kompatibilno s "ExoAirPlayer"
+
+Odobrenja:
+
+● Vlcfreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC klijent za Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

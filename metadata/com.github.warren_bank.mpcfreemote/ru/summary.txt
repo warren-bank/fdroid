@@ -1,0 +1,1 @@
+Клиент Media Player Classic (MPC) для Android.

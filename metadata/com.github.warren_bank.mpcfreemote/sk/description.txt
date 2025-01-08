@@ -1,0 +1,16 @@
+K funkciám patrí:
+
+● Objavte prijímače "Media Player
+&nbsp;&nbsp;Classic" (MPC) v rovnakej LAN
+● Prehľadávaním vzdialeného súborového
+&nbsp;&nbsp;systému a nájdite médiá A/V a
+&nbsp;&nbsp;iniciujte prehrávanie
+● Poslať príkazy na riadenie väčšiny
+&nbsp;&nbsp;aspektov prehrávania
+● Plne kompatibilné s "ExoAirPlayer"
+
+Kredity
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Klient VLC pre Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

@@ -1,0 +1,16 @@
+Među značajkama su:
+
+● Otkrijte "Media Player Classic" (MPC)
+&nbsp;&nbsp;prijemnike na istom LAN-u
+● Pregledajte udaljeni sistem datoteka
+&nbsp;&nbsp;da nađete A/V medije i započnite
+&nbsp;&nbsp;reprodukciju
+● Pošalji naredbe za kontrolu većine
+&nbsp;&nbsp;aspekata reprodukcije
+● Potpuno kompatibilan sa "ExoAirPlayer"
+
+Krediti:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC klijent za Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

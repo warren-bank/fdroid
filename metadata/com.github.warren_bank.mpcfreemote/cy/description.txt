@@ -1,0 +1,15 @@
+Mae'r nodweddion yn cynnwys:
+
+● Darganfod "Player Classic" (MPC)
+&nbsp;&nbsp;derbynwyr ar yr un LAN
+● Pori'r system ffeiliau pell i ganfod
+&nbsp;&nbsp;cyfrwng A/V, a chychwyn chwarae
+● Anfon gorchmynion i reoli'r rhan fwyaf
+&nbsp;&nbsp;o agweddau chwarae
+● Cydweddu llwyr â "ExoAirPlayer"
+
+Diolchiadau:
+
+● VlcFremote
+&nbsp;&nbsp;&nbsp;&nbsp;Cleient VLC ar gyfer Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

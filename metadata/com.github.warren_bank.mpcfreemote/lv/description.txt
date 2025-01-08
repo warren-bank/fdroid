@@ -1,0 +1,16 @@
+Funkcijas ietver:
+
+● Atklājiet "Media Player Classic" (MPC)
+&nbsp;&nbsp;uztvērējus uz tā paša LAN
+● Pārlūkot attālināto failu sistēmu, lai
+&nbsp;&nbsp;atrastu A/V Media, un uzsākt
+&nbsp;&nbsp;atskaņošanu
+● Sūtīt komandas, lai kontrolētu lielāko
+&nbsp;&nbsp;atskaņošanas aspektu
+● Pilnībā savietojams ar "ExoAirPlayer"
+
+Kredīti:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC klients Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

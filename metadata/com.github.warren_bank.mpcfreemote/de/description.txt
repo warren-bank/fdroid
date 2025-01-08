@@ -1,0 +1,16 @@
+Zu den Features gehören:
+
+● Entdecken Sie "Media Player Classic"
+&nbsp;&nbsp;(MPC) Empfänger im selben LAN
+● Durchsuchen Sie das ferne Dateisystem,
+&nbsp;&nbsp;um A/V-Datenträger zu finden, und
+&nbsp;&nbsp;starten Sie die Wiedergabe.
+● Befehle senden, um die meisten Aspekte
+&nbsp;&nbsp;der Wiedergabe zu steuern
+● Voll kompatibel mit "ExoAirPlayer"
+
+Gutschriften:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC-Client für Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

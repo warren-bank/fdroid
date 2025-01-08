@@ -1,0 +1,13 @@
+기능 포함:
+
+● 같은 LAN에 있는 MPC (Media Player Classic)
+&nbsp;&nbsp;수신기
+● 원격 파일 시스템을 찾아보고 A/V 미디어를 찾고 재생을 시작합니다.
+● 재생의 대부분의 측면을 제어하는 명령 전송
+● "ExoAirPlayer" 와 완전히 호환 가능
+
+크리드:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Android용 VLC 클라이언트
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

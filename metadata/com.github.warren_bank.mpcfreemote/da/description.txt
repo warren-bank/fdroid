@@ -1,0 +1,15 @@
+Funktionerne omfatter:
+
+● Discover "Media Player Classic" (MPC)
+&nbsp;&nbsp;modtagere på samme LAN
+● Gennemse det eksterne filsystem for at
+&nbsp;&nbsp;finde A/V-medie og starte playback
+● Send kommandoer til at styre de fleste
+&nbsp;&nbsp;aspekter af playback
+● Komplet foreneligt med "ExoAirPlayer"
+
+Kreditering:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC-klient til Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

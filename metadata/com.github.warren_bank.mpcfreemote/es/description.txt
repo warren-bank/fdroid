@@ -1,0 +1,18 @@
+Las características incluyen:
+
+● Descubra los receptores "Media Player
+&nbsp;&nbsp;Classic" (MPC) en la misma LAN
+● Examine el sistema de archivos remoto
+&nbsp;&nbsp;para buscar medios A/V e inicie la
+&nbsp;&nbsp;reproducción
+● Enviar mandatos para controlar la
+&nbsp;&nbsp;mayoría de los aspectos de la
+&nbsp;&nbsp;reproducción
+● Totalmente compatible con
+&nbsp;&nbsp;"ExoAirPlayer"
+
+Créditos:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Cliente VLC para Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

@@ -1,0 +1,16 @@
+Functies zijn onder andere:
+
+● Ontdek "Media Player Classic" (MPC)
+&nbsp;&nbsp;ontvangers op hetzelfde LAN
+● Blader door het bestandssysteem op
+&nbsp;&nbsp;afstand om A/V media te vinden, en
+&nbsp;&nbsp;start het afspelen
+● Opdrachten sturen om de meeste
+&nbsp;&nbsp;aspecten van het afspelen te besturen
+● Volledig compatibel met "ExoAirPlayer"
+
+Kredieten:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;VLC-client voor Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

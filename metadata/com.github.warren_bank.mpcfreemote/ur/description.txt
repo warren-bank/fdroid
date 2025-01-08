@@ -1,0 +1,16 @@
+خصوصیات شامل ہیں:
+
+● انکور "میڈیا پلیئر کلاسک" (MPC) اسی
+&nbsp;&nbsp;LAN پر ریسیپشن
+● ریموٹ فائل سسٹم کو A/V میڈیا تلاش
+&nbsp;&nbsp;کریں, اور پلے بیک کا آغاز کریں
+● پلے بیک کے اکثر پہلوؤں پر قابو پانے کے
+&nbsp;&nbsp;احکام ارسال کریں
+● مکمل طور پر "Exoairپلیئر" کے ساتھ ہم
+&nbsp;&nbsp;آہنگ
+
+عقیدہ:
+
+● Vlcفرینڈلی
+&nbsp;&nbsp;&nbsp;&nbsp;اینڈرائیڈ کے لیے وی ایل سی کلائنٹ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

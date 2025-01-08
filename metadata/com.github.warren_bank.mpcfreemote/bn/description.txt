@@ -1,0 +1,17 @@
+বৈশিষ্ট্য হল:
+
+● "মিডিয়া প্লেয়ার ক্লাসিক" (MPC)
+&nbsp;&nbsp;রিসিভারগুলো একই ল্যান
+● A/V মিডিয়া খুঁজতে দূরবর্তী ফাইল
+&nbsp;&nbsp;সিস্টেম ব্রাউজ করুন, এবং প্লেব্যাক
+&nbsp;&nbsp;আরম্ভ করুন
+● প্লেব্যাকের অধিকাংশ দিক নিয়ন্ত্রণ করার
+&nbsp;&nbsp;জন্য কমান্ড প্রেরণ করুন
+● "ExoAirPlayer" এর সাথে সম্পূর্ণ
+&nbsp;&nbsp;সামঞ্জস্যপূর্ণ
+
+ক্রেডিট:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;অ্যান্ড্রয়েডের জন্য VLC ক্লায়েন্ট
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

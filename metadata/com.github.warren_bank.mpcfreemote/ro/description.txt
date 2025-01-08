@@ -1,0 +1,16 @@
+Caracteristicile includ:
+
+● Descoperiți "Media Player Classic"
+&nbsp;&nbsp;(MPC) receptoare pe același LAN
+● Navigați în sistemul de fișiere de la
+&nbsp;&nbsp;distanță pentru a găsi mass-media A/V,
+&nbsp;&nbsp;și inițiați redarea
+● Trimite comenzi pentru a controla cele
+&nbsp;&nbsp;mai multe aspecte ale redării
+● Complet compatibil cu "ExoAirPlayer"
+
+Credite:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Client VLC pentru Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

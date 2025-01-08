@@ -1,0 +1,16 @@
+Функције обухватају:
+
+● Откријте "Classic Player Classic"
+&nbsp;&nbsp;(МПЦ) пријемнике на истом LAN
+● Прегледајте удаљени фајл систем да
+&nbsp;&nbsp;бисте пронашли A/V медију и покренули
+&nbsp;&nbsp;репродукцију
+● Пошаљи команде да контролишу већину
+&nbsp;&nbsp;аспеката репродукције
+● Потпуно компатибилно са "ExoAirplayer"
+
+Кредити:
+
+● Влцфреемоте
+&nbsp;&nbsp;&nbsp;&nbsp;VLC клијент за Андроид
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

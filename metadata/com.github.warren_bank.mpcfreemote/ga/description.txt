@@ -1,0 +1,17 @@
+Gnéithe:
+
+● Díchlúdach "Classic Imreoir Media"
+&nbsp;&nbsp;(MPC) glacadóirí ar an LAN céanna
+● Brabhsáil an córas comhad iargúlta a
+&nbsp;&nbsp;aimsiú meáin A/V, agus playback a
+&nbsp;&nbsp;thúsú
+● Seol orduithe chun na gnéithe is mó de
+&nbsp;&nbsp;playback a rialú
+● Comhoiriúnach go hiomlán le
+&nbsp;&nbsp;"ExoAerPlayer"
+
+Creidiúintí:
+
+● VlcFreemoteName
+&nbsp;&nbsp;&nbsp;&nbsp;Cliant VLC le haghaidh Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

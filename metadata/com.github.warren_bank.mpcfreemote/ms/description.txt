@@ -1,0 +1,16 @@
+Fitur termasuk:
+
+● Menemui "Media Player Classic" (MPC)
+&nbsp;&nbsp;Revers pada LAN yang sama
+● Layar sistem fail jauh untuk cari
+&nbsp;&nbsp;media A/V, dan memulakan main semula
+● Hantar perintah untuk mengawal
+&nbsp;&nbsp;kebanyakan aspek main balik
+● Serasi sepenuhnya dengan
+&nbsp;&nbsp;"ExoAirPlayer"
+
+Credits:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Klien VLC untuk Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

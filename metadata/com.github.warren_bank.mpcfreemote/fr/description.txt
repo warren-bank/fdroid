@@ -1,0 +1,18 @@
+Les fonctions incluent:
+
+● Découvrez les récepteurs "Media Player
+&nbsp;&nbsp;Classic" (MPC) sur le même réseau
+&nbsp;&nbsp;local
+● Parcourez le système de fichiers
+&nbsp;&nbsp;distant pour rechercher un support A/V
+&nbsp;&nbsp;et lancez la lecture
+● Envoi de commandes pour contrôler la
+&nbsp;&nbsp;plupart des aspects de la lecture
+● Entièrement compatible avec
+&nbsp;&nbsp;"ExoAirPlayer"
+
+Crédits:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;Client VLC pour Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

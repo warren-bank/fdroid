@@ -1,0 +1,15 @@
+പ്രത്യേകതകൾ:
+
+● "Media Player Classic" (MPC)
+&nbsp;&nbsp;റിസർവേഴ്സ് അതേ LAN
+● A/V മാധ്യമം കണ്ടുപിടിക്കുവാനുള്ള വിദൂര
+&nbsp;&nbsp;ഫയല് സിസ്റ്റം ബ്രൌസ് ചെയ്യുക
+● à '- à', à ', à', à ', à', à ', à', à
+&nbsp;&nbsp;'
+● "ExoAirPlayer" (ExoAirPlayer)
+
+ക്രീഡിറ്റ്:
+
+● VlcFreemote
+&nbsp;&nbsp;&nbsp;&nbsp;ആൻഡ്രോയിഡിനുള്ള VLC ക്ലയന്റ്
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote

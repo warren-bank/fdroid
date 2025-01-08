@@ -1,0 +1,17 @@
+Funkcije vključujejo:
+
+● Odkrite Sprejemnike "Media Player
+&nbsp;&nbsp;Classic" (MPC) v istem lokalnem
+&nbsp;&nbsp;omrežju
+● Prebrskajte oddaljeni datotečni
+&nbsp;&nbsp;sistem, da poiščete medije A/V, in
+&nbsp;&nbsp;začnite predvajanje
+● Pošlji ukaze za nadzor večine
+&nbsp;&nbsp;predvajanje predvajanje
+● Popolnoma združljiva z "ExoAirPlayer"
+
+Dobropisi:
+
+● VlcFreemoti
+&nbsp;&nbsp;&nbsp;&nbsp;Odjemalec VLC za Android
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nicolasbrailo/VlcFreemote
