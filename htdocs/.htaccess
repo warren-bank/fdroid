@@ -448,3 +448,11 @@ RewriteRule "^/?archive/icons(?:-\d+)?/com\.google\.android\.flexbox\.apps\.catg
 Redirect 301 "/archive/VideoExpertsGroup-RTSPPlayer-release.apk"                                                                                      "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/releases/download/v4.2.10/VideoExpertsGroup-RTSPPlayer-release.apk"
 
 RewriteRule "^/?archive/icons(?:-\d+)?/org\.rtspplayer\.sample(?:\.\d+)?\.png$"                                                                       "https://github.com/warren-bank/fork-Android-VideoExpertsGroup-RTSP-Player-Demo/raw/v4.2.10/VideoExpertsGroup-RTSPPlayer/src/main/res/drawable-xxhdpi/app.png" [L,R=301]
+
+# --------------------------------------------------------------------
+# net.slions.fulguris.full.fdroid
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/net.slions.fulguris.full.fdroid_230-426-lspatched.apk"                                                                         "https://github.com/warren-bank/Android-browsers-LSPatch-ChromeXt/releases/download/fulguris_1.9.30/net.slions.fulguris.full.fdroid_230-426-lspatched.apk"
+
+RewriteRule "^/?archive/icons(?:-\d+)?/net\.slions\.fulguris\.full\.fdroid(?:\.\d+)?\.png$"                                                           "https://github.com/Slion/Fulguris/raw/Fulguris-v1.9.30/app/src/slionsFullFdroid/res/mipmap-xxxhdpi/ic_launcher.png" [L,R=301]
