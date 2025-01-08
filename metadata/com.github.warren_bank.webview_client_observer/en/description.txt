@@ -1,0 +1,1 @@
+Debug information for the page loaded in the 'WebView' is displayed as HTML in a prepended DOM element.

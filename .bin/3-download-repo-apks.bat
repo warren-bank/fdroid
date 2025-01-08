@@ -18,6 +18,9 @@ if exist "%log_filepath%" del "%log_filepath%"
 
 if not exist "%repo_dir%" mkdir "%repo_dir%"
 
+rem :: https://github.com/warren-bank/Android-WebViewClientObserver/releases
+call :do_download "https://github.com/warren-bank/Android-WebViewClientObserver/releases/download/v2.0.0/WebViewClientObserver-002.00.00-03API-release.apk"
+
 rem :: https://github.com/warren-bank/Android-RTSP-ScreenCaster/releases
 call :do_download "https://github.com/warren-bank/Android-RTSP-ScreenCaster/releases/download/v01.01.05/RTSP-ScreenCaster-release.apk"
 
