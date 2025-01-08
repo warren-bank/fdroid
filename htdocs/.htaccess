@@ -304,6 +304,18 @@ Redirect 301 "/archive/WebViewClientObserver-002.00.00-03API-release.apk"       
 RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.webview_client_observer(?:\.\d+)?\.png$"                                             "https://github.com/warren-bank/Android-WebViewClientObserver/raw/v2.0.0/android-studio-project/WebViewClientObserver/src/main/res/drawable/launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
+# com.github.warren_bank.https_url_connection_tester
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/HttpsURLConnectionTester-03.00.01-01API-withSharedExternalConscryptOrDefaultSecurityProvider-release.apk"                      "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-01API-withSharedExternalConscryptOrDefaultSecurityProvider-release.apk"
+Redirect 301 "/archive/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-arm64-v8a-release.apk"                           "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-arm64-v8a-release.apk"
+Redirect 301 "/archive/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-armeabi-v7a-release.apk"                         "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-armeabi-v7a-release.apk"
+Redirect 301 "/archive/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-x86-release.apk"                                 "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-x86-release.apk"
+Redirect 301 "/archive/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-x86_64-release.apk"                              "https://github.com/warren-bank/Android-HttpsURLConnectionTester/releases/download/v3.0.1/HttpsURLConnectionTester-03.00.01-09API-withInternalConscryptSecurityProvider-x86_64-release.apk"
+
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.https_url_connection_tester(?:\.\d+)?\.png$"                                         "https://github.com/warren-bank/Android-HttpsURLConnectionTester/raw/v3.0.1/android-studio-project/HttpsURLConnectionTester/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
 # com.github.warren_bank.rtsp_screencaster
 # --------------------------------------------------------------------
 
