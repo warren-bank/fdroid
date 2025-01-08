@@ -72,6 +72,10 @@ rem :: https://github.com/warren-bank/Android-AirPlay-Client/releases
 call :do_download "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.6/AirPlay-Client-000.05.06-14API-english-release.apk"
 call :do_download "https://github.com/warren-bank/Android-AirPlay-Client/releases/download/v0.5.6/AirPlay-Client-000.05.06-14API-withAllLanguageTranslations-release.apk"
 
+rem :: https://github.com/warren-bank/Android-MpcFreemote/releases
+call :do_download "https://github.com/warren-bank/Android-MpcFreemote/releases/download/v3.0.0/MpcFreemote-003.00.00-15API-english-release.apk"
+call :do_download "https://github.com/warren-bank/Android-MpcFreemote/releases/download/v3.0.0/MpcFreemote-003.00.00-15API-withAllLanguageTranslations-release.apk"
+
 rem :: https://github.com/warren-bank/Android-Locale-Changer/releases
 call :do_download "https://github.com/warren-bank/Android-Locale-Changer/releases/download/v1.1.0/Locale-Changer-release.apk"
 
