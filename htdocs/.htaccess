@@ -296,6 +296,14 @@ Redirect 301 "/repo/Droidify-0.5.9.5-fork-v1.0.0-release.apk"                   
 RewriteRule "^/?repo/icons(?:-\d+)?/com\.looker\.droidify(?:\.\d+)?\.png$"                                                                            "https://github.com/warren-bank/fork-Android-Droidify/raw/fork/0.5.9.5/v1.0.0/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" [L,R=301]
 
 # --------------------------------------------------------------------
+# com.github.warren_bank.webview_client_observer
+# --------------------------------------------------------------------
+
+Redirect 301 "/archive/WebViewClientObserver-002.00.00-03API-release.apk"                                                                             "https://github.com/warren-bank/Android-WebViewClientObserver/releases/download/v2.0.0/WebViewClientObserver-002.00.00-03API-release.apk"
+
+RewriteRule "^/?archive/icons(?:-\d+)?/com\.github\.warren_bank\.webview_client_observer(?:\.\d+)?\.png$"                                             "https://github.com/warren-bank/Android-WebViewClientObserver/raw/v2.0.0/android-studio-project/WebViewClientObserver/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
 # com.github.warren_bank.rtsp_screencaster
 # --------------------------------------------------------------------
 
