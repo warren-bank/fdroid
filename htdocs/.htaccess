@@ -143,6 +143,15 @@ Redirect 301 "/repo/AirPlay-Client-000.05.06-14API-withAllLanguageTranslations-r
 RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.airplay_client(?:\.\d+)?\.png$"                                                         "https://github.com/warren-bank/Android-AirPlay-Client/raw/v0.5.6/android-studio-project/AirPlay-Client/src/main/res/drawable-xxhdpi/ic_launcher.png" [L,R=301]
 
 # --------------------------------------------------------------------
+# com.github.warren_bank.mpcfreemote
+# --------------------------------------------------------------------
+
+Redirect 301 "/repo/MpcFreemote-003.00.00-15API-english-release.apk"                                                                                  "https://github.com/warren-bank/Android-MpcFreemote/releases/download/v3.0.0/MpcFreemote-003.00.00-15API-english-release.apk"
+Redirect 301 "/repo/MpcFreemote-003.00.00-15API-withAllLanguageTranslations-release.apk"                                                              "https://github.com/warren-bank/Android-MpcFreemote/releases/download/v3.0.0/MpcFreemote-003.00.00-15API-withAllLanguageTranslations-release.apk"
+
+RewriteRule "^/?repo/icons(?:-\d+)?/com\.github\.warren_bank\.mpcfreemote(?:\.\d+)?\.png$"                                                            "https://github.com/warren-bank/Android-MpcFreemote/raw/v3.0.0/android-studio-project/MpcFreemote/src/main/res/drawable/launcher.png" [L,R=301]
+
+# --------------------------------------------------------------------
 # com.github.warren_bank.locale_changer
 # --------------------------------------------------------------------
 
